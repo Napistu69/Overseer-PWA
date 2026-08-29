@@ -7,12 +7,19 @@ const OFFLINE_URL = '/offline.html';
 // All pages to precache (generated at build time)
 const PRECACHE_URLS = [{{PRECACHE_URLS}}];
 
-// Install event — precache everything
+// Install event — precache everything (with error handling per URL)
 self.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open(CACHE_NAME).then(function(cache) {
       console.log('[SW] Precaching', PRECACHE_URLS.length, 'assets');
-      return cache.addAll(PRECACHE_URLS);
+      // Cache each URL individually so one failure doesn't break all
+      return Promise.allSettled(
+        PRECACHE_URLS.map(function(url) {
+          return cache.add(url).catch(function(err) {
+            console.warn('[SW] Failed to cache:', url, err);
+          });
+        })
+      );
     }).then(function() {
       return self.skipWaiting();
     })
