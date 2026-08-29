@@ -1,8 +1,10 @@
 // Service Worker for TekTribe Chronicles
-const CACHE_NAME = 'tektribe-v1';
+// Cache strategy: Precache essentials, runtime cache for content
+const CACHE_VERSION = 'tektribe-v20260828-204054';
+const CACHE_NAME = CACHE_VERSION;
 const OFFLINE_URL = '/offline.html';
 
-// Precache essential assets
+// Precache essential assets (small, always needed)
 const PRECACHE_ASSETS = [
   '/',
   '/manifest.json',
@@ -10,7 +12,23 @@ const PRECACHE_ASSETS = [
   '/js/registerSW.js',
   '/icons/icon-192.png',
   '/icons/icon-512.png',
-  '/offline.html'
+  '/offline.html',
+  '/akashic-index.json'
+];
+
+// Runtime cache patterns
+const RUNTIME_CACHE_PATTERNS = [
+  /^\/part[1-9]\//,
+  /^\/about\//,
+  /^\/preamble\//,
+  /^\/oracle\//,
+  /\.html$/,
+  /\.css$/,
+  /\.png$/,
+  /\.jpg$/,
+  /\.ttf$/,
+  /\.woff2?$/,
+  /\.json$/
 ];
 
 // Install event — precache essentials
@@ -43,38 +61,63 @@ self.addEventListener('activate', function(event) {
   );
 });
 
-// Fetch event — cache-first strategy
+// Fetch event — cache-first for precached, stale-while-revalidate for runtime
 self.addEventListener('fetch', function(event) {
-  // Skip non-GET requests
   if (event.request.method !== 'GET') return;
 
-  event.respondWith(
-    caches.match(event.request).then(function(cached) {
-      if (cached) {
-        // Return cached version, but also update cache in background
-        event.waitUntil(
-          fetch(event.request).then(function(response) {
-            if (response && response.status === 200) {
-              caches.open(CACHE_NAME).then(function(cache) {
-                cache.put(event.request, response.clone());
-              });
-            }
-          }).catch(function() {}) // Ignore fetch errors
-        );
-        return cached;
-      }
+  const url = new URL(event.request.url);
+  
+  // Skip non-http requests
+  if (!url.protocol.startsWith('http')) return;
 
-      // Not in cache — fetch from network
-      return fetch(event.request).then(function(response) {
-        // Cache successful responses
-        if (response && response.status === 200) {
-          caches.open(CACHE_NAME).then(function(cache) {
-            cache.put(event.request, response.clone());
+  // Check if this URL should be runtime cached
+  const shouldCache = RUNTIME_CACHE_PATTERNS.some(function(pattern) {
+    return pattern.test(url.pathname);
+  });
+
+  // For precached assets — cache-first
+  if (PRECACHE_ASSETS.includes(url.pathname)) {
+    event.respondWith(
+      caches.match(event.request).then(function(cached) {
+        return cached || fetch(event.request);
+      })
+    );
+    return;
+  }
+
+  // For runtime-cacheable content — stale-while-revalidate
+  if (shouldCache) {
+    event.respondWith(
+      caches.open(CACHE_NAME).then(function(cache) {
+        return cache.match(event.request).then(function(cached) {
+          var fetchPromise = fetch(event.request).then(function(response) {
+            if (response && response.status === 200) {
+              cache.put(event.request, response.clone());
+            }
+            return response;
+          }).catch(function() {
+            return cached;
           });
-        }
-        return response;
-      }).catch(function() {
-        // Network failed — return offline page for navigation requests
+
+          return cached || fetchPromise;
+        });
+      })
+    );
+    return;
+  }
+
+  // For everything else — network-first, fallback to cache
+  event.respondWith(
+    fetch(event.request).then(function(response) {
+      if (response && response.status === 200) {
+        caches.open(CACHE_NAME).then(function(cache) {
+          cache.put(event.request, response.clone());
+        });
+      }
+      return response;
+    }).catch(function() {
+      return caches.match(event.request).then(function(cached) {
+        if (cached) return cached;
         if (event.request.mode === 'navigate') {
           return caches.match(OFFLINE_URL);
         }

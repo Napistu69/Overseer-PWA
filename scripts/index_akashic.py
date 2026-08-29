@@ -13,7 +13,7 @@ from pathlib import Path
 
 # Configuration
 AKASHIC_DIR = r"C:\TekTribe\Overseer\akashic_research"
-OUTPUT_PATH = r"C:\Users\Nefs\Projects\CompendiumSite\static\akashic-index.json"
+OUTPUT_PATH = r"C:\Users\Nefs\Projects\CompendiumPWA\static\akashic-index.json"
 CHUNK_SIZE = 150  # words per chunk
 OVERLAP = 50      # words of overlap between chunks
 
