@@ -37,7 +37,7 @@ self.addEventListener('activate', function(event) {
   );
 });
 
-// Fetch event — cache-first strategy
+// Fetch event — cache-first strategy with directory fallback
 self.addEventListener('fetch', function(event) {
   if (event.request.method !== 'GET') return;
 
@@ -46,21 +46,35 @@ self.addEventListener('fetch', function(event) {
   // Skip non-http requests
   if (!url.protocol.startsWith('http')) return;
 
+  // Helper: try cache lookup (handles directory → index.html)
+  function tryCache(request) {
+    return caches.open(CACHE_NAME).then(function(cache) {
+      return cache.match(request).then(function(cached) {
+        if (cached) return cached;
+        // If URL ends with '/', try index.html version
+        if (request.url.endsWith('/')) {
+          return cache.match(request.url + 'index.html');
+        }
+        return undefined;
+      });
+    });
+  }
+
   // Cache-first: check cache, then network, then cache in background
   event.respondWith(
-    caches.open(CACHE_NAME).then(function(cache) {
-      return cache.match(event.request).then(function(cached) {
-        var fetchPromise = fetch(event.request).then(function(response) {
-          if (response && response.status === 200) {
+    tryCache(event.request).then(function(cached) {
+      var fetchPromise = fetch(event.request).then(function(response) {
+        if (response && response.status === 200) {
+          caches.open(CACHE_NAME).then(function(cache) {
             cache.put(event.request, response.clone());
-          }
-          return response;
-        }).catch(function() {
-          return cached;
-        });
-
-        return cached || fetchPromise;
+          });
+        }
+        return response;
+      }).catch(function() {
+        return cached;
       });
+
+      return cached || fetchPromise;
     })
   );
 });
