@@ -1,6 +1,6 @@
 // Service Worker for TekTribe Chronicles
 // Cache strategy: Precache ALL pages for full offline access
-const CACHE_VERSION = 'tektribe-vtektribe-v20260828-223929';
+const CACHE_VERSION = 'tektribe-vtektribe-v20260828-230040';
 const CACHE_NAME = CACHE_VERSION;
 const OFFLINE_URL = '/offline.html';
 
