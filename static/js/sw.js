@@ -1,42 +1,18 @@
 // Service Worker for TekTribe Chronicles
-// Cache strategy: Precache essentials, runtime cache for content
-const CACHE_VERSION = 'tektribe-v20260828-204054';
+// Cache strategy: Precache ALL pages for full offline access
+const CACHE_VERSION = 'tektribe-v{{VERSION}}';
 const CACHE_NAME = CACHE_VERSION;
 const OFFLINE_URL = '/offline.html';
 
-// Precache essential assets (small, always needed)
-const PRECACHE_ASSETS = [
-  '/',
-  '/manifest.json',
-  '/css/nav.css',
-  '/js/registerSW.js',
-  '/icons/icon-192.png',
-  '/icons/icon-512.png',
-  '/offline.html',
-  '/akashic-index.json'
-];
+// All pages to precache (generated at build time)
+const PRECACHE_URLS = [{{PRECACHE_URLS}}];
 
-// Runtime cache patterns
-const RUNTIME_CACHE_PATTERNS = [
-  /^\/part[1-9]\//,
-  /^\/about\//,
-  /^\/preamble\//,
-  /^\/oracle\//,
-  /\.html$/,
-  /\.css$/,
-  /\.png$/,
-  /\.jpg$/,
-  /\.ttf$/,
-  /\.woff2?$/,
-  /\.json$/
-];
-
-// Install event — precache essentials
+// Install event — precache everything
 self.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open(CACHE_NAME).then(function(cache) {
-      console.log('[SW] Precaching essential assets');
-      return cache.addAll(PRECACHE_ASSETS);
+      console.log('[SW] Precaching', PRECACHE_URLS.length, 'assets');
+      return cache.addAll(PRECACHE_URLS);
     }).then(function() {
       return self.skipWaiting();
     })
@@ -61,7 +37,7 @@ self.addEventListener('activate', function(event) {
   );
 });
 
-// Fetch event — cache-first for precached, stale-while-revalidate for runtime
+// Fetch event — cache-first strategy
 self.addEventListener('fetch', function(event) {
   if (event.request.method !== 'GET') return;
 
@@ -70,58 +46,20 @@ self.addEventListener('fetch', function(event) {
   // Skip non-http requests
   if (!url.protocol.startsWith('http')) return;
 
-  // Check if this URL should be runtime cached
-  const shouldCache = RUNTIME_CACHE_PATTERNS.some(function(pattern) {
-    return pattern.test(url.pathname);
-  });
-
-  // For precached assets — cache-first
-  if (PRECACHE_ASSETS.includes(url.pathname)) {
-    event.respondWith(
-      caches.match(event.request).then(function(cached) {
-        return cached || fetch(event.request);
-      })
-    );
-    return;
-  }
-
-  // For runtime-cacheable content — stale-while-revalidate
-  if (shouldCache) {
-    event.respondWith(
-      caches.open(CACHE_NAME).then(function(cache) {
-        return cache.match(event.request).then(function(cached) {
-          var fetchPromise = fetch(event.request).then(function(response) {
-            if (response && response.status === 200) {
-              cache.put(event.request, response.clone());
-            }
-            return response;
-          }).catch(function() {
-            return cached;
-          });
-
-          return cached || fetchPromise;
-        });
-      })
-    );
-    return;
-  }
-
-  // For everything else — network-first, fallback to cache
+  // Cache-first: check cache, then network, then cache in background
   event.respondWith(
-    fetch(event.request).then(function(response) {
-      if (response && response.status === 200) {
-        caches.open(CACHE_NAME).then(function(cache) {
-          cache.put(event.request, response.clone());
+    caches.open(CACHE_NAME).then(function(cache) {
+      return cache.match(event.request).then(function(cached) {
+        var fetchPromise = fetch(event.request).then(function(response) {
+          if (response && response.status === 200) {
+            cache.put(event.request, response.clone());
+          }
+          return response;
+        }).catch(function() {
+          return cached;
         });
-      }
-      return response;
-    }).catch(function() {
-      return caches.match(event.request).then(function(cached) {
-        if (cached) return cached;
-        if (event.request.mode === 'navigate') {
-          return caches.match(OFFLINE_URL);
-        }
-        return new Response('Offline', { status: 503 });
+
+        return cached || fetchPromise;
       });
     })
   );
