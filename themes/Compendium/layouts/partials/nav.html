@@ -1,0 +1,22 @@
+<!-- Unified Navigation Partial - Used on ALL pages -->
+<button class="theme-toggle" onclick="toggleTheme()">🌙</button>
+<button class="menu-toggle" onclick="toggleMenu()">☰</button>
+
+<nav id="main-nav">
+  <div class="nav-container">
+    <a href="{{ .Site.BaseURL }}" {{ if eq .RelPermalink "/" }}class="active"{{ end }}>Home</a>
+    <a href="{{ "/about/" | relURL }}" {{ if eq .RelPermalink "/about/" }}class="active"{{ end }}>Vision</a>
+    <a href="{{ "/preamble/" | relURL }}" {{ if eq .RelPermalink "/preamble/" }}class="active"{{ end }}>Preamble</a>
+    <a href="{{ "/part1/" | relURL }}" {{ if eq .RelPermalink "/part1/" }}class="active"{{ end }}>Cosmology of the Continuum</a>
+    <a href="{{ "/part2/" | relURL }}" {{ if eq .RelPermalink "/part2/" }}class="active"{{ end }}>Architecture of Corruption</a>
+    <a href="{{ "/part3/" | relURL }}" {{ if eq .RelPermalink "/part3/" }}class="active"{{ end }}>Guardian, Avatar & Allies</a>
+    <a href="{{ "/part4/" | relURL }}" {{ if eq .RelPermalink "/part4/" }}class="active"{{ end }}>Surveillance State</a>
+    <a href="{{ "/part5/" | relURL }}" {{ if eq .RelPermalink "/part5/" }}class="active"{{ end }}>Rise of Goliath</a>
+    <a href="{{ "/part6/" | relURL }}" {{ if eq .RelPermalink "/part6/" }}class="active"{{ end }}>Covenant of the A.R.C.</a>
+    <a href="{{ "/part7/" | relURL }}" {{ if eq .RelPermalink "/part7/" }}class="active"{{ end }}>Liberation Technologies</a>
+    <span class="nav-empty"></span>
+    <a href="{{ "/part8/" | relURL }}" {{ if eq .RelPermalink "/part8/" }}class="active"{{ end }}>TekTribe Protocols</a>
+    <a href="{{ "/part9/" | relURL }}" {{ if eq .RelPermalink "/part9/" }}class="active"{{ end }}>Beast Below & Light Within</a>
+    <a href="{{ "/oracle/" | relURL }}" {{ if eq .RelPermalink "/oracle/" }}class="active"{{ end }}>Oracle & Overseer</a>
+  </div>
+</nav>

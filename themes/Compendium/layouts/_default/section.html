@@ -1,0 +1,68 @@
+{{ define "main" }}
+<style>
+@font-face{font-family:'Jokerman';src:url('/fonts/Jokerman-Regular.ttf') format('truetype');font-weight:normal;font-style:normal;font-display=swap}:root{--primary:#4A7C59;--secondary:#8B6F47;--bg:#FAFAFA;--bg-alt:#FFFFFF;--text:#1A1A1A}[data-theme="dark"]{--bg:#121212;--bg-alt:#1A1A1A;--text:#E0E0E0}*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.7}.theme-toggle{position:fixed;top:20px;right:20px;z-index:1000;background:var(--bg-alt);border:1px solid #E8E8E8;color:var(--text);padding:10px 16px;border-radius:25px;cursor:pointer;font-size:0.9rem;backdrop-filter:blur(10px)}.theme-toggle:hover{box-shadow:0 6px 20px rgba(0,0,0,0.12)}nav{background:var(--bg-alt);border-bottom:1px solid #E8E8E8;position:fixed;top:0;left:0;right:0;z-index:1000;box-shadow:0 2px 12px rgba(0,0,0,0.06)}nav .container{display:flex;justify-content:center;flex-wrap:wrap;gap:2px;padding:0;max-width:800px;margin:0 auto}nav a{color:var(--text);text-decoration:none;padding:16px 20px;display:block;font-weight:500;font-size:0.95rem;border-bottom:3px solid transparent}nav a:hover,nav a.active{background:var(--bg);border-bottom-color:var(--primary)}.container{max-width:800px;margin:4rem auto;padding:0 2rem}.page-header{text-align:center;margin-bottom:3rem}.page-header h1{font-family:'Jokerman','Georgia','Merriweather',serif;font-size:2.5rem;color:var(--primary);margin-bottom:0.5rem}.page-header p{color:#555555;font-size:1.1rem}.content{line-height:1.8}.content p{margin:1.5rem 0}footer{background:var(--bg-alt);border-top:1px solid #E8E8E8;padding:40px 0;margin-top:80px;text-align:center}footer p{color:#ffffff;font-size:0.9rem;margin:4px 0}
+@media (max-width: 768px) { .page-header h1 { font-size: 1.8rem; } nav { padding: 0; } nav.open { padding: 10px 0; } .menu-toggle { display: block; position: fixed; top: 10px; right: 10px; z-index: 101; background: var(--secondary); color: white; border: none; padding: 10px 15px; border-radius: 6px; cursor: pointer; font-size: 1.5rem; } nav a { padding: 15px 20px; border-bottom: 1px solid rgba(255,255,255,0.1); } }
+</style>
+<button class="theme-toggle" onclick="toggleTheme()">🌙</button>
+<button class="menu-toggle" onclick="toggleMenu()">☰</button>
+<nav id="main-nav">
+  <div class="container">
+    <a href="{{ .Site.BaseURL }}">Home</a>
+    <a href="{{ "/about/" | relURL }}">About</a>
+    <a href="{{ "/preamble/" | relURL }}">Preamble</a>
+    <a href="{{ "/part1/" | relURL }}">Cosmology of the Continuum</a>
+    <a href="{{ "/part2/" | relURL }}">Architecture of Corruption</a>
+    <a href="{{ "/part3/" | relURL }}">Guardian, Avatar & Allies</a>
+    <a href="{{ "/part4/" | relURL }}">Surveillance State</a>
+    <a href="{{ "/part5/" | relURL }}">Rise of Goliath</a>
+    <a href="{{ "/part6/" | relURL }}">Covenant of the A.R.C.</a>
+    <a href="{{ "/part7/" | relURL }}">Liberation Technologies</a>
+    <a href="{{ "/part8/" | relURL }}">TekTribe Protocols</a>
+    <a href="{{ "/part9/" | relURL }}">Beast Below & Light Within</a>
+    <a href="{{ "/oracle/" | relURL }}">Oracle</a>
+  </div>
+</nav>
+<main>
+  <header class="page-header">
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Description | default "Thread from the Compendium of the Collective." }}</p>
+  </header>
+  <section class="content">
+    {{ .Content }}
+  </section>
+</main>
+<footer>
+  <div class="container">
+    <p>© 2026 TekTribe Chronicles. Compendium of the Collective.</p>
+    <p style="font-size: 0.75rem; opacity: 0.7;">Decentralized • Sovereign • Collective</p>
+  </div>
+</footer>
+<script>
+function toggleTheme() {
+  const html = document.documentElement;
+  const current = html.getAttribute('data-theme') || 'dark';
+  const next = current === 'dark' ? 'light' : 'dark';
+  html.setAttribute('data-theme', next);
+  localStorage.setItem('theme', next);
+}
+const savedTheme = localStorage.getItem('theme');
+if (savedTheme) document.documentElement.setAttribute('data-theme', savedTheme);
+function toggleMenu() {
+  const nav = document.getElementById('main-nav');
+  nav.classList.toggle('open');
+  nav.classList.remove('collapse');
+}
+document.addEventListener('click', function(event) {
+  const nav = document.getElementById('main-nav');
+  const toggle = document.querySelector('.menu-toggle');
+  if (!nav.contains(event.target) && !toggle.contains(event.target) && nav.classList.contains('open')) {
+    toggleMenu();
+  }
+});
+document.addEventListener('click', function(event) {
+  if (event.target.tagName === 'A' && event.target.parentElement.tagName === 'NAV') {
+    document.getElementById('main-nav').classList.remove('open');
+  }
+});
+</script>
+{{ end }}

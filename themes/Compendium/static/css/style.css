@@ -1,0 +1,520 @@
+/* Compendium Theme - Substack Style */
+/* Modern, minimal, readable - like Substack articles */
+
+/* ========== COLORS ========== */
+:root {
+  --primary: #4A7C59;      /* Forest Green */
+  --secondary: #8B6F47;    /* Copper Brown */
+  --bg: #FAFAFA;           /* Light Gray (Substack-style) */
+  --bg-alt: #FFFFFF;       /* White */
+  --text: #1A1A1A;         /* Almost Black */
+  --text-light: #555555;   /* Medium Gray */
+  --text-muted: #888888;   /* Light Gray */
+  --accent: #00FFFF;       /* Neon Cyan (Oracle content) */
+  --border: #E8E8E8;       /* Light Border */
+  --shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+
+[data-theme="dark"] {
+  --bg: #121212;
+  --bg-alt: #1A1A1A;
+  --text: #E0E0E0;
+  --text-light: #B0B0B0;
+  --text-muted: #666666;
+  --accent: #66E0FF;
+  --border: #2A2A2A;
+  --shadow: 0 2px 12px rgba(0,0,0,0.3);
+}
+
+/* ========== BASE STYLES ========== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  font-size: 17px;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+}
+
+/* ========== TYPOGRAPHY ========== */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Georgia', 'Merriweather', serif;
+  font-weight: 700;
+  line-height: 1.3;
+  margin: 1.5em 0 1em 0;
+  color: var(--text);
+}
+
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.3rem; }
+h5 { font-size: 1.15rem; }
+h6 { font-size: 1.1rem; }
+
+p {
+  margin: 1.5em 0 1.5em 0;
+  line-height: 1.8;
+}
+
+/* ========== LAYOUT ========== */
+.container {
+  max-width: 720px;  /* Substack-style narrow width */
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* ========== HEADER & HERO ========== */
+.hero {
+  background: linear-gradient(135deg, var(--primary) 0%, #2D4A36 100%);
+  color: white;
+  padding: 100px 0 80px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  opacity: 0.5;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.hero-logo {
+  width: 200px;
+  height: 200px;
+  border-radius: 8px;
+  object-fit: cover;
+  margin: 0 auto 40px;
+  border: 4px solid rgba(255,255,255,0.2);
+  box-shadow: 0 12px 40px rgba(0,0,0,0.3);
+}
+
+.hero-banner {
+  width: 100%;
+  max-width: 1200px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin: 0 auto 40px;
+  display: block;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+  opacity: 0;
+  animation: fadeIn 1.5s ease-in-out 0.3s both;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.hero-text {
+  font-size: 1.4rem;
+  font-weight: 500;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.hero-subtitle {
+  font-size: 1rem;
+  opacity: 0.9;
+  margin-bottom: 40px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-cta {
+  display: inline-block;
+  background: white;
+  color: var(--primary);
+  padding: 14px 32px;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.hero-cta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+}
+
+/* ========== NAVIGATION ========== */
+nav {
+  background: var(--bg-alt);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: var(--shadow);
+}
+
+nav .container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2px;
+  padding: 0;
+}
+
+nav a {
+  color: var(--text);
+  text-decoration: none;
+  padding: 16px 20px;
+  display: block;
+  font-weight: 500;
+  font-size: 0.95rem;
+  transition: background 0.2s;
+  border-bottom: 3px solid transparent;
+}
+
+nav a:hover {
+  background: var(--bg);
+  border-bottom-color: var(--primary);
+}
+
+nav a.active {
+  border-bottom-color: var(--primary);
+  color: var(--primary);
+}
+
+/* ========== THEME TOGGLE ========== */
+.theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1001;
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 10px 16px;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 500;
+  backdrop-filter: blur(10px);
+  transition: all 0.3s;
+  box-shadow: var(--shadow);
+}
+
+.theme-toggle:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+}
+
+/* ========== CONTENT CARDS ========== */
+.post-card {
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 32px;
+  margin: 24px 0;
+  transition: all 0.3s;
+  box-shadow: var(--shadow);
+}
+
+.post-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(0,0,0,0.1);
+  border-color: var(--primary);
+}
+
+.post-card h2 {
+  margin-bottom: 12px;
+  color: var(--primary);
+}
+
+.post-card .card-meta {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin-bottom: 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.post-card p {
+  margin-bottom: 20px;
+}
+
+.post-card .card-link {
+  display: inline-block;
+  margin-top: 16px;
+  padding: 10px 20px;
+  background: var(--primary);
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: background 0.2s;
+}
+
+.post-card .card-link:hover {
+  background: var(--secondary);
+}
+
+/* ========== SECTIONS ========== */
+.section-header {
+  text-align: center;
+  margin: 60px 0 40px;
+}
+
+.section-header h2 {
+  font-size: 1.8rem;
+  color: var(--primary);
+  margin-bottom: 8px;
+}
+
+.section-header p {
+  color: var(--text-light);
+  font-size: 1.05rem;
+}
+
+/* ========== TABLES (Substack Style) ========== */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2em 0;
+  font-size: 0.95rem;
+}
+
+table th,
+table td {
+  padding: 12px 16px;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+}
+
+table th {
+  background: var(--bg-alt);
+  font-weight: 600;
+  color: var(--primary);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+table tbody tr:hover {
+  background: rgba(74, 124, 89, 0.05);
+}
+
+table caption {
+  caption-side: top;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 12px;
+  color: var(--primary);
+}
+
+/* ========== QUOTES ========== */
+blockquote {
+  border-left: 4px solid var(--primary);
+  padding: 16px 20px;
+  margin: 2em 0;
+  background: rgba(74, 124, 89, 0.05);
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+}
+
+blockquote p {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+/* ========== CODE BLOCKS ========== */
+pre {
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 20px;
+  overflow-x: auto;
+  margin: 2em 0;
+}
+
+code {
+  font-family: 'SF Mono', 'Monaco', 'Inconsolata', 'Fira Mono', monospace;
+  font-size: 0.9em;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+/* ========== FOOTER ========== */
+footer {
+  background: var(--bg-alt);
+  border-top: 1px solid var(--border);
+  padding: 40px 0;
+  margin-top: 80px;
+  text-align: center;
+}
+
+footer p {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  margin: 8px 0;
+}
+
+footer a {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+/* ========== COMING SOON CARD ========== */
+.coming-soon {
+  border: 2px dashed var(--border);
+  border-radius: 12px;
+  padding: 40px 30px;
+  text-align: center;
+  background: var(--bg-alt);
+}
+
+.coming-soon h3 {
+  color: var(--primary);
+  margin-bottom: 12px;
+  font-family: 'Georgia', serif;
+}
+
+.coming-soon p {
+  color: var(--text-light);
+  margin: 8px 0;
+}
+
+.coming-soon p:last-child {
+  font-size: 0.9rem;
+  opacity: 0.7;
+  margin-top: 16px;
+}
+
+/* ========== GRID LAYOUT ========== */
+.home-grid {
+  display: grid;
+  gap: 24px;
+  margin: 30px 0;
+}
+
+/* ========== RESPONSIVE ========== */
+@media (max-width: 768px) {
+  .hero {
+    padding: 60px 0 40px;
+  }
+  
+  .hero-logo {
+    width: 140px;
+    height: 140px;
+  }
+  
+  .hero-banner {
+    height: 200px;
+  }
+  
+  .hero-text {
+    font-size: 1.2rem;
+  }
+  
+  nav {
+    padding: 0;
+    transform: translateY(-100%);
+  }
+  
+  nav.open {
+    transform: translateY(0);
+    padding: 10px 0;
+  }
+  
+  .menu-toggle {
+    display: block;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 101;
+    background: var(--secondary);
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1.5rem;
+  }
+  
+  nav a {
+    display: block;
+    padding: 15px 20px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
+  
+  .post-card {
+    padding: 24px;
+  }
+  
+  table {
+    font-size: 0.85rem;
+  }
+  
+  table th,
+  table td {
+    padding: 10px 12px;
+  }
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 0 16px;
+  }
+  
+  .hero-text {
+    font-size: 1.1rem;
+  }
+  
+  .hero-subtitle {
+    font-size: 0.95rem;
+  }
+  
+  .hero-cta {
+    padding: 12px 28px;
+    font-size: 0.95rem;
+  }
+  
+  h1 {
+    font-size: 1.8rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  body {
+    font-size: 16px;
+  }
+}
+
+/* ========== ANIMATIONS ========== */

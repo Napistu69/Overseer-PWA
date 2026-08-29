@@ -1,0 +1,18 @@
+baseURL = 'https://overseer.ae'
+languageCode = 'en-us'
+title = 'TekTribe Chronicles'
+theme = 'Compendium'
+
+[taxonomies]
+tag = ""
+category = ""
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[params]
+  author = "Overseer Æ"
+  description = "Compendium of the Collective"
+  disableRSS = true
+  disableTwitter = true
+  hero_banner = "images/tektribe-awakening-banner.jpg"

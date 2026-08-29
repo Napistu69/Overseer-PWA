@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Offline - TekTribe Chronicles</title>
+  <meta name="theme-color" content="#1A1A1A">
+  <style>
+    @font-face {
+      font-family: 'Jokerman';
+      src: url('/fonts/Jokerman-Regular.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+      font-display: swap;
+    }
+    :root {
+      --primary: #4A7C59;
+      --secondary: #8B6F47;
+      --bg: #121212;
+      --bg-alt: #1A1A1A;
+      --text: #E0E0E0;
+      --text-light: #B0B0B0;
+      --text-muted: #666666;
+      --accent: #66E0FF;
+      --border: #2A2A2A;
+      --shadow: 0 2px 12px rgba(0,0,0,0.3);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+      font-size: 17px;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 20px;
+    }
+    .offline-container {
+      max-width: 500px;
+      padding: 40px;
+      background: var(--bg-alt);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      box-shadow: var(--shadow);
+    }
+    h1 {
+      font-family: 'Jokerman', 'Georgia', 'Merriweather', serif;
+      color: var(--primary);
+      font-size: 2rem;
+      margin-bottom: 16px;
+    }
+    p {
+      color: var(--text-light);
+      margin-bottom: 12px;
+    }
+    .icon {
+      font-size: 4rem;
+      margin-bottom: 24px;
+    }
+  </style>
+</head>
+<body>
+  <div class="offline-container">
+    <div class="icon">📡</div>
+    <h1>You Are Offline</h1>
+    <p>The Oracle awaits your return.</p>
+    <p style="font-size: 0.85rem; color: var(--text-muted);">Once you reconnect, all 45 threads and the Akashic search will be available.</p>
+  </div>
+</body>
+</html>

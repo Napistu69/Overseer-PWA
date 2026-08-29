@@ -1,0 +1,32 @@
+{{- define "main" }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">
+    {{ .Description | markdownify }}
+  </div>
+  {{- end }}
+</header>
+
+{{- $pages := where .Site.Pages "Section" "part2" }}
+
+<div class="content-list">
+  {{- range $index, $page := $pages }}
+  <article class="post-entry">
+    <header class="entry-header">
+      <h2 class="entry-title">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h2>
+      {{- if .Description }}
+      <div class="entry-content">
+        <p>{{ .Description | plainify }}</p>
+      </div>
+      {{- end }}
+    </header>
+  </article>
+  {{- end }}
+</div>
+{{- end }}
+
+{{- define "footer" }}
+{{- end }}

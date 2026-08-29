@@ -1,0 +1,12 @@
+name = "Compendium"
+license = "MIT"
+licenselink = "https://github.com/napistu/CompendiumSite/LICENSE"
+description = "A clean, sectioned blog theme inspired by Substack with chapter navigation"
+homepage = "https://napistu.substack.com/"
+demosite = "https://napistu.substack.com/"
+tags = ["blog", "minimal", "clean", "news", "personal"]
+features = ["minimal", "section-navigation", "feed-style", "responsive"]
+
+[author]
+  name = "TekTribe"
+  homepage = "https://tektribe.org/"

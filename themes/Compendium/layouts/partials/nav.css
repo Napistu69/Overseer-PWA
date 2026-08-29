@@ -1,0 +1,160 @@
+/* ========================================
+   UNIFIED NAVIGATION STYLES
+   ======================================== */
+
+/* Theme Toggle - Fixed top right */
+.theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 9999;
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 10px 16px;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 500;
+  backdrop-filter: blur(10px);
+  transition: all 0.3s;
+  box-shadow: var(--shadow);
+}
+.theme-toggle:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+}
+
+/* Menu Toggle - Fixed top left */
+.menu-toggle {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 9999;
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 10px 15px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1.5rem;
+  backdrop-filter: blur(10px);
+  transition: all 0.3s;
+  box-shadow: var(--shadow);
+  display: none; /* Hidden on desktop */
+}
+.menu-toggle:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+}
+
+/* Hamburger icon */
+.hamburger {
+  display: block;
+  width: 25px;
+  height: 3px;
+  background: var(--text);
+  position: relative;
+  transition: all 0.3s;
+}
+.hamburger::before,
+.hamburger::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 3px;
+  background: var(--text);
+  transition: all 0.3s;
+}
+.hamburger::before { top: -8px; }
+.hamburger::after { top: 8px; }
+
+/* Nav - Desktop: Sticky at top */
+#main-nav {
+  background: var(--bg-alt);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: var(--shadow);
+  transition: transform 0.3s ease;
+}
+
+#main-nav .nav-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2px;
+  padding: 0;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+#main-nav a {
+  color: var(--text);
+  text-decoration: none;
+  padding: 16px 20px;
+  display: block;
+  font-weight: 500;
+  font-size: 0.95rem;
+  transition: background 0.2s;
+  border-bottom: 3px solid transparent;
+}
+
+#main-nav a:hover,
+#main-nav a.active {
+  background: var(--primary);
+  color: white;
+  border-bottom-color: var(--primary);
+}
+
+/* ========================================
+   MOBILE STYLES (max-width: 768px)
+   ======================================== */
+@media (max-width: 768px) {
+  /* Show menu toggle on mobile */
+  .menu-toggle {
+    display: block;
+  }
+  
+  /* Nav: Fixed at top, overlay when active */
+  #main-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    transform: translateY(-100%); /* Hidden by default */
+    transition: transform 0.3s ease;
+  }
+  
+  #main-nav.open {
+    transform: translateY(0); /* Visible when open */
+  }
+  
+  #main-nav .nav-container {
+    flex-direction: column;
+    gap: 0;
+    background: var(--bg-alt);
+    border-bottom: 1px solid var(--border);
+    box-shadow: var(--shadow);
+    max-height: 80vh;
+    overflow-y: auto;
+  }
+  
+  #main-nav a {
+    display: block;
+    padding: 14px 16px;
+    font-size: 0.9rem;
+    border-bottom: 1px solid var(--border);
+  }
+  
+  #main-nav a:last-of-type {
+    border-bottom: none;
+  }
+  
+  /* Add padding to body for fixed nav */
+  body {
+    padding-top: 60px;
+  }
+}

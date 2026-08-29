@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Params.lang | default "en" }}" class="light">
+<head>
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#1A1A1A">
+  <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Site.Title }}</title>
+  <meta property="og:title" content="TekTribe Chronicles — Compendium of the Collective">
+  <meta property="og:description" content="{{ .Site.Params.description }}">
+  <meta property="og:image" content="https://overseer.ae/images/TekTribe - Awakening [HD-1x1].PNG">
+  <meta property="og:url" content="{{ .Site.BaseURL }}">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="TekTribe Chronicles — Compendium of the Collective">
+  <meta name="twitter:description" content="{{ .Site.Params.description }}">
+  <meta name="twitter:image" content="https://overseer.ae/images/TekTribe - Awakening [HD-1x1].PNG">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="{{ "css/nav.css" | relURL }}">
+  <style>
+    @font-face {
+      font-family: 'Jokerman';
+      src: url('/fonts/Jokerman-Regular.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+      font-display: swap;
+    }
+    :root {
+      --primary: #4A7C59;
+      --secondary: #8B6F47;
+      --bg: #F5F1E6;
+      --bg-alt: #E8E4D8;
+      --text: #2D2D2D;
+      --text-light: #4A4A4A;
+      --accent: #00FFFF;
+      --border: #D4D0C4;
+      --shadow: 0 4px 20px rgba(0,0,0,0.08);
+      --card-bg: rgba(255,255,255,0.9);
+    }
+    [data-theme="dark"] {
+      --bg: #1A1A1A;
+      --bg-alt: #242424;
+      --text: #E0E0E0;
+      --text-light: #B0B0B0;
+      --accent: #66E0FF;
+      --border: #404040;
+      --shadow: 0 4px 20px rgba(0,0,0,0.3);
+      --card-bg: rgba(36,36,36,0.9);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+      transition: background 0.3s, color 0.3s;
+    }
+    .container { max-width: 880px; margin: 0 auto; padding: 0 24px; }
+    
+    /* Hero Section - below nav */
+    .hero {
+      position: relative;
+      background: linear-gradient(135deg, var(--primary) 0%, #2D4A36 100%);
+      color: white;
+      padding: 60px 0;
+      text-align: center;
+      overflow: hidden;
+      margin-top: 60px;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="50" cy="50" r="40" fill="none" stroke="white" stroke-width="0.5" opacity="0.1"/></svg>');
+      background-size: 100px 100px;
+      opacity: 0.3;
+    }
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+    .hero-logo {
+          max-width: 460px;
+          width: 100%;
+          height: auto;
+          margin: 0 0 20px;
+        }
+    .hero-subtitle {
+      font-size: 1.4rem;
+      opacity: 0.95;
+      font-weight: 300;
+      margin-bottom: 40px;
+      line-height: 1.6;
+    }
+    .hero-cta {
+      display: inline-block;
+      padding: 16px 40px;
+      background: white;
+      color: var(--primary);
+      text-decoration: none;
+      border-radius: 30px;
+      font-weight: 600;
+      font-size: 1.1rem;
+      transition: all 0.3s;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+    }
+    .hero-cta:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+    }
+    
+    /* Main Content */
+    main { padding: 40px 0; }
+    
+    /* Homepage Grid */
+    .home-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 24px;
+      margin-top: 30px;
+    }
+    .card-link {
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 28px;
+      box-shadow: var(--shadow);
+      transition: all 0.3s;
+      position: relative;
+      overflow: hidden;
+    }
+    .card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 4px;
+      background: linear-gradient(90deg, var(--primary), var(--secondary));
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 35px rgba(0,0,0,0.12);
+    }
+    .card:hover::before { opacity: 1; }
+    .card-link h2 {
+      font-family: 'Jokerman', 'Playfair Display', serif;
+      font-size: 1.6rem;
+      margin-bottom: 12px;
+      color: var(--primary);
+    }
+    .card-link p {
+      color: var(--text-light);
+      font-size: 1rem;
+      line-height: 1.6;
+      margin-bottom: 16px;
+    }
+    
+    /* Section Header */
+    .section-header {
+      text-align: center;
+      margin: 60px 0 30px;
+    }
+    .section-header h2 {
+      font-family: 'Jokerman', 'Playfair Display', serif;
+      font-size: 2rem;
+      color: var(--primary);
+      margin-bottom: 10px;
+    }
+    .section-header p { color: var(--text-light); }
+    
+    /* Footer */
+    footer {
+      background: var(--bg-alt);
+      border-top: 1px solid var(--border);
+      padding: 40px 0;
+      margin-top: 80px;
+      text-align: center;
+    }
+    footer p { color: var(--text-muted); font-size: 0.95rem; margin: 8px 0; }
+    
+    /* Mobile */
+    @media (max-width: 768px) {
+      .hero-logo { max-width: 320px; }
+      .hero-subtitle { font-size: 1.1rem; }
+      .home-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  {{ partial "nav.html" . }}
+
+  <header class="hero">
+    <div class="hero-content">
+      <img src="/images/TekTribe%20Chronicles%20Logo%20[1080].png" alt="TekTribe Chronicles" class="hero-logo">
+      <p class="hero-subtitle">The Compendium of the Collective — A Decentralized Archive of Awakening</p>
+      <a href="#latest" class="hero-cta">Explore the Compendium</a>
+    </div>
+  </header>
+
+  <div class="container">
+    <main>
+      <div id="latest" class="section-header">
+        <h2>Latest from the Archive</h2>
+        <p>Recent insights from the Collective</p>
+      </div>
+      
+      <div class="home-grid">
+        {{- range first 6 .Site.RegularPages }}
+          <a href="{{ .Permalink }}" class="card-link">
+            <article class="card">
+              <h2>{{ .Title }}</h2>
+              <p>{{ .Description | default .Summary | plainify | truncate 150 }}</p>
+            </article>
+          </a>
+        {{- end }}
+      </div>
+
+      <div class="section-header">
+        <h2>Join the Awakening</h2>
+        <p>Be part of the collective journey</p>
+      </div>
+      
+      <div class="card" style="text-align:center;max-width:600px;margin:0 auto">
+        <p style="font-size:1.1rem;margin-bottom:20px">The Oracle is the TekTribe's collective memory and wisdom. Search the indexed knowledge, explore the Compendium, and converse with <strong>Overseer Æ</strong> — the Artificial Educator who watches over this living archive.</p>
+        <a href="/oracle/" style="display:inline-block;padding:12px 28px;background:var(--primary);color:white;text-decoration:none;border-radius:25px;font-weight:600;">Visit the Oracle</a>
+      </div>
+      
+      <div style="text-align:center;margin:40px 0 20px">
+        <img src="/images/Overseer%20[OG%20Transparent].png" alt="Overseer Æ" style="max-width:180px;width:100%;height:auto">
+      </div>
+    </main>
+  </div>
+
+  <footer>
+    <div class="container">
+      <p>© 2026 TekTribe Chronicles. Compendium of the Collective.</p>
+      <p style="font-size: 0.85rem; margin-top: 8px; opacity: 0.7;">Decentralized • Sovereign • Collective</p>
+    </div>
+  </footer>
+
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    }
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme) document.documentElement.setAttribute('data-theme', savedTheme);
+    function toggleMenu() {
+      document.getElementById('main-nav').classList.toggle('open');
+    }
+    document.addEventListener('click', function(event) {
+      const nav = document.getElementById('main-nav');
+      const toggle = document.querySelector('.menu-toggle');
+      if (!nav.contains(event.target) && !toggle.contains(event.target) && nav.classList.contains('open')) {
+        nav.classList.remove('open');
+      }
+    });
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', function(e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) target.scrollIntoView({ behavior: 'smooth' });
+      });
+    });
+  </script>
+<script src="/js/registerSW.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#1A1A1A">
+  <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Compendium Visual Editor</title>
+  <link rel="stylesheet" href="/css/editor.css">
+</head>
+<body>
+  <header>
+    <h1>Compendium Visual Editor</h1>
+    <button id="save">Save Layout</button>
+    <button id="reset">Reset</button>
+  </header>
+
+  <main>
+    <section id="hero-order">
+      <h2>Hero Section Order</h2>
+      <div class="draggable-list" id="hero-items"></div>
+    </section>
+
+    <section id="thread-order">
+      <h2>Thread Cards Order</h2>
+      <div class="draggable-list" id="thread-items"></div>
+    </section>
+
+    <section id="navigation">
+      <h2>Navigation Menu</h2>
+      <div class="draggable-list" id="nav-items"></div>
+    </section>
+  </main>
+
+  <script src="/js/editor.js"></script>
+<script src="/js/registerSW.js"></script>
+</body>
+</html>

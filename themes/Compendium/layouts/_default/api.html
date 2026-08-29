@@ -1,0 +1,19 @@
+{{ define "main" }}
+[
+  {{ range where .Site.RegularPages "Section" "preamble" }}
+    {"title": "{{ .Title }}", "words": {{ .Params.words }}, "url": "{{ .Permalink }}"},
+  {{ end }}
+  {{ range where .Site.RegularPages "Section" "part1" }}
+    {"title": "{{ .Title }}", "words": {{ .Params.words }}, "url": "{{ .Permalink }}"},
+  {{ end }}
+  {{ range where .Site.RegularPages "Section" "part2" }}
+    {"title": "{{ .Title }}", "words": {{ .Params.words }}, "url": "{{ .Permalink }}"},
+  {{ end }}
+  {{ range where .Site.RegularPages "Section" "part3" }}
+    {"title": "{{ .Title }}", "words": {{ .Params.words }}, "url": "{{ .Permalink }}"},
+  {{ end }}
+  {{ range where .Site.RegularPages "Section" "part4" }}
+    {"title": "{{ .Title }}", "words": {{ .Params.words }}, "url": "{{ .Permalink }}"},
+  {{ end }}
+]
+{{ end }}
