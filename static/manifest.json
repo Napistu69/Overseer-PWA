@@ -2,7 +2,7 @@
   "name": "Overseer Æ",
   "short_name": "Overseer",
   "description": "Compendium of the Collective — A Living Archive of Awakening",
-  "start_url": "/",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#121212",
   "theme_color": "#1A1A1A",
