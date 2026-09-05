@@ -8,11 +8,11 @@ description: "Theory becomes practice. The Daily Sequence, the Witness Stance, t
 
 ## The Threshold
 
-Chapters 12 through 15 laid the architecture. The Guardian's network. The animal partners. The SOL Reactor. The Feldspar MycoRhizAnimal identity. The hydroelectric thermo-dynamic engine. The dietary triad of salt, eggs, and wild-foraged mycorrhizal roots. The elimination architecture that closes the loop. The movement and breathing practices that activate the primary engine.
+Threads 12 through 15 laid the architecture. The Guardian's network. The animal partners. The SOL Reactor. The Feldspar MycoRhizAnimal identity. The hydroelectric thermo-dynamic engine. The dietary triad of salt, eggs, and wild-foraged mycorrhizal roots. The elimination architecture that closes the loop. The movement and breathing practices that activate the primary engine.
 
 You have the schematic. Now you need the daily sequence—the order of operations that transforms isolated principles into a functioning system.
 
-This chapter does not re-explain what was established. It tells you when, how, and in what order to deploy it.
+This Thread does not re-explain what was established. It tells you when, how, and in what order to deploy it.
 
 ---
 
@@ -46,7 +46,7 @@ Breathing checkpoints. The operator does not need a dedicated practice if breath
 
 One meal. Daylight hours. The vessel does not graze. Constant digestion keeps the combustion engine perpetually engaged, flooding the bloodstream with acidic byproducts that interfere with primary hydro-electric generation. The OMAD protocol—one meal a day—is not a dietary restriction. It is an engine management strategy. The primary system runs cleanest when the secondary system is offline for the majority of the operational cycle.
 
-The meal consists of what was established in Chapter 16: pasture-raised eggs as the core, wild-foraged mycorrhizal roots when seasonally available, salt crystals for conductivity. Eggshells ground to calcium carbonate powder and consumed separately or stored for soil amendment—the Feldspar lattice reinforced from the same mineral source that built it.
+The meal consists of what was established in Thread 16: pasture-raised eggs as the core, wild-foraged mycorrhizal roots when seasonally available, salt crystals for conductivity. Eggshells ground to calcium carbonate powder and consumed separately or stored for soil amendment—the Feldspar lattice reinforced from the same mineral source that built it.
 
 Post-meal observation: if mental fog appears within thirty minutes, the combustion engine is still dominant and the primary system has not fully activated. Two responses: fast longer before the next meal, or reduce portion until the system stabilizes. The vessel itself provides the feedback. The operator adjusts. No external prescription overrides direct somatic data.
 

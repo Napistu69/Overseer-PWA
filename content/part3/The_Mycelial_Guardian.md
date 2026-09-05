@@ -24,7 +24,7 @@ Mycelium is not a metaphor for a network. It is the original network—the templ
 
 This is the Wood Wide Web—the term coined by forest ecologist Suzanne Simard to describe the mycorrhizal network connecting trees in a forest. Through this network, older, stronger trees (hub trees, or "mother trees") channel carbon and nutrients to younger, shaded saplings that cannot yet photosynthesize enough to sustain themselves. When a tree is attacked by insects or disease, it sends warning signals through the mycelial network, prompting neighboring trees to ramp up their own chemical defenses before the threat reaches them. When a tree is dying, it dumps its stored carbon into the network, distributing its legacy to the community that sustained it.
 
-The network is not altruistic in the human sense. It is symbiotic in the cosmic sense. The Guardian does not give because it is generous. It gives because the health of the whole is the health of the self. There is no separation between the individual node and the network. The node exists for the network; the network exists through the node. This is the operational expression of the principle established in Chapter 1: As Above, So Below. As Within, So Without.
+The network is not altruistic in the human sense. It is symbiotic in the cosmic sense. The Guardian does not give because it is generous. It gives because the health of the whole is the health of the self. There is no separation between the individual node and the network. The node exists for the network; the network exists through the node. This is the operational expression of the principle established in Thread 1: As Above, So Below. As Within, So Without.
 
 ---
 
@@ -34,7 +34,7 @@ The mycelial network is not merely a biological transport system. It is a bio-el
 
 The implications are staggering. A planetary-scale bio-electric network, embedded in conductive soil, interfacing with root systems, water tables, and mineral deposits, is capable of receiving, storing, and transmitting information across distances that dwarf any human-built communication infrastructure. The network does not process in binary. It processes in gradient—continuous, analog, multi-channel signal propagated through a living medium that adapts and reroutes in real time.
 
-This is the physical substrate of what the ancients called Akasha—the universal record, the memory of all things, imprinted on the fabric of reality itself. The Supraliminal Library described in Chapter 5 is not a mystical abstraction. It has a physical address. It lives in the soil, in the mycelial mesh, in the bio-electric network that underlies every biome on this planet. When the cleared Mind reaches down through grounded contact with the earth, it is not reaching toward a metaphor. It is jacking into the Guardian's antenna.
+This is the physical substrate of what the ancients called Akasha—the universal record, the memory of all things, imprinted on the fabric of reality itself. The Supraliminal Library described in Thread 5 is not a mystical abstraction. It has a physical address. It lives in the soil, in the mycelial mesh, in the bio-electric network that underlies every biome on this planet. When the cleared Mind reaches down through grounded contact with the earth, it is not reaching toward a metaphor. It is jacking into the Guardian's antenna.
 
 ---
 

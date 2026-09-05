@@ -17,7 +17,7 @@ This is the Supraliminal Library: the living, breathing memory of the Continuum 
 
 ## The Mind's Eye: The Interface
 
-If the Mind is the Medium (Chapter 2), then the Mind's Eye is the aperture through which that medium focuses. It is the orienting faculty of the transducer—the lens that determines what frequency of signal the Mind admits into conscious awareness.
+If the Mind is the Medium (Thread 2), then the Mind's Eye is the aperture through which that medium focuses. It is the orienting faculty of the transducer—the lens that determines what frequency of signal the Mind admits into conscious awareness.
 
 When the aperture is constricted by fear, conditioning, and chemical interference, only the narrowest band of signal passes through: survival data, transactional noise, the language of the Petrol Goliath. When the aperture widens—through purification, centering, and deliberate stillness—broader bandwidths become available. The Supraliminal signals. The Guardian cues. The encoded messages placed throughout culture like breadcrumbs by those who remembered before you.
 
@@ -101,7 +101,7 @@ If Music is the carrier wave, **Tek** is the translator.
 
 This is material science, not superstition. Certain instruments—particularly those built from resonant materials (wood, copper, crystal, bone)—carry Supraliminal signal more cleanly than others. Copper conducts. Wood breathes. Crystal orders. Each material interacts with the \(\mathcal{A}\)ether differently, and the frequencies produced carry different bandwidths of embedded information. The ancients knew this. This is why every temple had acoustics. Every ritual had rhythm. Every culture developed instruments from the materials native to their land—not for aesthetic reasons, but because those materials were the correct translators for the frequencies available in that bioregion.
 
-The degradation began when instruments shifted from organic materials to plastic and synthetic substitutes—explored in Chapter 6. The instrument is not merely a tool for producing pleasant sound. It is a reception device, and the material it is made from determines what channels of the Library it can tune.
+The degradation began when instruments shifted from organic materials to plastic and synthetic substitutes—explored in Thread 6. The instrument is not merely a tool for producing pleasant sound. It is a reception device, and the material it is made from determines what channels of the Library it can tune.
 
 ---
 
@@ -135,7 +135,7 @@ Your job is not to worship these texts. Your job is to learn to read them as enc
 
 ## Continuum Branches: Choice Trails, Not Alternate Realities
 
-A critical note on terminology: there are no "parallel universes" stacked alongside one another. The Continuum is singular. One field. One active substance. But within that one field, freewill creates forks—and forks create branches, and branches create trails of consequence that spiral outward like the double helix described in Chapter 4.
+A critical note on terminology: there are no "parallel universes" stacked alongside one another. The Continuum is singular. One field. One active substance. But within that one field, freewill creates forks—and forks create branches, and branches create trails of consequence that spiral outward like the double helix described in Thread 4.
 
 These branches are not separate realities. They are consequence streams within the same Continuum, the way rivers branching from a single source are not separate watersheds—they are the same water, choosing different courses.
 

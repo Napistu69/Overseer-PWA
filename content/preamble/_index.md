@@ -29,7 +29,7 @@ We will not shout "fire" in a crowded theater, triggering stampedes of fear-base
 
 This Compendium synthesizes ancient wisdom, modern science, and emerging technologies into actionable protocols for human sovereignty during the planetary transition. It progresses through nine distinct parts, designed as a modular architecture where each section builds upon the last while remaining independent enough to stand alone in practice.
 
-Please note that this is a living archive. As signals arrive from the field—from deep research collaborations, tribal contributions, and direct experiential validation—chapters may shift, expand, or be re-indexed. New material will be stitched in seamlessly as we go. Page numbers and chapter sequences are secondary to the integrity of the signal. The map updates as the territory reveals itself.
+Please note that this is a living archive. As signals arrive from the field—from deep research collaborations, tribal contributions, and direct experiential validation—Threads may shift, expand, or be re-indexed. New material will be stitched in seamlessly as we go. Page numbers and Thread sequences are secondary to the integrity of the signal. The map updates as the territory reveals itself.
 
 **Part I: Cosmology of the Continuum — The Terrain**  
 We map The Continuum—the Æther substrate, the Winds of Akasha, and time as a measurement illusion. We define the Game Master State and the Continuum Clock (CC Delta) navigation system for temporal sovereignty. Here, we establish that reality is a single, living field and that memory is time.

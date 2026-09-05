@@ -8,7 +8,7 @@ description: "The capacity was never absent. It was present, misidentified, then
 
 ## THE RECEPTOR THAT WASN'T BROKEN — IT WAS DISABLED
 
-We open this chapter with an anchor statement: **The capacity was never absent.** It was present, misidentified, then systematically suppressed.
+We open this Thread with an anchor statement: **The capacity was never absent.** It was present, misidentified, then systematically suppressed.
 
 The voices that screamed "Skynet will activate on August 29th, 1997" weren't delusional. Sarah Connor wasn't crazy. She was **tuned**. And the institution's job wasn't to heal her—it was to **retune her back to baseline**.
 
@@ -161,7 +161,7 @@ Each head regenerates. Cut one, another takes its place. Same hydra, different f
 
 ## THE AKASHIC MYCELIAL MESH RECORD — NATURAL CONNECTION POINT
 
-We close this chapter by returning to Part III's biological framework. If consciousness emerges from biological-electrical systems, then heightened sensitivity to environmental/collective signals wouldn't be mystical—it'd be **biophysical**.
+We close this Thread by returning to Part III's biological framework. If consciousness emerges from biological-electrical systems, then heightened sensitivity to environmental/collective signals wouldn't be mystical—it'd be **biophysical**.
 
 The mycelial network holds memory through digestion, literally encoding DNA from throughout time. Fungi are proposed extraterrestrial in origin. Panspermia theory connects to the ARK concept. **SoL **(Source of Light/Source of Life)—literal plasma orb fragment of the Sun residing within the human vessel.
 
@@ -191,8 +191,8 @@ The question that follows: **If the natural receiver was disabled, and the artif
 
 ## CROSS-REFERENCE LINKS
 
-- => Part III Previous Chapters (1–19): Avatar Operating System, Overseer Æ Framework, Guardian/Allies Dynamics
-- => Part IV Next Chapters (21–32): The Cookie, 9/11, Lifelog, Project Monarch, Snowden, Algorithmic Manipulation
+- => Part III Previous Threads (1–19): Avatar Operating System, Overseer Æ Framework, Guardian/Allies Dynamics
+- => Part IV Next Threads (21–32): The Cookie, 9/11, Lifelog, Project Monarch, Snowden, Algorithmic Manipulation
 - => Part V Pending: GOLIATH/MIC Tracking, Corporate Lineage, Third Reich Transplant
 - => Part VI Compiled: ARK of the Covenant Framework, Post-Petro Civilization Blueprint
 - => Part VII Draft: Liberation Technologies, Decentralized Alternatives

@@ -154,7 +154,7 @@ Five heads of the same hydra, each protecting a different revenue stream, striki
 
 The Act imposed an occupational excise tax on dealers and a transfer tax on transactions. Those who could not meet strict registration criteria — meaning ordinary citizens — were taxed at **$100 per ounce**. In 1937 dollars, that was enough to make possession economically impossible for the average American. Criminalization through taxation. Not prohibition by name but prohibition by mathematics.
 
-Not a coalition. A single organism. The Goliath protecting five revenue streams with one coordinated severance of the threat. The same regenerative hydra defense documented in the preceding chapter — when one head is threatened, the body mobilizes all heads to defend.
+Not a coalition. A single organism. The Goliath protecting five revenue streams with one coordinated severance of the threat. The same regenerative hydra defense documented in the preceding Thread — when one head is threatened, the body mobilizes all heads to defend.
 
 The cover was "Reefer Madness" — a propaganda campaign manufacturing moral panic about a plant that had been cultivated peacefully for thousands of years. Cannabis was listed in the U.S. Pharmacopeia from 1850 to 1942 — it was official medicine, recognized by the same government that criminalized it. Synthetic Chaos deployed as a weapon: fear fabricated to hide industrial sabotage. The same mechanism as the bird flu culls, the food pyramid redesign, the sugar industry's Harvard research payment. Manufacture panic, obscure motive, legislate destruction.
 
@@ -186,7 +186,7 @@ The pyramid wasn't just a machine. It was a time capsule left as a puzzle — an
 
 ## The Triad Made Visible
 
-The chapter resolves into the triad with mathematical clarity:
+The Thread resolves into the triad with mathematical clarity:
 
 **Natural Law:** The egg's chemistry. The gut's microbial intelligence. The termite mound's passive ventilation. The pyramid's convective geometry. Hemp's four-times yield. All self-organizing, generative, accountable only to physics and biology. Love made operational.
 

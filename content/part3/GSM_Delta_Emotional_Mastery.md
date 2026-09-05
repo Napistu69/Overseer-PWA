@@ -64,7 +64,7 @@ From that acknowledgment, selection occurs. Will this wave carry the operator fo
 
 ## MAPPING THE TRIAD
 
-Each vertex corresponds to specific SOL behaviors described in Chapter 16. Understanding the link between internal state and external condition prevents confusion between symptoms and causes.
+Each vertex corresponds to specific SOL behaviors described in Thread 16. Understanding the link between internal state and external condition prevents confusion between symptoms and causes.
 
 **GLAD — Stable Forward Rotation**
 - Risk: Commodity-dependence when externalized

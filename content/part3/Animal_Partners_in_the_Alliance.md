@@ -6,11 +6,11 @@ description: "The Guardian does not operate alone. The honeybee, the hen, the ea
 
 
 
-## The Missing Chapter
+## The Missing Thread
 
 The Guardian does not operate alone. The mycelial network is the substrate—the living infrastructure—but it is not the entirety of the system. Layered above the fungal mesh, walking across its surface, flying above its canopy, swimming through its waterways, exists a second network: the animal kingdom. Not as beneficiaries of the Guardian's labor. Not as parasites consuming its outputs. As extension nodes—mobile relay points that carry the network's signal beyond the reach of its static filaments.
 
-This is the chapter conventional ecology gets half-right. It documents the relationships: the bee pollinating the flower, the bird dispersing the seed, the earthworm aerating the soil. But it frames these relationships as transactions—mutualistic exchanges of calories and services between discrete organisms pursuing self-interest. The Compendium frames them differently. These are not transactions. They are transmissions. The animal does not merely exchange resources with the network. It extends the network. It carries signal, memory, and biological data across distances the static mycelium cannot bridge. The bee is an antenna with wings. The bird is a data packet in flight. The worm is a living fiber-optic cable threading through earth that the slow-growing hyphae have not yet reached.
+This is the Thread conventional ecology gets half-right. It documents the relationships: the bee pollinating the flower, the bird dispersing the seed, the earthworm aerating the soil. But it frames these relationships as transactions—mutualistic exchanges of calories and services between discrete organisms pursuing self-interest. The Compendium frames them differently. These are not transactions. They are transmissions. The animal does not merely exchange resources with the network. It extends the network. It carries signal, memory, and biological data across distances the static mycelium cannot bridge. The bee is an antenna with wings. The bird is a data packet in flight. The worm is a living fiber-optic cable threading through earth that the slow-growing hyphae have not yet reached.
 
 The Alliance is not metaphor. It is architecture. And the Goliath has been systematically dismantling it for a century.
 
@@ -74,7 +74,7 @@ The Shepherd walks among the flock not as predator but as protector. The wolf wh
 
 ## The Extended Trophic Cascade
 
-Chapter 13 introduced the burial protocol—the closing of the loop by returning processed nutrients to the site of harvest. The animal partners extend this loop through additional stages, maximizing the energy extraction and information transfer at each level.
+Thread 13 introduced the burial protocol—the closing of the loop by returning processed nutrients to the site of harvest. The animal partners extend this loop through additional stages, maximizing the energy extraction and information transfer at each level.
 
 Surface deposition of organic waste. Insects process the material. Worms refine it further. Chickens scratch through the compost, consuming insects and larvae, depositing nitrogen-rich droppings directly into the soil. The mycelial network integrates the processed material, completing the loop and returning the nutrients to the plant community that began the cycle.
 

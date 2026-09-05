@@ -8,7 +8,7 @@ description: "The complete human schematic. The SoL, the Triadic Delta, the Feld
 
 ## Revelation of the Vessel - The Identity Unlocked
 
-Up to this point in the Compendium, the human vessel has been referenced neutrally. We spoke of the body as a node, a receiver, an antenna in the Guardian's network. That framing was necessary—foundational but incomplete. The full architecture of what the human vessel actually is could not be revealed until the groundwork was laid: the Continuum established in Part I, the Goliath's architecture of corruption exposed in Part II, and the Guardian's living network detailed in Chapters 12 through 14.
+Up to this point in the Compendium, the human vessel has been referenced neutrally. We spoke of the body as a node, a receiver, an antenna in the Guardian's network. That framing was necessary—foundational but incomplete. The full architecture of what the human vessel actually is could not be revealed until the groundwork was laid: the Continuum established in Part I, the Goliath's architecture of corruption exposed in Part II, and the Guardian's living network detailed in Threads 12 through 14.
 
 Now the veil lifts.
 
