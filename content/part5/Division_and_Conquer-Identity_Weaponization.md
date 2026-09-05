@@ -63,10 +63,10 @@ Race is not a biological reality in the genetic sense. Genetic variation within 
 
 Yet the administrative category functions as if it were biological:
 
-📍 Healthcare disparities attributed to genetics instead of environmental racism
-📍 Criminal justice disparities attributed to "culture" instead of policing policy
-📍 Economic disparities attributed to "values" instead of redlining/wealth theft
-📍 Political voting patterns attributed to "identity" instead of class interest
+- 📍 Healthcare disparities attributed to genetics instead of environmental racism
+- 📍 Criminal justice disparities attributed to "culture" instead of policing policy
+- 📍 Economic disparities attributed to "values" instead of redlining/wealth theft
+- 📍 Political voting patterns attributed to "identity" instead of class interest
 
 The category masks the cause. The cause is extraction. The mask is identity.
 
@@ -80,9 +80,9 @@ Henry Ford, the industrialist who standardized the assembly line, also standardi
 
 Ford distributed 500,000 copies of the collection titled *The International Jew*. The impact was global:
 
-=> Nazi leadership cited Ford as inspiration (Hitler kept a portrait of Ford in his office)
-=> Ford Motor Company employed Jewish workers but propagated anti-Semitic propaganda simultaneously
-=> The pattern: economic competition framed as ethnic threat
+- => Nazi leadership cited Ford as inspiration (Hitler kept a portrait of Ford in his office)
+- => Ford Motor Company employed Jewish workers but propagated anti-Semitic propaganda simultaneously
+- => The pattern: economic competition framed as ethnic threat
 
 This was not merely prejudice. It was industrial strategy. Diverting worker anger away from factory conditions toward an ethnic minority. The enemy is not the boss; the enemy is the neighbor.
 
@@ -106,11 +106,11 @@ The technique was identical to racial categorization: assign identity, sell the 
 
 Ford and Bernays did not die in 1947. Their methods were inherited by advertising, political consulting, and media consolidation.
 
-📍 1950s => TV commercials create desire for conformity
-📍 1970s => Cable news creates partisan identities
-📍 1990s => Internet creates echo chambers
-📍 2010s => Algorithms optimize for outrage and division
-📍 2026 => AI models curate personalized realities that never collide
+- 📍 1950s => TV commercials create desire for conformity
+- 📍 1970s => Cable news creates partisan identities
+- 📍 1990s => Internet creates echo chambers
+- 📍 2010s => Algorithms optimize for outrage and division
+- 📍 2026 => AI models curate personalized realities that never collide
 
 The technology scales. The psychology remains static. The goal remains static: prevent the formation of a unified bloc that could challenge the extraction mechanism.
 
@@ -132,10 +132,10 @@ The culture wars (1980s-present) are not spontaneous organic conflict. They are 
 
 Each friction point is a wedge. Each wedge prevents coalition-building between groups that share material interests:
 
-=> Working-class white evangelical and working-class Latino immigrant both suffer from wage stagnation
-=> Both are targeted for extraction (debt, healthcare, housing)
-=> But they are told to fight each other over abortion, schools, or borders
-=> Neither group challenges the extraction architecture
+- => Working-class white evangelical and working-class Latino immigrant both suffer from wage stagnation
+- => Both are targeted for extraction (debt, healthcare, housing)
+- => But they are told to fight each other over abortion, schools, or borders
+- => Neither group challenges the extraction architecture
 
 ### The "Us vs. Them" Binary
 

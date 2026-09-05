@@ -79,12 +79,12 @@ This was the moment when the six-point architecture of Thread 1 fused with petro
 
 APOC was the first true GOLIATH node. It was:
 
-=> Hierarchical — corporate executive structure mirroring military command
-=> Extractive — pulling wealth from the ground beneath a sovereign nation with that nation's coerced consent
-=> Lineage-protected — British government ownership ensured continuity across elections and administrations
-=> Information-monopolistic — geological surveys, production data, and reserve estimates were classified
-=> Self-protecting — diplomatic and military protection from the British Empire
-=> Regime-independent — the company outlived the Shah who signed the concession, the government that bought it, and the empire that sustained it
+- => Hierarchical — corporate executive structure mirroring military command
+- => Extractive — pulling wealth from the ground beneath a sovereign nation with that nation's coerced consent
+- => Lineage-protected — British government ownership ensured continuity across elections and administrations
+- => Information-monopolistic — geological surveys, production data, and reserve estimates were classified
+- => Self-protecting — diplomatic and military protection from the British Empire
+- => Regime-independent — the company outlived the Shah who signed the concession, the government that bought it, and the empire that sustained it
 
 The six points, confirmed. The fuel source, secured. GOLIATH had its blood supply.
 
@@ -100,15 +100,15 @@ The standard narrative: Germany committed an atrocity against civilians. The ful
 
 ### The Known Facts
 
-=> The Lusitania was listed in Jane's Fighting Ships as an Auxiliary Cruiser — a vessel eligible for naval requisition. The German embassy placed advertisements in New York newspapers warning passengers that the ship was sailing through a war zone.
+- => The Lusitania was listed in Jane's Fighting Ships as an Auxiliary Cruiser — a vessel eligible for naval requisition. The German embassy placed advertisements in New York newspapers warning passengers that the ship was sailing through a war zone.
 
-=> The Lusitania was carrying munitions. The cargo manifest included 4.2 million rounds of rifle ammunition, 1,250 cases of shrapnel shells, and other war materiel. This has been confirmed by diving expeditions to the wreck.
+- => The Lusitania was carrying munitions. The cargo manifest included 4.2 million rounds of rifle ammunition, 1,250 cases of shrapnel shells, and other war materiel. This has been confirmed by diving expeditions to the wreck.
 
-=> Winston Churchill, as First Lord of the Admiralty, had withdrawn the destroyer escort that had been protecting the Lusitania through the Irish Sea. The ship was ordered to proceed at reduced speed through waters known to contain U-boats, without zigzag maneuvering, without escort.
+- => Winston Churchill, as First Lord of the Admiralty, had withdrawn the destroyer escort that had been protecting the Lusitania through the Irish Sea. The ship was ordered to proceed at reduced speed through waters known to contain U-boats, without zigzag maneuvering, without escort.
 
-=> A signal was sent to the Lusitania ordering Captain Turner to reduce speed and await further instructions. The order effectively made the ship a stationary target in a war zone.
+- => A signal was sent to the Lusitania ordering Captain Turner to reduce speed and await further instructions. The order effectively made the ship a stationary target in a war zone.
 
-=> The British Admiralty did not issue a general warning about U-boat activity in the specific area where the Lusitania was sailing, despite having decrypted German naval codes and knowing U-boat positions.
+- => The British Admiralty did not issue a general warning about U-boat activity in the specific area where the Lusitania was sailing, despite having decrypted German naval codes and knowing U-boat positions.
 
 ### The Pattern Identified
 
@@ -123,11 +123,11 @@ The pattern is not unique to the Lusitania. It recurs across the century:
 
 The architecture echoes forward. Israel's October 7th events — where intelligence failures permitted an attack that became the justification for expanded military operations and MIC funding — follow the same structural template:
 
-=> Intelligence capability existed to prevent the attack
-=> Resources were redirected or withheld at critical moments
-=> Civilian casualties generated maximum public outrage
-=> The outrage was channeled into a predetermined military response
-=> The military response required accelerated MIC procurement
+- => Intelligence capability existed to prevent the attack
+- => Resources were redirected or withheld at critical moments
+- => Civilian casualties generated maximum public outrage
+- => The outrage was channeled into a predetermined military response
+- => The military response required accelerated MIC procurement
 
 ### Churchill's Treasonous Collaboration
 
@@ -139,11 +139,11 @@ The pattern is not patriotism. The pattern is architecture serving architecture.
 
 The Lusitania established the template for manufacturing consent for war. The template would be refined and repeated:
 
-📍 Lusitania (1915) => Drawing America into WWI
-📍 Pearl Harbor (1941) => Drawing America into WWII
-📍 Gulf of Tonkin (1964) => Drawing America into Vietnam
-📍 9/11 (2001) => Drawing America into the Middle East
-📍 October 7 (2023) => Drawing MIC funding into expanded Middle East operations
+- 📍 Lusitania (1915) => Drawing America into WWI
+- 📍 Pearl Harbor (1941) => Drawing America into WWII
+- 📍 Gulf of Tonkin (1964) => Drawing America into Vietnam
+- 📍 9/11 (2001) => Drawing America into the Middle East
+- 📍 October 7 (2023) => Drawing MIC funding into expanded Middle East operations
 
 Each event followed the Lusitania template: intelligence existed, resources were redirected, civilian casualties maximized outrage, outrage was channeled into predetermined military response, military response benefited MIC procurement.
 
@@ -191,13 +191,13 @@ Winston Churchill occupies a unique position in the GOLIATH architecture. He was
 
 His roles:
 
-=> First Lord of the Admiralty (1911–1915) => Orchestrated the APOC government acquisition; managed the Lusitania context
-=> Minister of Munitions (1917–1918) => Oversaw wartime industrial production
-=> Secretary of State for War (1919–1921) => Managed the Middle East reorganization after WWI, including the partition of the Ottoman Empire
-=> Chancellor of the Exchequer (1924–1929) => Oversaw the return to the gold standard, benefiting banking interests
-=> First Lord of the Admiralty (1939–1940) => Again naval command, again oil-dependent fleet
-=> Prime Minister (1940–1945) => Led Britain through WWII; coordinated with U.S. on Middle East oil division
-=> Prime Minister (1951–1955) => Oversaw the early Cold War architecture and the Iranian oil crisis (1951–1953)
+- => First Lord of the Admiralty (1911–1915) => Orchestrated the APOC government acquisition; managed the Lusitania context
+- => Minister of Munitions (1917–1918) => Oversaw wartime industrial production
+- => Secretary of State for War (1919–1921) => Managed the Middle East reorganization after WWI, including the partition of the Ottoman Empire
+- => Chancellor of the Exchequer (1924–1929) => Oversaw the return to the gold standard, benefiting banking interests
+- => First Lord of the Admiralty (1939–1940) => Again naval command, again oil-dependent fleet
+- => Prime Minister (1940–1945) => Led Britain through WWII; coordinated with U.S. on Middle East oil division
+- => Prime Minister (1951–1955) => Oversaw the early Cold War architecture and the Iranian oil crisis (1951–1953)
 
 ### The Unbroken Thread
 
@@ -223,12 +223,12 @@ Iran is the center of gravity. Everyone who has sought to control the Middle Eas
 
 ### The 1901–1953 Arc
 
-🌍 1901 => D'Arcy concession signed; Persian oil claimed by British capital
-🌍 1909 => APOC incorporated; British state acquires controlling stake
-🌍 1914 => Government purchases 51%; Navy converts to oil
-🌍 1951 => Mohammad Mossadegh nationalizes Iranian oil
-🌍 1953 => CIA/MI6 orchestrate coup; Mossadegh overthrown; Shah restored; oil concessions redistributed among British, American, French, and Dutch companies
-🌍 1954 => APOC restructured as British Petroleum (BP)
+- 🌍 1901 => D'Arcy concession signed; Persian oil claimed by British capital
+- 🌍 1909 => APOC incorporated; British state acquires controlling stake
+- 🌍 1914 => Government purchases 51%; Navy converts to oil
+- 🌍 1951 => Mohammad Mossadegh nationalizes Iranian oil
+- 🌍 1953 => CIA/MI6 orchestrate coup; Mossadegh overthrown; Shah restored; oil concessions redistributed among British, American, French, and Dutch companies
+- 🌍 1954 => APOC restructured as British Petroleum (BP)
 
 The 1953 coup was not merely a regime change. It was the moment when the United States replaced Britain as the primary manager of the Middle Eastern oil architecture. GOLIATH did not change. The vehicle changed.
 
@@ -236,19 +236,19 @@ The 1953 coup was not merely a regime change. It was the moment when the United 
 
 When the 1979 Iranian Revolution expelled Western oil companies, GOLIATH did not collapse. It adapted. The survival architecture manifested as:
 
-=> Military encirclement: U.S. bases in Iraq, Afghanistan, Kuwait, Qatar, Bahrain, UAE, Oman, Pakistan, Kyrgyzstan, Uzbekistan, Tajikistan
-=> Sanctions regime: economic isolation designed to prevent Iran from leveraging its hydrocarbon reserves independently
-=> Proxy warfare: Iran-Iraq War (1980–1988) orchestrated to exhaust both nations
+- => Military encirclement: U.S. bases in Iraq, Afghanistan, Kuwait, Qatar, Bahrain, UAE, Oman, Pakistan, Kyrgyzstan, Uzbekistan, Tajikistan
+- => Sanctions regime: economic isolation designed to prevent Iran from leveraging its hydrocarbon reserves independently
+- => Proxy warfare: Iran-Iraq War (1980–1988) orchestrated to exhaust both nations
                        Nuclear standoff: perpetual crisis justification for continued military presence and expenditure
-=> Naval presence: Fifth Fleet headquarters in Bahrain; constant carrier group rotation through the Persian Gulf
+- => Naval presence: Fifth Fleet headquarters in Bahrain; constant carrier group rotation through the Persian Gulf
 
 ### The Architecture's Persistence
 
 GOLIATH's relationship with Iran demonstrates the survival principle from Thread 1. Whether the Shah is in power (allied) or the Ayatollahs are in power (adversarial), the architecture persists:
 
-=> If allied => extract through partnership
-=> If adversarial => extract through military expenditure and sanctions enforcement
-=> Either way => wealth flows upward; the architecture is fed
+- => If allied => extract through partnership
+- => If adversarial => extract through military expenditure and sanctions enforcement
+- => Either way => wealth flows upward; the architecture is fed
 
 Iran is not GOLIATH's enemy. Iran is GOLIATH's raison d'être for the Middle Eastern theater. Without Iran as adversary, the military presence has no justification. Without military presence, the oil architecture has no enforcement arm. Without the enforcement arm, the extraction stops. Without extraction, GOLIATH starves.
 
@@ -319,13 +319,13 @@ This is not a conspiracy. This is structural mechanics. Once oil becomes the pri
 
 The loop is amplified by the financial architecture installed in 1913 (which Thread 3 will address):
 
-💰 Oil is priced in dollars
-💰 Dollars are created by debt
-💰 Debt is issued by the Federal Reserve
-💰 Interest on debt flows to the banking system
-💰 The banking system funds the military-industrial complex
-💰 The military-industrial complex protects the oil
-💰 Oil is priced in dollars
+- 💰 Oil is priced in dollars
+- 💰 Dollars are created by debt
+- 💰 Debt is issued by the Federal Reserve
+- 💰 Interest on debt flows to the banking system
+- 💰 The banking system funds the military-industrial complex
+- 💰 The military-industrial complex protects the oil
+- 💰 Oil is priced in dollars
 
 The loop closes. GOLIATH is self-fed from three directions simultaneously: oil feeds the military, the military feeds the banks, the banks feed the oil. Each loop strengthens the others.
 
@@ -353,9 +353,9 @@ The D'Arcy Concession (1901) was the seed. The APOC incorporation (1909) was the
 
 Through every phase, the six constants from Thread 1 held:
 
-📍 Hierarchy => Corporate-military command structure
-📍 Extraction => Oil removed from sovereign soil below market compensation
-📍 Lineage => D'Arcy => APOC => BP => the corporate bloodline
-📍 Monopoly => Geological data classified; reserves data controlled
-📍 Protection => Military enforcement of extraction rights
-📍 Survival => Architecture outlived Shah, Mossadegh, British Empire, Cold War
+- 📍 Hierarchy => Corporate-military command structure
+- 📍 Extraction => Oil removed from sovereign soil below market compensation
+- 📍 Lineage => D'Arcy => APOC => BP => the corporate bloodline
+- 📍 Monopoly => Geological data classified; reserves data controlled
+- 📍 Protection => Military enforcement of extraction rights
+- 📍 Survival => Architecture outlived Shah, Mossadegh, British Empire, Cold War

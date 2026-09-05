@@ -35,9 +35,9 @@ The mid-19th century was a period of crisis for institutional religion. The Enli
 
 Into this vacuum, Darwin's work arrived not merely as science but as cosmology. It provided:
 
-=> A creation narrative without a creator (natural selection as blind watchmaker)
-=> A moral framework without divine authority (survival of the fittest as natural law)
-=> A hierarchy justification (favored races, struggle for life — language later weaponized by eugenics)
+- => A creation narrative without a creator (natural selection as blind watchmaker)
+- => A moral framework without divine authority (survival of the fittest as natural law)
+- => A hierarchy justification (favored races, struggle for life — language later weaponized by eugenics)
 → An epistemological anchor (empirical observation as sole arbiter of truth)
 
 The scientific establishment did not merely adopt Darwin's findings. It elevated the theory to doctrinal status. Dissent from Darwin's mechanism was treated not as scientific disagreement but as intellectual backwardness.
@@ -60,12 +60,12 @@ The Compendium does not deny adaptation. It denies that adaptation is purposeles
 
 Darwin's language was weaponized within decades:
 
-📍 1869 => Francis Galton publishes *Hereditary Genius*, founding eugenics
-📍 1883 => Galton coins the term "eugenics" (Greek: "well-born")
-📍 1907 => Indiana passes first compulsory sterilization law (U.S.)
-📍 1927 => Buck v. Bell Supreme Court decision upholds forced sterilization ("Three generations of imbeciles are enough")
-📍 1933 => Nazi Germany passes Law for the Prevention of Hereditarily Diseased Offspring (modeled on U.S. sterilization laws)
-📍 1945-1947 => Nuremberg reveals eugenics' logical conclusion
+- 📍 1869 => Francis Galton publishes *Hereditary Genius*, founding eugenics
+- 📍 1883 => Galton coins the term "eugenics" (Greek: "well-born")
+- 📍 1907 => Indiana passes first compulsory sterilization law (U.S.)
+- 📍 1927 => Buck v. Bell Supreme Court decision upholds forced sterilization ("Three generations of imbeciles are enough")
+- 📍 1933 => Nazi Germany passes Law for the Prevention of Hereditarily Diseased Offspring (modeled on U.S. sterilization laws)
+- 📍 1945-1947 => Nuremberg reveals eugenics' logical conclusion
 
 Eugenics did not distort Darwin. Eugenics applied Darwin's framework — selective breeding, environmental fitness, favored races — to human populations. The language of "fitness" and "selection" translated directly into policy.
 
@@ -108,12 +108,12 @@ Seven steps. Seven gates. Each gate grants access to new information. Only the P
 
 Peer review is presented as quality control. In practice, it functions as orthodoxy enforcement:
 
-=> Reviewers are selected from within the existing paradigm
-=> Findings that challenge paradigm receive hostile reviews
-=> Publication requires conformity to established frameworks
+- => Reviewers are selected from within the existing paradigm
+- => Findings that challenge paradigm receive hostile reviews
+- => Publication requires conformity to established frameworks
 → Funding follows publication; careers follow funding
-=> Dissenters are denied publication, denied funding, denied tenure
-=> The cycle excludes heterodox thinking automatically
+- => Dissenters are denied publication, denied funding, denied tenure
+- => The cycle excludes heterodox thinking automatically
 
 This is the same mechanism the Catholic Church used through the Inquisition: define orthodoxy, credential the orthodox, suppress the heterodox, present the consensus as divinely (or scientifically) mandated.
 
@@ -141,12 +141,12 @@ Scientific method requires skepticism. The method is built on questioning hypoth
 
 The inversion was visible during COVID-19:
 
-=> "Follow the science" meant follow the policy, not question the evidence
-=> Masks: initially discouraged, then mandated, then discouraged again — without acknowledging the reversal
-=> Natural immunity: dismissed despite immunological evidence; later partially acknowledged
-=> Early treatment options: dismissed as "unscientific" before being tested; researchers who advocated investigation were censored
-=> Vaccine efficacy claims: revised downward repeatedly without acknowledging the pattern of revision
-=> Lab leak hypothesis: dismissed as conspiracy theory in 2020; acknowledged as plausible in 2023
+- => "Follow the science" meant follow the policy, not question the evidence
+- => Masks: initially discouraged, then mandated, then discouraged again — without acknowledging the reversal
+- => Natural immunity: dismissed despite immunological evidence; later partially acknowledged
+- => Early treatment options: dismissed as "unscientific" before being tested; researchers who advocated investigation were censored
+- => Vaccine efficacy claims: revised downward repeatedly without acknowledging the pattern of revision
+- => Lab leak hypothesis: dismissed as conspiracy theory in 2020; acknowledged as plausible in 2023
 
 Each reversal was presented as "updated science" rather than as evidence that the previous consensus was wrong. The authority of "Science" was never questioned — only the specific conclusions were updated, and updating was framed as the system working correctly.
 
@@ -183,20 +183,20 @@ Robert H. Whittaker proposed the five-kingdom system of biological classificatio
 
 Whittaker's reclassification separated Fungi from Plants — a taxonomically correct decision. But the institutional aftermath of the reclassification reveals the epistemological capture pattern:
 
-=> Fungi were categorized as a separate kingdom but relegated to scientific marginalization
-=> Mycology received minimal research funding compared to botany and zoology
-=> The Mycorrhizal Mesh — the 400-million-year-old fungal network connecting plant roots across ecosystems — was known to exist but systematically underresearched
-=> The pharmaceutical industry's antibiotic model targets fungal communities as pathogens rather than symbionts
-=> The Compendium identifies this as suppression of knowledge about the Mesh's biological function
+- => Fungi were categorized as a separate kingdom but relegated to scientific marginalization
+- => Mycology received minimal research funding compared to botany and zoology
+- => The Mycorrhizal Mesh — the 400-million-year-old fungal network connecting plant roots across ecosystems — was known to exist but systematically underresearched
+- => The pharmaceutical industry's antibiotic model targets fungal communities as pathogens rather than symbionts
+- => The Compendium identifies this as suppression of knowledge about the Mesh's biological function
 
 ### The Pattern
 
 The Whittaker reclassification illustrates how scientific taxonomy can both reveal and obscure:
 
-📍 Fungi given their own kingdom = recognition of their distinctiveness (positive)
-📍 Fungi research chronically underfunded = marginalization within the scientific hierarchy
-📍 Antibiotics targeting fungi = pharmaceutical model treats fungal communities as enemies
-📍 Mycorrhizal Mesh underrecognized = the biological substrate of interconnection remains invisible to mainstream science
+- 📍 Fungi given their own kingdom = recognition of their distinctiveness (positive)
+- 📍 Fungi research chronically underfunded = marginalization within the scientific hierarchy
+- 📍 Antibiotics targeting fungi = pharmaceutical model treats fungal communities as enemies
+- 📍 Mycorrhizal Mesh underrecognized = the biological substrate of interconnection remains invisible to mainstream science
 → Symbiotic fungal networks dismissed as "new age" when discussed outside institutional channels
 
 The architecture is the same as "Trust the Science": the institution claims authority over what counts as legitimate knowledge. Knowledge that challenges the pharmaceutical-agricultural model (Thread 6) is marginalized as unscientific, even when the evidence supports it.
@@ -223,11 +223,11 @@ The scientific establishment insists on separation:
 
 The physics-metaphysics separation serves GOLIATH because it fragments knowledge:
 
-=> If the Mycorrhizal Mesh is "just biology," it can be killed with glyphosate without spiritual implications
-=> If consciousness is "just brain chemistry," it can be managed with pharmaceuticals without existential concerns
-=> If evolution is "random," then human agency is irrelevant — there is no SoL to align with
+- => If the Mycorrhizal Mesh is "just biology," it can be killed with glyphosate without spiritual implications
+- => If consciousness is "just brain chemistry," it can be managed with pharmaceuticals without existential concerns
+- => If evolution is "random," then human agency is irrelevant — there is no SoL to align with
 → If interconnection is "mysticism," then decentralized networks are romantic fantasy rather than engineering reality
-=> If the Mesh is "superstition," then destroying it is progress, not amputation
+- => If the Mesh is "superstition," then destroying it is progress, not amputation
 
 The separation allows GOLIATH to kill what it calls "nature" while profiting from what it calls "resources." If physics and metaphysics were unified, killing the Mesh would be recognized as severing the biological internet — the substrate of interconnection that makes the SoLidarity possible.
 
@@ -239,10 +239,10 @@ The separation allows GOLIATH to kill what it calls "nature" while profiting fro
 
 The phrase "conspiracy theorist" was weaponized by CIA Document 1035-960, dispatched in 1967. The memorandum provided strategies for countering critics of the Warren Commission report on the JFK assassination:
 
-=> Label critics as "conspiracy theorists"
-=> Imply that questioning the official narrative indicates mental instability
-=> Associate skepticism with "paranoia" and " delusions"
-=> Use media allies to repeat the label until it became self-reinforcing
+- => Label critics as "conspiracy theorists"
+- => Imply that questioning the official narrative indicates mental instability
+- => Associate skepticism with "paranoia" and " delusions"
+- => Use media allies to repeat the label until it became self-reinforcing
 
 The document was not classifying a preexisting mental condition. It was creating a rhetorical weapon to discredit inquiry.
 
@@ -262,12 +262,12 @@ Conspiracy (legal: coordinated secret planning) + Theorist (scientific: framewor
 
 The "conspiracy theorist" label functions as the scientific establishment's version of excommunication:
 
-📍 Define orthodox narrative (official account)
-📍 Identify dissenters (those who question the account)
-📍 Apply label ("conspiracy theorist")
-📍 Imply mental deficiency (paranoia, pattern-matching gone wrong)
-📍 Exclude from serious discourse (deplatforming, credential revocation)
-📍 The label self-replicates through media repetition
+- 📍 Define orthodox narrative (official account)
+- 📍 Identify dissenters (those who question the account)
+- 📍 Apply label ("conspiracy theorist")
+- 📍 Imply mental deficiency (paranoia, pattern-matching gone wrong)
+- 📍 Exclude from serious discourse (deplatforming, credential revocation)
+- 📍 The label self-replicates through media repetition
 → Orthodox narrative remains unchallenged
 → Those who challenge it are socially neutralized
 
@@ -299,7 +299,7 @@ The technology changes. The architecture does not.
 
 The arc from Darwin to "Trust the Science" traces the consolidation of epistemological authority:
 
-=> 1859: Empiricism replaces theology as truth-framework
+- => 1859: Empiricism replaces theology as truth-framework
 → 1869-1945: Eugenics applies "scientific truth" to population control
 → 1947-1969: Institutional science formalizes its priesthood structure
 → 1967: Dissent pathologized through CIA-weaponized label
@@ -315,11 +315,11 @@ Each stage built on the last. Each stage expanded the authority of credentialed 
 
 The Compendium itself is the countermeasure to epistemological capture:
 
-=> It documents the pattern without seeking institutional validation
-=> It synthesizes across disciplines (history, biology, economics, linguistics, metaphysics) rather than remaining within credentialed silos
-=> It treats "Science" as one mode of inquiry among several, not as the sole arbiter of truth
-=> It reclaims language — "conspiracy theorist" becomes a badge of literacy
-=> It unifies physics and metaphysics through the Mycorrhizal Mesh concept
+- => It documents the pattern without seeking institutional validation
+- => It synthesizes across disciplines (history, biology, economics, linguistics, metaphysics) rather than remaining within credentialed silos
+- => It treats "Science" as one mode of inquiry among several, not as the sole arbiter of truth
+- => It reclaims language — "conspiracy theorist" becomes a badge of literacy
+- => It unifies physics and metaphysics through the Mycorrhizal Mesh concept
 
 ### The SoL as Alternative Epistemology
 

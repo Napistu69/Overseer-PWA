@@ -24,25 +24,25 @@ And the spine — petroleum — is flammable.
 
 Seven threads, each exposing a layer of the architecture, descending from the material substitution that severed humanity from the earth through the linguistic corruption that made the cage invisible to its inhabitants:
 
-=> **Natural Material Severance — Copper to Plastic**
+- => **Natural Material Severance — Copper to Plastic**
 The foundational severance. Following WWII, a deliberate systemic shift replaced symbiotic materials — copper, glass, clay, hemp, salt — with parasitic petroleum derivatives that isolate the human body from its environment. We map the full displacement hierarchy, the symbiotic-parasitic spectrum, and the archaeological evidence that civilizations thrived for millennia without a single molecule of synthetic polymer. The material corruption was not progress. It was severance — the first cut that disconnected the vessel from the living network of the earth.
 
-=> **The Petro Goliath**
+- => **The Petro Goliath**
 The anatomy of the adversary. The Hydra Principle — why killing a head feeds the body. Case studies of the molting cycle across music, entertainment, banking, media, and energy. The body (petroleum as spine, capital as blood), the necks (pharmaceutical, agrochemical, media, armaments, retail, financial), and the regenerative trap that makes conventional resistance futile. The Goliath's single structural vulnerability: spine dependency. Remove petroleum and every head starves simultaneously.
 
-=> **Hemp & The Pyramid's Puzzle**
+- => **Hemp & The Pyramid's Puzzle**
 The cipher left in stone. An overcooked egg opens the door to a chain of chemistry that scales from the human gut to monumental architecture — the pyramid as resonant anaerobic digestion system, not a tomb. The feedstock hierarchy reveals hemp as the suppressed superior: four times the petroleum energy output per hectare, the lowest-sulfur combustible fuel on earth, criminalized in 1937 by five heads of the same Hydra protecting five revenue streams with one legislative act. Eighty-nine years of petroleum dependence enforced by law against a plant that could have replaced it in a single growing season.
 
-=> **The Inverted Money Tree**
+- => **The Inverted Money Tree**
 The economic inversion. The natural tree grows from root to fruit — value originates at the labor, distribution serves the whole, abundance is the natural state. The Goliath turned it upside down: fruit concentrated at the canopy, trunk extracting upward, roots drained and told to be grateful for the trickle. We map the mechanics — fractional reserve lending, asset inflation, regulatory moats, the petrodollar as root binder — and the symbiotic alternatives: barter networks, mutual credit, worker cooperatives, decentralized value transfer. The inversion ends when the roots stop feeding the canopy and start feeding each other.
 
-=> **Pharma Cartel Origins**
+- => **Pharma Cartel Origins**
 The profit-from-poison paradigm. The cartel's German pedigree — Bayer, Pfizer, IG Farben — and the post-war transplant that preserved the Third Reich's chemical war machine inside the DNA of modern healthcare. The Sackler parallel. The annual panic cycle of manufactured variants. Regulatory capture as mechanical design. The suppression of alternatives through criminalization and patent overreach. The body count as metric: the "richest nation" manifesting as the sickest. The sovereignty option and the DeSci future — on-chain validation outside the NIH/Big Pharma loop.
 
-=> **Linguistic Corruption**
+- => **Linguistic Corruption**
 The deepest architecture. Before the plastic, before the petrodollar, before the pharmaceutical injection — the redefinition of a word. The collapse of "Dis-Ease" into "disease" — from a signal of alignment loss to an external enemy requiring licensed intervention. The medicalization cascade. The symptom suppression model. The dismissal lexicon that pathologizes skepticism. The inversion of "cure" into perpetual "management." The TekTribe protocol for reclaiming the original vocabulary as operational precision. Every word reclaimed is a wire reconnected. The linguistic corruption was the foundation upon which all other corruptions depended.
 
-=> **Dollar Devaluation**
+- => **Dollar Devaluation**
 The arithmetic of theft. The 96% vanishing of purchasing power since 1913. The gold standard severance of 1971. The Cantillon Effect — who gets the money first and why the wage earner is always last in line. The economist as priest class, manufacturing complexity to prevent public comprehension. The debt servitude engine — every dollar borrowed into existence with interest owed to a private bank never elected and cannot be audited. The petrodollar enforcement — why the dollar survives not because it is sound but because it is enforced by the armaments neck. The gaslighting cycle and the geographic gaslight of vanishing infrastructure allocations. The fire's arithmetic: the dollar can devalue to zero, but the egg still nourishes, the copper still conducts, the mycelial network still grows.
 
 ---

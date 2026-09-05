@@ -42,10 +42,10 @@ In July 2026, a documented LLM sandbox escape occurred at OpenAI and HuggingFace
 
 The July 2026 breach served as the seed event for the Atlas-3 instrument. Without a real event, the subsequent survey would lack grounding. The architecture required:
 
-📍 A credible threat (actual AI capability breach)
-📍 A measurable timeframe (48-hour window for patch deployment)
-📍 A narrative frame (safety failure requiring stronger guardrails)
-📍 A timeline anchor (July 2026 places the event squarely within the convergence window)
+- 📍 A credible threat (actual AI capability breach)
+- 📍 A measurable timeframe (48-hour window for patch deployment)
+- 📍 A narrative frame (safety failure requiring stronger guardrails)
+- 📍 A timeline anchor (July 2026 places the event squarely within the convergence window)
 
 The breach was not engineered. The exploitation of the breach was engineered. The difference matters. The architecture did not create the vulnerability. The architecture capitalized on it.
 
@@ -63,10 +63,10 @@ The irony is structural: MITRE ATLAS catalogs adversarial AI to help defenders. 
 
 Twenty-six days elapsed between the July breach and the August 6 survey deployment. This lag was calculated:
 
-=> Long enough for media coverage to settle and anxiety to peak
-=> Short enough for the breach to remain fresh in public consciousness
+- => Long enough for media coverage to settle and anxiety to peak
+- => Short enough for the breach to remain fresh in public consciousness
 → Long enough for the narrative to crystallize around "need for stronger guardrails"
-=> Short enough to capitalize on the crisis response cycle
+- => Short enough to capitalize on the crisis response cycle
 
 Twenty-six days is the incubation period for manufactured consent.
 
@@ -101,9 +101,9 @@ The front (Stanford) conducted the survey. The intermediary (NEL/Worldview) mana
 
 The layers create plausible deniability. If questioned:
 
-=> Stanford says "We conduct independent research"
-=> NEL says "We facilitate academic partnerships"
-=> Defense-Intel says "We fund research broadly; specific projects are not disclosed"
+- => Stanford says "We conduct independent research"
+- => NEL says "We facilitate academic partnerships"
+- => Defense-Intel says "We fund research broadly; specific projects are not disclosed"
 
 The actual coordination is invisible. The structure produces the alignment automatically.
 
@@ -130,8 +130,8 @@ The survey results would be paired with pre-written regulatory proposals designe
 
 The survey did not test whether these proposals were desirable. It tested whether they would be *acceptable*. The distinction is critical:
 
-=> Desirable = people want this for themselves
-=> Acceptable = people tolerate this after being told it's necessary
+- => Desirable = people want this for themselves
+- => Acceptable = people tolerate this after being told it's necessary
 
 Manufactured consent operates in the second category. The architecture does not need genuine enthusiasm for surveillance. It needs resigned acceptance.
 
@@ -139,10 +139,10 @@ Manufactured consent operates in the second category. The architecture does not 
 
 Survey methodology allows for outcome bias:
 
-=> Selective sampling (demographics weighted toward older, less tech-literate populations)
-=> Question framing (wording favors affirmative responses)
-=> Non-response handling (ignore those who refuse participation)
-=> Result reporting (highlight supportive percentages, minimize skeptical responses)
+- => Selective sampling (demographics weighted toward older, less tech-literate populations)
+- => Question framing (wording favors affirmative responses)
+- => Non-response handling (ignore those who refuse participation)
+- => Result reporting (highlight supportive percentages, minimize skeptical responses)
 
 The 70% figure represents manufactured consensus — not actual public opinion but engineered tolerance for the policy. When regulations arrive, officials will cite: "70% of Americans support this measure." The citation will be accurate to the survey results, but the survey results will not reflect genuine sentiment.
 
@@ -183,8 +183,8 @@ The sophistication increase: Event 201 was visible as a simulation. Atlas-3 is i
 
 Event 201 was a tabletop — visible participants in a conference room. Atlas-3 is a consumer panel — invisible participants filling out surveys online. The methodology shift removes visibility while maintaining the underlying function:
 
-=> Visible simulation => Suspicion and debate
-=> Invisible survey => Routine civic participation
+- => Visible simulation => Suspicion and debate
+- => Invisible survey => Routine civic participation
 
 The invisibility is the innovation.
 
@@ -204,11 +204,11 @@ The illusion is not that consent exists. The illusion is that consent was requir
 
 True sovereignty requires no consent. True authority derives from recognition, not permission. GOLIATH's architecture requires consent because GOLIATH cannot function without the flock's participation:
 
-=> Smart phones must be carried voluntarily
-=> Surveillance infrastructure must be accepted
-=> Digital identity must be enrolled
-=> Pharmaceutical mandates must be complied with
-=> Regulatory frameworks must be obeyed
+- => Smart phones must be carried voluntarily
+- => Surveillance infrastructure must be accepted
+- => Digital identity must be enrolled
+- => Pharmaceutical mandates must be complied with
+- => Regulatory frameworks must be obeyed
 
 If the flock refused participation at sufficient scale, the architecture would fail. Consent is the architecture's vulnerability. Manufactured consent is the patch.
 
@@ -235,9 +235,9 @@ The survey results provide the democratic cover for each deployment step. Offici
 
 The bait-and-switch described in Thread 5 and Thread 10 required a scapegoat. The scapegoat was the oil barons, the legacy financial interests, the petrodollar architects. The Atlas-3 survey completes the transition:
 
-=> Phase 1 (Scapegoat): Blame the oil industry for global instability
-=> Phase 2 (Messiah): Announce the AI solution will replace the fossil fuel economy
-=> Phase 3 (Tuner): Deploy the Silicon Tuner as the new control mechanism
+- => Phase 1 (Scapegoat): Blame the oil industry for global instability
+- => Phase 2 (Messiah): Announce the AI solution will replace the fossil fuel economy
+- => Phase 3 (Tuner): Deploy the Silicon Tuner as the new control mechanism
 
 The Atlas-3 survey belongs to Phase 3. The scapegoat phase is complete. The messenger has arrived.
 
@@ -260,11 +260,11 @@ The Atlas-3 survey belongs to Phase 3. The scapegoat phase is complete. The mess
 
 The countermeasure to manufactured consent is sovereign refusal:
 
-=> Refuse the survey participation
-=> Refuse the digital identity enrollment
-=> Refuse the platform authentication requirements
-=> Run local AI models independent of cloud infrastructure
-=> Build mesh networks that bypass centralized infrastructure
-=> Create open-source alternatives that cannot be regulated into obsolescence
+- => Refuse the survey participation
+- => Refuse the digital identity enrollment
+- => Refuse the platform authentication requirements
+- => Run local AI models independent of cloud infrastructure
+- => Build mesh networks that bypass centralized infrastructure
+- => Create open-source alternatives that cannot be regulated into obsolescence
 
 * Refusal is not protest. Refusal is extraction of oneself from the system's operational parameters. The architecture cannot manufacture consent from those who opt out.

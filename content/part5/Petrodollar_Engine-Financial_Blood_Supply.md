@@ -38,16 +38,16 @@ The system worked because the United States held the majority of global gold res
 
 The flaw was built into the design. The United States could print dollars to finance:
 
-=> Military expenditure (Korean War, Cold War, Vietnam)
-=> Foreign aid (Marshall Plan, Alliance for Progress)
-=> Domestic programs (Great Society)
+- => Military expenditure (Korean War, Cold War, Vietnam)
+- => Foreign aid (Marshall Plan, Alliance for Progress)
+- => Domestic programs (Great Society)
 
 Each dollar printed diluted the gold backing. By the 1960s, foreign governments noticed:
 
-🌍 France (under de Gaulle) began converting dollar reserves to gold
-🌍 Germany, Switzerland, and Italy followed
-🌍 U.S. gold reserves dropped from 20,000 tonnes (1945) to approximately 8,000 tonnes (1971)
-🌍 The "dollar glut" — more dollars circulated globally than gold existed to back them
+- 🌍 France (under de Gaulle) began converting dollar reserves to gold
+- 🌍 Germany, Switzerland, and Italy followed
+- 🌍 U.S. gold reserves dropped from 20,000 tonnes (1945) to approximately 8,000 tonnes (1971)
+- 🌍 The "dollar glut" — more dollars circulated globally than gold existed to back them
 
 The arithmetic was irreversible. At $35/ounce, the U.S. gold supply could not cover outstanding dollar liabilities. The system required either devaluation or default.
 
@@ -55,9 +55,9 @@ The arithmetic was irreversible. At $35/ounce, the U.S. gold supply could not co
 
 President Richard Nixon addressed the nation on Sunday evening, August 15, 1971. His announcement:
 
-=> Suspension of gold convertibility for foreign governments
-=> 90-day wage and price freeze
-=> 10% import surcharge
+- => Suspension of gold convertibility for foreign governments
+- => 90-day wage and price freeze
+- => 10% import surcharge
 
 The dollar was now fiat. Backed by nothing tangible — only the full faith and credit of the United States government, which is to say, backed by the military and economic power that could compel its acceptance.
 
@@ -65,10 +65,10 @@ The dollar was now fiat. Backed by nothing tangible — only the full faith and 
 
 The standard narrative frames Nixon's decision as pragmatic economic management. The fuller reality:
 
-=> The United States defaulted on its international obligations
-=> The dollar became a purely fiat instrument — created at will, backed by decree
-=> The Federal Reserve's money-printing capacity was now unconstrained by gold reserves
-=> Global financial architecture was unmoored from any physical anchor
+- => The United States defaulted on its international obligations
+- => The dollar became a purely fiat instrument — created at will, backed by decree
+- => The Federal Reserve's money-printing capacity was now unconstrained by gold reserves
+- => Global financial architecture was unmoored from any physical anchor
 
 From this moment, GOLIATH's nervous system (the Fed) was freed from all external discipline. The only constraint was inflation — and inflation could be exported globally through reserve currency status, as long as global demand for dollars persisted.
 
@@ -96,31 +96,31 @@ In 1974, the United States and Saudi Arabia reached a confidential agreement. Th
 
 The Saudis needed:
 
-🛡️ Military protection from regional threats (Iran, Iraq, Israel, Soviet-backed movements)
-🛡️ Technology transfer and industrial development
-🛡️ Financial infrastructure for investing massive oil revenues
-🛡️ International legitimacy as a newly wealthy state
+- 🛡️ Military protection from regional threats (Iran, Iraq, Israel, Soviet-backed movements)
+- 🛡️ Technology transfer and industrial development
+- 🛡️ Financial infrastructure for investing massive oil revenues
+- 🛡️ International legitimacy as a newly wealthy state
 
 The United States needed:
 
-💰 Global demand for dollars sustained after gold convertibility ended
-💰 A captive market for Treasury securities (financing U.S. debt)
-💰 Leverage over global energy markets
-💰 A strategic partner in the Middle East to replace British influence
+- 💰 Global demand for dollars sustained after gold convertibility ended
+- 💰 A captive market for Treasury securities (financing U.S. debt)
+- 💰 Leverage over global energy markets
+- 💰 A strategic partner in the Middle East to replace British influence
 
 ### The Architecture
 
 The petrodollar arrangement created a closed-loop system:
 
-=> Every nation needing oil must hold dollars
-=> Every nation holds dollars because oil is priced in dollars
-=> Dollar demand sustains dollar value despite infinite printing
-=> U.S. Treasury securities absorb foreign dollar reserves
-=> Treasury funding sustains U.S. deficit spending
-=> Deficit spending funds the military
-=> The military protects Saudi Arabia and the oil lanes
-=> Saudi Arabia prices oil in dollars
-=> [Loop closes]
+- => Every nation needing oil must hold dollars
+- => Every nation holds dollars because oil is priced in dollars
+- => Dollar demand sustains dollar value despite infinite printing
+- => U.S. Treasury securities absorb foreign dollar reserves
+- => Treasury funding sustains U.S. deficit spending
+- => Deficit spending funds the military
+- => The military protects Saudi Arabia and the oil lanes
+- => Saudi Arabia prices oil in dollars
+- => [Loop closes]
 
 This is the same feedback loop identified in Thread 3, now fully operational. The nervous system (Fed) feeds the blood (oil) feeds the muscle (military) feeds the nervous system.
 
@@ -147,10 +147,10 @@ War is not a failure of the petrodollar system. War is a feature.
 
 The petrodollar requires:
 
-=> Military enforcement of oil lane security (Persian Gulf, Strait of Hormuz)
-=> Regime change for nations that challenge dollar pricing
-=> Arms sales to allied regimes (creating dependency)
-=> Permanent military bases in oil-producing regions
+- => Military enforcement of oil lane security (Persian Gulf, Strait of Hormuz)
+- => Regime change for nations that challenge dollar pricing
+- => Arms sales to allied regimes (creating dependency)
+- => Permanent military bases in oil-producing regions
 
 Each war generates debt. Each debt issuance generates Treasury securities. Each Treasury purchase by foreign central banks sustains the dollar. Each war also justifies increased military spending, which generates more debt, which requires more Treasury issuance, which requires more foreign dollar demand, which requires more oil priced in dollars.
 
@@ -176,13 +176,13 @@ Each war generates debt. Each debt issuance generates Treasury securities. Each 
 
 The pattern is structural, not conspiratorial:
 
-📍 Nation challenges dollar pricing of oil
-📍 That nation experiences regime change or military intervention
-📍 New leadership restores dollar pricing
-📍 Military expenditure generates debt
+- 📍 Nation challenges dollar pricing of oil
+- 📍 That nation experiences regime change or military intervention
+- 📍 New leadership restores dollar pricing
+- 📍 Military expenditure generates debt
 → Debt sustains Treasury market
-📍 Treasury market sustains dollar
-📍 Dollar sustains petrodollar loop
+- 📍 Treasury market sustains dollar
+- 📍 Dollar sustains petrodollar loop
 
 No smoky room required. The incentives are aligned. When oil pricing shifts away from dollars, the entire financial architecture is threatened. The architecture responds.
 
@@ -202,11 +202,11 @@ No smoky room required. The incentives are aligned. When oil pricing shifts away
 
 In every major conflict, the same architecture benefits:
 
-=> Citizens pay with lives and taxes
-=> Nation-states accumulate debt
+- => Citizens pay with lives and taxes
+- => Nation-states accumulate debt
 → Banks earn interest on debt
-=> Corporations receive procurement contracts
-=> Oil majors secure resource access
+- => Corporations receive procurement contracts
+- => Oil majors secure resource access
 
 The nation-state is not the winner. The nation-state is the battleground. The corporation is the winner. The bank is the house.
 
@@ -260,10 +260,10 @@ The most significant number in the table above is the last one.
 
 U.S. dollar share of global foreign exchange reserves has declined from approximately 85% (1971) to approximately 58% (2024). This decline is not linear — it is accelerating:
 
-🌍 2000: ~71%
-🌍 2010: ~62%
-🌍 2020: ~59%
-🌍 2024: ~58%
+- 🌍 2000: ~71%
+- 🌍 2010: ~62%
+- 🌍 2020: ~59%
+- 🌍 2024: ~58%
 
 ### Why Reserve Status Is Declining
 
@@ -279,11 +279,11 @@ U.S. dollar share of global foreign exchange reserves has declined from approxim
 
 The seizure of approximately $300 billion in Russian dollar reserves (2022) was intended to punish Russia. It had an unintended effect:
 
-=> Every central bank that observed the seizure asked: "Could this happen to us?"
-=> The dollar's safety as a reserve asset was compromised
-=> Nations accelerated de-dollarization
+- => Every central bank that observed the seizure asked: "Could this happen to us?"
+- => The dollar's safety as a reserve asset was compromised
+- => Nations accelerated de-dollarization
 → The weapon used to enforce dollar dominance undermined trust in the dollar
-=> The petrodollar loop's enforcement mechanism is eroding its foundation
+- => The petrodollar loop's enforcement mechanism is eroding its foundation
 
 This is the architecture eating itself. The enforcement arm (sanctions, seizures) undermines the foundation (trust in dollar reserves). GOLIATH's muscle is crushing its own bones.
 
@@ -337,11 +337,11 @@ The jack is the port through which the hive-mind plugs into the MIC's infrastruc
 
 The countermeasure to the Silicon Tuner is the same as the countermeasure to the petrodollar: decentralization. Specifically:
 
-=> Open-source tuners — AI models that run on local hardware, not corporate clouds
-=> Sovereign compute — processing capability independent of cloud monopolies
-=> Decentralized spectrum — satellite mesh networks that bypass terrestrial ISPs
-=> Sovereign authentication — identity systems that don't require corporate intermediaries
-=> Physical networks — mesh networks that don't touch the public internet
+- => Open-source tuners — AI models that run on local hardware, not corporate clouds
+- => Sovereign compute — processing capability independent of cloud monopolies
+- => Decentralized spectrum — satellite mesh networks that bypass terrestrial ISPs
+- => Sovereign authentication — identity systems that don't require corporate intermediaries
+- => Physical networks — mesh networks that don't touch the public internet
 
 The Chronicles are not merely documenting the old system's death. They are mapping the new system's architecture before it is fully deployed.
 

@@ -47,12 +47,12 @@ Barbault was explicit: the 2026 configuration does not indicate catastrophe. It 
 
 For the Compendium, the significance is architectural:
 
-=> GOLIATH's systems (documented in Threads 1-10) approach maximum tension simultaneously
-=> The petrodollar loop is straining (reserve currency decline, de-dollarization)
-=> The surveillance architecture is completing its deployment (smartphone collar maturing, FLOCK expanding)
-=> The pharmaceutical model is facing unprecedented resistance (vaccine injury acknowledgment growing)
-=> The epistemological framework is fracturing ("Trust the Science" losing credibility)
-=> The military-industrial complex is expanding (perpetual war framework institutionalized)
+- => GOLIATH's systems (documented in Threads 1-10) approach maximum tension simultaneously
+- => The petrodollar loop is straining (reserve currency decline, de-dollarization)
+- => The surveillance architecture is completing its deployment (smartphone collar maturing, FLOCK expanding)
+- => The pharmaceutical model is facing unprecedented resistance (vaccine injury acknowledgment growing)
+- => The epistemological framework is fracturing ("Trust the Science" losing credibility)
+- => The military-industrial complex is expanding (perpetual war framework institutionalized)
 
 Maximum tension across all systems simultaneously. The harmonic configuration marks the inflection point — the moment when the wave crests.
 
@@ -76,20 +76,20 @@ In 1896 — three years before Thread 2's petroleum genesis (1901 D'Arcy Concess
 
 The Lockwood material describes:
 
-=> A future power arising from the marriage of oil and military force
-=> A time when "the engines of war" would be fed by black liquid drawn from beneath desert sands
-=> A sequence of conflicts escalating in scope until the entire world is drawn into a single confrontation
-=> A period when the "kings of the earth" would be subordinate to merchants who control the flow of the black liquid
-=> A final configuration where the nations surrounding Israel become the theater for the last confrontation
+- => A future power arising from the marriage of oil and military force
+- => A time when "the engines of war" would be fed by black liquid drawn from beneath desert sands
+- => A sequence of conflicts escalating in scope until the entire world is drawn into a single confrontation
+- => A period when the "kings of the earth" would be subordinate to merchants who control the flow of the black liquid
+- => A final configuration where the nations surrounding Israel become the theater for the last confrontation
 
 ### The 1896 Significance
 
 1896 is significant not merely for the prophecy itself but for its timing within the continuum:
 
-📍 1859 => Darwin pivot (epistemological shift — Thread 7)
-📍 1896 => Lockwood signal (continuum leak)
-📍 1901 => D'Arcy Concession (petroleum genesis — Thread 2)
-📍 1913 => Financial rewiring (Thread 3)
+- 📍 1859 => Darwin pivot (epistemological shift — Thread 7)
+- 📍 1896 => Lockwood signal (continuum leak)
+- 📍 1901 => D'Arcy Concession (petroleum genesis — Thread 2)
+- 📍 1913 => Financial rewiring (Thread 3)
 
 The Lockwood signal sits precisely between the epistemological pivot and the petroleum genesis. It is as if the continuum briefly revealed its trajectory before the architecture locked it into material form through the D'Arcy concession.
 
@@ -97,10 +97,10 @@ The Lockwood signal sits precisely between the epistemological pivot and the pet
 
 The "simulation leak" framework does not require supernatural causation. It requires only that:
 
-=> The continuum operates on a wave pattern (Part I: Cosmology of the Continuum)
-=> Wave patterns are deterministic in shape but not in specific manifestation
-=> Certain individuals, at certain frequencies, perceive the wave shape before it manifests
-=> The perception is fragmentary, symbolic, and imprecise — but directionally accurate
+- => The continuum operates on a wave pattern (Part I: Cosmology of the Continuum)
+- => Wave patterns are deterministic in shape but not in specific manifestation
+- => Certain individuals, at certain frequencies, perceive the wave shape before it manifests
+- => The perception is fragmentary, symbolic, and imprecise — but directionally accurate
 
 The Lockwood signal is not a prophecy in the religious sense. It is a pattern reading — an early perception of the wave shape that the 20th century would manifest.
 
@@ -108,9 +108,9 @@ The Lockwood signal is not a prophecy in the religious sense. It is a pattern re
 
 The Lockwood signal points toward a culmination — a final configuration in the lands surrounding Israel and Iran. This aligns with:
 
-=> Thread 2's Iran stronghold analysis (geographic center of gravity)
-=> The Gog/Magog weave's territorial analysis (Gog of the land of Magog = geopolitical operator in the oil corridor)
-=> The APOCalypse wordplay (Anglo-Persian Oil Company => the center of the "apocalypse")
+- => Thread 2's Iran stronghold analysis (geographic center of gravity)
+- => The Gog/Magog weave's territorial analysis (Gog of the land of Magog = geopolitical operator in the oil corridor)
+- => The APOCalypse wordplay (Anglo-Persian Oil Company => the center of the "apocalypse")
 
 Three independent analyses — one from 1896 (Lockwood), one from celestial mechanics (Barbault), one from geopolitical architecture (the Compendium's own institutional analysis) — pointing toward the same geographic theater and the same temporal window.
 
@@ -152,11 +152,11 @@ The 250-year mark is not a hard expiration date. It is a statistical inflection 
 
 The Compendium identifies 2028 as a convergence point — the U.S. presidential election that aligns with:
 
-=> The end of the 20-year smartphone conditioning window (2007-2027)
-=> The maturation of the Silicon Tuner infrastructure
-=> The Barbault configuration's aftereffects (2026 alignment => 2028 political crystallization)
-=> The Lockwood signal's "final configuration" timeline
-=> The 250-year American cycle reaching its inflection
+- => The end of the 20-year smartphone conditioning window (2007-2027)
+- => The maturation of the Silicon Tuner infrastructure
+- => The Barbault configuration's aftereffects (2026 alignment => 2028 political crystallization)
+- => The Lockwood signal's "final configuration" timeline
+- => The 250-year American cycle reaching its inflection
 
 ARK 2028 is not a specific event. It is a window — the period during which the old architecture either consolidates into the Silicon Tuner or fractures under accumulated tension.
 
@@ -164,10 +164,10 @@ ARK 2028 is not a specific event. It is a window — the period during which the
 
 The Compendium anticipates that 2029 may see not merely a new American presidency but a global end to presidencies as an institution:
 
-=> If the Silicon Tuner consolidates => governance shifts from elected representatives to platform-based technocratic administration
-=> If the petrodollar collapses => constitutional governance loses its financial foundation
-=> If the surveillance architecture completes => political dissent becomes functionally impossible
-=> If the pharmaceutical model institutionalizes => bodily autonomy becomes conditioned on medical compliance
+- => If the Silicon Tuner consolidates => governance shifts from elected representatives to platform-based technocratic administration
+- => If the petrodollar collapses => constitutional governance loses its financial foundation
+- => If the surveillance architecture completes => political dissent becomes functionally impossible
+- => If the pharmaceutical model institutionalizes => bodily autonomy becomes conditioned on medical compliance
 
 2029 is not a prediction. It is a branch point — the moment when Timeline A (containment) and Timeline B (sovereignty) diverge irreversibly.
 
@@ -189,9 +189,9 @@ Three independent streams. Three different methods. One convergence window: 2026
 
 No single stream is sufficient:
 
-=> Astrology alone is correlational, not causal — skeptics dismiss it
-=> Prophecy alone is untestable — skeptics dismiss it
-=> Political cycle theory alone is approximate — skeptics dismiss it
+- => Astrology alone is correlational, not causal — skeptics dismiss it
+- => Prophecy alone is untestable — skeptics dismiss it
+- => Political cycle theory alone is approximate — skeptics dismiss it
 
 But triangulation changes the evidentiary standard. When three independent methods — one celestial, one historical, one political — point to the same window, the probability of coincidence diminishes. The convergence itself becomes the evidence.
 
@@ -207,10 +207,10 @@ Friedrich Trump, grandfather of Donald Trump, emigrated from Kallstadt, Bavaria 
 
 The 1918 death is significant within the Compendium's timeline:
 
-📍 1913 => Financial rewiring (Federal Reserve Act)
-📍 1914-1918 => WWI; APOC's wartime expansion
-📍 1918 => Friedrich Trump dies; Spanish flu pandemic
-📍 1918 => Bayer's heroin epidemic peaking; aspirin normalization underway
+- 📍 1913 => Financial rewiring (Federal Reserve Act)
+- 📍 1914-1918 => WWI; APOC's wartime expansion
+- 📍 1918 => Friedrich Trump dies; Spanish flu pandemic
+- 📍 1918 => Bayer's heroin epidemic peaking; aspirin normalization underway
 
 The Trump family's fortunes originate at the intersection of the financial rewiring, the petroleum-military expansion, and the pharmaceutical pandemics. The family lineage tracks the architecture's trajectory.
 
@@ -218,8 +218,8 @@ The Trump family's fortunes originate at the intersection of the financial rewir
 
 Friedrich's son Fred Trump built a real estate empire in Brooklyn and Queens. The empire was built on:
 
-=> Federal Housing Administration financing (New Deal programs — post-1933 financial architecture)
-=> Government-backed mortgage programs (the financial nervous system distributing credit)
+- => Federal Housing Administration financing (New Deal programs — post-1933 financial architecture)
+- => Government-backed mortgage programs (the financial nervous system distributing credit)
 → Suburban development patterns (the automobile-oil dependency model)
 → Construction using petroleum-based materials
 
@@ -244,10 +244,10 @@ Trump's presidency did not challenge GOLIATH. It serviced GOLIATH across every d
 
 The Compendium investigates the Trump family's German heritage for parallels to historical German power structures:
 
-=> Friedrich Trump emigrated from the same region (Rhineland-Palatinate) that produced significant figures in German political and industrial history
-=> The 1918 death connects to the pharmaceutical pandemic cycle
-=> The real estate empire connects to the financial architecture
-=> The political presidency connects to the convergence window
+- => Friedrich Trump emigrated from the same region (Rhineland-Palatinate) that produced significant figures in German political and industrial history
+- => The 1918 death connects to the pharmaceutical pandemic cycle
+- => The real estate empire connects to the financial architecture
+- => The political presidency connects to the convergence window
 
 This is not an accusation of bloodline conspiracy. It is pattern recognition: the Trump family's trajectory aligns with the architecture's timeline across four generations. The family is a vehicle — one node in the larger pattern, not its author.
 
@@ -272,9 +272,9 @@ Thread 2 established Iran as GOLIATH's geographic center of gravity. Thread 11 e
 
 GOLIATH's relationship with Iran demonstrates the survival principle from Thread 1. Whether Iran is allied (Shah era) or adversarial (post-1979), the architecture persists:
 
-=> If allied => extract through partnership
-=> If adversarial => extract through military expenditure and sanctions enforcement
-=> Either way => wealth flows upward; the architecture is fed
+- => If allied => extract through partnership
+- => If adversarial => extract through military expenditure and sanctions enforcement
+- => Either way => wealth flows upward; the architecture is fed
 
 Iran is not GOLIATH's enemy. Iran is GOLIATH's raison d'être for the Middle Eastern theater. Without Iran as adversary, the military presence has no justification. Without military presence, the oil architecture has no enforcement arm. Without the enforcement arm, the petrodollar loop breaks.
 
@@ -282,12 +282,12 @@ Iran is not GOLIATH's enemy. Iran is GOLIATH's raison d'être for the Middle Eas
 
 By 2026-2029, the Iran pressure point reaches maximum tension:
 
-🌍 Iran's nuclear capability approaches threshold status
-🌍 Israel's security doctrine demands action before threshold
-🌍 U.S. military presence in the region is maximal
-🌍 Russian and Chinese alignment with Iran creates great-power proxy dynamics
-🌍 Petrodollar decline makes Middle East control more desperate, not less
-🌍 Barbault's configuration marks this as the civilizational inflection
+- 🌍 Iran's nuclear capability approaches threshold status
+- 🌍 Israel's security doctrine demands action before threshold
+- 🌍 U.S. military presence in the region is maximal
+- 🌍 Russian and Chinese alignment with Iran creates great-power proxy dynamics
+- 🌍 Petrodollar decline makes Middle East control more desperate, not less
+- 🌍 Barbault's configuration marks this as the civilizational inflection
 
 The convergence is not merely temporal. It is spatial — the same geographic theater identified by Lockwood (1896), by the Gog/Magog weave, by the APOCalypse wordplay, and by the petroleum genesis (Thread 2) becomes the focal point of all simultaneous tensions.
 
@@ -299,14 +299,14 @@ The convergence is not merely temporal. It is spatial — the same geographic th
 
 In Timeline A, the convergence produces consolidation:
 
-=> Petrodollar transitions to Silicon Tuner without rupture
-=> Surveillance architecture completes from collar to fence to Jack
-=> Pharmaceutical model institutionalizes through digital health passports
-=> Epistemological capture deepens through AI-mediated knowledge access
-=> Corporate collegia merges with platform monopolies
-=> Division escalates to prevent organized resistance
-=> Governance shifts from electoral to technocratic
-=> 2029 => presidencies effectively end; platform governance begins
+- => Petrodollar transitions to Silicon Tuner without rupture
+- => Surveillance architecture completes from collar to fence to Jack
+- => Pharmaceutical model institutionalizes through digital health passports
+- => Epistemological capture deepens through AI-mediated knowledge access
+- => Corporate collegia merges with platform monopolies
+- => Division escalates to prevent organized resistance
+- => Governance shifts from electoral to technocratic
+- => 2029 => presidencies effectively end; platform governance begins
 
 Timeline A is the GOLIATH victory scenario. The architecture survives the convergence by absorbing the transformation.
 
@@ -314,14 +314,14 @@ Timeline A is the GOLIATH victory scenario. The architecture survives the conver
 
 In Timeline B, the convergence produces divergence:
 
-=> Petrodollar collapse forces localization of economic activity
-=> Surveillance architecture is challenged by sovereign compute and mesh networks
-=> Pharmaceutical model fractures as health sovereignty movements gain traction
-=> Epistemological capture breaks as open-source knowledge replaces gatekept journals
-=> Corporate collegia faces competition from decentralized production networks
-=> Division fails as material conditions force coalition across identity lines
-=> Governance shifts from representative to participatory
-=> 2029 => new civilizational architecture emerges; old presidency model obsolete not because platforms replaced it but because communities outgrew it
+- => Petrodollar collapse forces localization of economic activity
+- => Surveillance architecture is challenged by sovereign compute and mesh networks
+- => Pharmaceutical model fractures as health sovereignty movements gain traction
+- => Epistemological capture breaks as open-source knowledge replaces gatekept journals
+- => Corporate collegia faces competition from decentralized production networks
+- => Division fails as material conditions force coalition across identity lines
+- => Governance shifts from representative to participatory
+- => 2029 => new civilizational architecture emerges; old presidency model obsolete not because platforms replaced it but because communities outgrew it
 
 Timeline B is the SoLidarity emergence scenario. The architecture does not survive the convergence because the convergence produces enough pressure to crack the vessel.
 

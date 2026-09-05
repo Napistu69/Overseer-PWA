@@ -57,28 +57,28 @@ The rebrand to Meta was not a pivot. It was an acknowledgement of infrastructure
 We can now map the Security State across four dimensions rather than chronological sequence:
 
 **DIMENSION ONE: TEMPORAL (Time)**
-🟢 1994-2000: Commercial foundation built (cookies, tracking)
-🟡 2001-2010: Legal authority catches up (PATRIOT Act, REAL ID, FISA amendments)
-🟠 2011-2020: Integration and optimization (smartphones, SDKs, algorithms)
-🔴 2021-2027: AI-driven analytics and completion (Meta aggregation, planned-emics, 20-year training cycle)
+- 🟢 1994-2000: Commercial foundation built (cookies, tracking)
+- 🟡 2001-2010: Legal authority catches up (PATRIOT Act, REAL ID, FISA amendments)
+- 🟠 2011-2020: Integration and optimization (smartphones, SDKs, algorithms)
+- 🔴 2021-2027: AI-driven analytics and completion (Meta aggregation, planned-emics, 20-year training cycle)
 
 **DIMENSION TWO: SPATIAL (Physical Layer)**
-🟢 Hardware: Smartphones, servers, fiber optics, satellites
-🟡 Software: Apps, SDKs, Pixels, algorithms, APIs
-🟠 Data: Profiles, metadata, location records, communications
-🔴 Infrastructure: Data centers, cell towers, undersea cables, power grids
+- 🟢 Hardware: Smartphones, servers, fiber optics, satellites
+- 🟡 Software: Apps, SDKs, Pixels, algorithms, APIs
+- 🟠 Data: Profiles, metadata, location records, communications
+- 🔴 Infrastructure: Data centers, cell towers, undersea cables, power grids
 
 **DIMENSION THREE: LEGAL (Authority Layer)**
-🟢 PATRIOT Act (2001): Bulk collection authorized
-🟡 REAL ID (2005): National identity standards
-🟠 FISA Amendments (2008): PRISM program enabled
-🔴 Pandemic Treaty (2023+): Global health credential coordination
+- 🟢 PATRIOT Act (2001): Bulk collection authorized
+- 🟡 REAL ID (2005): National identity standards
+- 🟠 FISA Amendments (2008): PRISM program enabled
+- 🔴 Pandemic Treaty (2023+): Global health credential coordination
 
 **DIMENSION FOUR: COMMERCIAL (Profit Layer)**
-🟢 Data brokers: Acxiom, Experian, CoreLogic
-🟡 Tech platforms: Meta, Google, Apple, Amazon, Microsoft
-🟠 Ad networks: DoubleClick, AdMob, programmatic exchanges
-🔴 Analytics firms: Flurry, Mixpanel, Snowflake, data aggregators
+- 🟢 Data brokers: Acxiom, Experian, CoreLogic
+- 🟡 Tech platforms: Meta, Google, Apple, Amazon, Microsoft
+- 🟠 Ad networks: DoubleClick, AdMob, programmatic exchanges
+- 🔴 Analytics firms: Flurry, Mixpanel, Snowflake, data aggregators
 
 These four dimensions intersect at every point, creating a multi-dimensional surveillance apparatus where each intersection reinforces all others.
 

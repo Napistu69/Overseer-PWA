@@ -64,13 +64,13 @@ The Fortune 500 interlocking directorates are the direct descendant of Roman col
 
 The interlock functions as a neural synapse. Information flows across corporations not through public announcements, but through shared personnel.
 
-=> Executive A sits on Board X (Tech) and Board Y (Energy)
-=> Executive A learns regulatory shifts at Board X meetings
-=> Executive A informs Board Y strategy before public knowledge
-=> Board Y adjusts stock portfolios accordingly
-=> Board Y influences legislation via lobbying arm
-=> Regulation passes favoring Board Y
-=> Executive A gains bonus for successful lobbying outcome
+- => Executive A sits on Board X (Tech) and Board Y (Energy)
+- => Executive A learns regulatory shifts at Board X meetings
+- => Executive A informs Board Y strategy before public knowledge
+- => Board Y adjusts stock portfolios accordingly
+- => Board Y influences legislation via lobbying arm
+- => Regulation passes favoring Board Y
+- => Executive A gains bonus for successful lobbying outcome
 
 This is not illegal insider trading. This is structural alignment. The individuals are acting within their fiduciary duties. The structure produces the alignment automatically.
 
@@ -82,10 +82,10 @@ Conspiracy implies hidden meetings. Alignment emerges from transparent structure
 
 **Evidence of Transparency:**
 
-📍 SEC filings disclose board membership
-📍 Lobbying registries disclose expenditure
-📍 IRS filings disclose non-profit foundations
-📍 Shareholder reports disclose executive compensation
+- 📍 SEC filings disclose board membership
+- 📍 Lobbying registries disclose expenditure
+- 📍 IRS filings disclose non-profit foundations
+- 📍 Shareholder reports disclose executive compensation
 
 All data is public. All connections are trackable. Yet the coordination remains invisible because it is dispersed across thousands of discrete legal acts that collectively form a single strategic outcome.
 
@@ -114,11 +114,11 @@ Thread 6 addressed the Black Lotus's pharmaceutical arm. Thread 9 addresses the 
 
 Who sits at the center of this chain?
 
-=> **Monsanto/Bayer** (Seed + Chemical)
-=> **Cargill/ADM** (Grain Processing)
-=> **Kellogg/PepsiCo/Coca-Cola** (Consumer Goods)
-=> **NIH/USDA** (Regulatory Oversight)
-=> **University Nutrition Departments** (Research)
+- => **Monsanto/Bayer** (Seed + Chemical)
+- => **Cargill/ADM** (Grain Processing)
+- => **Kellogg/PepsiCo/Coca-Cola** (Consumer Goods)
+- => **NIH/USDA** (Regulatory Oversight)
+- => **University Nutrition Departments** (Research)
 
 Many individuals hold positions across these nodes. Grants fund research. Research informs guidelines. Guidelines dictate subsidies. Subsidies fund production. Production dictates consumption. Consumption funds research.
 
@@ -150,19 +150,19 @@ Bill Gates' foundation occupies a unique position in the collegial architecture.
 
 The Gates Foundation is a philanthropic entity that makes grants. Bill Gates personally holds investment portfolios in the companies that benefit from those grants. The structure creates alignment without requiring explicit coordination.
 
-=> Foundation promotes vaccine procurement => Personal investments in vaccine manufacturers appreciate
-=> Foundation promotes industrial agriculture => Personal investments in agri-chemical companies appreciate
+- => Foundation promotes vaccine procurement => Personal investments in vaccine manufacturers appreciate
+- => Foundation promotes industrial agriculture => Personal investments in agri-chemical companies appreciate
 -> Foundation funds media coverage => Media covers foundation positively => Public support for foundation initiatives grows
-=> Foundation funds academic research => Research supports foundation policies => Policy implemented
+- => Foundation funds academic research => Research supports foundation policies => Policy implemented
 
 The six-point architecture persists in the philanthro-capitalist form:
 
-📍 **Hierarchy** => Foundation Trustees => Grantees => Implementing Organizations
-📍 **Extraction** => Foundation grants create dependency; recipients align with donor priorities
-📍 **Lineage** => Microsoft fortune => Foundation endowment => Investment portfolio growth
-📍 **Monopoly** => WHO/GAVI/CEPI funding concentration gates access to global health infrastructure
-📍 **Protection** => Philanthropic status => Tax exemptions; positive media; moral authority
-📍 **Survival** => Foundation structure outlives founder; perpetual endowment
+- 📍 **Hierarchy** => Foundation Trustees => Grantees => Implementing Organizations
+- 📍 **Extraction** => Foundation grants create dependency; recipients align with donor priorities
+- 📍 **Lineage** => Microsoft fortune => Foundation endowment => Investment portfolio growth
+- 📍 **Monopoly** => WHO/GAVI/CEPI funding concentration gates access to global health infrastructure
+- 📍 **Protection** => Philanthropic status => Tax exemptions; positive media; moral authority
+- 📍 **Survival** => Foundation structure outlives founder; perpetual endowment
 
 ### The No-Shadow Application
 
@@ -218,10 +218,10 @@ The modern corporation possesses powers that exceed nation-states in many domain
 
 International trade agreements include ISDS provisions. These allow corporations to sue governments in private tribunals for regulations that reduce expected profits.
 
-=> Government passes environmental law => Corporation sues for lost profit
-=> Tribunal rules against government
-=> Government fined billions
-=> Law repealed or weakened to avoid penalty
+- => Government passes environmental law => Corporation sues for lost profit
+- => Tribunal rules against government
+- => Government fined billions
+- => Law repealed or weakened to avoid penalty
 
 This is sovereignty surrendered to private arbitration. The collegium transcends national borders.
 

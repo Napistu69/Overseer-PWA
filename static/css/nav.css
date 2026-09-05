@@ -135,6 +135,35 @@ tbody tr:hover {
 }
 
 /* ========================================
+   LIST STYLES (all screens)
+   ======================================== */
+ul, ol {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+li {
+  margin: 0.5rem 0;
+  line-height: 1.7;
+  padding-left: 0.25rem;
+}
+
+li::marker {
+  color: var(--primary);
+}
+
+/* Nested lists */
+li > ul, li > ol {
+  margin: 0.25rem 0;
+}
+
+/* Emoji-prefixed list items (used extensively in Compendium) */
+li img:first-child, li .bullet:first-child {
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
+
+/* ========================================
    MOBILE STYLES (max-width: 768px)
    ======================================== */
 @media (max-width: 768px) {

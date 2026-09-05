@@ -44,10 +44,10 @@ The public accepted cookies because the word was harmless. A cookie is a treat. 
 
 Y2K was not merely a software bug. It was the moment digital infrastructure became critical infrastructure. Governments and corporations realized that their systems were interconnected, fragile, and essential. The response:
 
-=> Massive investment in digital infrastructure modernization
-=> Data backup and redundancy systems installed
-=> Network monitoring capabilities expanded
-=> The security state was born — not from terrorism, but from the realization that digital dependency created vulnerability
+- => Massive investment in digital infrastructure modernization
+- => Data backup and redundancy systems installed
+- => Network monitoring capabilities expanded
+- => The security state was born — not from terrorism, but from the realization that digital dependency created vulnerability
 
 Y2K was the architectural seed. 9/11 was the political justification. The Patriot Act was the legal framework. The smartphone was the deployment device.
 
@@ -72,14 +72,14 @@ Y2K was the architectural seed. 9/11 was the political justification. The Patrio
 
 The arc follows a precise geometric trajectory:
 
-=> Cookies (1994) => tracking the desktop user's online behavior
-=> Search logs (1998) => tracking the desktop user's thoughts and intentions
-=> Patriot Act (2001) => tracking the citizen's communications and finances
-=> Facebook (2004) => tracking the citizen's social relationships
-=> Smartphone (2007) => tracking the citizen's physical location, biometrics, and behavior 24/7
-=> Snowden (2013) => confirmation that all data flows to state intelligence
-=> COVID (2020) => health surveillance normalized; bodily monitoring accepted
-=> ALPR/FLOCK (2023+) => the ones who escaped the smartphone become visible through ambient surveillance
+- => Cookies (1994) => tracking the desktop user's online behavior
+- => Search logs (1998) => tracking the desktop user's thoughts and intentions
+- => Patriot Act (2001) => tracking the citizen's communications and finances
+- => Facebook (2004) => tracking the citizen's social relationships
+- => Smartphone (2007) => tracking the citizen's physical location, biometrics, and behavior 24/7
+- => Snowden (2013) => confirmation that all data flows to state intelligence
+- => COVID (2020) => health surveillance normalized; bodily monitoring accepted
+- => ALPR/FLOCK (2023+) => the ones who escaped the smartphone become visible through ambient surveillance
 
 Each phase normalizes the previous phase. Each phase expands the surface area of observation. The public resists each new phase briefly, then accepts it as inevitable. The acceptance becomes the baseline for the next expansion.
 
@@ -124,10 +124,10 @@ Some begin to awaken. They recognize the conditioning. They attempt to unplug �
 
 2027 marks the end of the 20-year training window. By 2027:
 
-=> The first generation raised entirely on smartphones reaches adulthood
-=> The behavioral conditioning is neurologically embedded
-=> Those who unplugged are a measurable, trackable minority
-=> The architecture shifts from collar to fence — because the collar only works if worn voluntarily
+- => The first generation raised entirely on smartphones reaches adulthood
+- => The behavioral conditioning is neurologically embedded
+- => Those who unplugged are a measurable, trackable minority
+- => The architecture shifts from collar to fence — because the collar only works if worn voluntarily
 
 ---
 
@@ -156,13 +156,13 @@ FLOCK (automated license plate recognition — ALPR) is the first generation of 
 
 ### The FLOCK Data Flow
 
-=> Camera captures license plate at intersection
-=> Plate number checked against database (warrants, registration, watchlists)
-=> Location, time, and plate number stored in database
-=> Historical movement pattern reconstructed for every vehicle
-=> Anomaly detection flags unusual routes or destinations
-=> Flagged vehicles targeted for increased surveillance
-=> Data shared across jurisdictions through fusion centers
+- => Camera captures license plate at intersection
+- => Plate number checked against database (warrants, registration, watchlists)
+- => Location, time, and plate number stored in database
+- => Historical movement pattern reconstructed for every vehicle
+- => Anomaly detection flags unusual routes or destinations
+- => Flagged vehicles targeted for increased surveillance
+- => Data shared across jurisdictions through fusion centers
 
 ### The Anomaly Problem
 
@@ -199,12 +199,12 @@ The petrodollar required military enforcement of oil lanes. The Silicon Tuner re
 
 The Silicon Hive-Mind Tuner does not merely track location or communications. It tracks cognition. Every query submitted to an AI model reveals:
 
-🔍 What the user knows (or doesn't know)
-🔍 What the user is curious about
-🔍 What problems the user is trying to solve
-🔍 What decisions the user is weighing
-🔍 What fears the user holds
-🔍 What plans the user is forming
+- 🔍 What the user knows (or doesn't know)
+- 🔍 What the user is curious about
+- 🔍 What problems the user is trying to solve
+- 🔍 What decisions the user is weighing
+- 🔍 What fears the user holds
+- 🔍 What plans the user is forming
 
 This is not metadata. This is thought data — the closest surveillance has come to reading minds.
 
@@ -216,14 +216,14 @@ The Silicon Tuner inverts the panopticon. Instead of observing behavior, it obse
 
 The architecture:
 
-=> User submits query to AI platform
-=> Platform logs query, timestamp, user identity, device fingerprint, location
+- => User submits query to AI platform
+- => Platform logs query, timestamp, user identity, device fingerprint, location
 → Query analyzed for intent, sentiment, threat assessment
-=> Behavioral profile updated in real-time
+- => Behavioral profile updated in real-time
 → Profile informs content recommendations, ad targeting, capability throttling
-=> User receives response shaped by their profile
+- => User receives response shaped by their profile
 → User's worldview narrows to algorithmically curated corridor
-=> Loop closes: narrowed worldview produces narrower queries
+- => Loop closes: narrowed worldview produces narrower queries
 
 ### The Matrix Jack
 
@@ -269,16 +269,16 @@ Snowden did not stop the surveillance. He revealed it. The revelation became the
 
 A limited hangout is an intelligence technique: reveal partial truth to satisfy public curiosity while concealing deeper operations. Whether Snowden was a witting or unwitting participant in this dynamic is immaterial. The outcome was the same:
 
-=> The public learned about PRISM, XKEYSCORE, and metadata collection
-=> The public did not learn about the full scope of corporate-platform integration
-=> The architecture adjusted its legal framework (USA FREEDOM Act, 2015) while expanding technical capabilities
-=> The "debate" about surveillance concluded with the surveillance intact and expanded
+- => The public learned about PRISM, XKEYSCORE, and metadata collection
+- => The public did not learn about the full scope of corporate-platform integration
+- => The architecture adjusted its legal framework (USA FREEDOM Act, 2015) while expanding technical capabilities
+- => The "debate" about surveillance concluded with the surveillance intact and expanded
 
 ### The Snowden Lesson for the Tuner Era
 
 When the Silicon Tuner's surveillance scope is eventually "revealed" (through whistleblower, leak, or deliberate disclosure), the pattern will repeat:
 
-📍 Outrage => Debate => Legitimization => Normalization => Expansion
+- 📍 Outrage => Debate => Legitimization => Normalization => Expansion
 
 The architecture does not fear revelation. It fears organized resistance to revelation. As long as revelation produces outrage without organized resistance, the architecture absorbs the revelation and continues.
 
@@ -303,11 +303,11 @@ The COVID-19 response (2020-2026) normalized surveillance through health emergen
 
 Emergency measures do not expire. They become baseline:
 
-=> Contact tracing infrastructure repurposed for general proximity tracking
+- => Contact tracing infrastructure repurposed for general proximity tracking
 → Vaccine passport architecture becomes digital identity infrastructure
-=> Temperature scanning infrastructure remains installed in public venues
+- => Temperature scanning infrastructure remains installed in public venues
 → Remote work surveillance tools normalized in employment contracts
-=> Drone surveillance capabilities retained by police departments
+- => Drone surveillance capabilities retained by police departments
 
 The emergency was the deployment mechanism. The infrastructure is permanent.
 
@@ -315,11 +315,11 @@ The emergency was the deployment mechanism. The infrastructure is permanent.
 
 The Compendium frames March 2020 lockdowns as "the purge" — the clearing operation preceding pharmaceutical rollout. From the surveillance dimension, the purge served an additional function:
 
-🌍 Forced digital adoption — populations required to conduct all interaction online
-🌍 Behavioral baseline reset — pre-COVID movement patterns erased; new patterns established under surveillance
-🌍 Dependency deepening — e-commerce, telehealth, online education, remote work all escalated
-🌍 Resistance isolation — in-person organizing suppressed; digital organizing surveilled
-🌍 Acceptance conditioning — populations accepted movement restrictions, biometric enrollment, and health surveillance as civic duty
+- 🌍 Forced digital adoption — populations required to conduct all interaction online
+- 🌍 Behavioral baseline reset — pre-COVID movement patterns erased; new patterns established under surveillance
+- 🌍 Dependency deepening — e-commerce, telehealth, online education, remote work all escalated
+- 🌍 Resistance isolation — in-person organizing suppressed; digital organizing surveilled
+- 🌍 Acceptance conditioning — populations accepted movement restrictions, biometric enrollment, and health surveillance as civic duty
 
 The purge cleared the landscape. What grew back was more surveilled than what existed before.
 

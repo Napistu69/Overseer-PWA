@@ -22,21 +22,21 @@ What looks like succession is actually continuity.
 
 ### The First Template
 
-🏛️ Hierarchical Initiation => Priestly caste with graded degrees of access to the Holy
-🏛️ Revenue Extraction => Tithes, offerings, sacrificial fees — centralized treasury
-🏛️ Lineage Legitimacy => Bloodlines determine priestly authority; genealogy is power
-🏛️ Information Monopoly => Sacred texts read only by ordained interpreters; laity excluded
-🏛️ Mutual Elite Aid => Priesthood protected from common law through religious immunity
-🏛️ Regime Independence => Survived Babylonian exile, Persian rule, Greek occupation, Roman conquest
+- 🏛️ Hierarchical Initiation => Priestly caste with graded degrees of access to the Holy
+- 🏛️ Revenue Extraction => Tithes, offerings, sacrificial fees — centralized treasury
+- 🏛️ Lineage Legitimacy => Bloodlines determine priestly authority; genealogy is power
+- 🏛️ Information Monopoly => Sacred texts read only by ordained interpreters; laity excluded
+- 🏛️ Mutual Elite Aid => Priesthood protected from common law through religious immunity
+- 🏛️ Regime Independence => Survived Babylonian exile, Persian rule, Greek occupation, Roman conquest
 
 ### The Six Constants Identified:
 
-=> Hierarchy — graded access to the sacred creates dependency
-=> Extraction — wealth concentrates at the apex through spiritual obligation
-=> Lineage — legitimacy inherited, not earned; bloodlines as credentialing
-=> Monopoly — knowledge guarded as property; interpretation = control
-=> Protection — elites shielded by the institution's sanctity
-=> Survival — institution outlives every government that hosts it
+- => Hierarchy — graded access to the sacred creates dependency
+- => Extraction — wealth concentrates at the apex through spiritual obligation
+- => Lineage — legitimacy inherited, not earned; bloodlines as credentialing
+- => Monopoly — knowledge guarded as property; interpretation = control
+- => Protection — elites shielded by the institution's sanctity
+- => Survival — institution outlives every government that hosts it
 
 ### The Pattern's First Form
 
@@ -50,22 +50,22 @@ When the Temple fell in 70 CE, the architecture did not die. It migrated.
 
 ### The Seven Grades of Mithraism
 
-🔮 Grade 1: Corax (Raven) => Mercury => Initiate; entry-level
-🔮 Grade 2: Cryphius (Hidden) => Venus => Secret keeper; information access
-🔮 Grade 3: Miles (Soldier) => Mars => Defender; enforcement role
-🔮 Grade 4: Leo (Lion) => Jupiter => Ritual authority; fire ceremonies
-🔮 Grade 5: Perses (Persian) => Moon => Interpreter; celestial navigation
-🔮 Grade 6: Heliodromus (Sun Courier) => Sun => Messenger; elite liaison
-🔮 Grade 7: Pater (Father) => Saturn => Supreme authority; initiation gatekeeper
+- 🔮 Grade 1: Corax (Raven) => Mercury => Initiate; entry-level
+- 🔮 Grade 2: Cryphius (Hidden) => Venus => Secret keeper; information access
+- 🔮 Grade 3: Miles (Soldier) => Mars => Defender; enforcement role
+- 🔮 Grade 4: Leo (Lion) => Jupiter => Ritual authority; fire ceremonies
+- 🔮 Grade 5: Perses (Persian) => Moon => Interpreter; celestial navigation
+- 🔮 Grade 6: Heliodromus (Sun Courier) => Sun => Messenger; elite liaison
+- 🔮 Grade 7: Pater (Father) => Saturn => Supreme authority; initiation gatekeeper
 
 ### Seven Steps, Seven Gates
 
 The Mithraic grade system was not unique to Mithraism. It was replicated across mystery cults: Isis worship, Cybele devotion, Orphic circles. Each operated on the same principle:
 
-=> Ascension requires passing through gates
-=> Each gate grants access to new information
-=> Only the Pater/Father holds all keys
-=> The hierarchy itself is the scripture
+- => Ascension requires passing through gates
+- => Each gate grants access to new information
+- => Only the Pater/Father holds all keys
+- => The hierarchy itself is the scripture
 
 ### Why This Matters
 
@@ -83,9 +83,9 @@ Roman collegia were legal associations formed for mutual aid, trade, religious o
 
 ### Three Functions of the Collegia
 
-🤝 Credentialing => Membership proved legitimacy; outsiders barred from influence. Modern equivalent: Ivy League diplomas, security clearances, board certifications
-🤝 Networking => Members exchanged favors, contracts, information across institutions. Modern equivalent: Interlocking directorates, revolving door employment
-🤝 Protection => Collegia members defended one another from legal exposure. Modern equivalent: Lobbying firms, mutual legal assistance treaties
+- 🤝 Credentialing => Membership proved legitimacy; outsiders barred from influence. Modern equivalent: Ivy League diplomas, security clearances, board certifications
+- 🤝 Networking => Members exchanged favors, contracts, information across institutions. Modern equivalent: Interlocking directorates, revolving door employment
+- 🤝 Protection => Collegia members defended one another from legal exposure. Modern equivalent: Lobbying firms, mutual legal assistance treaties
 
 ### The No-Shadow Principle
 
@@ -93,10 +93,10 @@ No smoky backroom meeting was necessary. When 300 senators, governors, generals,
 
 ### Continuity Across Millennia
 
-🧵 Roman (1st c. BCE) => Guilds and religious associations => Trade + ritual coordination
-🧵 Medieval (12th c. CE) => Freemasonry lodges => Knowledge preservation + elite bonding
-🧵 Industrial (19th c.) => Bohemian Club + Round Table => Corporate coordination
-🧵 Modern (20th–21st c.) => Bilderberg + Trilateral Commission => Policy consensus before public announcement
+- 🧵 Roman (1st c. BCE) => Guilds and religious associations => Trade + ritual coordination
+- 🧵 Medieval (12th c. CE) => Freemasonry lodges => Knowledge preservation + elite bonding
+- 🧵 Industrial (19th c.) => Bohemian Club + Round Table => Corporate coordination
+- 🧵 Modern (20th–21st c.) => Bilderberg + Trilateral Commission => Policy consensus before public announcement
 
 ### The Thread Does Not Break
 
@@ -114,21 +114,21 @@ Constantine did not convert out of piety. He converted out of pragmatism. The em
 
 ### The Merger Terms
 
-⛪ Before Constantine => Local bishops with regional autonomy
-⛪ After Constantine => Metropolitan bishops answering to imperial authority
-⛪ Before => Diverse theological interpretations
-⛪ After => Single orthodoxy enforced by state power
-⛪ Before => Voluntary tithing
-⛪ After => Mandatory taxation for church support
-⛪ Before => Spiritual community
-⛪ After => Political institution with legal immunity
+- ⛪ Before Constantine => Local bishops with regional autonomy
+- ⛪ After Constantine => Metropolitan bishops answering to imperial authority
+- ⛪ Before => Diverse theological interpretations
+- ⛪ After => Single orthodoxy enforced by state power
+- ⛪ Before => Voluntary tithing
+- ⛪ After => Mandatory taxation for church support
+- ⛪ Before => Spiritual community
+- ⛪ After => Political institution with legal immunity
 
 ### The Template Set
 
-=> When empire captures faith, faith becomes the empire's legitimacy engine
-=> Dissent becomes treason
-=> Orthodoxy becomes enforcement
-=> Salvation becomes conditional on compliance
+- => When empire captures faith, faith becomes the empire's legitimacy engine
+- => Dissent becomes treason
+- => Orthodoxy becomes enforcement
+- => Salvation becomes conditional on compliance
 
 ### The Legacy
 
@@ -146,12 +146,12 @@ By 1929, the Lateran Treaty would formally establish Vatican City as sovereign t
 
 ### Vatican Continuity Map
 
-🏛️ Temple Priesthood => College of Cardinals
-🏛️ Holy of Holies => Papal Chambers (exclusive access)
-🏛️ Sacrificial System => Indulgences + tithes
-🏛️ Sacred Texts => Latin Vulgate (unreadable to laity)
-🏛️ Heresy Courts => Inquisition
-🏛️ Regime Independence => Extraterritorial sovereignty
+- 🏛️ Temple Priesthood => College of Cardinals
+- 🏛️ Holy of Holies => Papal Chambers (exclusive access)
+- 🏛️ Sacrificial System => Indulgences + tithes
+- 🏛️ Sacred Texts => Latin Vulgate (unreadable to laity)
+- 🏛️ Heresy Courts => Inquisition
+- 🏛️ Regime Independence => Extraterritorial sovereignty
 
 ### The Sovereignty Innovation
 
@@ -189,12 +189,12 @@ Conspiracy implies hidden meetings. Alignment emerges from transparent structure
 
 Across 2,500 years, six constants persist without exception:
 
-📍 Hierarchy: Temple (515 BCE) = Priestly degrees | Vatican (1000 CE) = Cardinalatial orders | Corporate Board (2026 CE) = Executive committees
-📍 Extraction: Temple = Tithes + offerings | Vatican = Indulgences + donations | Corporate = Shareholder dividends
-📍 Lineage: Temple = Aaronic bloodlines | Vatican = Apostolic succession | Corporate = Generational wealth
-📍 Monopoly: Temple = Torah interpretation | Vatican = Scripture + dogma | Corporate = IP + trade secrets
-📍 Protection: Temple = Religious immunity | Vatican = Extraterritoriality | Corporate = Corporate veil
-📍 Survival: Temple = Outlived Babylon/Rome | Vatican = Outlived empires | Corporate = Outlives national law
+- 📍 Hierarchy: Temple (515 BCE) = Priestly degrees | Vatican (1000 CE) = Cardinalatial orders | Corporate Board (2026 CE) = Executive committees
+- 📍 Extraction: Temple = Tithes + offerings | Vatican = Indulgences + donations | Corporate = Shareholder dividends
+- 📍 Lineage: Temple = Aaronic bloodlines | Vatican = Apostolic succession | Corporate = Generational wealth
+- 📍 Monopoly: Temple = Torah interpretation | Vatican = Scripture + dogma | Corporate = IP + trade secrets
+- 📍 Protection: Temple = Religious immunity | Vatican = Extraterritoriality | Corporate = Corporate veil
+- 📍 Survival: Temple = Outlived Babylon/Rome | Vatican = Outlived empires | Corporate = Outlives national law
 
 ### The Conclusion Drawn
 

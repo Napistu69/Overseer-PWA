@@ -45,10 +45,10 @@ Jackson understood the threat. The Bank of the United States held federal deposi
 
 The Civil War (1861–1865) created the first major breach in the constitutional financial architecture:
 
-📍 **Legal Tender Act (1862)** => "Greenbacks" printed as fiat currency, unbacked by gold or silver
-📍 **National Banking Acts (1863-1864)** => Federal chartering of private banks to issue banknotes
-📍 **Income Tax (1862)** => Temporary wartime levy to fund the Union war effort (expired 1872)
-📍 **Coinage Act (1873)** => Ended silver coinage ("Crime of 1873"); moved toward gold standard exclusively
+- 📍 **Legal Tender Act (1862)** => "Greenbacks" printed as fiat currency, unbacked by gold or silver
+- 📍 **National Banking Acts (1863-1864)** => Federal chartering of private banks to issue banknotes
+- 📍 **Income Tax (1862)** => Temporary wartime levy to fund the Union war effort (expired 1872)
+- 📍 **Coinage Act (1873)** => Ended silver coinage ("Crime of 1873"); moved toward gold standard exclusively
 
 These were the cracks. The dam would break in 1913.
 
@@ -75,9 +75,9 @@ These were the cracks. The dam would break in 1913.
 
 The Federal Reserve is neither fully public nor fully private. It is a hybrid entity that captures the benefits of both worlds:
 
-=> Private shareholders receive guaranteed returns and influence policy through regional Fed Bank presidents
-=> Public authority grants legal tender status, deposit insurance, lender-of-last-resort powers
-=> Accountability to neither electorate nor shareholders
+- => Private shareholders receive guaranteed returns and influence policy through regional Fed Bank presidents
+- => Public authority grants legal tender status, deposit insurance, lender-of-last-resort powers
+- => Accountability to neither electorate nor shareholders
 
 This is not an accident. It is the Constantine template applied to finance: when state captures market, the resulting hybrid is immune to accountability from either side.
 
@@ -96,12 +96,12 @@ The sequence:
 
 **Who Benefits?**
 
-💰 **Commercial banks** — create money through lending at interest, earn spread between Fed discount rate and loan rates
-💰 **Treasury** — issues debt that the Fed purchases, financing government expenditures
-💰 **Large creditors** — benefit from inflation erosion of debt value over time
-💰 **Federal Reserve** — maintains operational independence, sets monetary policy
+- 💰 **Commercial banks** — create money through lending at interest, earn spread between Fed discount rate and loan rates
+- 💰 **Treasury** — issues debt that the Fed purchases, financing government expenditures
+- 💰 **Large creditors** — benefit from inflation erosion of debt value over time
+- 💰 **Federal Reserve** — maintains operational independence, sets monetary policy
 
-💸 **Citizens** — bear inflation costs, lose purchasing power, pay implicit tax through currency debasement
+- 💸 **Citizens** — bear inflation costs, lose purchasing power, pay implicit tax through currency debasement
 
 ### Act 2: The Sixteenth Amendment (February 3, 1913)
 
@@ -136,9 +136,9 @@ The federal government no longer needed to limit its size to tariff receipts. Th
 
 The original constitutional design created a federal system where the national government was balanced against state governments:
 
-=> House of Representatives: elected by people (frequent turnover, popular pressure)
-=> Senate: appointed by state legislatures (stable, state-focused, indirect)
-=> Presidency: elected by Electoral College (state-weighted, not pure popular vote)
+- => House of Representatives: elected by people (frequent turnover, popular pressure)
+- => Senate: appointed by state legislatures (stable, state-focused, indirect)
+- => Presidency: elected by Electoral College (state-weighted, not pure popular vote)
 
 The Seventeenth Amendment collapsed the Senate into a second popular chamber. State governments lost their voice in federal appointments. The federal government became a unitary entity accountable only to voters, not to states.
 
@@ -163,10 +163,10 @@ The architecture of federalism was dismantled.
 
 The timing is not accidental. 1913 was the year of Wilson's inauguration, but the groundwork had been laid for decades:
 
-📍 **Progressive Era momentum** — 1890s-1910s populist agitation against banker power
-📍 **Panic of 1907** — financial crisis used to justify central banking reform
-📍 **National Monetary Commission (1908-1912)** — study group dominated by banking elites recommended Federal Reserve
-📍 **Jekyll Island Meeting (1910)** — secretly convened by J.P. Morgan, Nelson Aldrich, Paul Warburg, and others drafted the Federal Reserve blueprint
+- 📍 **Progressive Era momentum** — 1890s-1910s populist agitation against banker power
+- 📍 **Panic of 1907** — financial crisis used to justify central banking reform
+- 📍 **National Monetary Commission (1908-1912)** — study group dominated by banking elites recommended Federal Reserve
+- 📍 **Jekyll Island Meeting (1910)** — secretly convened by J.P. Morgan, Nelson Aldrich, Paul Warburg, and others drafted the Federal Reserve blueprint
 
 ### The Jekyll Island Meeting (November 1910)
 
@@ -236,10 +236,10 @@ Yes — Jekyll Island. But conspiracy implies hidden meetings producing hidden o
 
 The banking oligarchs did not need to conspire in backrooms for decades. They only needed to:
 
-=> Own the financial institutions that controlled credit
-=> Fund the politicians who advocated central banking
-=> Staff the advisory commissions that drafted legislation
-=> Publish the intellectual justifications in universities and newspapers
+- => Own the financial institutions that controlled credit
+- => Fund the politicians who advocated central banking
+- => Staff the advisory commissions that drafted legislation
+- => Publish the intellectual justifications in universities and newspapers
 
 When all three branches of power (executive, legislative, judicial) and all major institutions (banks, universities, media) point toward the same outcome, the outcome is produced regardless of whether anyone explicitly conspired.
 
@@ -261,10 +261,10 @@ Recall Thread 1: When empire captures faith, faith becomes the empire's legitima
 
 The Federal Reserve is to finance what the Vatican was to spirituality:
 
-=> Vatican claimed apostolic succession; Fed claims technical neutrality
-=> Vatican collected tithes; Fed collects seigniorage
-=> Vatican answered to Popes; Fed answers to Board members
-=> Vatican outlived empires; Fed outlives administrations
+- => Vatican claimed apostolic succession; Fed claims technical neutrality
+- => Vatican collected tithes; Fed collects seigniorage
+- => Vatican answered to Popes; Fed answers to Board members
+- => Vatican outlived empires; Fed outlives administrations
 
 The architecture persists because it serves the function of centralized extraction and control. The name changes. The blueprint does not.
 
@@ -333,15 +333,15 @@ Thread 2 established the oil-military loop. Thread 3 completes the triad:
 
 The 1913 Federal Reserve Act created the financial nervous system. The 1974 petrodollar agreement wired it to the global economy:
 
-🌍 **OPEC agrees to price oil in U.S. dollars exclusively**
-🌍 **Saudi Arabia invests petrodollar surpluses in U.S. Treasury securities**
-🌍 **Global demand for dollars increases (needed to buy oil)**
-🌍 **Dollar appreciates; U.S. imports cheaper goods**
-🌍 **U.S. runs trade deficits (exports dollars, imports goods)**
-🌍 **Trade-deficit countries accumulate dollars**
-🌍 **Countries reinvest dollars in U.S. Treasuries**
-🌍 **Treasury funding becomes sustainable via foreign investment**
-🌍 **Return to Step 1**
+- 🌍 **OPEC agrees to price oil in U.S. dollars exclusively**
+- 🌍 **Saudi Arabia invests petrodollar surpluses in U.S. Treasury securities**
+- 🌍 **Global demand for dollars increases (needed to buy oil)**
+- 🌍 **Dollar appreciates; U.S. imports cheaper goods**
+- 🌍 **U.S. runs trade deficits (exports dollars, imports goods)**
+- 🌍 **Trade-deficit countries accumulate dollars**
+- 🌍 **Countries reinvest dollars in U.S. Treasuries**
+- 🌍 **Treasury funding becomes sustainable via foreign investment**
+- 🌍 **Return to Step 1**
 
 This loop allowed the United States to consume far beyond its productive capacity while maintaining currency strength. The arrangement collapsed the constraints that historically ended empires: balance of payments crises, currency collapses, inability to finance military overextension.
 
@@ -349,16 +349,16 @@ This loop allowed the United States to consume far beyond its productive capacit
 
 The GOLIATH feedback loop operates as a closed circuit:
 
-=> **OIL EXTRACTED** => Military required to protect extraction infrastructure
-=> **MILITARY EXPENDITURE** => Congress authorizes spending; Treasury issues bonds
-=> **DEBT ISSUED** => Federal Reserve purchases bonds, creating new money
-=> **FED MONETIZATION** => Money enters banking system; credit expands
-=> **PETRODOLLAR RECYCLING** => OPEC prices oil in dollars; global demand for dollars sustains value
-=> **FOREIGN CURRENCY RESERVES** => Nations hold dollars to purchase oil
-=> **INVEST IN U.S. BONDS** => Foreign reserves recycled into Treasury securities
-=> **BACKS FEDERAL RESERVE** => Bond purchases fund U.S. deficit spending
-=> **MONEY CREATES MORE OIL DEMAND** => Economic expansion drives energy consumption
-=> **OIL EXTRACTED** => [LOOP CLOSES]
+- => **OIL EXTRACTED** => Military required to protect extraction infrastructure
+- => **MILITARY EXPENDITURE** => Congress authorizes spending; Treasury issues bonds
+- => **DEBT ISSUED** => Federal Reserve purchases bonds, creating new money
+- => **FED MONETIZATION** => Money enters banking system; credit expands
+- => **PETRODOLLAR RECYCLING** => OPEC prices oil in dollars; global demand for dollars sustains value
+- => **FOREIGN CURRENCY RESERVES** => Nations hold dollars to purchase oil
+- => **INVEST IN U.S. BONDS** => Foreign reserves recycled into Treasury securities
+- => **BACKS FEDERAL RESERVE** => Bond purchases fund U.S. deficit spending
+- => **MONEY CREATES MORE OIL DEMAND** => Economic expansion drives energy consumption
+- => **OIL EXTRACTED** => [LOOP CLOSES]
 
 The loop is self-reinforcing. Each stage feeds the next. No stage requires conspiracy — only structure. The architecture produces the outcome automatically.
 
@@ -366,11 +366,11 @@ The loop is self-reinforcing. Each stage feeds the next. No stage requires consp
 
 The loop works until it doesn't. At some threshold:
 
-=> Debt service consumes so much of the budget that new spending requires new debt (ponzi financing)
-=> Dollar loses reserve currency status as other nations build alternatives
-=> Inflation accelerates beyond political tolerance
-=> Real economy contracts while financial assets inflate (K-shaped divergence)
-=> Social unrest forces fiscal retrenchment
+- => Debt service consumes so much of the budget that new spending requires new debt (ponzi financing)
+- => Dollar loses reserve currency status as other nations build alternatives
+- => Inflation accelerates beyond political tolerance
+- => Real economy contracts while financial assets inflate (K-shaped divergence)
+- => Social unrest forces fiscal retrenchment
 
 We are approaching the inflection point. The loop is self-reinforcing but not eternal. Thread 14 (Atlas-3 Instrument) and Thread 15 (Hydra Anatomy) will address the transition as we enter the 2026–2029 convergence window.
 

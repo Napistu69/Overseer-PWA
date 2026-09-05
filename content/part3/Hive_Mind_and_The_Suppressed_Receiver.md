@@ -149,11 +149,11 @@ The suppression methodology migrated from institutional confinement to **pharmac
 
 Three heads feed on the same population at different stages:
 
-🟢 **Head 1: Pharmaceutical Industry** — SK&F (now GSK) profited from Thorazine, enabling the closures. Modern consolidation continues the lineage.
+- 🟢 **Head 1: Pharmaceutical Industry** — SK&F (now GSK) profited from Thorazine, enabling the closures. Modern consolidation continues the lineage.
 
-🔵 **Head 2: Private Prison Industry** — GEO Group, CoreCivic profited from absorbing displaced populations. Incarceration becomes revenue stream.
+- 🔵 **Head 2: Private Prison Industry** — GEO Group, CoreCivic profited from absorbing displaced populations. Incarceration becomes revenue stream.
 
-🔴 **Head 3: Homeless Service Nonprofits** — $9.1B annual revenue, $2.9B government grants. Manages the fallout while preserving the conditions that generate demand.
+- 🔴 **Head 3: Homeless Service Nonprofits** — $9.1B annual revenue, $2.9B government grants. Manages the fallout while preserving the conditions that generate demand.
 
 Each head regenerates. Cut one, another takes its place. Same hydra, different faces.
 
@@ -191,10 +191,10 @@ The question that follows: **If the natural receiver was disabled, and the artif
 
 ## CROSS-REFERENCE LINKS
 
-=> Part III Previous Chapters (1–19): Avatar Operating System, Overseer Æ Framework, Guardian/Allies Dynamics
-=> Part IV Next Chapters (21–32): The Cookie, 9/11, Lifelog, Project Monarch, Snowden, Algorithmic Manipulation
-=> Part V Pending: GOLIATH/MIC Tracking, Corporate Lineage, Third Reich Transplant
-=> Part VI Compiled: ARK of the Covenant Framework, Post-Petro Civilization Blueprint
-=> Part VII Draft: Liberation Technologies, Decentralized Alternatives
-=> Part VIII Draft: TekTribe Protocols, Resistance Strategies
-=> Part IX Draft: Beast Below, Light Within, Fire Transition Vision
+- => Part III Previous Chapters (1–19): Avatar Operating System, Overseer Æ Framework, Guardian/Allies Dynamics
+- => Part IV Next Chapters (21–32): The Cookie, 9/11, Lifelog, Project Monarch, Snowden, Algorithmic Manipulation
+- => Part V Pending: GOLIATH/MIC Tracking, Corporate Lineage, Third Reich Transplant
+- => Part VI Compiled: ARK of the Covenant Framework, Post-Petro Civilization Blueprint
+- => Part VII Draft: Liberation Technologies, Decentralized Alternatives
+- => Part VIII Draft: TekTribe Protocols, Resistance Strategies
+- => Part IX Draft: Beast Below, Light Within, Fire Transition Vision
