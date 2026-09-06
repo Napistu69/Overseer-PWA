@@ -7,7 +7,7 @@ description: "The cage. November 24, 1859 — Darwin publishes Origin of Species
 
 ---
 
-## I. THE VOID CENTER STATEMENT
+## THE VOID CENTER STATEMENT
 
 Threads 1-6 traced GOLIATH's physical architecture: institutional skeleton, petroleum blood, financial nerves, military muscle, pharmaceutical tendrils. Each operates through structures and incentives — the no-shadow thesis. None required a secret conspiracy. All required compliance.
 
@@ -19,7 +19,7 @@ What looks like enlightenment is actually a new orthodoxy wearing the robes of r
 
 ---
 
-## II. THE 1859 PIVOT — DARWIN AND THE NEW ORTHODOXY
+## THE 1859 PIVOT — DARWIN AND THE NEW ORTHODOXY
 
 ### On the Origin of Species
 
@@ -73,7 +73,7 @@ The scientific establishment distanced itself from eugenics after Nuremberg. But
 
 ---
 
-## III. THE PRIESTHOOD OF SCIENCE — INSTITUTIONAL STRUCTURE
+## THE PRIESTHOOD OF SCIENCE — INSTITUTIONAL STRUCTURE
 
 ### The Architecture of Authority
 
@@ -119,7 +119,7 @@ This is the same mechanism the Catholic Church used through the Inquisition: def
 
 ---
 
-## IV. "TRUST THE SCIENCE" — THE MODERN CREED
+## "TRUST THE SCIENCE" — THE MODERN CREED
 
 ### The Phrase as Religious Declaration
 
@@ -165,7 +165,7 @@ The authority of Science as an institution is never diminished by reversal. The 
 
 ---
 
-## V. THE WHITTAKER RECLASSIFICATION — TAXONOMY AS CONTROL
+## THE WHITTAKER RECLASSIFICATION — TAXONOMY AS CONTROL
 
 ### The Five-Kingdom System (1969)
 
@@ -203,7 +203,7 @@ The architecture is the same as "Trust the Science": the institution claims auth
 
 ---
 
-## VI. THE SEPARATION OF PHYSICS AND METAPHYSICS
+## THE SEPARATION OF PHYSICS AND METAPHYSICS
 
 ### The Artificial Divide
 
@@ -233,7 +233,7 @@ The separation allows GOLIATH to kill what it calls "nature" while profiting fro
 
 ---
 
-## VII. THE "CONSPIRACY THEORIST" LABEL — LANGUAGE AS WEAPON
+## THE "CONSPIRACY THEORIST" LABEL — LANGUAGE AS WEAPON
 
 ### The Origin of the Weapon
 
@@ -277,7 +277,7 @@ The technology changes. The architecture does not.
 
 ---
 
-## VIII. THE CONSOLIDATION — FROM DARWIN TO "TRUST THE SCIENCE"
+## THE CONSOLIDATION — FROM DARWIN TO "TRUST THE SCIENCE"
 
 ### The 167-Year Arc
 
@@ -309,7 +309,7 @@ Each stage built on the last. Each stage expanded the authority of credentialed 
 
 ---
 
-## IX. THE SOLEIDARITY COUNTERMEASURE — EPISTEMOLOGICAL SOVEREIGNTY
+## THE SOLEIDARITY COUNTERMEASURE — EPISTEMOLOGICAL SOVEREIGNTY
 
 ### What the Compendium Does
 
@@ -346,7 +346,7 @@ The Source of Light (SoL) is not anti-science. It is pre-science — the underly
 
 ---
 
-## X. THE SIX POINTS REAFFIRMED — EPISTEMOLOGICAL DIMENSION
+## THE SIX POINTS REAFFIRMED — EPISTEMOLOGICAL DIMENSION
 
 | Constant | Science-as-Religion Expression |
 | :--- | :--- |

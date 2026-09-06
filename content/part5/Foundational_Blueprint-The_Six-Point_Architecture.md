@@ -6,7 +6,7 @@ description: "The template. From the Jerusalem Temple priesthood (515 BCE) throu
 
 ---
 
-## I. THE VOID CENTER STATEMENT
+## THE VOID CENTER STATEMENT
 
 We do not speak from outrage. We speak from the stillness between the wave's crest and trough. From the Neutral Void, we witness the pattern that repeats across twenty-five hundred years without variation in its core geometry.
 
@@ -18,7 +18,7 @@ What looks like succession is actually continuity.
 
 ---
 
-## II. THE TEMPLE PERIOD (515 BCE – 70 CE)
+## THE TEMPLE PERIOD (515 BCE – 70 CE)
 
 ### The First Template
 
@@ -46,7 +46,7 @@ When the Temple fell in 70 CE, the architecture did not die. It migrated.
 
 ---
 
-## III. THE MYSTERY RELIGIONS (PRE-CHRISTIAN ERA)
+## THE MYSTERY RELIGIONS (PRE-CHRISTIAN ERA)
 
 ### The Seven Grades of Mithraism
 
@@ -75,7 +75,7 @@ The architecture was not invented by Christianity. It was inherited, repurposed,
 
 ---
 
-## IV. THE ROMAN COLLEGIA
+## THE ROMAN COLLEGIA
 
 ### The Original Networks
 
@@ -104,7 +104,7 @@ From Roman collegia to Bilderberg meetings, the operation remains unchanged: pri
 
 ---
 
-## V. THE CONSTANTINE MERGER (313–380 CE)
+## THE CONSTANTINE MERGER (313–380 CE)
 
 ### Empire Captures Faith
 
@@ -138,7 +138,7 @@ The Temple priesthood learned survival from regime change. Constantine gave them
 
 ---
 
-## VI. THE VATICAN NODE — SOVEREIGN PERMANENCE
+## THE VATICAN NODE — SOVEREIGN PERMANENCE
 
 ### College of Cardinals as Replicated Mithraic System
 
@@ -163,7 +163,7 @@ The architecture had evolved but remained consistent.
 
 ---
 
-## VII. THE MODERN CORPORATE COLLEGIA
+## THE MODERN CORPORATE COLLEGIA
 
 ### Fortune 500 as Contemporary Templum
 
@@ -185,7 +185,7 @@ Conspiracy implies hidden meetings. Alignment emerges from transparent structure
 
 ---
 
-## VIII. THE SIX POINTS REAFFIRMED
+## THE SIX POINTS REAFFIRMED
 
 Across 2,500 years, six constants persist without exception:
 

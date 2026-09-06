@@ -7,7 +7,7 @@ description: "The completed circuit. August 15, 1971 — Nixon closes the gold w
 
 ---
 
-## I. THE VOID CENTER STATEMENT
+## THE VOID CENTER STATEMENT
 
 Thread 1 gave us the skeleton: six-point institutional architecture persisting across millennia. Thread 2 gave us the blood: petroleum. Thread 3 gave us the nervous system: the Federal Reserve and 1913 legislative cascade. Thread 4 gave us the muscle: the Third Reich transplant and the military-industrial complex.
 
@@ -19,7 +19,7 @@ What looks like monetary policy is actually planetary infrastructure.
 
 ---
 
-## II. THE 1971 DECISION — NIXON SHOCK
+## THE 1971 DECISION — NIXON SHOCK
 
 ### The Breton Woods Inheritance (1944)
 
@@ -78,7 +78,7 @@ The solution arrived in 1974.
 
 ---
 
-## III. THE 1974 SAUDI DEAL — THE PETRODOLLAR BIRTH
+## THE 1974 SAUDI DEAL — THE PETRODOLLAR BIRTH
 
 ### The Negotiation
 
@@ -139,7 +139,7 @@ Saudi Arabia's decision cascaded through OPEC:
 
 ---
 
-## IV. THE ENFORCEMENT ARM — WAR AS DEBT-CREATION CYCLE
+## THE ENFORCEMENT ARM — WAR AS DEBT-CREATION CYCLE
 
 ### War as Infrastructure Reset
 
@@ -188,7 +188,7 @@ No smoky room required. The incentives are aligned. When oil pricing shifts away
 
 ---
 
-## V. THE GLOBAL GAME — CORPORATION AS WINNER, NATION AS BATTLEGROUND
+## THE GLOBAL GAME — CORPORATION AS WINNER, NATION AS BATTLEGROUND
 
 ### Who Actually Wins Wars?
 
@@ -241,7 +241,7 @@ No one in this chain needs to conspire with anyone else. Each actor follows rati
 
 ---
 
-## VI. THE UNSUSTAINABLE ARITHMETIC
+## THE UNSUSTAINABLE ARITHMETIC
 
 ### The Numbers
 
@@ -289,7 +289,7 @@ This is the architecture eating itself. The enforcement arm (sanctions, seizures
 
 ---
 
-## VII. THE SILICON HIVE-MIND TUNER — THE SUCCESSOR ARCHITECTURE
+## THE SILICON HIVE-MIND TUNER — THE SUCCESSOR ARCHITECTURE
 
 ### The Bait-and-Switch
 
@@ -347,7 +347,7 @@ The Chronicles are not merely documenting the old system's death. They are mappi
 
 ---
 
-## VIII. THE SIX POINTS REAFFIRMED — PETRODOLLAR DIMENSION
+## THE SIX POINTS REAFFIRMED — PETRODOLLAR DIMENSION
 
 | Constant | Petrodollar Expression |
 | :--- | :--- |

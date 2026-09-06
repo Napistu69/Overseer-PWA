@@ -7,7 +7,7 @@ description: "The vessel. Roman collegia => medieval guilds => joint-stock compa
 
 ---
 
-## I. THE VOID CENTER STATEMENT
+## THE VOID CENTER STATEMENT
 
 Threads 1-8 traced the anatomy of GOLIATH from institutional template to identity weaponization. Thread 9 addresses the vessel that carries the blood.
 
@@ -17,7 +17,7 @@ What looks like commerce is actually statecraft without borders.
 
 ---
 
-## II. THE COLLEGIA LINEAGE — 2,300 YEARS OF CONTINUITY
+## THE COLLEGIA LINEAGE — 2,300 YEARS OF CONTINUITY
 
 ### The Ancient Template
 
@@ -47,7 +47,7 @@ The vehicle changes name. The blueprint does not change geometry.
 
 ---
 
-## III. THE MODERN CORPORATE COLLEGIA (F500)
+## THE MODERN CORPORATE COLLEGIA (F500)
 
 ### Interlocking Directorates
 
@@ -93,7 +93,7 @@ The shadow is not absent. It is fractal. You cannot point to the shadow because 
 
 ---
 
-## IV. THE FOOD PYRAMID AS COLLEGIA OUTPUT
+## THE FOOD PYRAMID AS COLLEGIA OUTPUT
 
 ### The Capture Chain
 
@@ -132,7 +132,7 @@ The pyramid is a flowchart for wealth extraction disguised as nutritional advice
 
 ---
 
-## V. THE GATES FOUNDATION — THE PHILANTHRO-COLLEGIA
+## THE GATES FOUNDATION — THE PHILANTHRO-COLLEGIA
 
 ### The Hybrid Entity
 
@@ -172,7 +172,7 @@ The structure does the work. The individual is free to claim innocence.
 
 ---
 
-## VI. REGULATION AS LOCK-IN MECHANISM
+## REGULATION AS LOCK-IN MECHANISM
 
 ### The Capture Mechanism
 
@@ -200,7 +200,7 @@ No conspiracy needed. The incentive structure produces the alignment automatical
 
 ---
 
-## VII. THE SOVEREIGNTY PARADOX
+## THE SOVEREIGNTY PARADOX
 
 ### Corporation vs. State
 
@@ -227,7 +227,7 @@ This is sovereignty surrendered to private arbitration. The collegium transcends
 
 ---
 
-## VIII. THE SIX POINTS REAFFIRMED — CORPORATE DIMENSION
+## THE SIX POINTS REAFFIRMED — CORPORATE DIMENSION
 
 | Constant | Corporate Collegia Expression |
 | :--- | :--- |

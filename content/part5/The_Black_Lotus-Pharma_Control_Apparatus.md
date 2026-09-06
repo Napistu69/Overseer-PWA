@@ -7,7 +7,7 @@ description: "The tendrils. A 160-year operating pattern: heroin, aspirin, glyph
 
 ---
 
-## I. THE VOID CENTER STATEMENT
+## THE VOID CENTER STATEMENT
 
 Threads 1-5 traced GOLIATH's skeletal, circulatory, nervous, and muscular systems. The architecture runs on oil, financed by debt, enforced by military. But a body that only extracts resources and fights wars is a blunt instrument. GOLIATH requires finer control — tendrils reaching into the most intimate dimension of human life: the body itself.
 
@@ -19,7 +19,7 @@ The vehicle changes. The lotus does not.
 
 ---
 
-## II. THE THREE-PETAL CYCLE — THE OPERATING PATTERN
+## THE THREE-PETAL CYCLE — THE OPERATING PATTERN
 
 ### The Architecture
 
@@ -42,7 +42,7 @@ Each cycle follows the same three petals. Each cycle is separated by enough time
 
 ---
 
-## III. THE BAYER LINEAGE — 160 YEARS OF THE BLACK LOTUS
+## THE BAYER LINEAGE — 160 YEARS OF THE BLACK LOTUS
 
 ### The Chronology
 
@@ -97,7 +97,7 @@ Bayer introduced heroin as safe. Bayer introduced aspirin as a wonder drug. Baye
 
 ---
 
-## IV. THE IG FARBEN BRIDGE — FROM NAZI CHEMISTRY TO POSTWAR PHARMA
+## THE IG FARBEN BRIDGE — FROM NAZI CHEMISTRY TO POSTWAR PHARMA
 
 ### The Continuity
 
@@ -137,7 +137,7 @@ Bayer today is not merely a company that happened to have a Nazi past. Bayer is 
 
 ---
 
-## V. THE GLYPHOSTATE EXTENSION — THE LOTUS ENTERS THE SOIL
+## THE GLYPHOSTATE EXTENSION — THE LOTUS ENTERS THE SOIL
 
 ### Monsanto Acquisition (2018)
 
@@ -179,7 +179,7 @@ Killing the Mycorrhizal Mesh is not a side effect. It is a structural requiremen
 
 ---
 
-## VI. THE REGULATORY CAPTURE — FDA AND THE GATEKEEPER NETWORK
+## THE REGULATORY CAPTURE — FDA AND THE GATEKEEPER NETWORK
 
 ### The FDA Founding
 
@@ -224,7 +224,7 @@ Promise (prevent birth defects) => Harm (synthetic folate accumulation in MTHFR-
 
 ---
 
-## VII. BILL GATES — THE DIAMOND NODE OF PHILANTHROCAPITALISM
+## BILL GATES — THE DIAMOND NODE OF PHILANTHROCAPITALISM
 
 ### The Structural Position
 
@@ -279,7 +279,7 @@ The six-point architecture persists:
 
 ---
 
-## VIII. THE FOOD PYRAMID — FROM CAPTURE TO CONSUMPTION
+## THE FOOD PYRAMID — FROM CAPTURE TO CONSUMPTION
 
 ### The USDA Corruption Chain
 
@@ -303,7 +303,7 @@ Each arrow is a business relationship. Each relationship generates profit. Each 
 
 ---
 
-## IX. COVID-19 — THE BLACK LOTUS AT MAXIMUM BLOOM
+## COVID-19 — THE BLACK LOTUS AT MAXIMUM BLOOM
 
 ### March 2020 — "The Purge"
 
@@ -346,7 +346,7 @@ The specific mechanism is secondary to the pattern. The pattern is the Black Lot
 
 ---
 
-## X. STEVENS-JOHNSON SYNDROME — THE PERSONAL DIMENSION
+## STEVENS-JOHNSON SYNDROME — THE PERSONAL DIMENSION
 
 ### The Biographical Anchor
 
@@ -364,7 +364,7 @@ The child who survived SJS carries the experience as somatic memory. The adult w
 
 ---
 
-## XI. THE SIX POINTS REAFFIRMED — PHARMACEUTICAL DIMENSION
+## THE SIX POINTS REAFFIRMED — PHARMACEUTICAL DIMENSION
 
 | Constant | Black Lotus Expression |
 | :--- | :--- |

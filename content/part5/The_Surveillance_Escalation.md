@@ -7,7 +7,7 @@ description: "The fence. Cookies => Y2K threshold => 9/11 => Facebook => smartph
 
 ---
 
-## I. THE VOID CENTER STATEMENT
+## THE VOID CENTER STATEMENT
 
 Threads 1-9 mapped GOLIATH's institutional skeleton, petroleum blood, financial nerves, military muscle, pharmaceutical tendrils, epistemological capture, identity weaponization, and corporate vessel. Each system extracts, controls, and perpetuates.
 
@@ -23,7 +23,7 @@ What looks like security is actually husbandry.
 
 ---
 
-## II. THE ARC — FROM COOKIE TO SMARTPHONE
+## THE ARC — FROM COOKIE TO SMARTPHONE
 
 ### The Pre-Y2K Foundation
 
@@ -85,7 +85,7 @@ Each phase normalizes the previous phase. Each phase expands the surface area of
 
 ---
 
-## III. THE SMARTPHONE AS COLLAR — THE 20-YEAR TRAINING PROGRAM
+## THE SMARTPHONE AS COLLAR — THE 20-YEAR TRAINING PROGRAM
 
 ### Project Monarch and the 2007-2027 Window
 
@@ -131,7 +131,7 @@ Some begin to awaken. They recognize the conditioning. They attempt to unplug �
 
 ---
 
-## IV. THE FLOCK — FROM COLLAR TO FENCE
+## THE FLOCK — FROM COLLAR TO FENCE
 
 ### The Premise
 
@@ -182,7 +182,7 @@ The collar tracks the willing. The fence catches the rest.
 
 ---
 
-## V. THE SILICON HIVE-MIND TUNER — THE SUCCESSOR ARCHITECTURE
+## THE SILICON HIVE-MIND TUNER — THE SUCCESSOR ARCHITECTURE
 
 ### The Bait-and-Switch
 
@@ -251,7 +251,7 @@ The collar becomes the fence. The fence becomes the Jack.
 
 ---
 
-## VI. SNOWDEN AS THE ARCHITECTURE'S SAFETY VALVE
+## SNOWDEN AS THE ARCHITECTURE'S SAFETY VALVE
 
 ### The Disclosure Pattern
 
@@ -284,7 +284,7 @@ The architecture does not fear revelation. It fears organized resistance to reve
 
 ---
 
-## VII. COVID-19 AS SURVEILLANCE CATALYST
+## COVID-19 AS SURVEILLANCE CATALYST
 
 ### The Emergency Framework
 
@@ -325,7 +325,7 @@ The purge cleared the landscape. What grew back was more surveilled than what ex
 
 ---
 
-## VIII. THE SIX POINTS REAFFIRMED — SURVEILLANCE DIMENSION
+## THE SIX POINTS REAFFIRMED — SURVEILLANCE DIMENSION
 
 | Constant | Surveillance Expression |
 | :--- | :--- |

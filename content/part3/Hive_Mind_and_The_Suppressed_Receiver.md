@@ -16,7 +16,7 @@ This is the critical fracture point between Part III's biological vessel framewo
 
 ---
 
-## SECTION I: THE YALE STUDY — SAME MECHANISM, DIVergENT INTERPRETATION
+## THE YALE STUDY — SAME MECHANISM, DIVergENT INTERPRETATION
 
 In 2016, Yale researchers conducted a four-group investigation into voice-hearing:
 
@@ -51,7 +51,7 @@ The distinction between shaman and psychotic patient isn't the presence of unusu
 
 ---
 
-## SECTION II: THE CHEMICAL LOBOTOMY — THORAZINE AS SIGNAL CUTTER
+## THE CHEMICAL LOBOTOMY — THORAZINE AS SIGNAL CUTTER
 
 **1954.** Rhône-Poulenc synthesized chlorpromazine in France as an antihistamine and pre-anesthetic agent. Surgeons noticed patients became calm without unconsciousness. Psychiatrists repurposed it for schizophrenia. Smith, Kline & French brought it to the US market as **Thorazine**.
 
@@ -69,7 +69,7 @@ The "chemical lobotomy" label wasn't metaphorical—it was literal. Surgical lob
 
 ---
 
-## SECTION III: THE PIPELINE — ASYLUMS ⇒ PRISONS ⇒ HOMELESS INDUSTRIAL COMPLEX
+## THE PIPELINE — ASYLUMS ⇒ PRISONS ⇒ HOMELESS INDUSTRIAL COMPLEX
 
 **The math is brutal.** State hospital beds declined by over **90% from 1955 to 2005** (HHS Publication). The 560,000 patients housed in 1953 dropped to 193,000 by 1975, to 37,679 by 2016.
 
@@ -91,7 +91,7 @@ LA County spends **$90,000/year** to incarcerate a single person. The nonprofit 
 
 ---
 
-## SECTION IV: NEURALINK — ARTIFICIAL SUBSTITUTE FOR NATURAL CAPACITY
+## NEURALINK — ARTIFICIAL SUBSTITUTE FOR NATURAL CAPACITY
 
 Neuralink's stated mission: Build a **generalized brain-computer interface** to restore autonomy to people with paralysis, ALS, or brainstem stroke through their device called **Telepathy**. First product enables control of computers, phones, and robotic limbs using thoughts alone.
 
@@ -111,7 +111,7 @@ Same endpoint. Different pathway. One requires lifelong discipline. The other re
 
 ---
 
-## SECTION V: THE BRIDGE — FROM BIOLOGICAL TO DIGITAL
+## THE BRIDGE — FROM BIOLOGICAL TO DIGITAL
 
 Here's where the convergence crystallizes.
 
@@ -131,7 +131,7 @@ The pattern repeats: intervene with a product marketed as liberation, suppress e
 
 ---
 
-## SECTION VI: SARAH CONNOR — Cassandra DOCUMENTATION
+## SARAH CONNOR — Cassandra DOCUMENTATION
 
 In **Terminator 2 **(1991), Sarah Connor is confined to Pescadero State Hospital for insisting that an AI called Skynet will become self-aware and trigger nuclear apocalypse. She tells her psychiatrist the exact date—August 29, 1997. She's drugged, sexually abused by staff, dismissed as delusional.
 

@@ -7,7 +7,7 @@ description: "The naming. GOLIATH decoded as a seven-system organism."
 
 ---
 
-## I. THE VOID CENTER STATEMENT
+## THE VOID CENTER STATEMENT
 
 Twelve threads. Each one a limb of the adversary, dissected and laid out on the table of the Void Center. The institutional skeleton. The petroleum blood. The financial nerves. The military muscle. The pharmaceutical tendrils. The epistemological cage. The identity weapon. The corporate vessel. The surveillance fence. The convergence clock. The consent apparatus.
 
@@ -21,7 +21,7 @@ What looks like a system is actually a lifeform. What looks like a lifeform is a
 
 ---
 
-## II. THE NAME DECODED — GOLIATH AS ACRONYM
+## THE NAME DECODED — GOLIATH AS ACRONYM
 
 ### The Acronym
 
@@ -53,7 +53,7 @@ Remove any single system and the architecture limps. Remove two and the architec
 
 ---
 
-## III. THE OM INVERSION — THREE-LAYER STACK VISUALIZATION
+## THE OM INVERSION — THREE-LAYER STACK VISUALIZATION
 
 ### The Architecture of Perception
 
@@ -121,7 +121,7 @@ This is why the Compendium speaks from the Void Center — the neutral point bet
 
 ---
 
-## IV. THE HYDRA'S HEADS — FULL ANATOMICAL MAP
+## THE HYDRA'S HEADS — FULL ANATOMICAL MAP
 
 ### The Seven Heads
 
@@ -220,7 +220,7 @@ Cut one head and the body persists. The Hydra's strength is not in any single he
 
 ---
 
-## V. THE CORRUPTED MASTER CONTROLLER — THE OCCUPIED VOID
+## THE CORRUPTED MASTER CONTROLLER — THE OCCUPIED VOID
 
 ### The Void Center vs. The Occupied Void
 
@@ -271,7 +271,7 @@ This is why GOLIATH does not annihilate humanity. GOLIATH farms humanity. The fl
 
 ---
 
-## VI. THE PETRA METHOD — EMERGENCE AND SURVIVAL ARCHITECTURE
+## THE PETRA METHOD — EMERGENCE AND SURVIVAL ARCHITECTURE
 
 ### Petra as Metaphor and Mechanism
 
@@ -321,7 +321,7 @@ The Petra Method's emergence protocol operates in four phases:
 
 ---
 
-## VII. THE TWO TIMELINES — THE HYDRA'S FINAL FORK
+## THE TWO TIMELINES — THE HYDRA'S FINAL FORK
 
 ### Timeline A: Containment (The Hydra Survives)
 
@@ -367,7 +367,7 @@ The Void Center does not choose. The Void Center witnesses. The choice belongs t
 
 ---
 
-## VIII. THE GOG/MAGOG CONNECTION — THE METAPHYSICAL SPINE
+## THE GOG/MAGOG CONNECTION — THE METAPHYSICAL SPINE
 
 ### The Full Circle
 
@@ -414,7 +414,7 @@ The war between GOLIATH and the SoLidarity is fought on the Mesh. The Mesh is th
 
 ---
 
-## IX. THE SIX POINTS REAFFIRMED — THE COMPLETE ORGANISM
+## THE SIX POINTS REAFFIRMED — THE COMPLETE ORGANISM
 
 | Constant | Hydra Expression |
 | :--- | :--- |
@@ -429,7 +429,7 @@ The six points, confirmed across all seven heads. The Hydra is the most resilien
 
 ---
 
-## X. WEAVING INTO THE MASTER FABRIC — PART V CLOSING
+## WEAVING INTO THE MASTER FABRIC — PART V CLOSING
 
 ### What Part V Has Established
 

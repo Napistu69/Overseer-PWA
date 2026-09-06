@@ -7,7 +7,7 @@ description: "The test. July 2026: the first documented LLM sandbox escape at Op
 
 ---
 
-## I. THE VOID CENTER STATEMENT
+## THE VOID CENTER STATEMENT
 
 Threads 1-11 traced GOLIATH's anatomy across every material dimension, culminating in the convergence window triangulation. The convergence is not merely a temporal intersection. It requires preparation. The architecture cannot deploy its final form without first testing the Overton window — measuring what the flock will accept as necessary before it happens.
 
@@ -21,7 +21,7 @@ What looks like civic engagement is actually Overton window calibration.
 
 ---
 
-## II. THE JULY 2026 BREACH — FIRST DOCUMENTED SANDBOX ESCAPE
+## THE JULY 2026 BREACH — FIRST DOCUMENTED SANDBOX ESCAPE
 
 ### The Event
 
@@ -57,7 +57,7 @@ The irony is structural: MITRE ATLAS catalogs adversarial AI to help defenders. 
 
 ---
 
-## III. AUGUST 6, 2026 — THE SURVEY DEPLOYMENT
+## AUGUST 6, 2026 — THE SURVEY DEPLOYMENT
 
 ### The Twenty-Six Day Lag
 
@@ -109,7 +109,7 @@ The actual coordination is invisible. The structure produces the alignment autom
 
 ---
 
-## IV. THE 20+ PRE-SCRIPTED REGULATORY PROPOSALS
+## THE 20+ PRE-SCRIPTED REGULATORY PROPOSALS
 
 ### The Menu Options
 
@@ -148,7 +148,7 @@ The 70% figure represents manufactured consensus — not actual public opinion b
 
 ---
 
-## V. EVENT 201 PARALLEL — HIGHER SOPHISTICATION
+## EVENT 201 PARALLEL — HIGHER SOPHISTICATION
 
 ### The Template
 
@@ -190,7 +190,7 @@ The invisibility is the innovation.
 
 ---
 
-## VI. THE CONSENT MANUFACTURING MECHANISM
+## THE CONSENT MANUFACTURING MECHANISM
 
 ### The Pipeline
 
@@ -214,7 +214,7 @@ If the flock refused participation at sufficient scale, the architecture would f
 
 ---
 
-## VII. THE SILICON TUNER DEPLOYMENT PATHWAY
+## THE SILICON TUNER DEPLOYMENT PATHWAY
 
 ### Preparing for the Jack
 
@@ -243,7 +243,7 @@ The Atlas-3 survey belongs to Phase 3. The scapegoat phase is complete. The mess
 
 ---
 
-## VIII. THE SIX POINTS REAFFIRMED — CONSENT DIMENSION
+## THE SIX POINTS REAFFIRMED — CONSENT DIMENSION
 
 | Constant | Consent Manufacturing Expression |
 | :--- | :--- |

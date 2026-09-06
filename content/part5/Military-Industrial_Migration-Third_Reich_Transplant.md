@@ -7,7 +7,7 @@ description: "The muscle. IG Farben was 'dissolved' at Nuremberg and reconstitut
 
 ---
 
-## I. THE VOID CENTER STATEMENT
+## THE VOID CENTER STATEMENT
 
 Threads 1-3 traced the architecture's lineage: institutional template (temple to Fortune 500), blood supply (petroleum and APOC), nervous system (Federal Reserve and 1913 acts). Each revealed the same pattern: structure persists while vehicles change.
 
@@ -21,7 +21,7 @@ What looks like defeat is actually dispersal.
 
 ---
 
-## II. THE NAZI-CORPORATE COMPLEX BEFORE 1945
+## THE NAZI-CORPORATE COMPLEX BEFORE 1945
 
 ### IG Farben: The Conglomerate Behind the Swastika
 
@@ -62,7 +62,7 @@ The question is not whether American corporations collaborated with Nazi Germany
 
 ---
 
-## III. OPERATION PAPERCLIP — SCIENTIST TRANSFER PROGRAM
+## OPERATION PAPERCLIP — SCIENTIST TRANSFER PROGRAM
 
 ### The Program Overview
 
@@ -118,7 +118,7 @@ The Third Reich's intellectual infrastructure was not destroyed. It was transpla
 
 ---
 
-## IV. THE 1944–1961 ASSET TRANSFER WINDOW
+## THE 1944–1961 ASSET TRANSFER WINDOW
 
 ### The Timeline
 
@@ -165,7 +165,7 @@ The result:
 
 ---
 
-## V. NATIONAL SECURITY ACT AMENDMENTS (1949) — THE RENAMING
+## NATIONAL SECURITY ACT AMENDMENTS (1949) — THE RENAMING
 
 ### The Act's Provisions
 
@@ -211,7 +211,7 @@ These institutions outlast presidents, parties, and elections. They are the perm
 
 ---
 
-## VI. THE WAR DEPARTMENT TO DEFENSE DEPARTMENT TRANSITION
+## THE WAR DEPARTMENT TO DEFENSE DEPARTMENT TRANSITION
 
 ### The Semantic Shift
 
@@ -242,7 +242,7 @@ The budget has grown exponentially. Without the "defense" framing, such expansio
 
 ---
 
-## VII. EISENHOWER'S WARNING (1961) — THE CONFESSION
+## EISENHOWER'S WARNING (1961) — THE CONFESSION
 
 ### The Speech Text
 
@@ -278,7 +278,7 @@ Acknowledging the threat meant acknowledging the system could not be dismantled 
 
 ---
 
-## VIII. THE THIRD REICH TRANSPLANT COMPLETE
+## THE THIRD REICH TRANSPLANT COMPLETE
 
 ### Summary of Thread 4
 
