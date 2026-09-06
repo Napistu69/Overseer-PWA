@@ -91,6 +91,26 @@
       padding-left: 20px; margin: 24px 0;
       color: var(--text-light); font-style: italic;
     }
+    .next-thread {
+      margin: 40px 0;
+      text-align: center;
+    }
+    .next-thread-link {
+      display: inline-block;
+      padding: 16px 32px;
+      background: var(--primary);
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 1rem;
+      transition: all 0.3s;
+      box-shadow: var(--shadow);
+    }
+    .next-thread-link:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+    }
     footer {
       background: var(--bg-alt); border-top: 1px solid var(--border);
       padding: 40px 0; margin-top: 80px; text-align: center;
@@ -110,7 +130,50 @@
     <div class="content">
       {{ .Content }}
     </div>
-  </div>
+
+    {{/* Thread-to-thread navigation based on Master Index order */}}
+    {{ $current := . }}
+    {{ $section := .CurrentSection }}
+    {{ $pages := $section.Pages.ByWeight }}
+    
+    {{/* Find current page index */}}
+    {{ $currentIndex := -1 }}
+    {{ range $index, $page := $pages }}
+      {{ if eq $page $current }}
+        {{ $currentIndex = $index }}
+      {{ end }}
+    {{ end }}
+    
+    {{/* Determine next page */}}
+    {{ $nextPage := false }}
+    {{ $nextLabel := "Next Thread" }}
+    
+    {{ if eq $currentIndex (sub ($pages | len) 1) }}
+      {{/* Last page in section - get next section's index */}}
+      {{ $allSections := .Site.Sections.ByWeight }}
+      {{ $secIdx := -1 }}
+      {{ range $i, $s := $allSections }}
+        {{ if eq $s $section }}
+          {{ $secIdx = $i }}
+        {{ end }}
+      {{ end }}
+      {{ $nextSec := index $allSections (add $secIdx 1) }}
+      {{ if $nextSec }}
+        {{ $nextPage = $nextSec }}
+        {{ $nextLabel = "Next Part" }}
+      {{ end }}
+    {{ else }}
+      {{/* Not last page - link to next in section */}}
+      {{ $nextPage = index $pages (add $currentIndex 1) }}
+    {{ end }}
+    
+    {{ with $nextPage }}
+    <div class="next-thread">
+      <a href="{{ .Permalink }}" class="next-thread-link">
+        {{ $nextLabel }}: {{ .Title }} →
+      </a>
+    </div>
+    {{ end }}
 
   <footer>
     <div class="container">
