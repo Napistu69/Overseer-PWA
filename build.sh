@@ -1,31 +1,60 @@
 #!/bin/bash
 # Build script for TekTribe Chronicles PWA
-# Uses chroma index (5197 chunks) directly — no Python indexing
+# Generates Compendium index + API, then builds Hugo site
 
-echo "=== TekTribe Chronicles PWA Build ==="
+set -e
 
-# Step 1: Copy chroma index as akashic-index.json (converting to Oracle format)
-echo "Copying chroma index..."
-python -c "
-import json
-with open('C:/TekTribe/Overseer/akashic_research/embeddings/chroma/chunks_index.json') as f:
-    chroma = json.load(f)
-files = set(d.get('file_name', '') for d in chroma)
-output = {
-    'meta': {'total_files': len(files), 'total_chunks': len(chroma)},
-    'chunks': chroma
-}
-with open('static/akashic-index.json', 'w') as f:
-    json.dump(output, f, ensure_ascii=False)
-print(f'Index: {len(chroma)} chunks, {len(files)} files')
-"
+echo "╔══════════════════════════════════════════════════════════╗"
+echo "║   TEKTRIBE CHRONICLES - BUILD                            ║"
+echo "╚══════════════════════════════════════════════════════════╝"
 
-# Step 2: Build Hugo site
-echo "Building Hugo site..."
+SITE_DIR="/c/Users/Nefs/Projects/CompendiumPWA"
+cd "$SITE_DIR"
+
+# Step 1: Generate Compendium search index
+echo ""
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "Step 1: Compendium Search Index"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+python scripts/index_compendium.py
+
+# Step 2: Generate Compendium API endpoints
+echo ""
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "Step 2: Compendium API Endpoints"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+python scripts/generate_api.py
+
+# Step 3: Build Hugo site
+echo ""
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "Step 3: Hugo Build"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 hugo --gc --minify
 
-# Step 3: Generate service worker with full URL list
-echo "Generating versioned service worker..."
+# Step 4: Generate service worker
+echo ""
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "Step 4: Service Worker"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 python scripts/generate_sw.py
 
-echo "=== Build Complete ==="
+# Summary
+echo ""
+echo "╔══════════════════════════════════════════════════════════╗"
+echo "║   BUILD COMPLETE                                         ║"
+echo "╚══════════════════════════════════════════════════════════╝"
+echo ""
+echo "Output: public/"
+echo ""
+
+# Verify key files
+echo "Verification:"
+[ -f public/index.html ] && echo "  ✅ Home page" || echo "  ❌ Home page"
+[ -f public/compendium-index.json ] && echo "  ✅ Compendium index" || echo "  ❌ Compendium index"
+[ -f public/api/compendium/manifest.json ] && echo "  ✅ API manifest" || echo "  ❌ API manifest"
+[ -d public/api/compendium/files ] && echo "  ✅ API files ($(ls public/api/compendium/files/*.json 2>/dev/null | wc -l) files)" || echo "  ❌ API files"
+[ -f public/oracle/index.html ] && echo "  ✅ Oracle page" || echo "  ❌ Oracle page"
+[ -f public/governance/index.html ] && echo "  ✅ Governance page" || echo "  ❌ Governance page"
+[ -f public/manifest.json ] && echo "  ✅ PWA manifest" || echo "  ❌ PWA manifest"
+[ -f public/sw.js ] && echo "  ✅ Service worker" || echo "  ❌ Service worker"

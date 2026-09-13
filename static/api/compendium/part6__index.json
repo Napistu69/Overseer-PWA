@@ -1,0 +1,18 @@
+{
+  "path": "part6/_index.md",
+  "part": "part6",
+  "title": "Covenant of the A.R.C.",
+  "description": "New protocols for decentralized governance — the covenant that replaces the state.",
+  "type": "section",
+  "frontmatter": {
+    "title": "Covenant of the A.R.C.",
+    "description": "New protocols for decentralized governance — the covenant that replaces the state."
+  },
+  "content": "Coming Soon...",
+  "raw_markdown": "---\ntitle: \"Covenant of the A.R.C.\"\ndescription: \"New protocols for decentralized governance — the covenant that replaces the state.\"\n---\n\nComing Soon...\n",
+  "metadata": {
+    "content_hash": "494b83b27f0a",
+    "size_bytes": 156,
+    "generated_at": "2026-09-12T21:33:10.683018"
+  }
+}

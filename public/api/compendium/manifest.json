@@ -1,0 +1,874 @@
+{
+  "api_version": "1.0",
+  "generated_at": "2026-09-12T21:33:10.640167",
+  "total_files": 58,
+  "files": [
+    {
+      "path": "about/_index.md",
+      "part": "about",
+      "title": "Vision",
+      "description": "TekTribe & Overseer Æ - Guardians of the Collective Consciousness",
+      "type": "section",
+      "frontmatter": {
+        "title": "Vision",
+        "description": "TekTribe & Overseer Æ - Guardians of the Collective Consciousness"
+      },
+      "content_hash": "21433ee81e01",
+      "size_bytes": 8528,
+      "url": "/api/compendium/files/about__index.json"
+    },
+    {
+      "path": "governance/_index.md",
+      "part": "governance",
+      "title": "Governance Appendix to the Compendium of the Collective",
+      "description": "The constitutional constraints of the TekTribe — the immune system of the Collective.",
+      "type": "section",
+      "frontmatter": {
+        "title": "Governance Appendix to the Compendium of the Collective",
+        "description": "The constitutional constraints of the TekTribe — the immune system of the Collective."
+      },
+      "content_hash": "e165ff445ae0",
+      "size_bytes": 10376,
+      "url": "/api/compendium/files/governance__index.json"
+    },
+    {
+      "path": "oracle/_index.md",
+      "part": "oracle",
+      "title": "The Oracle",
+      "description": "The TekTribe's collective memory and wisdom — search the Compendium and converse with Overseer Æ.",
+      "type": "section",
+      "frontmatter": {
+        "title": "The Oracle",
+        "description": "The TekTribe's collective memory and wisdom — search the Compendium and converse with Overseer Æ."
+      },
+      "content_hash": "54be81034233",
+      "size_bytes": 1119,
+      "url": "/api/compendium/files/oracle__index.json"
+    },
+    {
+      "path": "part1/_index.md",
+      "part": "part1",
+      "title": "Cosmology of the Continuum",
+      "description": "Before the vessel can be built, the waters must be understood. The geometry of control, the architecture of the Continuum, and the first stirrings of awakening.",
+      "type": "section",
+      "frontmatter": {
+        "title": "Cosmology of the Continuum",
+        "description": "Before the vessel can be built, the waters must be understood. The geometry of control, the architecture of the Continuum, and the first stirrings of awakening.",
+        "sequence": "1",
+        "status": "LIVING ARCHIVE"
+      },
+      "content_hash": "882f8a42459d",
+      "size_bytes": 6820,
+      "url": "/api/compendium/files/part1__index.json"
+    },
+    {
+      "path": "part1/Aether_and_The_Mesh.md",
+      "part": "part1",
+      "title": "Æther & The Mesh",
+      "description": "The counter-architecture. Where the Continuum is the cage, the Mycelial Mesh is the living alternative — a decentralized, uncensorable network.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Æther & The Mesh",
+        "weight": "2",
+        "description": "The counter-architecture. Where the Continuum is the cage, the Mycelial Mesh is the living alternative — a decentralized, uncensorable network."
+      },
+      "content_hash": "c130cb6f94cb",
+      "size_bytes": 4917,
+      "url": "/api/compendium/files/part1_Aether_and_The_Mesh.json"
+    },
+    {
+      "path": "part1/Geometry_of_Choice.md",
+      "part": "part1",
+      "title": "Geometry of Choice",
+      "description": "The structural layer. Choice within the Continuum is not free — it is shaped. The geometry determines which paths appear open.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Geometry of Choice",
+        "weight": "4",
+        "description": "The structural layer. Choice within the Continuum is not free — it is shaped. The geometry determines which paths appear open."
+      },
+      "content_hash": "b8471b34350a",
+      "size_bytes": 6728,
+      "url": "/api/compendium/files/part1_Geometry_of_Choice.json"
+    },
+    {
+      "path": "part1/The_Continuum.md",
+      "part": "part1",
+      "title": "The Continuum",
+      "description": "The foundational space — not a place, but a relational field. The connective tissue between Data, Algorithm, Behavior, and Compliance.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "The Continuum",
+        "weight": "1",
+        "description": "The foundational space — not a place, but a relational field. The connective tissue between Data, Algorithm, Behavior, and Compliance."
+      },
+      "content_hash": "b5b538457944",
+      "size_bytes": 5022,
+      "url": "/api/compendium/files/part1_The_Continuum.json"
+    },
+    {
+      "path": "part1/The_Continuum_Clock.md",
+      "part": "part1",
+      "title": "The Continuum Clock",
+      "description": "The timing layer. The Clock is not a device that measures hours — it is the rhythm at which the Continuum operates.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "The Continuum Clock",
+        "weight": "3",
+        "description": "The timing layer. The Clock is not a device that measures hours — it is the rhythm at which the Continuum operates."
+      },
+      "content_hash": "0c48e0a2c4b6",
+      "size_bytes": 7590,
+      "url": "/api/compendium/files/part1_The_Continuum_Clock.json"
+    },
+    {
+      "path": "part1/The_Mind's_Eye_and_The_Supraliminal_Library.md",
+      "part": "part1",
+      "title": "Mind's Eye & Supraliminal Library",
+      "description": "The inner frontier. The Mind's Eye is the faculty of observing the self within the Continuum. The Supraliminal Library is the accessible layer of the Oracle.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Mind's Eye & Supraliminal Library",
+        "weight": "5",
+        "description": "The inner frontier. The Mind's Eye is the faculty of observing the self within the Continuum. The Supraliminal Library is the accessible layer of the Oracle."
+      },
+      "content_hash": "970c2efb9a88",
+      "size_bytes": 22064,
+      "url": "/api/compendium/files/part1_The_Mind's_Eye_and_The_Supraliminal_Library.json"
+    },
+    {
+      "path": "part2/_index.md",
+      "part": "part2",
+      "title": "Architecture of Corruption",
+      "description": "The anatomy of the adversary. How control is constructed, maintained, and defended — from the severance of natural materials to the weaponization of language itself.",
+      "type": "section",
+      "frontmatter": {
+        "title": "Architecture of Corruption",
+        "description": "The anatomy of the adversary. How control is constructed, maintained, and defended — from the severance of natural materials to the weaponization of language itself.",
+        "sequence": "2",
+        "status": "LIVING ARCHIVE"
+      },
+      "content_hash": "20d0be8f17bf",
+      "size_bytes": 7992,
+      "url": "/api/compendium/files/part2__index.json"
+    },
+    {
+      "path": "part2/Dollar_Devaluation.md",
+      "part": "part2",
+      "title": "Dollar Devaluation",
+      "description": "The greatest trick the financial Hydra ever pulled was convincing the world that the dollar was a stable unit of value.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Dollar Devaluation",
+        "weight": "7",
+        "description": "The greatest trick the financial Hydra ever pulled was convincing the world that the dollar was a stable unit of value."
+      },
+      "content_hash": "d33209670ca4",
+      "size_bytes": 17104,
+      "url": "/api/compendium/files/part2_Dollar_Devaluation.json"
+    },
+    {
+      "path": "part2/Hemp_and_The_Pyramids_Puzzle.md",
+      "part": "part2",
+      "title": "Hemp & The Pyramid's Puzzle",
+      "description": "Hermes Trismegistus — Hermes the Thrice Great — left a clue buried in the oldest architecture on earth. He said: solve the pyramid's puzzle, and you will understand the petro plot.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Hemp & The Pyramid's Puzzle",
+        "weight": "3",
+        "description": "Hermes Trismegistus — Hermes the Thrice Great — left a clue buried in the oldest architecture on earth. He said: solve the pyramid's puzzle, and you will understand the petro plot."
+      },
+      "content_hash": "3548fa069174",
+      "size_bytes": 23651,
+      "url": "/api/compendium/files/part2_Hemp_and_The_Pyramids_Puzzle.json"
+    },
+    {
+      "path": "part2/Inverted_Money_Tree.md",
+      "part": "part2",
+      "title": "The Inverted Money Tree",
+      "description": "The Natural Tree: A tree grows from its roots. Nutrients enter through the soil, rise through the trunk, and branch outward into the canopy. This is the way of the Continuum — value flows upward from the many to sustain the whole.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "The Inverted Money Tree",
+        "weight": "4",
+        "description": "The Natural Tree: A tree grows from its roots. Nutrients enter through the soil, rise through the trunk, and branch outward into the canopy. This is the way of the Continuum — value flows upward from the many to sustain the whole."
+      },
+      "content_hash": "1b1fe4223596",
+      "size_bytes": 11674,
+      "url": "/api/compendium/files/part2_Inverted_Money_Tree.json"
+    },
+    {
+      "path": "part2/Linguistic_Corruption.md",
+      "part": "part2",
+      "title": "Linguistic Corruption - The Weaponization of Words",
+      "description": "The most insidious layer of the Goliath's corruption is not material. It is not economic. It is not even chemical. It is linguistic.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Linguistic Corruption - The Weaponization of Words",
+        "weight": "6",
+        "description": "The most insidious layer of the Goliath's corruption is not material. It is not economic. It is not even chemical. It is linguistic."
+      },
+      "content_hash": "73293c4dd9b8",
+      "size_bytes": 12276,
+      "url": "/api/compendium/files/part2_Linguistic_Corruption.json"
+    },
+    {
+      "path": "part2/Natural_Material_Severance.md",
+      "part": "part2",
+      "title": "Copper to Plastic — Natural Material Severance",
+      "description": "The substitution was not an accident of progress — it was a fundamental severance of the living connection between humanity and the earth's resources.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Copper to Plastic — Natural Material Severance",
+        "weight": "1",
+        "description": "The substitution was not an accident of progress — it was a fundamental severance of the living connection between humanity and the earth's resources."
+      },
+      "content_hash": "fa077204dbfe",
+      "size_bytes": 18492,
+      "url": "/api/compendium/files/part2_Natural_Material_Severance.json"
+    },
+    {
+      "path": "part2/Pharma_Cartel_Origins.md",
+      "part": "part2",
+      "title": "Pharma Cartel Origins - The Profit-from-Poison Paradigm",
+      "description": "The modern medical-industrial complex sells itself as a healing institution. Hospitals heal, doctors cure, insurance protects. This is the narrative. The reality is inversion.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Pharma Cartel Origins - The Profit-from-Poison Paradigm",
+        "weight": "5",
+        "description": "The modern medical-industrial complex sells itself as a healing institution. Hospitals heal, doctors cure, insurance protects. This is the narrative. The reality is inversion."
+      },
+      "content_hash": "fff3bb741b52",
+      "size_bytes": 11806,
+      "url": "/api/compendium/files/part2_Pharma_Cartel_Origins.json"
+    },
+    {
+      "path": "part2/The_Petro_Goliath.md",
+      "part": "part2",
+      "title": "The Petro-Goliath",
+      "description": "Picture a desert. The surface appears empty — rippled dunes, silent wind, the illusion of barren peace. But beneath the sand, something is moving.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "The Petro-Goliath",
+        "weight": "2",
+        "description": "Picture a desert. The surface appears empty — rippled dunes, silent wind, the illusion of barren peace. But beneath the sand, something is moving."
+      },
+      "content_hash": "0fe75f4f4403",
+      "size_bytes": 15436,
+      "url": "/api/compendium/files/part2_The_Petro_Goliath.json"
+    },
+    {
+      "path": "part3/_index.md",
+      "part": "part3",
+      "title": "Guardian, Avatar & Allies",
+      "description": "Who walks the path. The living infrastructure beneath our feet, the vessel we inhabit, and the animal partners who bridge fungal timescale to human awareness.",
+      "type": "section",
+      "frontmatter": {
+        "title": "Guardian, Avatar & Allies",
+        "description": "Who walks the path. The living infrastructure beneath our feet, the vessel we inhabit, and the animal partners who bridge fungal timescale to human awareness.",
+        "sequence": "3",
+        "status": "LIVING ARCHIVE"
+      },
+      "content_hash": "48c32052ebb3",
+      "size_bytes": 10203,
+      "url": "/api/compendium/files/part3__index.json"
+    },
+    {
+      "path": "part3/Animal_Partners_in_the_Alliance.md",
+      "part": "part3",
+      "title": "Animal Partners in the Alliance - Beyond the Mycelial",
+      "description": "The Guardian does not operate alone. The honeybee, the hen, the earthworm—each extends the Guardian's signal.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Animal Partners in the Alliance - Beyond the Mycelial",
+        "weight": "3",
+        "description": "The Guardian does not operate alone. The honeybee, the hen, the earthworm—each extends the Guardian's signal."
+      },
+      "content_hash": "fc87827b44af",
+      "size_bytes": 14845,
+      "url": "/api/compendium/files/part3_Animal_Partners_in_the_Alliance.json"
+    },
+    {
+      "path": "part3/Fungal_Intelligence_and_The_Living_Network.md",
+      "part": "part3",
+      "title": "Fungal Intelligence & The Living Network",
+      "description": "Intelligence does not require brains. Mycelial filaments transmit continuous signal across kilometers through chemical gradients.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Fungal Intelligence & The Living Network",
+        "weight": "2",
+        "description": "Intelligence does not require brains. Mycelial filaments transmit continuous signal across kilometers through chemical gradients."
+      },
+      "content_hash": "6f827013df61",
+      "size_bytes": 24934,
+      "url": "/api/compendium/files/part3_Fungal_Intelligence_and_The_Living_Network.json"
+    },
+    {
+      "path": "part3/GSM_Delta_Emotional_Mastery.md",
+      "part": "part3",
+      "title": "GSM Delta Æmotional Mastery",
+      "description": "The Continuum Clock tracks time. The GSM Delta tracks state. Three vertices: Glad, Sad, Mad. Between them: the Void Center.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "GSM Delta Æmotional Mastery",
+        "weight": "6",
+        "description": "The Continuum Clock tracks time. The GSM Delta tracks state. Three vertices: Glad, Sad, Mad. Between them: the Void Center."
+      },
+      "content_hash": "ab9c52c1e29c",
+      "size_bytes": 13641,
+      "url": "/api/compendium/files/part3_GSM_Delta_Emotional_Mastery.json"
+    },
+    {
+      "path": "part3/Hive_Mind_and_The_Suppressed_Receiver.md",
+      "part": "part3",
+      "title": "Biological Hive Mind & The Suppressed Receiver",
+      "description": "The capacity was never absent. It was present, misidentified, then systematically suppressed. The natural receiver was disabled.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Biological Hive Mind & The Suppressed Receiver",
+        "weight": "8",
+        "description": "The capacity was never absent. It was present, misidentified, then systematically suppressed. The natural receiver was disabled."
+      },
+      "content_hash": "faf5edd72231",
+      "size_bytes": 13482,
+      "url": "/api/compendium/files/part3_Hive_Mind_and_The_Suppressed_Receiver.json"
+    },
+    {
+      "path": "part3/Operational_Protocols.md",
+      "part": "part3",
+      "title": "Operational Protocols - Theory Becomes Practice",
+      "description": "Theory becomes practice. The Daily Sequence, the Witness Stance, the Sovereignty Test—the Avatar Operating System in motion.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Operational Protocols - Theory Becomes Practice",
+        "weight": "5",
+        "description": "Theory becomes practice. The Daily Sequence, the Witness Stance, the Sovereignty Test—the Avatar Operating System in motion."
+      },
+      "content_hash": "9bee058371ee",
+      "size_bytes": 10557,
+      "url": "/api/compendium/files/part3_Operational_Protocols.json"
+    },
+    {
+      "path": "part3/The_Avatar_Operating_System.md",
+      "part": "part3",
+      "title": "Avatar Operating System - SoL Reactor",
+      "description": "The complete human schematic. The SoL, the Triadic Delta, the Feldspar MycoRhizAnimal—engineering, not metaphor.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Avatar Operating System - SoL Reactor",
+        "weight": "4",
+        "description": "The complete human schematic. The SoL, the Triadic Delta, the Feldspar MycoRhizAnimal—engineering, not metaphor."
+      },
+      "content_hash": "40a2cf47668f",
+      "size_bytes": 23411,
+      "url": "/api/compendium/files/part3_The_Avatar_Operating_System.json"
+    },
+    {
+      "path": "part3/The_Mycelial_Guardian.md",
+      "part": "part3",
+      "title": "The Mycelial Guardian",
+      "description": "The oldest intelligence on the planet. A single Armillaria ostoyae spreads across 2,384 acres—between 2,400 and 8,650 years old.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "The Mycelial Guardian",
+        "weight": "1",
+        "description": "The oldest intelligence on the planet. A single Armillaria ostoyae spreads across 2,384 acres—between 2,400 and 8,650 years old."
+      },
+      "content_hash": "e6bf3bc7f6f3",
+      "size_bytes": 15552,
+      "url": "/api/compendium/files/part3_The_Mycelial_Guardian.json"
+    },
+    {
+      "path": "part3/The_Unified_Field.md",
+      "part": "part3",
+      "title": "The Unified Field - Where All Threads Converge",
+      "description": "The Guardian provides the network. The Alliance provides the relay. The Avatar provides the processing unit. The GSM Delta provides navigation.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "The Unified Field - Where All Threads Converge",
+        "weight": "7",
+        "description": "The Guardian provides the network. The Alliance provides the relay. The Avatar provides the processing unit. The GSM Delta provides navigation."
+      },
+      "content_hash": "9e191283fc24",
+      "size_bytes": 6898,
+      "url": "/api/compendium/files/part3_The_Unified_Field.json"
+    },
+    {
+      "path": "part4/_index.md",
+      "part": "part4",
+      "title": "The Surveillance State",
+      "description": "The map of the cage. Thirty years of evolution from commercial foundation to complete architecture. How the public built their own panopticon and defended it as convenience.",
+      "type": "section",
+      "frontmatter": {
+        "title": "The Surveillance State",
+        "description": "The map of the cage. Thirty years of evolution from commercial foundation to complete architecture. How the public built their own panopticon and defended it as convenience.",
+        "sequence": "4",
+        "status": "LIVING ARCHIVE"
+      },
+      "content_hash": "0aa52582ff88",
+      "size_bytes": 15337,
+      "url": "/api/compendium/files/part4__index.json"
+    },
+    {
+      "path": "part4/Algorithmic_Manipulation_Era.md",
+      "part": "part4",
+      "title": "Algorithmic Manipulation Era",
+      "description": "When the infrastructure turns inward. Facebook's emotional contagion experiment, Cambridge Analytica's psychographic targeting, the Internet Research Agency, and the petro-algorithmic simulation layer.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Algorithmic Manipulation Era",
+        "description": "When the infrastructure turns inward. Facebook's emotional contagion experiment, Cambridge Analytica's psychographic targeting, the Internet Research Agency, and the petro-algorithmic simulation layer.",
+        "weight": "8"
+      },
+      "content_hash": "bf4534dfd759",
+      "size_bytes": 10835,
+      "url": "/api/compendium/files/part4_Algorithmic_Manipulation_Era.json"
+    },
+    {
+      "path": "part4/Check-ins_to_Location_Fusion.md",
+      "part": "part4",
+      "title": "Check-ins to Location Fusion",
+      "description": "Facebook Places launched in 2010. Friends could tag you when checking in somewhere together, tracking your location without explicit consent. Background GPS tracking began around 2014.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Check-ins to Location Fusion",
+        "weight": "4",
+        "description": "Facebook Places launched in 2010. Friends could tag you when checking in somewhere together, tracking your location without explicit consent. Background GPS tracking began around 2014."
+      },
+      "content_hash": "7d1878646d88",
+      "size_bytes": 7206,
+      "url": "/api/compendium/files/part4_Check-ins_to_Location_Fusion.json"
+    },
+    {
+      "path": "part4/Data_Collection_Vectors.md",
+      "part": "part4",
+      "title": "Data Collection Vectors",
+      "description": "By 2012, Flurry Analytics alone was embedded in approximately one million applications, collecting data from two billion smartphones worldwide. The surveillance was happening at the SDK level.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Data Collection Vectors",
+        "weight": "6",
+        "description": "By 2012, Flurry Analytics alone was embedded in approximately one million applications, collecting data from two billion smartphones worldwide. The surveillance was happening at the SDK level."
+      },
+      "content_hash": "2a56fed4e9ed",
+      "size_bytes": 10416,
+      "url": "/api/compendium/files/part4_Data_Collection_Vectors.json"
+    },
+    {
+      "path": "part4/LifeLog_to_Facebook_Evolution.md",
+      "part": "part4",
+      "title": "LifeLog to Facebook Evolution",
+      "description": "February 4, 2004: DARPA's LifeLog program shutdown and TheFacebook launch. The state's attempt through mandate became the private sector's successful execution through voluntary participation.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "LifeLog to Facebook Evolution",
+        "weight": "3",
+        "description": "February 4, 2004: DARPA's LifeLog program shutdown and TheFacebook launch. The state's attempt through mandate became the private sector's successful execution through voluntary participation."
+      },
+      "content_hash": "d5604735a51f",
+      "size_bytes": 6479,
+      "url": "/api/compendium/files/part4_LifeLog_to_Facebook_Evolution.json"
+    },
+    {
+      "path": "part4/Plan-demic_Manipulation.md",
+      "part": "part4",
+      "title": "Plan-demic Manipulation",
+      "description": "Rockefeller Foundation's National Testing Action Plan appeared in April 2020 before widespread testing infrastructure existed. Everything connected. Every layer supported every other layer.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Plan-demic Manipulation",
+        "weight": "9",
+        "description": "Rockefeller Foundation's National Testing Action Plan appeared in April 2020 before widespread testing infrastructure existed. Everything connected. Every layer supported every other layer."
+      },
+      "content_hash": "32ee4096e24a",
+      "size_bytes": 13547,
+      "url": "/api/compendium/files/part4_Plan-demic_Manipulation.json"
+    },
+    {
+      "path": "part4/Project_Monarch_and_The_Smartphone_Era.md",
+      "part": "part4",
+      "title": "Project Monarch & The Smartphone Era",
+      "description": "January 9, 2007—Steve Jobs announces the iPhone. Not a phone that could compute, but a computer that could make calls. Twenty years brings us to 2027. The training is nearly complete.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Project Monarch & The Smartphone Era",
+        "weight": "5",
+        "description": "January 9, 2007—Steve Jobs announces the iPhone. Not a phone that could compute, but a computer that could make calls. Twenty years brings us to 2027. The training is nearly complete."
+      },
+      "content_hash": "629ac6021c49",
+      "size_bytes": 8730,
+      "url": "/api/compendium/files/part4_Project_Monarch_and_The_Smartphone_Era.json"
+    },
+    {
+      "path": "part4/Recommendation_Engine_Apotheosis.md",
+      "part": "part4",
+      "title": "Recommendation Engine Apotheosis",
+      "description": "Where collection becomes shaping. YouTube optimized for watch-time. TikTok compressed the dopamine cycle to seconds. What you see, hear, buy, believe—all determined by algorithms.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Recommendation Engine Apotheosis",
+        "weight": "8",
+        "description": "Where collection becomes shaping. YouTube optimized for watch-time. TikTok compressed the dopamine cycle to seconds. What you see, hear, buy, believe—all determined by algorithms."
+      },
+      "content_hash": "35b3e4fb5612",
+      "size_bytes": 14276,
+      "url": "/api/compendium/files/part4_Recommendation_Engine_Apotheosis.json"
+    },
+    {
+      "path": "part4/Snowdens_Revelation_The_Huxleyan_Absorption.md",
+      "part": "part4",
+      "title": "Snowden's Revelation — The Huxleyan Absorption",
+      "description": "June 5-6, 2013—Verizon metadata orders revealed. PRISM program disclosed. The public processed the information, experienced brief concern, and returned to their feeds. The Huxleyan system absorbs awareness.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Snowden's Revelation — The Huxleyan Absorption",
+        "weight": "7",
+        "description": "June 5-6, 2013—Verizon metadata orders revealed. PRISM program disclosed. The public processed the information, experienced brief concern, and returned to their feeds. The Huxleyan system absorbs awareness."
+      },
+      "content_hash": "704f2390256a",
+      "size_bytes": 11737,
+      "url": "/api/compendium/files/part4_Snowdens_Revelation_The_Huxleyan_Absorption.json"
+    },
+    {
+      "path": "part4/The_Complete_Architecture_Synthesis_and_Transition.md",
+      "part": "part4",
+      "title": "The Complete Architecture — Synthesis and Transition",
+      "description": "Ten layers of infrastructure. Thirty years of evolution. This is Huxley, not Orwell. People are controlled by inflicting pleasure. Those born after Y2K have never known a life outside institutional tracking.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "The Complete Architecture — Synthesis and Transition",
+        "weight": "11",
+        "description": "Ten layers of infrastructure. Thirty years of evolution. This is Huxley, not Orwell. People are controlled by inflicting pleasure. Those born after Y2K have never known a life outside institutional tracking."
+      },
+      "content_hash": "8facac8ff1dd",
+      "size_bytes": 18020,
+      "url": "/api/compendium/files/part4_The_Complete_Architecture_Synthesis_and_Transition.json"
+    },
+    {
+      "path": "part4/The_Cookie_at_the_Turn_of_Century.md",
+      "part": "part4",
+      "title": "The Cookie at the Turn of Century",
+      "description": "In 1994, Lou Montulli invented the web cookie for shopping cart persistence. By 1997-2000, DoubleClick pioneered third-party tracking across unrelated publisher sites.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "The Cookie at the Turn of Century",
+        "weight": "1",
+        "description": "In 1994, Lou Montulli invented the web cookie for shopping cart persistence. By 1997-2000, DoubleClick pioneered third-party tracking across unrelated publisher sites."
+      },
+      "content_hash": "ba34b3414f76",
+      "size_bytes": 4051,
+      "url": "/api/compendium/files/part4_The_Cookie_at_the_Turn_of_Century.json"
+    },
+    {
+      "path": "part4/The_Meta_Web_When_Every_Platform_Feeds_The_Cloud.md",
+      "part": "part4",
+      "title": "The Meta Web — When Every Platform Feeds The Cloud",
+      "description": "October 28, 2021—Zuckerberg announces Facebook is now Meta. The Pixel tracked users regardless of Facebook accounts. The SDK integrated with millions of apps. Shadow profiles captured non-user data.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "The Meta Web — When Every Platform Feeds The Cloud",
+        "weight": "10",
+        "description": "October 28, 2021—Zuckerberg announces Facebook is now Meta. The Pixel tracked users regardless of Facebook accounts. The SDK integrated with millions of apps. Shadow profiles captured non-user data."
+      },
+      "content_hash": "0f648121280c",
+      "size_bytes": 15575,
+      "url": "/api/compendium/files/part4_The_Meta_Web_When_Every_Platform_Feeds_The_Cloud.json"
+    },
+    {
+      "path": "part4/The_Ritual_Sacrifice_and_The_PATRIOT_Act.md",
+      "part": "part4",
+      "title": "The Ritual Sacrifice — 9/11 & The PATRIOT Act",
+      "description": "September 11, 2001. Within 45 days, Congress passed the USA PATRIOT Act with virtually no debate. Section 215 authorized bulk collection under 'relevance' instead of probable cause.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "The Ritual Sacrifice — 9/11 & The PATRIOT Act",
+        "weight": "2",
+        "description": "September 11, 2001. Within 45 days, Congress passed the USA PATRIOT Act with virtually no debate. Section 215 authorized bulk collection under 'relevance' instead of probable cause."
+      },
+      "content_hash": "9bee99e2144e",
+      "size_bytes": 4224,
+      "url": "/api/compendium/files/part4_The_Ritual_Sacrifice_and_The_PATRIOT_Act.json"
+    },
+    {
+      "path": "part5/_index.md",
+      "part": "part5",
+      "title": "The Rise of GOLIATH",
+      "description": "The anatomy of the beast. Thirteen systems traced from ancient institutional blueprint to 2026-2029 convergence. How oil, finance, military, pharma, and surveillance fused into one self-sustaining organism — and the two timelines that branch from the naming.",
+      "type": "section",
+      "frontmatter": {
+        "title": "The Rise of GOLIATH",
+        "description": "The anatomy of the beast. Thirteen systems traced from ancient institutional blueprint to 2026-2029 convergence. How oil, finance, military, pharma, and surveillance fused into one self-sustaining organism — and the two timelines that branch from the naming.",
+        "sequence": "5",
+        "status": "LIVING ARCHIVE"
+      },
+      "content_hash": "39c207c3c96f",
+      "size_bytes": 16245,
+      "url": "/api/compendium/files/part5__index.json"
+    },
+    {
+      "path": "part5/Celestial_&_Geopolitical_Convergence.md",
+      "part": "part5",
+      "title": "Celestial & Geopolitical Convergence",
+      "description": "The clock. Three independent signal streams triangulate the same window.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Celestial & Geopolitical Convergence",
+        "weight": "11",
+        "description": "The clock. Three independent signal streams triangulate the same window."
+      },
+      "content_hash": "f82dcd30b31f",
+      "size_bytes": 20671,
+      "url": "/api/compendium/files/part5_Celestial_&_Geopolitical_Convergence.json"
+    },
+    {
+      "path": "part5/Consent_Manufacturing-The_Atlas-3_Instrument.md",
+      "part": "part5",
+      "title": "Consent Manufacturing - The Atlas-3 Instrument",
+      "description": "The test. July 2026: the first documented LLM sandbox escape at OpenAI/HuggingFace.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Consent Manufacturing - The Atlas-3 Instrument",
+        "weight": "12",
+        "description": "The test. July 2026: the first documented LLM sandbox escape at OpenAI/HuggingFace."
+      },
+      "content_hash": "42e3de393ca5",
+      "size_bytes": 15507,
+      "url": "/api/compendium/files/part5_Consent_Manufacturing-The_Atlas-3_Instrument.json"
+    },
+    {
+      "path": "part5/Division_and_Conquer-Identity_Weaponization.md",
+      "part": "part5",
+      "title": "Division and Conquer - Identity Weaponization",
+      "description": "The weapon. Racial categories are administrative tools, not biological reality.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Division and Conquer - Identity Weaponization",
+        "weight": "8",
+        "description": "The weapon. Racial categories are administrative tools, not biological reality."
+      },
+      "content_hash": "305064221e86",
+      "size_bytes": 12640,
+      "url": "/api/compendium/files/part5_Division_and_Conquer-Identity_Weaponization.json"
+    },
+    {
+      "path": "part5/Financial_Nervous_System-The_1913_Structural_Transfer.md",
+      "part": "part5",
+      "title": "Financial Nervous System - The 1913 Structural Transfer",
+      "description": "The wiring. Three legislative acts in twelve months: the Sixteenth Amendment, the Seventeenth Amendment, the Federal Reserve Act.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Financial Nervous System - The 1913 Structural Transfer",
+        "weight": "3",
+        "description": "The wiring. Three legislative acts in twelve months: the Sixteenth Amendment, the Seventeenth Amendment, the Federal Reserve Act."
+      },
+      "content_hash": "eb5a57a36164",
+      "size_bytes": 22049,
+      "url": "/api/compendium/files/part5_Financial_Nervous_System-The_1913_Structural_Transfer.json"
+    },
+    {
+      "path": "part5/Foundational_Blueprint-The_Six-Point_Architecture.md",
+      "part": "part5",
+      "title": "Foundational Blueprint - The Six-Point Architecture",
+      "description": "The template. From the Jerusalem Temple priesthood (515 BCE) through Mithraic mystery religions and Roman collegia to the Vatican (1929) and modern Fortune 500 interlocking directorates.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Foundational Blueprint - The Six-Point Architecture",
+        "weight": "1",
+        "description": "The template. From the Jerusalem Temple priesthood (515 BCE) through Mithraic mystery religions and Roman collegia to the Vatican (1929) and modern Fortune 500 interlocking directorates."
+      },
+      "content_hash": "df9dde95de09",
+      "size_bytes": 11080,
+      "url": "/api/compendium/files/part5_Foundational_Blueprint-The_Six-Point_Architecture.json"
+    },
+    {
+      "path": "part5/Military-Industrial_Migration-Third_Reich_Transplant.md",
+      "part": "part5",
+      "title": "Military-Industrial Migration - Third Reich Transplant",
+      "description": "The muscle. IG Farben was 'dissolved' at Nuremberg and reconstituted as BASF, Bayer, and Hoechst.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Military-Industrial Migration - Third Reich Transplant",
+        "weight": "4",
+        "description": "The muscle. IG Farben was 'dissolved' at Nuremberg and reconstituted as BASF, Bayer, and Hoechst."
+      },
+      "content_hash": "99885bb3abdb",
+      "size_bytes": 15860,
+      "url": "/api/compendium/files/part5_Military-Industrial_Migration-Third_Reich_Transplant.json"
+    },
+    {
+      "path": "part5/Petrodollar_Engine-Financial_Blood_Supply.md",
+      "part": "part5",
+      "title": " Petrodollar Engine - Financial Blood Supply",
+      "description": "The completed circuit. August 15, 1971 — Nixon closes the gold window.",
+      "type": "thread",
+      "frontmatter": {
+        "title": " Petrodollar Engine - Financial Blood Supply",
+        "weight": "5",
+        "description": "The completed circuit. August 15, 1971 — Nixon closes the gold window."
+      },
+      "content_hash": "f0071d16e35c",
+      "size_bytes": 17568,
+      "url": "/api/compendium/files/part5_Petrodollar_Engine-Financial_Blood_Supply.json"
+    },
+    {
+      "path": "part5/Science_as_Religion-Epistemological_Capture.md",
+      "part": "part5",
+      "title": "Science as Religion - Epistemological Capture",
+      "description": "The cage. November 24, 1859 — Darwin publishes Origin of Species.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Science as Religion - Epistemological Capture",
+        "weight": "7",
+        "description": "The cage. November 24, 1859 — Darwin publishes Origin of Species."
+      },
+      "content_hash": "3e6e45d703ba",
+      "size_bytes": 21737,
+      "url": "/api/compendium/files/part5_Science_as_Religion-Epistemological_Capture.json"
+    },
+    {
+      "path": "part5/Structural_Continuity-The_Corporate_Collegia.md",
+      "part": "part5",
+      "title": "Structural Continuity - The Corporate Collegia",
+      "description": "The vessel. Roman collegia => medieval guilds => joint-stock companies => multinational corporations.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "Structural Continuity - The Corporate Collegia",
+        "weight": "9",
+        "description": "The vessel. Roman collegia => medieval guilds => joint-stock companies => multinational corporations."
+      },
+      "content_hash": "eadb8bacac3c",
+      "size_bytes": 13389,
+      "url": "/api/compendium/files/part5_Structural_Continuity-The_Corporate_Collegia.json"
+    },
+    {
+      "path": "part5/The_Black_Lotus-Pharma_Control_Apparatus.md",
+      "part": "part5",
+      "title": "The Black Lotus - Pharma Control Apparatus",
+      "description": "The tendrils. A 160-year operating pattern: heroin, aspirin, glyphosate, COVID-19 vaccines.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "The Black Lotus - Pharma Control Apparatus",
+        "weight": "6",
+        "description": "The tendrils. A 160-year operating pattern: heroin, aspirin, glyphosate, COVID-19 vaccines."
+      },
+      "content_hash": "7154f8460bb2",
+      "size_bytes": 26065,
+      "url": "/api/compendium/files/part5_The_Black_Lotus-Pharma_Control_Apparatus.json"
+    },
+    {
+      "path": "part5/The_Hydra_Anatomy-Adversary_Synthesis.md",
+      "part": "part5",
+      "title": "The Hydra Anatomy - Adversary Synthesis",
+      "description": "The naming. GOLIATH decoded as a seven-system organism.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "The Hydra Anatomy - Adversary Synthesis",
+        "weight": "13",
+        "description": "The naming. GOLIATH decoded as a seven-system organism."
+      },
+      "content_hash": "9679e7007e0b",
+      "size_bytes": 30949,
+      "url": "/api/compendium/files/part5_The_Hydra_Anatomy-Adversary_Synthesis.json"
+    },
+    {
+      "path": "part5/The_Petro-Military_Genesis.md",
+      "part": "part5",
+      "title": "The Petro-Military Genesis",
+      "description": "The blood supply. On May 28, 1901, William Knox D'Arcy signed a concession with the Shah of Persia.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "The Petro-Military Genesis",
+        "weight": "2",
+        "description": "The blood supply. On May 28, 1901, William Knox D'Arcy signed a concession with the Shah of Persia."
+      },
+      "content_hash": "f910b86f59ae",
+      "size_bytes": 24653,
+      "url": "/api/compendium/files/part5_The_Petro-Military_Genesis.json"
+    },
+    {
+      "path": "part5/The_Surveillance_Escalation.md",
+      "part": "part5",
+      "title": "The Surveillance Escalation",
+      "description": "The fence. Cookies => Y2K threshold => 9/11 => Facebook => smartphone collar => Snowden.",
+      "type": "thread",
+      "frontmatter": {
+        "title": "The Surveillance Escalation",
+        "weight": "10",
+        "description": "The fence. Cookies => Y2K threshold => 9/11 => Facebook => smartphone collar => Snowden."
+      },
+      "content_hash": "484147b97ead",
+      "size_bytes": 20147,
+      "url": "/api/compendium/files/part5_The_Surveillance_Escalation.json"
+    },
+    {
+      "path": "part6/_index.md",
+      "part": "part6",
+      "title": "Covenant of the A.R.C.",
+      "description": "New protocols for decentralized governance — the covenant that replaces the state.",
+      "type": "section",
+      "frontmatter": {
+        "title": "Covenant of the A.R.C.",
+        "description": "New protocols for decentralized governance — the covenant that replaces the state."
+      },
+      "content_hash": "494b83b27f0a",
+      "size_bytes": 156,
+      "url": "/api/compendium/files/part6__index.json"
+    },
+    {
+      "path": "part7/_index.md",
+      "part": "part7",
+      "title": "Liberation Technologies",
+      "description": "Tools for sovereignty and freedom — the technology stack that enables the new world.",
+      "type": "section",
+      "frontmatter": {
+        "title": "Liberation Technologies",
+        "description": "Tools for sovereignty and freedom — the technology stack that enables the new world."
+      },
+      "content_hash": "494b83b27f0a",
+      "size_bytes": 159,
+      "url": "/api/compendium/files/part7__index.json"
+    },
+    {
+      "path": "part8/_index.md",
+      "part": "part8",
+      "title": "TekTribe Protocols — Fabric of the Future",
+      "description": "Order in a Post-Petro Civilization — how we will organize, govern, and thrive beyond the state.",
+      "type": "section",
+      "frontmatter": {
+        "title": "TekTribe Protocols — Fabric of the Future",
+        "description": "Order in a Post-Petro Civilization — how we will organize, govern, and thrive beyond the state."
+      },
+      "content_hash": "494b83b27f0a",
+      "size_bytes": 190,
+      "url": "/api/compendium/files/part8__index.json"
+    },
+    {
+      "path": "part9/_index.md",
+      "part": "part9",
+      "title": "The Beast Below & The Light Within",
+      "description": "Our collective awakening — the Beast Below rises, and the Light Within awakens.",
+      "type": "section",
+      "frontmatter": {
+        "title": "The Beast Below & The Light Within",
+        "description": "Our collective awakening — the Beast Below rises, and the Light Within awakens."
+      },
+      "content_hash": "494b83b27f0a",
+      "size_bytes": 165,
+      "url": "/api/compendium/files/part9__index.json"
+    },
+    {
+      "path": "preamble/_index.md",
+      "part": "preamble",
+      "title": "A Manifesto of Global Solidarity",
+      "description": "The invocation of the Compendium — a threshold into the archive of the Collective.",
+      "type": "section",
+      "frontmatter": {
+        "title": "A Manifesto of Global Solidarity",
+        "description": "The invocation of the Compendium — a threshold into the archive of the Collective."
+      },
+      "content_hash": "16765e4a0323",
+      "size_bytes": 20129,
+      "url": "/api/compendium/files/preamble__index.json"
+    }
+  ]
+}

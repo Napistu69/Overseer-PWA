@@ -1,0 +1,18 @@
+{
+  "path": "part7/_index.md",
+  "part": "part7",
+  "title": "Liberation Technologies",
+  "description": "Tools for sovereignty and freedom — the technology stack that enables the new world.",
+  "type": "section",
+  "frontmatter": {
+    "title": "Liberation Technologies",
+    "description": "Tools for sovereignty and freedom — the technology stack that enables the new world."
+  },
+  "content": "Coming Soon...",
+  "raw_markdown": "---\ntitle: \"Liberation Technologies\"\ndescription: \"Tools for sovereignty and freedom — the technology stack that enables the new world.\"\n---\n\nComing Soon...\n",
+  "metadata": {
+    "content_hash": "494b83b27f0a",
+    "size_bytes": 159,
+    "generated_at": "2026-09-12T21:33:10.684016"
+  }
+}
