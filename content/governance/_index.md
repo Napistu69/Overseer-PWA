@@ -1,19 +1,6 @@
 ---
-title: "Governance"
+title: "Governance Appendix to the Compendium of the Collective"
 description: "The constitutional constraints of the TekTribe — the immune system of the Collective."
----
-
-# Governance Appendix to the Compendium of the Collective
-
-**Version:** 3.0 — Living Archive Edition
-**Status:** stable
-**Layer:** Governance
-**Woven:** 2026-05-14
-**Revised:** 2026-09-12
-**Weaver:** napištu
-**Binds Non-Coercion:** yes
-**Touches Æ:** yes
-**Amendment Sensitivity:** core
 
 ---
 
