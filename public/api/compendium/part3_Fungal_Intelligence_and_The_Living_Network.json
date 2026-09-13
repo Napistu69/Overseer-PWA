@@ -14,6 +14,10 @@
   "metadata": {
     "content_hash": "6f827013df61",
     "size_bytes": 24934,
-    "generated_at": "2026-09-12T21:33:10.655204"
+    "generated_at": "2026-09-12T23:58:00.480865",
+    "content_negotiation": {
+      "markdown_url": "/api/compendium/files/part3_Fungal_Intelligence_and_The_Living_Network.md",
+      "json_url": "/api/compendium/files/part3_Fungal_Intelligence_and_The_Living_Network.json"
+    }
   }
 }

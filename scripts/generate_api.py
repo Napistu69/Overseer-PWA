@@ -4,6 +4,7 @@ Compendium API Generator
 Generates static API endpoints for bot scraping:
 - /api/compendium/manifest.json — file listing with metadata
 - /api/compendium/files/{path}.json — individual file with content + frontmatter
+- /api/compendium/files/{path}.md — raw markdown (content negotiation)
 - /api/compendium/index.json — search index (alias to compendium-index.json)
 """
 
@@ -55,9 +56,14 @@ def generate_api():
     print(f"Processing {len(files)} files...")
     
     manifest = {
-        "api_version": "1.0",
+        "api_version": "1.1",
         "generated_at": datetime.now().isoformat(),
         "total_files": 0,
+        "content_negotiation": {
+            "json": "/api/compendium/files/{file_id}.json",
+            "markdown": "/api/compendium/files/{file_id}.md",
+            "note": "Append .md extension for raw markdown, .json for structured data"
+        },
         "files": []
     }
     
@@ -82,6 +88,7 @@ def generate_api():
             part = 'root'
         
         # File metadata for manifest
+        file_id = rel_path.replace('/', '_').replace('.md', '')
         file_meta = {
             "path": rel_path,
             "part": part,
@@ -91,11 +98,14 @@ def generate_api():
             "frontmatter": fm,
             "content_hash": hashlib.md5(body.encode()).hexdigest()[:12],
             "size_bytes": len(raw_content.encode('utf-8')),
-            "url": f"/api/compendium/files/{rel_path.replace('/', '_').replace('.md', '')}.json"
+            "endpoints": {
+                "json": f"/api/compendium/files/{file_id}.json",
+                "markdown": f"/api/compendium/files/{file_id}.md"
+            }
         }
         manifest["files"].append(file_meta)
         
-        # Individual file API endpoint
+        # Individual file API endpoint (JSON)
         file_api = {
             "path": rel_path,
             "part": part,
@@ -108,15 +118,25 @@ def generate_api():
             "metadata": {
                 "content_hash": file_meta["content_hash"],
                 "size_bytes": file_meta["size_bytes"],
-                "generated_at": datetime.now().isoformat()
+                "generated_at": datetime.now().isoformat(),
+                "content_negotiation": {
+                    "markdown_url": f"/api/compendium/files/{file_id}.md",
+                    "json_url": f"/api/compendium/files/{file_id}.json"
+                }
             }
         }
         
         # Write individual file JSON
-        api_filename = rel_path.replace('/', '_').replace('.md', '') + '.json'
+        api_filename = file_id + '.json'
         api_path = os.path.join(API_DIR, api_filename)
         with open(api_path, 'w', encoding='utf-8') as f:
             json.dump(file_api, f, ensure_ascii=False, indent=2)
+        
+        # Write raw markdown file for content negotiation
+        md_filename = file_id + '.md'
+        md_path = os.path.join(API_DIR, md_filename)
+        with open(md_path, 'w', encoding='utf-8') as f:
+            f.write(raw_content)
     
     manifest["total_files"] = len(manifest["files"])
     
@@ -138,12 +158,18 @@ def generate_api():
     print(f"Total files: {manifest['total_files']}")
     print(f"Manifest: {manifest_path}")
     print(f"API directory: {API_DIR}")
-    print(f"Total size: {sum(os.path.getsize(os.path.join(API_DIR, f)) for f in os.listdir(API_DIR)) / 1024:.1f} KB")
+    total_size = sum(os.path.getsize(os.path.join(API_DIR, f)) for f in os.listdir(API_DIR))
+    print(f"Total size: {total_size / 1024:.1f} KB")
     print()
     print("Endpoints:")
     print(f"  GET /api/compendium/manifest.json — file listing")
     print(f"  GET /api/compendium/index.json — search index")
-    print(f"  GET /api/compendium/files/{{file_id}}.json — individual file")
+    print(f"  GET /api/compendium/files/{{file_id}}.json — structured data + raw markdown")
+    print(f"  GET /api/compendium/files/{{file_id}}.md — raw markdown with frontmatter")
+    print()
+    print("Content negotiation:")
+    print("  JSON:    curl https://overseer.ae/api/compendium/files/part1__index.json")
+    print("  Markdown: curl https://overseer.ae/api/compendium/files/part1__index.md")
 
 if __name__ == "__main__":
     generate_api()

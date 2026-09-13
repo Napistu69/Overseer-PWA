@@ -13,6 +13,10 @@
   "metadata": {
     "content_hash": "16765e4a0323",
     "size_bytes": 20129,
-    "generated_at": "2026-09-12T21:33:10.684875"
+    "generated_at": "2026-09-12T23:58:00.522690",
+    "content_negotiation": {
+      "markdown_url": "/api/compendium/files/preamble__index.md",
+      "json_url": "/api/compendium/files/preamble__index.json"
+    }
   }
 }

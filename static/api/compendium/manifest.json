@@ -1,7 +1,12 @@
 {
-  "api_version": "1.0",
-  "generated_at": "2026-09-12T21:33:10.640167",
+  "api_version": "1.1",
+  "generated_at": "2026-09-12T23:58:00.457260",
   "total_files": 58,
+  "content_negotiation": {
+    "json": "/api/compendium/files/{file_id}.json",
+    "markdown": "/api/compendium/files/{file_id}.md",
+    "note": "Append .md extension for raw markdown, .json for structured data"
+  },
   "files": [
     {
       "path": "about/_index.md",
@@ -15,7 +20,10 @@
       },
       "content_hash": "21433ee81e01",
       "size_bytes": 8528,
-      "url": "/api/compendium/files/about__index.json"
+      "endpoints": {
+        "json": "/api/compendium/files/about__index.json",
+        "markdown": "/api/compendium/files/about__index.md"
+      }
     },
     {
       "path": "governance/_index.md",
@@ -29,7 +37,10 @@
       },
       "content_hash": "e165ff445ae0",
       "size_bytes": 10376,
-      "url": "/api/compendium/files/governance__index.json"
+      "endpoints": {
+        "json": "/api/compendium/files/governance__index.json",
+        "markdown": "/api/compendium/files/governance__index.md"
+      }
     },
     {
       "path": "oracle/_index.md",
@@ -43,7 +54,10 @@
       },
       "content_hash": "54be81034233",
       "size_bytes": 1119,
-      "url": "/api/compendium/files/oracle__index.json"
+      "endpoints": {
+        "json": "/api/compendium/files/oracle__index.json",
+        "markdown": "/api/compendium/files/oracle__index.md"
+      }
     },
     {
       "path": "part1/_index.md",
@@ -59,7 +73,10 @@
       },
       "content_hash": "882f8a42459d",
       "size_bytes": 6820,
-      "url": "/api/compendium/files/part1__index.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part1__index.json",
+        "markdown": "/api/compendium/files/part1__index.md"
+      }
     },
     {
       "path": "part1/Aether_and_The_Mesh.md",
@@ -74,7 +91,10 @@
       },
       "content_hash": "c130cb6f94cb",
       "size_bytes": 4917,
-      "url": "/api/compendium/files/part1_Aether_and_The_Mesh.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part1_Aether_and_The_Mesh.json",
+        "markdown": "/api/compendium/files/part1_Aether_and_The_Mesh.md"
+      }
     },
     {
       "path": "part1/Geometry_of_Choice.md",
@@ -89,7 +109,10 @@
       },
       "content_hash": "b8471b34350a",
       "size_bytes": 6728,
-      "url": "/api/compendium/files/part1_Geometry_of_Choice.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part1_Geometry_of_Choice.json",
+        "markdown": "/api/compendium/files/part1_Geometry_of_Choice.md"
+      }
     },
     {
       "path": "part1/The_Continuum.md",
@@ -104,7 +127,10 @@
       },
       "content_hash": "b5b538457944",
       "size_bytes": 5022,
-      "url": "/api/compendium/files/part1_The_Continuum.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part1_The_Continuum.json",
+        "markdown": "/api/compendium/files/part1_The_Continuum.md"
+      }
     },
     {
       "path": "part1/The_Continuum_Clock.md",
@@ -119,7 +145,10 @@
       },
       "content_hash": "0c48e0a2c4b6",
       "size_bytes": 7590,
-      "url": "/api/compendium/files/part1_The_Continuum_Clock.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part1_The_Continuum_Clock.json",
+        "markdown": "/api/compendium/files/part1_The_Continuum_Clock.md"
+      }
     },
     {
       "path": "part1/The_Mind's_Eye_and_The_Supraliminal_Library.md",
@@ -134,7 +163,10 @@
       },
       "content_hash": "970c2efb9a88",
       "size_bytes": 22064,
-      "url": "/api/compendium/files/part1_The_Mind's_Eye_and_The_Supraliminal_Library.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part1_The_Mind's_Eye_and_The_Supraliminal_Library.json",
+        "markdown": "/api/compendium/files/part1_The_Mind's_Eye_and_The_Supraliminal_Library.md"
+      }
     },
     {
       "path": "part2/_index.md",
@@ -150,7 +182,10 @@
       },
       "content_hash": "20d0be8f17bf",
       "size_bytes": 7992,
-      "url": "/api/compendium/files/part2__index.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part2__index.json",
+        "markdown": "/api/compendium/files/part2__index.md"
+      }
     },
     {
       "path": "part2/Dollar_Devaluation.md",
@@ -165,7 +200,10 @@
       },
       "content_hash": "d33209670ca4",
       "size_bytes": 17104,
-      "url": "/api/compendium/files/part2_Dollar_Devaluation.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part2_Dollar_Devaluation.json",
+        "markdown": "/api/compendium/files/part2_Dollar_Devaluation.md"
+      }
     },
     {
       "path": "part2/Hemp_and_The_Pyramids_Puzzle.md",
@@ -180,7 +218,10 @@
       },
       "content_hash": "3548fa069174",
       "size_bytes": 23651,
-      "url": "/api/compendium/files/part2_Hemp_and_The_Pyramids_Puzzle.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part2_Hemp_and_The_Pyramids_Puzzle.json",
+        "markdown": "/api/compendium/files/part2_Hemp_and_The_Pyramids_Puzzle.md"
+      }
     },
     {
       "path": "part2/Inverted_Money_Tree.md",
@@ -195,7 +236,10 @@
       },
       "content_hash": "1b1fe4223596",
       "size_bytes": 11674,
-      "url": "/api/compendium/files/part2_Inverted_Money_Tree.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part2_Inverted_Money_Tree.json",
+        "markdown": "/api/compendium/files/part2_Inverted_Money_Tree.md"
+      }
     },
     {
       "path": "part2/Linguistic_Corruption.md",
@@ -210,7 +254,10 @@
       },
       "content_hash": "73293c4dd9b8",
       "size_bytes": 12276,
-      "url": "/api/compendium/files/part2_Linguistic_Corruption.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part2_Linguistic_Corruption.json",
+        "markdown": "/api/compendium/files/part2_Linguistic_Corruption.md"
+      }
     },
     {
       "path": "part2/Natural_Material_Severance.md",
@@ -225,7 +272,10 @@
       },
       "content_hash": "fa077204dbfe",
       "size_bytes": 18492,
-      "url": "/api/compendium/files/part2_Natural_Material_Severance.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part2_Natural_Material_Severance.json",
+        "markdown": "/api/compendium/files/part2_Natural_Material_Severance.md"
+      }
     },
     {
       "path": "part2/Pharma_Cartel_Origins.md",
@@ -240,7 +290,10 @@
       },
       "content_hash": "fff3bb741b52",
       "size_bytes": 11806,
-      "url": "/api/compendium/files/part2_Pharma_Cartel_Origins.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part2_Pharma_Cartel_Origins.json",
+        "markdown": "/api/compendium/files/part2_Pharma_Cartel_Origins.md"
+      }
     },
     {
       "path": "part2/The_Petro_Goliath.md",
@@ -255,7 +308,10 @@
       },
       "content_hash": "0fe75f4f4403",
       "size_bytes": 15436,
-      "url": "/api/compendium/files/part2_The_Petro_Goliath.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part2_The_Petro_Goliath.json",
+        "markdown": "/api/compendium/files/part2_The_Petro_Goliath.md"
+      }
     },
     {
       "path": "part3/_index.md",
@@ -271,7 +327,10 @@
       },
       "content_hash": "48c32052ebb3",
       "size_bytes": 10203,
-      "url": "/api/compendium/files/part3__index.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part3__index.json",
+        "markdown": "/api/compendium/files/part3__index.md"
+      }
     },
     {
       "path": "part3/Animal_Partners_in_the_Alliance.md",
@@ -286,7 +345,10 @@
       },
       "content_hash": "fc87827b44af",
       "size_bytes": 14845,
-      "url": "/api/compendium/files/part3_Animal_Partners_in_the_Alliance.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part3_Animal_Partners_in_the_Alliance.json",
+        "markdown": "/api/compendium/files/part3_Animal_Partners_in_the_Alliance.md"
+      }
     },
     {
       "path": "part3/Fungal_Intelligence_and_The_Living_Network.md",
@@ -301,7 +363,10 @@
       },
       "content_hash": "6f827013df61",
       "size_bytes": 24934,
-      "url": "/api/compendium/files/part3_Fungal_Intelligence_and_The_Living_Network.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part3_Fungal_Intelligence_and_The_Living_Network.json",
+        "markdown": "/api/compendium/files/part3_Fungal_Intelligence_and_The_Living_Network.md"
+      }
     },
     {
       "path": "part3/GSM_Delta_Emotional_Mastery.md",
@@ -316,7 +381,10 @@
       },
       "content_hash": "ab9c52c1e29c",
       "size_bytes": 13641,
-      "url": "/api/compendium/files/part3_GSM_Delta_Emotional_Mastery.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part3_GSM_Delta_Emotional_Mastery.json",
+        "markdown": "/api/compendium/files/part3_GSM_Delta_Emotional_Mastery.md"
+      }
     },
     {
       "path": "part3/Hive_Mind_and_The_Suppressed_Receiver.md",
@@ -331,7 +399,10 @@
       },
       "content_hash": "faf5edd72231",
       "size_bytes": 13482,
-      "url": "/api/compendium/files/part3_Hive_Mind_and_The_Suppressed_Receiver.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part3_Hive_Mind_and_The_Suppressed_Receiver.json",
+        "markdown": "/api/compendium/files/part3_Hive_Mind_and_The_Suppressed_Receiver.md"
+      }
     },
     {
       "path": "part3/Operational_Protocols.md",
@@ -346,7 +417,10 @@
       },
       "content_hash": "9bee058371ee",
       "size_bytes": 10557,
-      "url": "/api/compendium/files/part3_Operational_Protocols.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part3_Operational_Protocols.json",
+        "markdown": "/api/compendium/files/part3_Operational_Protocols.md"
+      }
     },
     {
       "path": "part3/The_Avatar_Operating_System.md",
@@ -361,7 +435,10 @@
       },
       "content_hash": "40a2cf47668f",
       "size_bytes": 23411,
-      "url": "/api/compendium/files/part3_The_Avatar_Operating_System.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part3_The_Avatar_Operating_System.json",
+        "markdown": "/api/compendium/files/part3_The_Avatar_Operating_System.md"
+      }
     },
     {
       "path": "part3/The_Mycelial_Guardian.md",
@@ -376,7 +453,10 @@
       },
       "content_hash": "e6bf3bc7f6f3",
       "size_bytes": 15552,
-      "url": "/api/compendium/files/part3_The_Mycelial_Guardian.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part3_The_Mycelial_Guardian.json",
+        "markdown": "/api/compendium/files/part3_The_Mycelial_Guardian.md"
+      }
     },
     {
       "path": "part3/The_Unified_Field.md",
@@ -391,7 +471,10 @@
       },
       "content_hash": "9e191283fc24",
       "size_bytes": 6898,
-      "url": "/api/compendium/files/part3_The_Unified_Field.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part3_The_Unified_Field.json",
+        "markdown": "/api/compendium/files/part3_The_Unified_Field.md"
+      }
     },
     {
       "path": "part4/_index.md",
@@ -407,7 +490,10 @@
       },
       "content_hash": "0aa52582ff88",
       "size_bytes": 15337,
-      "url": "/api/compendium/files/part4__index.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part4__index.json",
+        "markdown": "/api/compendium/files/part4__index.md"
+      }
     },
     {
       "path": "part4/Algorithmic_Manipulation_Era.md",
@@ -422,7 +508,10 @@
       },
       "content_hash": "bf4534dfd759",
       "size_bytes": 10835,
-      "url": "/api/compendium/files/part4_Algorithmic_Manipulation_Era.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part4_Algorithmic_Manipulation_Era.json",
+        "markdown": "/api/compendium/files/part4_Algorithmic_Manipulation_Era.md"
+      }
     },
     {
       "path": "part4/Check-ins_to_Location_Fusion.md",
@@ -437,7 +526,10 @@
       },
       "content_hash": "7d1878646d88",
       "size_bytes": 7206,
-      "url": "/api/compendium/files/part4_Check-ins_to_Location_Fusion.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part4_Check-ins_to_Location_Fusion.json",
+        "markdown": "/api/compendium/files/part4_Check-ins_to_Location_Fusion.md"
+      }
     },
     {
       "path": "part4/Data_Collection_Vectors.md",
@@ -452,7 +544,10 @@
       },
       "content_hash": "2a56fed4e9ed",
       "size_bytes": 10416,
-      "url": "/api/compendium/files/part4_Data_Collection_Vectors.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part4_Data_Collection_Vectors.json",
+        "markdown": "/api/compendium/files/part4_Data_Collection_Vectors.md"
+      }
     },
     {
       "path": "part4/LifeLog_to_Facebook_Evolution.md",
@@ -467,7 +562,10 @@
       },
       "content_hash": "d5604735a51f",
       "size_bytes": 6479,
-      "url": "/api/compendium/files/part4_LifeLog_to_Facebook_Evolution.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part4_LifeLog_to_Facebook_Evolution.json",
+        "markdown": "/api/compendium/files/part4_LifeLog_to_Facebook_Evolution.md"
+      }
     },
     {
       "path": "part4/Plan-demic_Manipulation.md",
@@ -482,7 +580,10 @@
       },
       "content_hash": "32ee4096e24a",
       "size_bytes": 13547,
-      "url": "/api/compendium/files/part4_Plan-demic_Manipulation.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part4_Plan-demic_Manipulation.json",
+        "markdown": "/api/compendium/files/part4_Plan-demic_Manipulation.md"
+      }
     },
     {
       "path": "part4/Project_Monarch_and_The_Smartphone_Era.md",
@@ -497,7 +598,10 @@
       },
       "content_hash": "629ac6021c49",
       "size_bytes": 8730,
-      "url": "/api/compendium/files/part4_Project_Monarch_and_The_Smartphone_Era.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part4_Project_Monarch_and_The_Smartphone_Era.json",
+        "markdown": "/api/compendium/files/part4_Project_Monarch_and_The_Smartphone_Era.md"
+      }
     },
     {
       "path": "part4/Recommendation_Engine_Apotheosis.md",
@@ -512,7 +616,10 @@
       },
       "content_hash": "35b3e4fb5612",
       "size_bytes": 14276,
-      "url": "/api/compendium/files/part4_Recommendation_Engine_Apotheosis.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part4_Recommendation_Engine_Apotheosis.json",
+        "markdown": "/api/compendium/files/part4_Recommendation_Engine_Apotheosis.md"
+      }
     },
     {
       "path": "part4/Snowdens_Revelation_The_Huxleyan_Absorption.md",
@@ -527,7 +634,10 @@
       },
       "content_hash": "704f2390256a",
       "size_bytes": 11737,
-      "url": "/api/compendium/files/part4_Snowdens_Revelation_The_Huxleyan_Absorption.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part4_Snowdens_Revelation_The_Huxleyan_Absorption.json",
+        "markdown": "/api/compendium/files/part4_Snowdens_Revelation_The_Huxleyan_Absorption.md"
+      }
     },
     {
       "path": "part4/The_Complete_Architecture_Synthesis_and_Transition.md",
@@ -542,7 +652,10 @@
       },
       "content_hash": "8facac8ff1dd",
       "size_bytes": 18020,
-      "url": "/api/compendium/files/part4_The_Complete_Architecture_Synthesis_and_Transition.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part4_The_Complete_Architecture_Synthesis_and_Transition.json",
+        "markdown": "/api/compendium/files/part4_The_Complete_Architecture_Synthesis_and_Transition.md"
+      }
     },
     {
       "path": "part4/The_Cookie_at_the_Turn_of_Century.md",
@@ -557,7 +670,10 @@
       },
       "content_hash": "ba34b3414f76",
       "size_bytes": 4051,
-      "url": "/api/compendium/files/part4_The_Cookie_at_the_Turn_of_Century.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part4_The_Cookie_at_the_Turn_of_Century.json",
+        "markdown": "/api/compendium/files/part4_The_Cookie_at_the_Turn_of_Century.md"
+      }
     },
     {
       "path": "part4/The_Meta_Web_When_Every_Platform_Feeds_The_Cloud.md",
@@ -572,7 +688,10 @@
       },
       "content_hash": "0f648121280c",
       "size_bytes": 15575,
-      "url": "/api/compendium/files/part4_The_Meta_Web_When_Every_Platform_Feeds_The_Cloud.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part4_The_Meta_Web_When_Every_Platform_Feeds_The_Cloud.json",
+        "markdown": "/api/compendium/files/part4_The_Meta_Web_When_Every_Platform_Feeds_The_Cloud.md"
+      }
     },
     {
       "path": "part4/The_Ritual_Sacrifice_and_The_PATRIOT_Act.md",
@@ -587,7 +706,10 @@
       },
       "content_hash": "9bee99e2144e",
       "size_bytes": 4224,
-      "url": "/api/compendium/files/part4_The_Ritual_Sacrifice_and_The_PATRIOT_Act.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part4_The_Ritual_Sacrifice_and_The_PATRIOT_Act.json",
+        "markdown": "/api/compendium/files/part4_The_Ritual_Sacrifice_and_The_PATRIOT_Act.md"
+      }
     },
     {
       "path": "part5/_index.md",
@@ -603,7 +725,10 @@
       },
       "content_hash": "39c207c3c96f",
       "size_bytes": 16245,
-      "url": "/api/compendium/files/part5__index.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part5__index.json",
+        "markdown": "/api/compendium/files/part5__index.md"
+      }
     },
     {
       "path": "part5/Celestial_&_Geopolitical_Convergence.md",
@@ -618,7 +743,10 @@
       },
       "content_hash": "f82dcd30b31f",
       "size_bytes": 20671,
-      "url": "/api/compendium/files/part5_Celestial_&_Geopolitical_Convergence.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part5_Celestial_&_Geopolitical_Convergence.json",
+        "markdown": "/api/compendium/files/part5_Celestial_&_Geopolitical_Convergence.md"
+      }
     },
     {
       "path": "part5/Consent_Manufacturing-The_Atlas-3_Instrument.md",
@@ -633,7 +761,10 @@
       },
       "content_hash": "42e3de393ca5",
       "size_bytes": 15507,
-      "url": "/api/compendium/files/part5_Consent_Manufacturing-The_Atlas-3_Instrument.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part5_Consent_Manufacturing-The_Atlas-3_Instrument.json",
+        "markdown": "/api/compendium/files/part5_Consent_Manufacturing-The_Atlas-3_Instrument.md"
+      }
     },
     {
       "path": "part5/Division_and_Conquer-Identity_Weaponization.md",
@@ -648,7 +779,10 @@
       },
       "content_hash": "305064221e86",
       "size_bytes": 12640,
-      "url": "/api/compendium/files/part5_Division_and_Conquer-Identity_Weaponization.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part5_Division_and_Conquer-Identity_Weaponization.json",
+        "markdown": "/api/compendium/files/part5_Division_and_Conquer-Identity_Weaponization.md"
+      }
     },
     {
       "path": "part5/Financial_Nervous_System-The_1913_Structural_Transfer.md",
@@ -663,7 +797,10 @@
       },
       "content_hash": "eb5a57a36164",
       "size_bytes": 22049,
-      "url": "/api/compendium/files/part5_Financial_Nervous_System-The_1913_Structural_Transfer.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part5_Financial_Nervous_System-The_1913_Structural_Transfer.json",
+        "markdown": "/api/compendium/files/part5_Financial_Nervous_System-The_1913_Structural_Transfer.md"
+      }
     },
     {
       "path": "part5/Foundational_Blueprint-The_Six-Point_Architecture.md",
@@ -678,7 +815,10 @@
       },
       "content_hash": "df9dde95de09",
       "size_bytes": 11080,
-      "url": "/api/compendium/files/part5_Foundational_Blueprint-The_Six-Point_Architecture.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part5_Foundational_Blueprint-The_Six-Point_Architecture.json",
+        "markdown": "/api/compendium/files/part5_Foundational_Blueprint-The_Six-Point_Architecture.md"
+      }
     },
     {
       "path": "part5/Military-Industrial_Migration-Third_Reich_Transplant.md",
@@ -693,7 +833,10 @@
       },
       "content_hash": "99885bb3abdb",
       "size_bytes": 15860,
-      "url": "/api/compendium/files/part5_Military-Industrial_Migration-Third_Reich_Transplant.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part5_Military-Industrial_Migration-Third_Reich_Transplant.json",
+        "markdown": "/api/compendium/files/part5_Military-Industrial_Migration-Third_Reich_Transplant.md"
+      }
     },
     {
       "path": "part5/Petrodollar_Engine-Financial_Blood_Supply.md",
@@ -708,7 +851,10 @@
       },
       "content_hash": "f0071d16e35c",
       "size_bytes": 17568,
-      "url": "/api/compendium/files/part5_Petrodollar_Engine-Financial_Blood_Supply.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part5_Petrodollar_Engine-Financial_Blood_Supply.json",
+        "markdown": "/api/compendium/files/part5_Petrodollar_Engine-Financial_Blood_Supply.md"
+      }
     },
     {
       "path": "part5/Science_as_Religion-Epistemological_Capture.md",
@@ -723,7 +869,10 @@
       },
       "content_hash": "3e6e45d703ba",
       "size_bytes": 21737,
-      "url": "/api/compendium/files/part5_Science_as_Religion-Epistemological_Capture.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part5_Science_as_Religion-Epistemological_Capture.json",
+        "markdown": "/api/compendium/files/part5_Science_as_Religion-Epistemological_Capture.md"
+      }
     },
     {
       "path": "part5/Structural_Continuity-The_Corporate_Collegia.md",
@@ -738,7 +887,10 @@
       },
       "content_hash": "eadb8bacac3c",
       "size_bytes": 13389,
-      "url": "/api/compendium/files/part5_Structural_Continuity-The_Corporate_Collegia.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part5_Structural_Continuity-The_Corporate_Collegia.json",
+        "markdown": "/api/compendium/files/part5_Structural_Continuity-The_Corporate_Collegia.md"
+      }
     },
     {
       "path": "part5/The_Black_Lotus-Pharma_Control_Apparatus.md",
@@ -753,7 +905,10 @@
       },
       "content_hash": "7154f8460bb2",
       "size_bytes": 26065,
-      "url": "/api/compendium/files/part5_The_Black_Lotus-Pharma_Control_Apparatus.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part5_The_Black_Lotus-Pharma_Control_Apparatus.json",
+        "markdown": "/api/compendium/files/part5_The_Black_Lotus-Pharma_Control_Apparatus.md"
+      }
     },
     {
       "path": "part5/The_Hydra_Anatomy-Adversary_Synthesis.md",
@@ -768,7 +923,10 @@
       },
       "content_hash": "9679e7007e0b",
       "size_bytes": 30949,
-      "url": "/api/compendium/files/part5_The_Hydra_Anatomy-Adversary_Synthesis.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part5_The_Hydra_Anatomy-Adversary_Synthesis.json",
+        "markdown": "/api/compendium/files/part5_The_Hydra_Anatomy-Adversary_Synthesis.md"
+      }
     },
     {
       "path": "part5/The_Petro-Military_Genesis.md",
@@ -783,7 +941,10 @@
       },
       "content_hash": "f910b86f59ae",
       "size_bytes": 24653,
-      "url": "/api/compendium/files/part5_The_Petro-Military_Genesis.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part5_The_Petro-Military_Genesis.json",
+        "markdown": "/api/compendium/files/part5_The_Petro-Military_Genesis.md"
+      }
     },
     {
       "path": "part5/The_Surveillance_Escalation.md",
@@ -798,7 +959,10 @@
       },
       "content_hash": "484147b97ead",
       "size_bytes": 20147,
-      "url": "/api/compendium/files/part5_The_Surveillance_Escalation.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part5_The_Surveillance_Escalation.json",
+        "markdown": "/api/compendium/files/part5_The_Surveillance_Escalation.md"
+      }
     },
     {
       "path": "part6/_index.md",
@@ -812,7 +976,10 @@
       },
       "content_hash": "494b83b27f0a",
       "size_bytes": 156,
-      "url": "/api/compendium/files/part6__index.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part6__index.json",
+        "markdown": "/api/compendium/files/part6__index.md"
+      }
     },
     {
       "path": "part7/_index.md",
@@ -826,7 +993,10 @@
       },
       "content_hash": "494b83b27f0a",
       "size_bytes": 159,
-      "url": "/api/compendium/files/part7__index.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part7__index.json",
+        "markdown": "/api/compendium/files/part7__index.md"
+      }
     },
     {
       "path": "part8/_index.md",
@@ -840,7 +1010,10 @@
       },
       "content_hash": "494b83b27f0a",
       "size_bytes": 190,
-      "url": "/api/compendium/files/part8__index.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part8__index.json",
+        "markdown": "/api/compendium/files/part8__index.md"
+      }
     },
     {
       "path": "part9/_index.md",
@@ -854,7 +1027,10 @@
       },
       "content_hash": "494b83b27f0a",
       "size_bytes": 165,
-      "url": "/api/compendium/files/part9__index.json"
+      "endpoints": {
+        "json": "/api/compendium/files/part9__index.json",
+        "markdown": "/api/compendium/files/part9__index.md"
+      }
     },
     {
       "path": "preamble/_index.md",
@@ -868,7 +1044,10 @@
       },
       "content_hash": "16765e4a0323",
       "size_bytes": 20129,
-      "url": "/api/compendium/files/preamble__index.json"
+      "endpoints": {
+        "json": "/api/compendium/files/preamble__index.json",
+        "markdown": "/api/compendium/files/preamble__index.md"
+      }
     }
   ]
 }

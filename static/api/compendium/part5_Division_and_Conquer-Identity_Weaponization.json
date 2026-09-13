@@ -14,6 +14,10 @@
   "metadata": {
     "content_hash": "305064221e86",
     "size_bytes": 12640,
-    "generated_at": "2026-09-12T21:33:10.672160"
+    "generated_at": "2026-09-12T23:58:00.504875",
+    "content_negotiation": {
+      "markdown_url": "/api/compendium/files/part5_Division_and_Conquer-Identity_Weaponization.md",
+      "json_url": "/api/compendium/files/part5_Division_and_Conquer-Identity_Weaponization.json"
+    }
   }
 }

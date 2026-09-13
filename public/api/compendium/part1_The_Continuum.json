@@ -14,6 +14,10 @@
   "metadata": {
     "content_hash": "b5b538457944",
     "size_bytes": 5022,
-    "generated_at": "2026-09-12T21:33:10.644157"
+    "generated_at": "2026-09-12T23:58:00.463805",
+    "content_negotiation": {
+      "markdown_url": "/api/compendium/files/part1_The_Continuum.md",
+      "json_url": "/api/compendium/files/part1_The_Continuum.json"
+    }
   }
 }

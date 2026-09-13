@@ -14,6 +14,10 @@
   "metadata": {
     "content_hash": "2a56fed4e9ed",
     "size_bytes": 10416,
-    "generated_at": "2026-09-12T21:33:10.662186"
+    "generated_at": "2026-09-12T23:58:00.490908",
+    "content_negotiation": {
+      "markdown_url": "/api/compendium/files/part4_Data_Collection_Vectors.md",
+      "json_url": "/api/compendium/files/part4_Data_Collection_Vectors.json"
+    }
   }
 }

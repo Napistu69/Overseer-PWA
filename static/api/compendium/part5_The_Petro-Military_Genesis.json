@@ -14,6 +14,10 @@
   "metadata": {
     "content_hash": "f910b86f59ae",
     "size_bytes": 24653,
-    "generated_at": "2026-09-12T21:33:10.681024"
+    "generated_at": "2026-09-12T23:58:00.517452",
+    "content_negotiation": {
+      "markdown_url": "/api/compendium/files/part5_The_Petro-Military_Genesis.md",
+      "json_url": "/api/compendium/files/part5_The_Petro-Military_Genesis.json"
+    }
   }
 }

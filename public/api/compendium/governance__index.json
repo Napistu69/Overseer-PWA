@@ -13,6 +13,10 @@
   "metadata": {
     "content_hash": "e165ff445ae0",
     "size_bytes": 10376,
-    "generated_at": "2026-09-12T21:33:10.641165"
+    "generated_at": "2026-09-12T23:58:00.458258",
+    "content_negotiation": {
+      "markdown_url": "/api/compendium/files/governance__index.md",
+      "json_url": "/api/compendium/files/governance__index.json"
+    }
   }
 }
