@@ -16,8 +16,11 @@ import shutil
 from pathlib import Path
 from datetime import datetime
 
-CONTENT_DIR = r"C:\Users\Nefs\Projects\CompendiumPWA\content"
-STATIC_DIR = r"C:\Users\Nefs\Projects\CompendiumPWA\static"
+# Configuration — derive paths from script location for cross-platform compat
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+SITE_DIR = os.path.dirname(SCRIPT_DIR)
+CONTENT_DIR = os.path.join(SITE_DIR, "content")
+STATIC_DIR = os.path.join(SITE_DIR, "static")
 API_DIR = os.path.join(STATIC_DIR, "api", "compendium")
 
 def parse_frontmatter(text):

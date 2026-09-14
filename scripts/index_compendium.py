@@ -13,9 +13,11 @@ import hashlib
 from pathlib import Path
 from datetime import datetime
 
-# Configuration
-CONTENT_DIR = r"C:\Users\Nefs\Projects\CompendiumPWA\content"
-OUTPUT_PATH = r"C:\Users\Nefs\Projects\CompendiumPWA\static\compendium-index.json"
+# Configuration — derive paths from script location for cross-platform compat
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+SITE_DIR = os.path.dirname(SCRIPT_DIR)
+CONTENT_DIR = os.path.join(SITE_DIR, "content")
+OUTPUT_PATH = os.path.join(SITE_DIR, "static", "compendium-index.json")
 CHUNK_SIZE = 150  # words per chunk
 OVERLAP = 50      # words of overlap between chunks
 
