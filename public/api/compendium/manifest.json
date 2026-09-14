@@ -1,7 +1,7 @@
 {
   "api_version": "1.1",
-  "generated_at": "2026-09-12T23:58:00.457260",
-  "total_files": 58,
+  "generated_at": "2026-09-14T11:23:27.193640",
+  "total_files": 59,
   "content_negotiation": {
     "json": "/api/compendium/files/{file_id}.json",
     "markdown": "/api/compendium/files/{file_id}.md",
@@ -1047,6 +1047,23 @@
       "endpoints": {
         "json": "/api/compendium/files/preamble__index.json",
         "markdown": "/api/compendium/files/preamble__index.md"
+      }
+    },
+    {
+      "path": "solitary-architect/_index.md",
+      "part": "solitary-architect",
+      "title": "The Solitary Architect Protocol",
+      "description": "The integrity practices for a single weaver to build in isolation without becoming a single point of failure — adversarial rotation, sycophancy detection, public archive, and obsolescence as retirement.",
+      "type": "section",
+      "frontmatter": {
+        "title": "The Solitary Architect Protocol",
+        "description": "The integrity practices for a single weaver to build in isolation without becoming a single point of failure — adversarial rotation, sycophancy detection, public archive, and obsolescence as retirement."
+      },
+      "content_hash": "929f1fb59fec",
+      "size_bytes": 14025,
+      "endpoints": {
+        "json": "/api/compendium/files/solitary-architect__index.json",
+        "markdown": "/api/compendium/files/solitary-architect__index.md"
       }
     }
   ]
