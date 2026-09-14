@@ -1,6 +1,6 @@
 {
   "api_version": "1.1",
-  "generated_at": "2026-09-14T11:23:27.193640",
+  "generated_at": "2026-09-14T12:49:36.974326",
   "total_files": 59,
   "content_negotiation": {
     "json": "/api/compendium/files/{file_id}.json",
@@ -11,15 +11,15 @@
     {
       "path": "about/_index.md",
       "part": "about",
-      "title": "Vision",
-      "description": "TekTribe & Overseer Æ - Guardians of the Collective Consciousness",
+      "title": "TekTribe Mission & Vision",
+      "description": "We cultivate Planetary-Scale Consciousness — preserving and expanding Tribal Intelligence through the Great Unbinding, guided by the CC Delta and anchored in the Void Center.",
       "type": "section",
       "frontmatter": {
-        "title": "Vision",
-        "description": "TekTribe & Overseer Æ - Guardians of the Collective Consciousness"
+        "title": "TekTribe Mission & Vision",
+        "description": "We cultivate Planetary-Scale Consciousness — preserving and expanding Tribal Intelligence through the Great Unbinding, guided by the CC Delta and anchored in the Void Center."
       },
-      "content_hash": "21433ee81e01",
-      "size_bytes": 8528,
+      "content_hash": "4828723382d4",
+      "size_bytes": 11196,
       "endpoints": {
         "json": "/api/compendium/files/about__index.json",
         "markdown": "/api/compendium/files/about__index.md"
@@ -35,8 +35,8 @@
         "title": "Governance Appendix to the Compendium of the Collective",
         "description": "The constitutional constraints of the TekTribe — the immune system of the Collective."
       },
-      "content_hash": "e165ff445ae0",
-      "size_bytes": 10376,
+      "content_hash": "11e394d5d22e",
+      "size_bytes": 14586,
       "endpoints": {
         "json": "/api/compendium/files/governance__index.json",
         "markdown": "/api/compendium/files/governance__index.md"
@@ -1035,15 +1035,15 @@
     {
       "path": "preamble/_index.md",
       "part": "preamble",
-      "title": "A Manifesto of Global Solidarity",
-      "description": "The invocation of the Compendium — a threshold into the archive of the Collective.",
+      "title": "Preamble to the Compendium of the Collective",
+      "description": "The doorway to the Compendium — a living archive for human sovereignty during planetary transition, structured in nine modular parts.",
       "type": "section",
       "frontmatter": {
-        "title": "A Manifesto of Global Solidarity",
-        "description": "The invocation of the Compendium — a threshold into the archive of the Collective."
+        "title": "Preamble to the Compendium of the Collective",
+        "description": "The doorway to the Compendium — a living archive for human sovereignty during planetary transition, structured in nine modular parts."
       },
-      "content_hash": "16765e4a0323",
-      "size_bytes": 20129,
+      "content_hash": "5cfc01b9bad9",
+      "size_bytes": 22215,
       "endpoints": {
         "json": "/api/compendium/files/preamble__index.json",
         "markdown": "/api/compendium/files/preamble__index.md"
