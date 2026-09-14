@@ -8,8 +8,9 @@ echo "╔═══════════════════════�
 echo "║   TEKTRIBE CHRONICLES - BUILD                            ║"
 echo "╚══════════════════════════════════════════════════════════╝"
 
-SITE_DIR="/c/Users/Nefs/Projects/CompendiumPWA"
-cd "$SITE_DIR"
+# Detect script directory (works on Windows/MSYS and Linux)
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+cd "$SCRIPT_DIR"
 
 # Step 1: Generate Compendium search index
 echo ""
