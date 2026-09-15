@@ -1,5 +1,5 @@
 baseURL = 'https://overseer.ae'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'TekTribe Chronicles'
 theme = 'Compendium'
 
