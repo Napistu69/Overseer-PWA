@@ -44,7 +44,7 @@ def generate_sw():
     url_list = ', '.join(f"'{url}'" for url in urls)
     
     # Replace placeholders
-    sw_content = template.replace('{{VERSION}}', f'tektribe-v{timestamp}')
+    sw_content = template.replace('{{VERSION}}', timestamp)
     sw_content = sw_content.replace('{{PRECACHE_URLS}}', url_list)
     
     # Write output
