@@ -1,5 +1,6 @@
 ---
 
+weight: 3
 title: "Guardian, Avatar & Allies"
 description: "Who walks the path. The living infrastructure beneath our feet, the vessel we inhabit, and the animal partners who bridge fungal timescale to human awareness."
 sequence: 3

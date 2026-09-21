@@ -1,4 +1,5 @@
 ---
+weight: 1
 title: "Cosmology of the Continuum"
 description: "Before the vessel can be built, the waters must be understood. The eleven Threads of Part I map the terrain across three sections: the Foundation Map (Continuum, Æther & The Mesh, Clock, Compass, Geometry of Choice, Library & Collective Conscience), the Expanded Cosmology (Primal Triad, Seven Planes, Petra Files), and the Cosmological Culmination (Shadowzone & SoL's Light, the Mesh as Native Environment). Pure cosmology — theosophical in register, the ancients' forgotten texts read through the Tribe's modern lens. The practices live in Part III; the corruption's anatomy lives in Part II."
 sequence: 1

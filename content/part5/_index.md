@@ -1,4 +1,5 @@
 ---
+weight: 5
 title: "The Rise of GOLIATH"
 description: "The anatomy of the beast. Thirteen systems traced from ancient institutional blueprint to 2026-2029 convergence. How oil, finance, military, pharma, and surveillance fused into one self-sustaining organism — and the two timelines that branch from the naming."
 sequence: 5

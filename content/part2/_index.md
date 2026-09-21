@@ -1,5 +1,6 @@
 ---
 
+weight: 2
 title: "Architecture of Corruption"
 description: "The anatomy of the adversary. How control is constructed, maintained, and defended — from the severance of natural materials to the weaponization of language itself."
 sequence: 2
