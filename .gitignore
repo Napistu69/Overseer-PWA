@@ -10,3 +10,6 @@ static/api/
 # Hugo artifacts
 resources/_gen/
 .hugo_build.lock
+
+# Deprecated content — kept locally for reference, not deployed
+deprecated/
