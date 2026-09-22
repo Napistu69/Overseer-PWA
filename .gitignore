@@ -11,5 +11,8 @@ static/api/
 resources/_gen/
 .hugo_build.lock
 
+# Scratch
+tmp/
+
 # Deprecated content — kept locally for reference, not deployed
 deprecated/
