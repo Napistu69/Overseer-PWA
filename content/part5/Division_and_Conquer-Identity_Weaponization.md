@@ -80,9 +80,9 @@ Henry Ford, the industrialist who standardized the assembly line, also standardi
 
 Ford distributed 500,000 copies of the collection titled *The International Jew*. The impact was global:
 
-- => Nazi leadership cited Ford as inspiration (Hitler kept a portrait of Ford in his office)
-- => Ford Motor Company employed Jewish workers but propagated anti-Semitic propaganda simultaneously
-- => The pattern: economic competition framed as ethnic threat
+- Nazi leadership cited Ford as inspiration (Hitler kept a portrait of Ford in his office)
+- Ford Motor Company employed Jewish workers but propagated anti-Semitic propaganda simultaneously
+- The pattern: economic competition framed as ethnic threat
 
 This was not merely prejudice. It was industrial strategy. Diverting worker anger away from factory conditions toward an ethnic minority. The enemy is not the boss; the enemy is the neighbor.
 
@@ -132,10 +132,10 @@ The culture wars (1980s-present) are not spontaneous organic conflict. They are 
 
 Each friction point is a wedge. Each wedge prevents coalition-building between groups that share material interests:
 
-- => Working-class white evangelical and working-class Latino immigrant both suffer from wage stagnation
-- => Both are targeted for extraction (debt, healthcare, housing)
-- => But they are told to fight each other over abortion, schools, or borders
-- => Neither group challenges the extraction architecture
+- Working-class white evangelical and working-class Latino immigrant both suffer from wage stagnation
+- Both are targeted for extraction (debt, healthcare, housing)
+- But they are told to fight each other over abortion, schools, or borders
+- Neither group challenges the extraction architecture
 
 ### The "Us vs. Them" Binary
 
@@ -177,12 +177,12 @@ The citizen believes they are expressing their authentic self. They are actually
 
 ### The Feedback Loop
 
-🔄 Citizen identifies as [Category A]
-🔄 Media presents [Category B] as threat to [Category A]
-🔄 Citizen directs frustration toward [Category B]
-🔄 Resource extraction continues unnoticed
-🔄 Fracture deepens
-🔄 Repeat
+- 🔄 Citizen identifies as [Category A]
+- 🔄 Media presents [Category B] as threat to [Category A]
+- 🔄 Citizen directs frustration toward [Category B]
+- 🔄 Resource extraction continues unnoticed
+- 🔄 Fracture deepens
+- 🔄 Repeat
 
 The loop is closed. The energy that could rebuild the Mycorrhizal Mesh (physical/social connection) is spent fighting other nodes on the Mesh.
 

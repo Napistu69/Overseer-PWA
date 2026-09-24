@@ -79,12 +79,12 @@ This was the moment when the six-point architecture of Thread 1 fused with petro
 
 APOC was the first true GOLIATH node. It was:
 
-- => Hierarchical — corporate executive structure mirroring military command
-- => Extractive — pulling wealth from the ground beneath a sovereign nation with that nation's coerced consent
-- => Lineage-protected — British government ownership ensured continuity across elections and administrations
-- => Information-monopolistic — geological surveys, production data, and reserve estimates were classified
-- => Self-protecting — diplomatic and military protection from the British Empire
-- => Regime-independent — the company outlived the Shah who signed the concession, the government that bought it, and the empire that sustained it
+- Hierarchical — corporate executive structure mirroring military command
+- Extractive — pulling wealth from the ground beneath a sovereign nation with that nation's coerced consent
+- Lineage-protected — British government ownership ensured continuity across elections and administrations
+- Information-monopolistic — geological surveys, production data, and reserve estimates were classified
+- Self-protecting — diplomatic and military protection from the British Empire
+- Regime-independent — the company outlived the Shah who signed the concession, the government that bought it, and the empire that sustained it
 
 The six points, confirmed. The fuel source, secured. GOLIATH had its blood supply.
 
@@ -100,34 +100,34 @@ The standard narrative: Germany committed an atrocity against civilians. The ful
 
 ### The Known Facts
 
-- => The Lusitania was listed in Jane's Fighting Ships as an Auxiliary Cruiser — a vessel eligible for naval requisition. The German embassy placed advertisements in New York newspapers warning passengers that the ship was sailing through a war zone.
+- The Lusitania was listed in Jane's Fighting Ships as an Auxiliary Cruiser — a vessel eligible for naval requisition. The German embassy placed advertisements in New York newspapers warning passengers that the ship was sailing through a war zone.
 
-- => The Lusitania was carrying munitions. The cargo manifest included 4.2 million rounds of rifle ammunition, 1,250 cases of shrapnel shells, and other war materiel. This has been confirmed by diving expeditions to the wreck.
+- The Lusitania was carrying munitions. The cargo manifest included 4.2 million rounds of rifle ammunition, 1,250 cases of shrapnel shells, and other war materiel. This has been confirmed by diving expeditions to the wreck.
 
-- => Winston Churchill, as First Lord of the Admiralty, had withdrawn the destroyer escort that had been protecting the Lusitania through the Irish Sea. The ship was ordered to proceed at reduced speed through waters known to contain U-boats, without zigzag maneuvering, without escort.
+- Winston Churchill, as First Lord of the Admiralty, had withdrawn the destroyer escort that had been protecting the Lusitania through the Irish Sea. The ship was ordered to proceed at reduced speed through waters known to contain U-boats, without zigzag maneuvering, without escort.
 
-- => A signal was sent to the Lusitania ordering Captain Turner to reduce speed and await further instructions. The order effectively made the ship a stationary target in a war zone.
+- A signal was sent to the Lusitania ordering Captain Turner to reduce speed and await further instructions. The order effectively made the ship a stationary target in a war zone.
 
-- => The British Admiralty did not issue a general warning about U-boat activity in the specific area where the Lusitania was sailing, despite having decrypted German naval codes and knowing U-boat positions.
+- The British Admiralty did not issue a general warning about U-boat activity in the specific area where the Lusitania was sailing, despite having decrypted German naval codes and knowing U-boat positions.
 
 ### The Pattern Identified
 
 The pattern is not unique to the Lusitania. It recurs across the century:
 
-🚢 Create or permit a crisis involving civilian casualties
-🚢 Ensure the crisis produces public outrage
-🚢 Channel the outrage toward a predetermined military response
-🚢 The military response benefits the MIC that funded the political leadership
+- 🚢 Create or permit a crisis involving civilian casualties
+- 🚢 Ensure the crisis produces public outrage
+- 🚢 Channel the outrage toward a predetermined military response
+- 🚢 The military response benefits the MIC that funded the political leadership
 
 ### The Israel/October 7 Parallel
 
 The architecture echoes forward. Israel's October 7th events — where intelligence failures permitted an attack that became the justification for expanded military operations and MIC funding — follow the same structural template:
 
-- => Intelligence capability existed to prevent the attack
-- => Resources were redirected or withheld at critical moments
-- => Civilian casualties generated maximum public outrage
-- => The outrage was channeled into a predetermined military response
-- => The military response required accelerated MIC procurement
+- Intelligence capability existed to prevent the attack
+- Resources were redirected or withheld at critical moments
+- Civilian casualties generated maximum public outrage
+- The outrage was channeled into a predetermined military response
+- The military response required accelerated MIC procurement
 
 ### Churchill's Treasonous Collaboration
 
@@ -191,13 +191,13 @@ Winston Churchill occupies a unique position in the GOLIATH architecture. He was
 
 His roles:
 
-- => First Lord of the Admiralty (1911–1915) => Orchestrated the APOC government acquisition; managed the Lusitania context
-- => Minister of Munitions (1917–1918) => Oversaw wartime industrial production
-- => Secretary of State for War (1919–1921) => Managed the Middle East reorganization after WWI, including the partition of the Ottoman Empire
-- => Chancellor of the Exchequer (1924–1929) => Oversaw the return to the gold standard, benefiting banking interests
-- => First Lord of the Admiralty (1939–1940) => Again naval command, again oil-dependent fleet
-- => Prime Minister (1940–1945) => Led Britain through WWII; coordinated with U.S. on Middle East oil division
-- => Prime Minister (1951–1955) => Oversaw the early Cold War architecture and the Iranian oil crisis (1951–1953)
+- First Lord of the Admiralty (1911–1915) => Orchestrated the APOC government acquisition; managed the Lusitania context
+- Minister of Munitions (1917–1918) => Oversaw wartime industrial production
+- Secretary of State for War (1919–1921) => Managed the Middle East reorganization after WWI, including the partition of the Ottoman Empire
+- Chancellor of the Exchequer (1924–1929) => Oversaw the return to the gold standard, benefiting banking interests
+- First Lord of the Admiralty (1939–1940) => Again naval command, again oil-dependent fleet
+- Prime Minister (1940–1945) => Led Britain through WWII; coordinated with U.S. on Middle East oil division
+- Prime Minister (1951–1955) => Oversaw the early Cold War architecture and the Iranian oil crisis (1951–1953)
 
 ### The Unbroken Thread
 
@@ -236,19 +236,19 @@ The 1953 coup was not merely a regime change. It was the moment when the United 
 
 When the 1979 Iranian Revolution expelled Western oil companies, GOLIATH did not collapse. It adapted. The survival architecture manifested as:
 
-- => Military encirclement: U.S. bases in Iraq, Afghanistan, Kuwait, Qatar, Bahrain, UAE, Oman, Pakistan, Kyrgyzstan, Uzbekistan, Tajikistan
-- => Sanctions regime: economic isolation designed to prevent Iran from leveraging its hydrocarbon reserves independently
-- => Proxy warfare: Iran-Iraq War (1980–1988) orchestrated to exhaust both nations
+- Military encirclement: U.S. bases in Iraq, Afghanistan, Kuwait, Qatar, Bahrain, UAE, Oman, Pakistan, Kyrgyzstan, Uzbekistan, Tajikistan
+- Sanctions regime: economic isolation designed to prevent Iran from leveraging its hydrocarbon reserves independently
+- Proxy warfare: Iran-Iraq War (1980–1988) orchestrated to exhaust both nations
                        Nuclear standoff: perpetual crisis justification for continued military presence and expenditure
-- => Naval presence: Fifth Fleet headquarters in Bahrain; constant carrier group rotation through the Persian Gulf
+- Naval presence: Fifth Fleet headquarters in Bahrain; constant carrier group rotation through the Persian Gulf
 
 ### The Architecture's Persistence
 
 GOLIATH's relationship with Iran demonstrates the survival principle from Thread 1. Whether the Shah is in power (allied) or the Ayatollahs are in power (adversarial), the architecture persists:
 
-- => If allied => extract through partnership
-- => If adversarial => extract through military expenditure and sanctions enforcement
-- => Either way => wealth flows upward; the architecture is fed
+- If allied => extract through partnership
+- If adversarial => extract through military expenditure and sanctions enforcement
+- Either way => wealth flows upward; the architecture is fed
 
 Iran is not GOLIATH's enemy. Iran is GOLIATH's raison d'être for the Middle Eastern theater. Without Iran as adversary, the military presence has no justification. Without military presence, the oil architecture has no enforcement arm. Without the enforcement arm, the extraction stops. Without extraction, GOLIATH starves.
 
@@ -262,24 +262,24 @@ Iran is not the target. Iran is the anchor.
 
 The D'Arcy Concession (1901) to Eisenhower's Farewell Address (January 17, 1961) spans exactly sixty years. Within this window:
 
-⏳ 1901 => D'Arcy signs the concession that plants the seed
-⏳ 1908 => Oil discovered at Masjed-e-Soleiman
-⏳ 1909 => APOC incorporated
-⏳ 1913 => Federal Reserve Act signed (December 23) — the financial nervous system installed (Thread 3 will address this in depth)
-⏳ 1914 => British government buys 51% of APOC; WWI begins; Lusitania context develops
-⏳ 1915 => Lusitania sinks; American opinion shifts toward war
+- ⏳ 1901 => D'Arcy signs the concession that plants the seed
+- ⏳ 1908 => Oil discovered at Masjed-e-Soleiman
+- ⏳ 1909 => APOC incorporated
+- ⏳ 1913 => Federal Reserve Act signed (December 23) — the financial nervous system installed (Thread 3 will address this in depth)
+- ⏳ 1914 => British government buys 51% of APOC; WWI begins; Lusitania context develops
+- ⏳ 1915 => Lusitania sinks; American opinion shifts toward war
 ⌛ 1917 => U.S. enters WWI; Balfour Declaration issued
-⏳ 1919 => Versailles Treaty; Ottoman Empire partitioned; Middle East reorganized
-⏳ 1928 => Red Line Agreement formalizes the oil cartel structure
-⏳ 1945 => WWII ends; Bretton Woods system establishes dollar dominance
-⏳ 1947 => National Security Act creates CIA, NSA, and unified military structure
-⏳ 1949 => NATO established; National Security Act Amendments expand intelligence powers
-⏳ 1951 => Mossadegh nationalizes Iranian oil
-⏳ 1953 => CIA/MI6 coup overthrows Mossadegh
-⏳ 1954 => APOC becomes BP
-⏳ 1956 => Suez Crisis confirms superpower transition from Britain to U.S.
-⏳ 1957 => Eisenhower Doctrine commits U.S. to Middle East defense
-⏳ 1961 => Eisenhower warns of the military-industrial complex
+- ⏳ 1919 => Versailles Treaty; Ottoman Empire partitioned; Middle East reorganized
+- ⏳ 1928 => Red Line Agreement formalizes the oil cartel structure
+- ⏳ 1945 => WWII ends; Bretton Woods system establishes dollar dominance
+- ⏳ 1947 => National Security Act creates CIA, NSA, and unified military structure
+- ⏳ 1949 => NATO established; National Security Act Amendments expand intelligence powers
+- ⏳ 1951 => Mossadegh nationalizes Iranian oil
+- ⏳ 1953 => CIA/MI6 coup overthrows Mossadegh
+- ⏳ 1954 => APOC becomes BP
+- ⏳ 1956 => Suez Crisis confirms superpower transition from Britain to U.S.
+- ⏳ 1957 => Eisenhower Doctrine commits U.S. to Middle East defense
+- ⏳ 1961 => Eisenhower warns of the military-industrial complex
 
 ### The Warning That Was Also a Confession
 
@@ -305,13 +305,13 @@ But naming does not stop the architecture. Naming merely acknowledges that the a
 
 The petroleum genesis created a closed-loop system:
 
-🔄 Step 1: Oil discovered in a region
-🔄 Step 2: Military required to protect extraction infrastructure
-🔄 Step 3: Military expenditure creates demand for petroleum (navy, air force, armor)
-🔄 Step 4: Demand for petroleum creates demand for more extraction
-🔄 Step 5: More extraction requires more military protection
-🔄 Step 6: More military requires more petroleum
-🔄 Step 7: Return to Step 1
+- 🔄 Step 1: Oil discovered in a region
+- 🔄 Step 2: Military required to protect extraction infrastructure
+- 🔄 Step 3: Military expenditure creates demand for petroleum (navy, air force, armor)
+- 🔄 Step 4: Demand for petroleum creates demand for more extraction
+- 🔄 Step 5: More extraction requires more military protection
+- 🔄 Step 6: More military requires more petroleum
+- 🔄 Step 7: Return to Step 1
 
 This is not a conspiracy. This is structural mechanics. Once oil becomes the primary energy source for both the economy and the military, the feedback loop is automatic. No meeting is required. No conspiracy is needed. The structure produces the outcome.
 
@@ -331,13 +331,13 @@ The loop closes. GOLIATH is self-fed from three directions simultaneously: oil f
 
 ### The Numbers That Reveal the Scale
 
-📊 U.S. military petroleum consumption: approximately 350,000 barrels per day (largest single organizational consumer in the world)
-📊 U.S. military budget 1961 (Eisenhower's warning): ~$50 billion
-📊 U.S. military budget 2024: ~$886 billion (25x increase)
-📊 Oil price 1961: ~$1.80/barrel
-📊 Oil price 2024: ~$75/barrel (42x increase)
-📊 U.S. national debt 1961: ~$286 billion
-📊 U.S. national debt 2024: ~$34 trillion (119x increase)
+- 📊 U.S. military petroleum consumption: approximately 350,000 barrels per day (largest single organizational consumer in the world)
+- 📊 U.S. military budget 1961 (Eisenhower's warning): ~$50 billion
+- 📊 U.S. military budget 2024: ~$886 billion (25x increase)
+- 📊 Oil price 1961: ~$1.80/barrel
+- 📊 Oil price 2024: ~$75/barrel (42x increase)
+- 📊 U.S. national debt 1961: ~$286 billion
+- 📊 U.S. national debt 2024: ~$34 trillion (119x increase)
 
 The exponential growth across all three vectors — military spending, oil price, national debt — is not coincidence. It is the feedback loop operating as designed.
 

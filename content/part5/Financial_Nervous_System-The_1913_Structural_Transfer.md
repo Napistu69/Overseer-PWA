@@ -75,9 +75,9 @@ These were the cracks. The dam would break in 1913.
 
 The Federal Reserve is neither fully public nor fully private. It is a hybrid entity that captures the benefits of both worlds:
 
-- => Private shareholders receive guaranteed returns and influence policy through regional Fed Bank presidents
-- => Public authority grants legal tender status, deposit insurance, lender-of-last-resort powers
-- => Accountability to neither electorate nor shareholders
+- Private shareholders receive guaranteed returns and influence policy through regional Fed Bank presidents
+- Public authority grants legal tender status, deposit insurance, lender-of-last-resort powers
+- Accountability to neither electorate nor shareholders
 
 This is not an accident. It is the Constantine template applied to finance: when state captures market, the resulting hybrid is immune to accountability from either side.
 
@@ -136,9 +136,9 @@ The federal government no longer needed to limit its size to tariff receipts. Th
 
 The original constitutional design created a federal system where the national government was balanced against state governments:
 
-- => House of Representatives: elected by people (frequent turnover, popular pressure)
-- => Senate: appointed by state legislatures (stable, state-focused, indirect)
-- => Presidency: elected by Electoral College (state-weighted, not pure popular vote)
+- House of Representatives: elected by people (frequent turnover, popular pressure)
+- Senate: appointed by state legislatures (stable, state-focused, indirect)
+- Presidency: elected by Electoral College (state-weighted, not pure popular vote)
 
 The Seventeenth Amendment collapsed the Senate into a second popular chamber. State governments lost their voice in federal appointments. The federal government became a unitary entity accountable only to voters, not to states.
 
@@ -236,10 +236,10 @@ Yes — Jekyll Island. But conspiracy implies hidden meetings producing hidden o
 
 The banking oligarchs did not need to conspire in backrooms for decades. They only needed to:
 
-- => Own the financial institutions that controlled credit
-- => Fund the politicians who advocated central banking
-- => Staff the advisory commissions that drafted legislation
-- => Publish the intellectual justifications in universities and newspapers
+- Own the financial institutions that controlled credit
+- Fund the politicians who advocated central banking
+- Staff the advisory commissions that drafted legislation
+- Publish the intellectual justifications in universities and newspapers
 
 When all three branches of power (executive, legislative, judicial) and all major institutions (banks, universities, media) point toward the same outcome, the outcome is produced regardless of whether anyone explicitly conspired.
 
@@ -247,11 +247,11 @@ When all three branches of power (executive, legislative, judicial) and all majo
 
 The Federal Reserve creates structural incentives that sustain GOLIATH regardless of individual intentions:
 
-📊 **Politicians** — Deficit spending allows reelection promises without raising visible taxes
-📊 **Bankers** — Guaranteed 6% dividend plus interest income on government debt
-📊 **Military Contractors** — Permanent war budget justified by "national security"
-📊 **Bureaucrats** — Unlimited agency budgets justify expanding personnel and scope
-📊 **Citizens** — Inflation erodes savings silently; political mobilization seems futile
+- 📊 **Politicians** — Deficit spending allows reelection promises without raising visible taxes
+- 📊 **Bankers** — Guaranteed 6% dividend plus interest income on government debt
+- 📊 **Military Contractors** — Permanent war budget justified by "national security"
+- 📊 **Bureaucrats** — Unlimited agency budgets justify expanding personnel and scope
+- 📊 **Citizens** — Inflation erodes savings silently; political mobilization seems futile
 
 Each actor pursues rational self-interest within the structure. The structure produces GOLIATH without requiring any actor to intend GOLIATH.
 
@@ -261,10 +261,10 @@ Recall Thread 1: When empire captures faith, faith becomes the empire's legitima
 
 The Federal Reserve is to finance what the Vatican was to spirituality:
 
-- => Vatican claimed apostolic succession; Fed claims technical neutrality
-- => Vatican collected tithes; Fed collects seigniorage
-- => Vatican answered to Popes; Fed answers to Board members
-- => Vatican outlived empires; Fed outlives administrations
+- Vatican claimed apostolic succession; Fed claims technical neutrality
+- Vatican collected tithes; Fed collects seigniorage
+- Vatican answered to Popes; Fed answers to Board members
+- Vatican outlived empires; Fed outlives administrations
 
 The architecture persists because it serves the function of centralized extraction and control. The name changes. The blueprint does not.
 
@@ -325,9 +325,9 @@ GOLIATH extracts not only through taxation but through inflation — the silent 
 
 Thread 2 established the oil-military loop. Thread 3 completes the triad:
 
-🔄 **Oil → Military:** Extraction requires protection; protection generates oil revenue for military contractors
-🔄 **Military → Finance:** Wars are financed through debt; debt is monetized by Fed
-🔄 **Finance → Oil:** Dollar-backed credit purchases oil; petrodollar recycling sustains dollar hegemony
+- 🔄 **Oil → Military:** Extraction requires protection; protection generates oil revenue for military contractors
+- 🔄 **Military → Finance:** Wars are financed through debt; debt is monetized by Fed
+- 🔄 **Finance → Oil:** Dollar-backed credit purchases oil; petrodollar recycling sustains dollar hegemony
 
 ### The Petrodollar Extension (1974)
 
@@ -349,16 +349,16 @@ This loop allowed the United States to consume far beyond its productive capacit
 
 The GOLIATH feedback loop operates as a closed circuit:
 
-- => **OIL EXTRACTED** => Military required to protect extraction infrastructure
-- => **MILITARY EXPENDITURE** => Congress authorizes spending; Treasury issues bonds
-- => **DEBT ISSUED** => Federal Reserve purchases bonds, creating new money
-- => **FED MONETIZATION** => Money enters banking system; credit expands
-- => **PETRODOLLAR RECYCLING** => OPEC prices oil in dollars; global demand for dollars sustains value
-- => **FOREIGN CURRENCY RESERVES** => Nations hold dollars to purchase oil
-- => **INVEST IN U.S. BONDS** => Foreign reserves recycled into Treasury securities
-- => **BACKS FEDERAL RESERVE** => Bond purchases fund U.S. deficit spending
-- => **MONEY CREATES MORE OIL DEMAND** => Economic expansion drives energy consumption
-- => **OIL EXTRACTED** => [LOOP CLOSES]
+- **OIL EXTRACTED** => Military required to protect extraction infrastructure
+- **MILITARY EXPENDITURE** => Congress authorizes spending; Treasury issues bonds
+- **DEBT ISSUED** => Federal Reserve purchases bonds, creating new money
+- **FED MONETIZATION** => Money enters banking system; credit expands
+- **PETRODOLLAR RECYCLING** => OPEC prices oil in dollars; global demand for dollars sustains value
+- **FOREIGN CURRENCY RESERVES** => Nations hold dollars to purchase oil
+- **INVEST IN U.S. BONDS** => Foreign reserves recycled into Treasury securities
+- **BACKS FEDERAL RESERVE** => Bond purchases fund U.S. deficit spending
+- **MONEY CREATES MORE OIL DEMAND** => Economic expansion drives energy consumption
+- **OIL EXTRACTED** => [LOOP CLOSES]
 
 The loop is self-reinforcing. Each stage feeds the next. No stage requires conspiracy — only structure. The architecture produces the outcome automatically.
 
@@ -366,11 +366,11 @@ The loop is self-reinforcing. Each stage feeds the next. No stage requires consp
 
 The loop works until it doesn't. At some threshold:
 
-- => Debt service consumes so much of the budget that new spending requires new debt (ponzi financing)
-- => Dollar loses reserve currency status as other nations build alternatives
-- => Inflation accelerates beyond political tolerance
-- => Real economy contracts while financial assets inflate (K-shaped divergence)
-- => Social unrest forces fiscal retrenchment
+- Debt service consumes so much of the budget that new spending requires new debt (ponzi financing)
+- Dollar loses reserve currency status as other nations build alternatives
+- Inflation accelerates beyond political tolerance
+- Real economy contracts while financial assets inflate (K-shaped divergence)
+- Social unrest forces fiscal retrenchment
 
 We are approaching the inflection point. The loop is self-reinforcing but not eternal. Thread 14 (Atlas-3 Instrument) and Thread 15 (Hydra Anatomy) will address the transition as we enter the 2026–2029 convergence window.
 

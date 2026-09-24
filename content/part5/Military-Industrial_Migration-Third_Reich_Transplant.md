@@ -35,10 +35,10 @@ What looks like defeat is actually dispersal.
 
 IG Farben was not merely a chemical company. It was the industrial engine of the Third Reich:
 
-- => Produced synthetic oil from coal (essential when natural oil imports were blocked)
-- => Produced Zyklon B (the cyanide gas used in extermination camps)
-- => Provided patents and technology to the SS for pharmaceutical research
-- => Employed forced labor from concentration camps (estimated 350,000 slave workers)
+- Produced synthetic oil from coal (essential when natural oil imports were blocked)
+- Produced Zyklon B (the cyanide gas used in extermination camps)
+- Provided patents and technology to the SS for pharmaceutical research
+- Employed forced labor from concentration camps (estimated 350,000 slave workers)
 
 The company's leadership was intertwined with the Nazi state. Walter Schellenberg (SS intelligence), Hermann Göring (Reichsmarschall), and Heinrich Himmler (SS Chief) all held positions of authority or financial interest within IG Farben.
 
@@ -86,9 +86,9 @@ Total: Approximately 1,600 German scientists, engineers, and technicians relocat
 
 Many of these individuals had documented Nazi Party, SS, or Gestapo affiliations. To facilitate recruitment, their records were altered:
 
-- => "Denazification" files were falsified to remove Nazi affiliations
-- => Interrogation transcripts were rewritten to minimize collaboration
-- => Security clearances were granted despite known war crimes involvement
+- "Denazification" files were falsified to remove Nazi affiliations
+- Interrogation transcripts were rewritten to minimize collaboration
+- Security clearances were granted despite known war crimes involvement
 
 Hubertus Strughold is the clearest example. His research involved human experimentation on concentration camp prisoners. He remained head of the Air Force's aerospace medicine program for decades. His name appears on a NASA building at Brooks Air Force Base until 2006, when it was removed following public pressure.
 
@@ -96,10 +96,10 @@ Hubertus Strughold is the clearest example. His research involved human experime
 
 Strughold's research was not abstract science. It was applied to practical military applications:
 
-- => Human tolerance to high-altitude flight (pressurized cabin development)
-- => Hypothermia survival protocols (cold water immersion testing)
-- => Drug testing for aircrew performance enhancement
-- => Psychological conditioning for interrogation resistance
+- Human tolerance to high-altitude flight (pressurized cabin development)
+- Hypothermia survival protocols (cold water immersion testing)
+- Drug testing for aircrew performance enhancement
+- Psychological conditioning for interrogation resistance
 
 This research became the foundation for postwar aerospace medicine. The same methodology—human subjects without consent—continued under new sponsorship.
 
@@ -142,11 +142,11 @@ The Third Reich's intellectual infrastructure was not destroyed. It was transpla
 
 The 1944–1961 window encompasses the complete transition from Axis defeat to American hegemony. Within this window:
 
-🔄 German scientists relocated to U.S. programs
-🔄 German industrial assets seized and redistributed among Allied corporations
-🔄 German financial networks integrated into Western banking system
-🔄 German intelligence officers recruited into CIA and NATO structures
-🔄 Military doctrine and operational procedures transferred to U.S. forces
+- 🔄 German scientists relocated to U.S. programs
+- 🔄 German industrial assets seized and redistributed among Allied corporations
+- 🔄 German financial networks integrated into Western banking system
+- 🔄 German intelligence officers recruited into CIA and NATO structures
+- 🔄 Military doctrine and operational procedures transferred to U.S. forces
 
 The Third Reich's infrastructure did not vanish. It was redistributed.
 
@@ -183,17 +183,17 @@ The renaming was not cosmetic. It signaled a shift in doctrine:
 
 A department named for "defense" should focus on:
 
-- => Protecting borders from invasion
-- => Deterring hostile attacks
-- => Maintaining defensive capabilities
+- Protecting borders from invasion
+- Deterring hostile attacks
+- Maintaining defensive capabilities
 
 The actual activities of the Department of Defense include:
 
-- => Offshore base operations (800+ bases in 80 countries)
-- => Regime change operations (Iran 1953, Guatemala 1954, Chile 1973, etc.)
-- => Arms sales to authoritarian regimes
-- => Preemptive strikes (Iraq 2003)
-- => Drone assassinations in sovereign territories
+- Offshore base operations (800+ bases in 80 countries)
+- Regime change operations (Iran 1953, Guatemala 1954, Chile 1973, etc.)
+- Arms sales to authoritarian regimes
+- Preemptive strikes (Iraq 2003)
+- Drone assassinations in sovereign territories
 
 The name masks the function. The function is projection of power. The name is propaganda.
 
@@ -258,10 +258,10 @@ When he warned of the danger, he was warning of the architecture he had helped b
 
 Eisenhower's speech was drafted with input from advisors familiar with the National Security Act framework. The phrase "military-industrial complex" was deliberately chosen to describe:
 
-- => Permanent military establishments
-- => Arms manufacturing corporations
+- Permanent military establishments
+- Arms manufacturing corporations
 → Government officials who manage both
-- => The financial institutions that fund the loop
+- The financial institutions that fund the loop
 
 The warning was also a confession: the architecture existed, it was already powerful, and it would "persist" regardless of individual intentions.
 
@@ -284,12 +284,12 @@ Acknowledging the threat meant acknowledging the system could not be dismantled 
 
 The Third Reich did not end in 1945. It dispersed:
 
-- => Scientists relocated to U.S. aerospace and medical programs (Paperclip)
-- => Industrial assets redistributed among Allied corporations (IG Farben dissolution)
-- => Intelligence networks absorbed into CIA and NATO structures
-- => Financial arrangements integrated into Western banking system
-- => Military doctrine transferred to U.S. armed forces
-- => Bureaucratic permanency established through National Security Act (1947-1949)
+- Scientists relocated to U.S. aerospace and medical programs (Paperclip)
+- Industrial assets redistributed among Allied corporations (IG Farben dissolution)
+- Intelligence networks absorbed into CIA and NATO structures
+- Financial arrangements integrated into Western banking system
+- Military doctrine transferred to U.S. armed forces
+- Bureaucratic permanency established through National Security Act (1947-1949)
 
 The Six-Point Architecture from Thread 1 holds:
 

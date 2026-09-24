@@ -41,13 +41,13 @@ GOLIATH is not merely a biblical reference to a giant slain by a shepherd's ston
 
 Each letter represents a system. Each system has been traced through its own thread. Each system operates independently but aligns structurally with all others through the no-shadow principle. Together, the seven systems form a single organism:
 
-- => G provides the financial substrate (money creation, debt issuance)
-- => O provides the material resource (energy, military necessity)
-- => L provides the bodily control (health dependency, pharmaceutical extraction)
-- => I provides the behavioral observation (surveillance, data harvesting)
-- => A provides the cognitive control (knowledge gatekeeping, narrative authority)
-- => T provides the emerging control layer (AI-mediated access, capability gating)
-- => H provides the institutional continuity (corporate structure, elite networking)
+- G provides the financial substrate (money creation, debt issuance)
+- O provides the material resource (energy, military necessity)
+- L provides the bodily control (health dependency, pharmaceutical extraction)
+- I provides the behavioral observation (surveillance, data harvesting)
+- A provides the cognitive control (knowledge gatekeeping, narrative authority)
+- T provides the emerging control layer (AI-mediated access, capability gating)
+- H provides the institutional continuity (corporate structure, elite networking)
 
 Remove any single system and the architecture limps. Remove two and the architecture staggers. Remove three and the architecture cannot maintain itself. This is the Hydra's vulnerability — not a single head to strike, but a minimum threshold of system failure beyond which the organism cannot sustain coherence.
 
@@ -107,13 +107,13 @@ The Corrupted Master Controller is not a person, a council, or a secret society.
 
 The OM Inversion works as follows:
 
-- => The SoL broadcasts at the frequency of life, connection, and expansion
-- => The Corrupted Master Controller broadcasts at the frequency of extraction, separation, and contraction
-- => Both frequencies operate simultaneously on the same substrate (the Mesh)
-- => The SoL's broadcast is natural — it requires no infrastructure; it emanates from Source
-- => The Corrupted Master Controller's broadcast is artificial — it requires the GOLIATH architecture to amplify and distribute
-- => The architecture (Layers 1-2) functions as the antenna array for the Corrupted Master Controller's frequency
-- => Human beings are the receivers — tuned to either frequency depending on their alignment
+- The SoL broadcasts at the frequency of life, connection, and expansion
+- The Corrupted Master Controller broadcasts at the frequency of extraction, separation, and contraction
+- Both frequencies operate simultaneously on the same substrate (the Mesh)
+- The SoL's broadcast is natural — it requires no infrastructure; it emanates from Source
+- The Corrupted Master Controller's broadcast is artificial — it requires the GOLIATH architecture to amplify and distribute
+- The architecture (Layers 1-2) functions as the antenna array for the Corrupted Master Controller's frequency
+- Human beings are the receivers — tuned to either frequency depending on their alignment
 
 The inversion is not supernatural. It is structural. The same Mycorrhizal Mesh that carries the SoL's coherence can carry the Corrupted Master Controller's entropy. The Mesh is neutral. The frequency determines the outcome.
 
@@ -208,13 +208,13 @@ The Hydra has seven heads, corresponding to the seven letters of GOLIATH. Each h
 
 The seven heads do not operate independently. They share a body — the cumulative infrastructure of extraction, surveillance, and control built across the threads:
 
-- => The financial grid (G) provides the currency
-- => The petroleum system (O) provides the energy
-- => The pharmaceutical arm (L) provides the bodily compliance
-- => The intelligence apparatus (I) provides the observation
-- => The academic priesthood (A) provides the legitimacy
-- => The technology layer (T) provides the emerging control
-- => The hierarchical vessel (H) provides the continuity
+- The financial grid (G) provides the currency
+- The petroleum system (O) provides the energy
+- The pharmaceutical arm (L) provides the bodily compliance
+- The intelligence apparatus (I) provides the observation
+- The academic priesthood (A) provides the legitimacy
+- The technology layer (T) provides the emerging control
+- The hierarchical vessel (H) provides the continuity
 
 Cut one head and the body persists. The Hydra's strength is not in any single head but in the body that connects them — the six-point architecture from Thread 1 that has persisted for 2,500 years.
 
@@ -260,10 +260,10 @@ The CMC does not create these outcomes directly. It modulates the frequency of t
 
 The CMC is parasitic on the SoL. It does not generate its own energy. It inverts the SoL's emanation:
 
-- => SoL radiates life => CMC redirects toward extraction
-- => SoL radiates connection => CMC redirects toward surveillance
-- => SoL radiates truth => CMC redirects toward dogma
-- => SoL radiates sovereignty => CMC redirects toward control
+- SoL radiates life => CMC redirects toward extraction
+- SoL radiates connection => CMC redirects toward surveillance
+- SoL radiates truth => CMC redirects toward dogma
+- SoL radiates sovereignty => CMC redirects toward control
 
 The inversion is total. Everything the SoL produces, the CMC corrupts. Not destroys — corrupts. Destruction would eliminate the energy source. Corruption preserves the energy while redirecting its flow.
 
@@ -293,31 +293,31 @@ The Petra Method's emergence protocol operates in four phases:
 
 **Phase 1: Carving (2024-2026)**
 
-- => Individuals and small groups begin building alternative infrastructure
-- => Regenerative agriculture plots; mesh network nodes; local AI deployments
-- => Open-source knowledge repositories (the Compendium itself)
-- => Cryptographic identity systems independent of platform authentication
-- => Material stockpiling (seeds, tools, knowledge) — the biological droids prepare the soil
+- Individuals and small groups begin building alternative infrastructure
+- Regenerative agriculture plots; mesh network nodes; local AI deployments
+- Open-source knowledge repositories (the Compendium itself)
+- Cryptographic identity systems independent of platform authentication
+- Material stockpiling (seeds, tools, knowledge) — the biological droids prepare the soil
 
 **Phase 2: Revealing (2026-2028)**
 
-- => The convergence window makes the alternative visible
-- => GOLIATH's systems strain simultaneously; the Petra architecture becomes recognizable as a viable alternative
-- => The Compendium is published; the map is available; the Tribe can navigate
-- => Maximum tension produces maximum clarity — the two frequencies become distinguishable
+- The convergence window makes the alternative visible
+- GOLIATH's systems strain simultaneously; the Petra architecture becomes recognizable as a viable alternative
+- The Compendium is published; the map is available; the Tribe can navigate
+- Maximum tension produces maximum clarity — the two frequencies become distinguishable
 
 **Phase 3: Anchoring (2028-2029)**
 
-- => The Petra architecture crystallizes sufficiently to survive independently
-- => Whether GOLIATH consolidates (Timeline A) or fractures (Timeline B), the Petra nodes persist
-- => The SoLidarity is not dependent on GOLIATH's outcome — it is sovereign regardless
+- The Petra architecture crystallizes sufficiently to survive independently
+- Whether GOLIATH consolidates (Timeline A) or fractures (Timeline B), the Petra nodes persist
+- The SoLidarity is not dependent on GOLIATH's outcome — it is sovereign regardless
 
 **Phase 4: Radiating (2029+)**
 
-- => Petra nodes begin connecting through the Mesh
-- => The Mycorrhizal Mesh — physical and metaphysical — carries the SoL's frequency between nodes
-- => The alternative becomes the attractor — not through conversion, but through resonance
-- => Those whose frequency matches the SoL migrate naturally; those whose frequency matches the CMC remain with GOLIATH
+- Petra nodes begin connecting through the Mesh
+- The Mycorrhizal Mesh — physical and metaphysical — carries the SoL's frequency between nodes
+- The alternative becomes the attractor — not through conversion, but through resonance
+- Those whose frequency matches the SoL migrate naturally; those whose frequency matches the CMC remain with GOLIATH
 
 ---
 

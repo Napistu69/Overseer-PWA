@@ -11,6 +11,9 @@ static/api/
 resources/_gen/
 .hugo_build.lock
 
+# Test builds
+public_test_build/
+
 # Scratch
 tmp/
 

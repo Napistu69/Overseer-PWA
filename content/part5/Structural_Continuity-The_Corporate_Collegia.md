@@ -64,13 +64,13 @@ The Fortune 500 interlocking directorates are the direct descendant of Roman col
 
 The interlock functions as a neural synapse. Information flows across corporations not through public announcements, but through shared personnel.
 
-- => Executive A sits on Board X (Tech) and Board Y (Energy)
-- => Executive A learns regulatory shifts at Board X meetings
-- => Executive A informs Board Y strategy before public knowledge
-- => Board Y adjusts stock portfolios accordingly
-- => Board Y influences legislation via lobbying arm
-- => Regulation passes favoring Board Y
-- => Executive A gains bonus for successful lobbying outcome
+- Executive A sits on Board X (Tech) and Board Y (Energy)
+- Executive A learns regulatory shifts at Board X meetings
+- Executive A informs Board Y strategy before public knowledge
+- Board Y adjusts stock portfolios accordingly
+- Board Y influences legislation via lobbying arm
+- Regulation passes favoring Board Y
+- Executive A gains bonus for successful lobbying outcome
 
 This is not illegal insider trading. This is structural alignment. The individuals are acting within their fiduciary duties. The structure produces the alignment automatically.
 
@@ -114,11 +114,11 @@ Thread 6 addressed the Black Lotus's pharmaceutical arm. Thread 9 addresses the 
 
 Who sits at the center of this chain?
 
-- => **Monsanto/Bayer** (Seed + Chemical)
-- => **Cargill/ADM** (Grain Processing)
-- => **Kellogg/PepsiCo/Coca-Cola** (Consumer Goods)
-- => **NIH/USDA** (Regulatory Oversight)
-- => **University Nutrition Departments** (Research)
+- **Monsanto/Bayer** (Seed + Chemical)
+- **Cargill/ADM** (Grain Processing)
+- **Kellogg/PepsiCo/Coca-Cola** (Consumer Goods)
+- **NIH/USDA** (Regulatory Oversight)
+- **University Nutrition Departments** (Research)
 
 Many individuals hold positions across these nodes. Grants fund research. Research informs guidelines. Guidelines dictate subsidies. Subsidies fund production. Production dictates consumption. Consumption funds research.
 
@@ -150,10 +150,10 @@ Bill Gates' foundation occupies a unique position in the collegial architecture.
 
 The Gates Foundation is a philanthropic entity that makes grants. Bill Gates personally holds investment portfolios in the companies that benefit from those grants. The structure creates alignment without requiring explicit coordination.
 
-- => Foundation promotes vaccine procurement => Personal investments in vaccine manufacturers appreciate
-- => Foundation promotes industrial agriculture => Personal investments in agri-chemical companies appreciate
+- Foundation promotes vaccine procurement => Personal investments in vaccine manufacturers appreciate
+- Foundation promotes industrial agriculture => Personal investments in agri-chemical companies appreciate
 -> Foundation funds media coverage => Media covers foundation positively => Public support for foundation initiatives grows
-- => Foundation funds academic research => Research supports foundation policies => Policy implemented
+- Foundation funds academic research => Research supports foundation policies => Policy implemented
 
 The six-point architecture persists in the philanthro-capitalist form:
 
@@ -190,11 +190,11 @@ Regulation is often framed as restraint. In the collegial system, regulation fun
 
 The revolving door between government, regulators, and corporate boards ensures alignment is maintained.
 
-💼 Government official leaves office => Joins defense contractor board
-💼 Military officer retires => Joins weapons manufacturer executive team
-💼 Corporate executive leaves industry => Joins regulatory agency
-💼 Intelligence officer leaves agency => Joins cybersecurity firm
-💼 Investment banker leaves firm => Joins Treasury Department
+- 💼 Government official leaves office => Joins defense contractor board
+- 💼 Military officer retires => Joins weapons manufacturer executive team
+- 💼 Corporate executive leaves industry => Joins regulatory agency
+- 💼 Intelligence officer leaves agency => Joins cybersecurity firm
+- 💼 Investment banker leaves firm => Joins Treasury Department
 
 No conspiracy needed. The incentive structure produces the alignment automatically. The same individuals move between sectors, carrying relationships, knowledge, and shared interests.
 
@@ -218,10 +218,10 @@ The modern corporation possesses powers that exceed nation-states in many domain
 
 International trade agreements include ISDS provisions. These allow corporations to sue governments in private tribunals for regulations that reduce expected profits.
 
-- => Government passes environmental law => Corporation sues for lost profit
-- => Tribunal rules against government
-- => Government fined billions
-- => Law repealed or weakened to avoid penalty
+- Government passes environmental law => Corporation sues for lost profit
+- Tribunal rules against government
+- Government fined billions
+- Law repealed or weakened to avoid penalty
 
 This is sovereignty surrendered to private arbitration. The collegium transcends national borders.
 

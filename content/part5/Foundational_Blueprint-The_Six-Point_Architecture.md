@@ -31,12 +31,12 @@ What looks like succession is actually continuity.
 
 ### The Six Constants Identified:
 
-- => Hierarchy — graded access to the sacred creates dependency
-- => Extraction — wealth concentrates at the apex through spiritual obligation
-- => Lineage — legitimacy inherited, not earned; bloodlines as credentialing
-- => Monopoly — knowledge guarded as property; interpretation = control
-- => Protection — elites shielded by the institution's sanctity
-- => Survival — institution outlives every government that hosts it
+- Hierarchy — graded access to the sacred creates dependency
+- Extraction — wealth concentrates at the apex through spiritual obligation
+- Lineage — legitimacy inherited, not earned; bloodlines as credentialing
+- Monopoly — knowledge guarded as property; interpretation = control
+- Protection — elites shielded by the institution's sanctity
+- Survival — institution outlives every government that hosts it
 
 ### The Pattern's First Form
 
@@ -62,10 +62,10 @@ When the Temple fell in 70 CE, the architecture did not die. It migrated.
 
 The Mithraic grade system was not unique to Mithraism. It was replicated across mystery cults: Isis worship, Cybele devotion, Orphic circles. Each operated on the same principle:
 
-- => Ascension requires passing through gates
-- => Each gate grants access to new information
-- => Only the Pater/Father holds all keys
-- => The hierarchy itself is the scripture
+- Ascension requires passing through gates
+- Each gate grants access to new information
+- Only the Pater/Father holds all keys
+- The hierarchy itself is the scripture
 
 ### Why This Matters
 
@@ -125,10 +125,10 @@ Constantine did not convert out of piety. He converted out of pragmatism. The em
 
 ### The Template Set
 
-- => When empire captures faith, faith becomes the empire's legitimacy engine
-- => Dissent becomes treason
-- => Orthodoxy becomes enforcement
-- => Salvation becomes conditional on compliance
+- When empire captures faith, faith becomes the empire's legitimacy engine
+- Dissent becomes treason
+- Orthodoxy becomes enforcement
+- Salvation becomes conditional on compliance
 
 ### The Legacy
 
@@ -171,9 +171,9 @@ The Fortune 500 interlocking directorates are the direct descendants of Roman co
 
 ### Interlocking Directorates (Representative Data)
 
-🏢 BlackRock, Vanguard, State Street => 12+ overlapping board seats => Asset management, tech, banking, pharma
-🏢 Goldman Sachs Alumni Network => 30+ CEOs in Fortune 500 => Finance, policy, defense contracting
-🏢 Council on Foreign Relations Members => 50+ executive/board positions => Foreign policy, trade, intelligence
+- 🏢 BlackRock, Vanguard, State Street => 12+ overlapping board seats => Asset management, tech, banking, pharma
+- 🏢 Goldman Sachs Alumni Network => 30+ CEOs in Fortune 500 => Finance, policy, defense contracting
+- 🏢 Council on Foreign Relations Members => 50+ executive/board positions => Foreign policy, trade, intelligence
 
 ### The Invisible Alignment
 
