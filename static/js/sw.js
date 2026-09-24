@@ -82,6 +82,9 @@ self.addEventListener('fetch', function(event) {
       });
 
       return cached || fetchPromise;
+    }).catch(function() {
+      // Final fallback: offline page
+      return caches.match(OFFLINE_URL);
     })
   );
 });
