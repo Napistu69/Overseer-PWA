@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 
 PUBLIC_DIR = os.path.join(os.path.dirname(__file__), '..', 'public')
-SW_TEMPLATE = os.path.join(os.path.dirname(__file__), '..', 'static', 'js\sw.js')
+SW_TEMPLATE = os.path.join(os.path.dirname(__file__), '..', 'static', 'js', 'sw.js')
 SW_OUTPUT = os.path.join(os.path.dirname(__file__), '..', 'public', 'sw.js')
 
 # File extensions to cache
