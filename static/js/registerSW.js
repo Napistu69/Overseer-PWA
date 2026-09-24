@@ -9,7 +9,7 @@
 
   // Register service worker
   window.addEventListener('load', function() {
-    navigator.serviceWorker.register('/js/sw.js')
+    navigator.serviceWorker.register('/sw.js')
       .then(function(registration) {
         console.log('[PWA] ServiceWorker registered:', registration.scope);
 
