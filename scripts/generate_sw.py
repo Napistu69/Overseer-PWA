@@ -80,7 +80,7 @@ def generate_sw():
 
     # Replace placeholders
     sw_content = template.replace('{{VERSION}}', timestamp)
-    sw_content = template.replace('{{PRECACHE_URLS}}', url_list)
+    sw_content = sw_content.replace('{{PRECACHE_URLS}}', url_list)
 
     # Write output
     with open(SW_OUTPUT, 'w') as f:
