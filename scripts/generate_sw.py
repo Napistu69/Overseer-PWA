@@ -12,7 +12,7 @@ SW_OUTPUT = os.path.join(os.path.dirname(__file__), '..', 'public', 'sw.js')
 CACHE_EXTENSIONS = {'.html', '.css', '.js', '.json', '.ttf', '.woff', '.woff2', '.eot', '.ico'}
 
 # Images to cache (ONLY the ones actually used on the site)
-USED_IMAGES = {'icon-192.png', 'icon-512.png', 'apple-touch-icon.png', 'TekTribe Chronicles Logo [1080].png', 'Overseer [OG Transparent].png', 'TekTribe - Awakening [HD-1x1].PNG'}
+USED_IMAGES = {'icon-192.png', 'icon-512.png', 'apple-touch-icon.png', 'TekTribe Chronicles Logo [1080].png', 'Overseer [OG Transparent].png'}
 
 # Directories/files to skip entirely (multi-MB search indices)
 SKIP_FILES = {'akashic-index.json', 'chroma-index.json', 'compendium-index.json'}

@@ -22,7 +22,6 @@ static/images/
 # Restore only the used images
 !static/images/TekTribe Chronicles Logo [1080].png
 !static/images/Overseer [OG Transparent].png
-!static/images/TekTribe - Awakening [HD-1x1].PNG
 static/akashic-index.json
 static/chroma-index.json
 static/compendium-index.json
