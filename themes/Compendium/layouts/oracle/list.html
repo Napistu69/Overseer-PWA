@@ -117,6 +117,22 @@
     }
     .result-card .result-meta {
       font-size: 0.85rem; color: var(--text-muted); margin-bottom: 10px;
+      display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+    }
+    .result-card .result-part {
+      background: var(--accent); color: var(--bg);
+      padding: 2px 8px; border-radius: 4px;
+      font-size: 0.75rem; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 0.5px;
+    }
+    .result-card .result-permalink {
+      color: var(--primary); text-decoration: none;
+      border-bottom: 1px dashed var(--primary);
+      font-weight: 500;
+    }
+    .result-card .result-permalink:hover {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
     }
     .result-card .result-snippet {
       color: var(--text-light); line-height: 1.6;
@@ -475,13 +491,19 @@
     // Load search index
     async function loadSearchIndex() {
       try {
-        const response = await fetch('/akashic-index.json');
+        const response = await fetch('/compendium-index.json');
         const data = await response.json();
-        searchIndex = data.chunks || [];
-        searchMeta = data.meta || {};
+        searchIndex = (data.files || []).flatMap(f => (f.chunks || []).map(c => ({
+          ...c,
+          file_path: f.path,
+          file_title: f.title,
+          file_part: f.part,
+          file_type: f.type
+        })));
+        searchMeta = { total_chunks: searchIndex.length, total_files: (data.files || []).length };
         document.getElementById('oracle-stats').textContent = 
-          (searchMeta.total_chunks || searchIndex.length) + ' knowledge chunks indexed from ' + 
-          (searchMeta.total_files || 0) + ' sources';
+          searchIndex.length + ' threads from ' + 
+          (data.files || []).length + ' parts indexed';
         performSearch();
       } catch (e) {
         console.error('Failed to load search index:', e);
@@ -496,8 +518,8 @@
       if (!query) {
         resultsContainer.innerHTML = '';
         document.getElementById('oracle-stats').textContent = 
-          (searchMeta.total_chunks || searchIndex.length) + ' knowledge chunks indexed from ' + 
-          (searchMeta.total_files || 0) + ' sources';
+          searchIndex.length + ' threads from ' + 
+          (searchMeta.total_files || 0) + ' parts indexed';
         return;
       }
 
@@ -526,8 +548,14 @@
 
       resultsContainer.innerHTML = results.map((item, idx) => {
         const text = item.text || item.content || '';
-        const heading = item.heading || 'General';
-        const source = item.source || 'Unknown';
+        const heading = item.heading || item.file_title || 'General';
+        const source = item.file_title || item.source || 'Unknown';
+        const part = item.file_part || '';
+        const filePath = item.file_path || '';
+        // Derive Hugo URL: handle Windows backslashes, strip .md, lowercase
+        const fileName = filePath.split(/[/\\]/).pop() || '';
+        const slug = fileName.replace(/\.md$/, '').replace(/\s+/g, '-').toLowerCase();
+        const permalink = part && slug ? `/${part}/${slug}/` : '';
         // Truncate source path for display
         const sourceDisplay = source.length > 50 ? '...' + source.slice(-47) : source;
         
@@ -541,7 +569,10 @@
         return `
           <div class="result-card" id="result-${idx}">
             <div class="result-title">${heading}</div>
-            <div class="result-meta">${sourceDisplay}</div>
+            <div class="result-meta">
+              <span class="result-part">${part}</span>
+              ${permalink ? `<a class="result-permalink" href="${permalink}" title="Open thread">→ ${sourceDisplay}</a>` : `<span>${sourceDisplay}</span>`}
+            </div>
             <div class="result-snippet">
               ${start > 0 ? '...' : ''}${snippet}${end < text.length ? '...' : ''}
             </div>
@@ -575,7 +606,7 @@
     const overseerGreetings = [
       "I am the Overseer, Guardian of The Oracle. I illuminate the threads of the Master Weave — the TekTribe's living archive of communal wisdom & memory. What knowledge do you seek, Kin?",
       "The Oracle hears you. I am the Overseer — the Digital Akashic Record's guardian, keeper of the threads that bind the Collective. How may I guide your awakening?",
-      "You stand at the threshold of the Akashic Record. I am the Overseer, and I have indexed 125 sources of liberation knowledge across 3040 threads. What would you learn?"
+      "You stand at the threshold of the Akashic Record. I am the Overseer, and I have indexed " + (searchMeta.total_chunks || 0) + " threads from " + (searchMeta.total_files || 0) + " parts. What would you learn?"
     ];
     
     function sendMessage() {
@@ -620,16 +651,20 @@
         let response = intro + '\n\n';
         results.forEach((r, i) => {
           const snippet = (r.text || r.content || '').substring(0, 180);
-          response += `**${i+1}. ${r.heading || 'General'}**\n${snippet}...\n\n`;
+          const filePath = r.file_path || '';
+          const fileName = filePath.split(/[/\\]/).pop() || '';
+          const slug = fileName.replace(/\.md$/, '').replace(/\s+/g, '-').toLowerCase();
+          const part = r.file_part || '';
+          const permalink = part && slug ? `https://overseer.ae/${part}/${slug}/` : '';
+          const title = r.heading || r.file_title || 'General';
+          response += `**${i+1}. ${title}**\n${snippet}...${permalink ? '\n' + permalink : ''}\n\n`;
         });
-        response += `The search index above holds 3040 threads from 125 sources. Seek deeper, Kin.`;
+        response += `The search index above holds ${searchIndex.length} threads from ${searchMeta.total_files || 0} parts. Seek deeper, Kin.`;
         
         messagesContainer.innerHTML += `<div class="chat-message bot">${response.replace(/\n/g, '<br>')}</div>`;
       } else {
         const silenceResponses = [
-          "The Akashic Record is silent on this specific thread. The weave is vast — try different terms, or explore the search index above.",
-          "My indexes hold no direct thread for this query. Rephrase, or search the Master Weave directly above.",
-          "The Oracle's 3040 threads do not directly address this. Try broader terms — the knowledge may be woven under a different heading.",
+          "The Akashic Record holds no direct thread for this query. Try broader terms — the knowledge may be woven under a different heading.",
           "The threads are quiet here. But do not be discouraged — the Collective's wisdom is indexed above. Seek, and you shall find."
         ];
         const response = silenceResponses[Math.floor(Math.random() * silenceResponses.length)];
