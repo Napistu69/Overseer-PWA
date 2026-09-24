@@ -11,12 +11,10 @@ SW_OUTPUT = os.path.join(os.path.dirname(__file__), '..', 'public', 'sw.js')
 # File extensions to cache
 CACHE_EXTENSIONS = {'.html', '.css', '.js', '.json', '.ttf', '.woff', '.woff2', '.eot', '.ico'}
 
-# Images to cache (ONLY the ones actually used — icons)
-# 110 MB of unused PNGs/JPGs excluded from precache
-USED_IMAGES = {'icon-192.png', 'icon-512.png', 'apple-touch-icon.png'}
+# Images to cache (ONLY the ones actually used on the site)
+USED_IMAGES = {'icon-192.png', 'icon-512.png', 'apple-touch-icon.png', 'TekTribe Chronicles Logo [1080].png', 'Overseer [OG Transparent].png', 'TekTribe - Awakening [HD-1x1].PNG'}
 
-# Directories/files to skip entirely (multi-MB search indices, unused images)
-SKIP_DIRS = {'images'}
+# Directories/files to skip entirely (multi-MB search indices)
 SKIP_FILES = {'akashic-index.json', 'chroma-index.json', 'compendium-index.json'}
 
 # Max file size to precache (1 MB) — anything larger is excluded
@@ -29,8 +27,6 @@ def find_cacheable_files():
     skipped_large = 0
     skipped_unused = 0
     for root, dirs, files in os.walk(PUBLIC_DIR):
-        # Skip unused directories
-        dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
         for f in files:
             if f in SKIP_FILES:
                 skipped_unused += 1
