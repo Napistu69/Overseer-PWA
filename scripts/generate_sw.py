@@ -61,6 +61,14 @@ def find_cacheable_files():
                 seen.add(url)
                 urls.append(url)
 
+            # Precache BOTH / and /index.html for the root so cold-start
+            # navigation works regardless of which the browser resolves.
+            if url == '/':
+                alias = '/index.html'
+                if alias not in seen:
+                    seen.add(alias)
+                    urls.append(alias)
+
     return sorted(urls)
 
 

@@ -68,7 +68,15 @@ self.addEventListener('fetch', function(event) {
           }
           return response;
         }).catch(function() {
-          return caches.match(OFFLINE_URL);
+          // Network failed — serve offline page. If even that isn't cached,
+          // return a minimal inline HTML so the app never shows ERR_FAILED.
+          return caches.match(OFFLINE_URL).then(function(offline) {
+            if (offline) return offline;
+            return new Response(
+              '<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Offline</title></head><body style="font-family:sans-serif;background:#121212;color:#E0E0E0;display:flex;align-items:center;justify-content:center;height:100vh;margin:0"><div style="text-align:center"><h1 style="color:#4A7C59">TekTribe Chronicles</h1><p>You are offline. Reconnect to browse the archive.</p></div></body></html>',
+              { headers: { 'Content-Type': 'text/html; charset=utf-8' } }
+            );
+          });
         });
       })
     );
