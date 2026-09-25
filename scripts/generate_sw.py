@@ -1,43 +1,32 @@
 #!/usr/bin/env python3
 """Generate versioned service worker with full URL list for offline caching."""
 import os
-import re
 from datetime import datetime
+from urllib.parse import quote
 
 PUBLIC_DIR = os.path.join(os.path.dirname(__file__), '..', 'public')
 SW_TEMPLATE = os.path.join(os.path.dirname(__file__), '..', 'static', 'js', 'sw.js')
 SW_OUTPUT = os.path.join(os.path.dirname(__file__), '..', 'public', 'sw.js')
 
-# File extensions to cache
-CACHE_EXTENSIONS = {'.html', '.css', '.js', '.json', '.ttf', '.woff', '.woff2', '.eot', '.ico'}
-
-# Images to cache (ONLY the ones actually used on the site)
-USED_IMAGES = {'icon-192.png', 'icon-512.png', 'apple-touch-icon.png',
-               'TekTribe Chronicles Logo [1080].png', 'Overseer [OG Transparent].png'}
-
-# Directories/files to skip entirely (multi-MB search indices)
-SKIP_FILES = {'akashic-index.json', 'chroma-index.json', 'compendium-index.json'}
-
-# Max file size to precache (1 MB) — anything larger is excluded
+# Max file size to precache (1 MB)
 MAX_PRECACHE_SIZE = 1 * 1024 * 1024
 
-# Pages that serve as directories (browser requests trailing slash)
-# On CF Pages: /part1/index.html → 308 → /part1/ (200)
-# So we must precache the trailing-slash URL, not the .html file
-DIR_PAGES = {'index.html', 'about/index.html', 'governance/index.html',
-             'oracle/index.html', 'preamble/index.html', 'solitary-architect/index.html',
-             'part1/index.html', 'part2/index.html', 'part3/index.html',
-             'part4/index.html', 'part5/index.html', 'part6/index.html',
-             'part7/index.html', 'part8/index.html', 'part9/index.html'}
+# Files to skip (search indices)
+SKIP_FILES = {'akashic-index.json', 'chroma-index.json', 'compendium-index.json'}
+
+
+def url_to_path(url_path):
+    """Convert a URL path back to a file path for checking existence."""
+    # Reverse the conversion: /part1/the_continuum/ -> part1/the_continuum/index.html
+    if url_path == '/':
+        return 'index.html'
+    if url_path.endswith('/'):
+        return url_path.strip('/') + '/index.html'
+    return url_path.lstrip('/')
 
 
 def find_cacheable_files():
-    """Find all files in public/ that should be cached.
-
-    Browsers request /part1/ (trailing slash), not /part1/index.html.
-    CF Pages serves /part1/index.html as a 308 redirect to /part1/.
-    So we precache the trailing-slash URL to match actual browser requests.
-    """
+    """Find all files in public/ that should be cached."""
     urls = []
     seen = set()
     for root, dirs, files in os.walk(PUBLIC_DIR):
@@ -45,7 +34,7 @@ def find_cacheable_files():
             if f in SKIP_FILES:
                 continue
             ext = os.path.splitext(f)[1].lower()
-            if ext not in CACHE_EXTENSIONS and ext not in {'.png', '.jpg', '.jpeg', '.gif', '.svg'}:
+            if ext not in {'.html', '.css', '.js', '.json', '.png', '.jpg', '.jpeg', '.gif', '.svg', '.ttf', '.woff', '.woff2', '.eot', '.ico'}:
                 continue
 
             full_path = os.path.join(root, f)
@@ -56,21 +45,17 @@ def find_cacheable_files():
 
             rel_path = os.path.relpath(full_path, PUBLIC_DIR).replace('\\', '/')
 
-            # Skip unused images
-            if ext in {'.png', '.jpg', '.jpeg', '.gif', '.svg'} and f not in USED_IMAGES:
-                continue
-
-            # Convert to URL path
+            # Convert file path to URL path
             if rel_path == 'index.html':
                 url = '/'
-            elif rel_path in DIR_PAGES:
-                # Directory page: use trailing-slash URL (e.g., /part1/)
-                url = '/' + rel_path.replace('/index.html', '/') 
             elif rel_path.endswith('/index.html'):
-                # Thread page: use trailing-slash URL
                 url = '/' + rel_path.replace('/index.html', '/')
             else:
                 url = '/' + rel_path
+
+            # URL-encode special characters (spaces, quotes, etc.)
+            # This ensures valid JS string literals in the SW
+            url = quote(url, safe='/')
 
             if url not in seen:
                 seen.add(url)

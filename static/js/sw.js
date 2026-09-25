@@ -44,47 +44,50 @@ self.addEventListener('activate', function(event) {
   );
 });
 
-// Fetch event — cache-first strategy with directory fallback
+// Fetch event — cache-first with offline fallback
+// Critical: navigation requests that miss cache AND fail network must get offline page
 self.addEventListener('fetch', function(event) {
   if (event.request.method !== 'GET') return;
 
   const url = new URL(event.request.url);
-  
-  // Skip non-http requests
+
+  // Skip non-http requests (chrome-extension:, data:, etc.)
   if (!url.protocol.startsWith('http')) return;
 
-  // Helper: try cache lookup (handles directory → index.html)
-  function tryCache(request) {
-    return caches.open(CACHE_NAME).then(function(cache) {
-      return cache.match(request).then(function(cached) {
+  // Navigation requests: cache-first, then network, then offline page
+  if (event.request.mode === 'navigate') {
+    event.respondWith(
+      caches.match(event.request).then(function(cached) {
         if (cached) return cached;
-        // If URL ends with '/', try index.html version
-        if (request.url.endsWith('/')) {
-          return cache.match(request.url + 'index.html');
-        }
-        return undefined;
-      });
-    });
+        return fetch(event.request).then(function(response) {
+          if (response && response.status === 200) {
+            var clone = response.clone();
+            caches.open(CACHE_NAME).then(function(cache) {
+              cache.put(event.request, clone);
+            });
+          }
+          return response;
+        }).catch(function() {
+          return caches.match(OFFLINE_URL);
+        });
+      })
+    );
+    return;
   }
 
-  // Cache-first: check cache, then network, then cache in background
+  // Non-navigation requests (CSS, JS, images, JSON): cache-first
   event.respondWith(
-    tryCache(event.request).then(function(cached) {
-      var fetchPromise = fetch(event.request).then(function(response) {
+    caches.match(event.request).then(function(cached) {
+      if (cached) return cached;
+      return fetch(event.request).then(function(response) {
         if (response && response.status === 200) {
+          var clone = response.clone();
           caches.open(CACHE_NAME).then(function(cache) {
-            cache.put(event.request, response.clone());
+            cache.put(event.request, clone);
           });
         }
         return response;
-      }).catch(function() {
-        return cached;
       });
-
-      return cached || fetchPromise;
-    }).catch(function() {
-      // Final fallback: offline page
-      return caches.match(OFFLINE_URL);
     })
   );
 });
