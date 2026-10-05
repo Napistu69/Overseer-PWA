@@ -100,7 +100,13 @@ def index_file(filepath):
         return None
     
     fm, body = parse_frontmatter(content)
-    
+
+    # Public hold key for the site lineage: draft: true is the site's native
+    # predicate (per-consumer ruling). Hugo already excludes drafts; this keeps
+    # the search index and API from publishing a held page.
+    if str(fm.get('draft', '')).strip().lower() == 'true':
+        return None
+
     # Skip files with no body
     if not body.strip():
         return None

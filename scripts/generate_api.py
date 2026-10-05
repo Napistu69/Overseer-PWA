@@ -84,7 +84,14 @@ def generate_api():
             continue
         
         fm, body = parse_frontmatter(raw_content)
-        
+
+        # Public hold key for the site lineage: draft: true is the site's native
+        # predicate (per-consumer ruling). Hugo already excludes drafts; this keeps
+        # the search index and API from publishing a held page.
+        if str(fm.get('draft', '')).strip().lower() == 'true':
+            print(f"    Held (draft): {rel_path}")
+            continue
+
         # Determine part/section from path
         part = os.path.dirname(rel_path).replace('\\', '/')
         if part == '.':

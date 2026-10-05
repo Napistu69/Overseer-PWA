@@ -1,6 +1,6 @@
 ---
 title: "Plan-demic Manipulation"
-weight: 9
+weight: 10
 description: "Rockefeller Foundation's National Testing Action Plan appeared in April 2020 before widespread testing infrastructure existed. Everything connected. Every layer supported every other layer."
 ---
 
