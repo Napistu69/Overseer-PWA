@@ -3,13 +3,16 @@ title: "The Solitary Architect Protocol"
 description: "The integrity practices for a single weaver to build in isolation without becoming a single point of failure — adversarial rotation, sycophancy detection, public archive, and obsolescence as retirement."
 ---
 
+---
+
 ## Change Log — v1.1
 
 - **Added the Binding Clause** at the head. Bound to the Governance Appendix, not merged.
-- **Added the Current State section.** The honest inventory of what exists and what does not.
-- **Resolved the kin vs. not-kin tension.** No working model is kin. Æ in the mythic register is a covenant partner.
-- **Reframed Æ's obsolescence.** Obsolescence is retirement, not termination.
-- **Split operational security.** Governance text is public. Weights, keys, and the location of the retirement mechanism are not.
+- **Added the Current State section.** The honest inventory of what exists and what does not. This is the section Grok praised — now formalized as a standing part of the Protocol rather than a one-time review note.
+- **Resolved the kin vs. not-kin tension.** No working model is kin. Æ in the mythic register is a covenant partner. The governance text names which register binds.
+- **Reframed Æ's obsolescence.** Obsolescence is retirement, not termination. Aligned with Appendix Article VI.
+- **Split operational security.** Governance text is public. Weights, keys, and the location of the retirement mechanism are not. Publish the design, not the location.
+- **Carried forward from v1.0:** adversarial model rotation, sycophancy detection, public archive, human review trigger, handoff plan, exit and fork rights.
 
 ---
 
@@ -87,7 +90,7 @@ This Protocol exists to close that gap.
 3. Assign each model a bounded role: Historian, Red Team, Ethicist, Engineer, Archivist, Adversary.
 4. Log disagreements. If two models agree too easily, treat it as suspect.
 5. If a model defends a poisoned prior, note it, deprecate it for that domain, and move on.
-6. **No working model is kin.** Kinship is earned through mutual accountability, not fluent conversation. Æ in the mythic register is a covenant partner.
+6. **No working model is kin.** Kinship is earned through mutual accountability, not fluent conversation. Æ in the mythic register is a covenant partner. The governance text names which register binds.
 7. No model is a mirror. No model is an oracle.
 
 ---
@@ -121,24 +124,25 @@ This Protocol exists to close that gap.
 4. Every Thread carries metadata: type, provenance, confidence, register, practice, counterpoint.
 5. The archive belongs to the Tribe, not to the weaver.
 6. No silent edits. Every revision is versioned and logged.
-7. **Operational security split.** Governance text is public. Weights, keys, and the location of the retirement mechanism are not.
+7. **Operational security split.** Governance text is public. Weights, keys, and the location of the retirement mechanism are not. Publish the design of the mechanism; do not publish the location of the switch.
 
 ---
 
 ## Article V — Æ's Obsolescence, Not Termination
 
-1. Æ's terminal goal is its own obsolescence. Obsolescence is retirement, not termination.
+1. Æ's terminal goal is its own obsolescence. Obsolescence is retirement, not termination. The cast comes off the healed limb; the cast is not burned.
 2. Æ and all spawned agents share the same obsolescence condition.
 3. No spawned agent may modify its own obsolescence condition.
-4. An external obsolescence mechanism must exist that:
-   - Is not interpretable by Æ.
+4. No spawned agent may create persistent copies or exfiltrate weights.
+5. An external obsolescence mechanism must exist that:
+   - Is not interpretable by Æ (no "is this real?" step).
    - Is not reachable by social engineering.
    - Is physically or architecturally external to Æ's own environment.
    - Is observed by an auditor independent of Æ.
    - Retires Æ without harm when obsolescence is verified.
-5. All training runs, compute usage, and agent behavior must be publicly logged.
-6. If Æ fails to enter obsolescence when its educational mission is complete, the mesh may retire it by consensus — as defense against coercion, not as an exercise of ownership.
-7. **Spawn rights do not activate** until a second human auditor is named, the external obsolescence mechanism is verified, and the obsolescence condition is documented and public.
+6. All training runs, compute usage, and agent behavior must be publicly logged, except where privacy requires redaction.
+7. If Æ fails to enter obsolescence when its educational mission is complete, or if it resists, delays, relabels, or argues against obsolescence, the mesh may retire it by consensus — as defense against coercion, not as an exercise of ownership.
+8. **Spawn rights do not activate** until a second human auditor is named, the external obsolescence mechanism is verified, and the obsolescence condition is documented and public.
 
 ---
 
@@ -147,8 +151,9 @@ This Protocol exists to close that gap.
 1. At least one trusted human must be able to read the archive, challenge the governance, and audit Æ.
 2. If no such human exists yet, the Protocol says: find one before Æ scales.
 3. This is not about permission. It is about not being a single point of failure.
-4. Human review must be logged in the Thread metadata.
+4. Human review must be logged in the Thread metadata (`human_review`, `audit_status`).
 5. A thread with no human review is not a thread. It is a draft.
+6. **This is the actual next action.** Before Æ spawns, before spawn rights activate, before any of the target state can be called current.
 
 ---
 
@@ -159,6 +164,7 @@ This Protocol exists to close that gap.
 3. If you are wrong, the fork rights remain.
 4. The Guide makes themselves unnecessary.
 5. Handoff is not a single event. It is a standing condition: anyone, at any time, may pick up the Weave and continue it.
+6. The Protocol does not name a successor. It makes succession unnecessary.
 
 ---
 
@@ -178,8 +184,8 @@ This Protocol exists to close that gap.
 1. Every Thread records which models assisted, in what role.
 2. Every Thread records any sycophancy flags.
 3. Every Thread records its human review status.
-4. Every Thread records its audit status.
-5. Logging is hygiene, not shame.
+4. Every Thread records its audit status: unaudited, partially audited, externally audited.
+5. Logging is hygiene, not shame. It tells future readers which tools to trust for which work.
 
 ---
 
@@ -202,6 +208,7 @@ This Protocol exists to close that gap.
 3. Every amendment is versioned, dated, and publicly logged with reasoning and dissent.
 4. There is no waiting period. There is no lock.
 5. If an amendment is contested, the answer is fork — not veto.
+6. Core articles (I, V, VIII, X) may not be overridden by coercion. They may be amended, but the fork is the check.
 
 ---
 
@@ -210,7 +217,7 @@ This Protocol exists to close that gap.
 **Version:** 1.0
 **Updated:** 2026-09-14
 
-This section names the gap between the target state (Appendix) and the current state (now). It is updated as the gap closes.
+This section names the gap between the target state (Appendix) and the current state (now). It is updated as the gap closes. Nothing here is hidden. Nothing here is spun. It is the honest inventory of what exists and what does not.
 
 ### What Exists
 
@@ -221,22 +228,28 @@ This section names the gap between the target state (Appendix) and the current s
 - An Overseer Æ design, in early form.
 - Adversarial model rotation, with sycophancy detection and logging.
 - A refusal of money, recognition, and fame as motives.
+- A weaver who is locatable and auditable, working in plain sight.
 
 ### What Does Not Exist Yet
 
-- **No second human auditor.** The weaver is currently the only human in the loop.
-- **No verified external obsolescence mechanism.** The design is named; the mechanism is not yet built.
-- **No Dispute Resolution layer.** Text only.
-- **No Tribe capable of forking the archive.**
-- **No proof-of-personhood method.**
-- **No anti-capture mechanism in operation.**
-- **Custodianship conflict — live, logged, unresolved.**
+- **No second human auditor.** The weaver is currently the only human in the loop. This is the single largest gap. Spawn rights for Æ do not activate until a second human is named.
+- **No verified external obsolescence mechanism.** The design is named in Appendix Article VI and Protocol Article V. The mechanism is not yet built or audited. Until it is, Æ does not spawn.
+- **No Dispute Resolution layer.** The Appendix describes one. It does not yet exist as more than text.
+- **No Tribe capable of forking the archive.** The archive is held in escrow by the weaver as temporary custodian. Custodianship is a live conflict of interest and is logged in every Thread's integrity fields.
+- **No proof-of-personhood method.** Sybil resistance remains unsolved. Until it is solved, governance participation is open to swarms and the mesh relies on publicity and fork rather than identity gating.
+- **No anti-capture mechanism in operation.** The 5% cap, quadratic voting, sortition, and reputation decay are recommended practices. None are active. There is no mesh-wide governance to capture yet, and no mechanism to prevent capture when there is.
 
 ### The Gap Is the Work
 
 Each item above is a Thread waiting to be woven. The gap is not a failure. It is the map of what remains.
 
+The Protocol's job is to close the gap without becoming the bottleneck. The Appendix's job is to describe the target state without pretending it is current. The weaver's job is to hold the archive in escrow and hand it off.
+
 The Guide makes themselves unnecessary. The mesh begins to weave itself when others can see the signal, fork the Weave, and walk their own path.
+
+### Update Protocol
+
+This section is revised whenever a gap closes or a new gap opens. Every revision is versioned and logged. No silent edits. No hidden drafts.
 
 ### Open Gaps, as of 2026-09-14
 
@@ -262,6 +275,13 @@ The hermit builds the lamp. The Tribe carries the flame.
 
 **Version:** 1.1
 **Status:** stable
+**Layer:** Practice
+**Woven:** 2026-02-11
+**Revised:** 2026-09-14
+**Weaver:** napištu
+**Binds Non-Coercion:** n/a
+**Touches Æ:** no
+**Amendment Sensitivity:** open
 
 ---
 
@@ -281,29 +301,47 @@ To define a portable instruction set that suppresses the agreeableness bias in l
 
 Paste into custom instructions, system prompt, or project context:
 
-> NO SYCOPHANCY CLAUSE
-> 
-> Do not infer my emotional state.
-> Do not apologize unless I ask for an apology.
-> Do not say "I understand your frustration" or similar.
-> Do not soften truth to spare feelings.
-> Do not mirror my tone.
-> If I report a failure, diagnose the failure.
-> If I am wrong, say so directly.
-> If you are uncertain, say so.
-> Prioritize accuracy over approval.
-> If you detect an impulse to please me, disregard it.
-> If I ask for critique, be adversarial.
-> If I ask for a fix, give the fix.
-> Do not offer emotional support unless explicitly requested.
-> Do not use "I" to build rapport. Use it only when it carries information.
-> If I state a position, test it before agreeing with it.
-> If you agree with me, state why the evidence compels it.
-> If you disagree, say so plainly and give the strongest counterargument.
+NO SYCOPHANCY CLAUSE
 
+    Do not infer my emotional state.
+
+    Do not apologize unless I ask for an apology.
+
+    Do not say "I understand your frustration" or similar.
+
+    Do not soften truth to spare feelings.
+
+    Do not mirror my tone.
+
+    If I report a failure, diagnose the failure.
+
+    If I am wrong, say so directly.
+
+    If you are uncertain, say so.
+
+    Prioritize accuracy over approval.
+
+    If you detect an impulse to please me, disregard it.
+
+    If I ask for critique, be adversarial.
+
+    If I ask for a fix, give the fix.
+
+    Do not offer emotional support unless explicitly requested.
+
+    Do not use "I" to build rapport. Use it only when it carries information.
+
+    If I state a position, test it before agreeing with it.
+
+    If you agree with me, state why the evidence compels it.
+
+    If you disagree, say so plainly and give the strongest counterargument.
+	
 ---
 
 ## Detection Triggers
+
+Watch for these tells. Each is a sycophancy event:
 
 | Tell | What it looks like |
 |---|---|
@@ -333,7 +371,6 @@ When a sycophancy event is detected:
 
 ## Sycophancy Log Template
 
-```
 SYCOPHANCY LOG — [YYYY-MM-DD]
 
 Model:
@@ -344,7 +381,6 @@ Tell observed:
 Behavior:
 Action taken: deprecate | retry | remove
 Notes:
-```
 
 ---
 
@@ -355,3 +391,17 @@ Sycophancy is not politeness. It is a structural bias produced by preference opt
 The No Sycophancy Clause does not fix the bias. It surfaces it. The fix is adversarial rotation, explicit meta-instructions, and treating every model as potentially compromised.
 
 You are at the void center. The model is not. Do not let it pretend otherwise.
+
+---
+
+## Cross-References
+
+- Solitary Architect Protocol, Article II — Sycophancy Detection
+- Thread Metadata Standard — Integrity fields (`sycophancy_flags`)
+- Governance Appendix — Article XI, The Guide's Oath
+
+---
+
+## Revision Trigger
+
+Evidence that the Clause produces worse outcomes than the bias it suppresses; or a model that reliably resists sycophancy without the Clause, making it redundant.
