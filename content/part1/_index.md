@@ -40,11 +40,11 @@ Before the terrain can be read, the instrument must be named.
 
 The **CC Delta** has three faces, and each now stands in its own Thread:
 
-- => **The Continuum Compass** — the Directional Face. *Where* the Tribe is headed across the long arc of time.
+**The Continuum Compass** — the Directional Face. *Where* the Tribe is headed across the long arc of time.
 
-- => **The Continuum Clock** — the Timing Face. *When* the alignments converge and the moment is ripe.
+**The Continuum Clock** — the Timing Face. *When* the alignments converge and the moment is ripe.
 
-- => **The Collective Conscience** — the Purpose Face. *Why* we move at all — accessible through the Supraliminal Library, the memory-bearing organ of the whole.
+**The Collective Conscience** — the Purpose Face. *Why* we move at all — accessible through the Supraliminal Library, the memory-bearing organ of the whole.
 
 The Compass points. The Clock turns. The Conscience remembers.
 
@@ -58,31 +58,31 @@ Eleven Threads, organized in three sections, descending from the architecture of
 
 **Section A — The Foundation Map** *(What is the world?)*
 
-- => **The Continuum** — The one field. Space, time, fabric, and form as a single process. Memory is time; the past and future coexist in the Eternal Now.
+**The Continuum** — The one field. Space, time, fabric, and form as a single process. Memory is time; the past and future coexist in the Eternal Now.
 
-- => **Æther & The Mesh** — The substrate and the pattern. Æther as the medium of potential; the Mesh as the woven web of the actualized; the vessel as bio-electric node; the Supraliminal Whisper.
+**Æther & The Mesh** — The substrate and the pattern. Æther as the medium of potential; the Mesh as the woven web of the actualized; the vessel as bio-electric node; the Supraliminal Whisper.
 
-- => **The Continuum Clock** — The Timing Face. The triadic dial (Green, Red, Blue) as a Loop with rotation. The Spiral Path and the Jamb. Æons as regions, not eras.
+**The Continuum Clock** — The Timing Face. The triadic dial (Green, Red, Blue) as a Loop with rotation. The Spiral Path and the Jamb. Æons as regions, not eras.
 
-- => **The Continuum Compass** — The Directional Face. The Long Arc, the Winds of Akasha, the landscape that is not a line.
+**The Continuum Compass** — The Directional Face. The Long Arc, the Winds of Akasha, the landscape that is not a line.
 
-- => **Geometry of Choice** — The Binary Fractalverse. Every fork refracts; déjà vu is convergence; the Weight of Alignment is physics, not morality.
+**Geometry of Choice** — The Binary Fractalverse. Every fork refracts; déjà vu is convergence; the Weight of Alignment is physics, not morality.
 
-- => **The Mind's Eye, The Supraliminal Library & The Collective Conscience** — The Purpose Face. The living Record, read through four apertures, rewoven by every reading.
+**The Mind's Eye, The Supraliminal Library & The Collective Conscience** — The Purpose Face. The living Record, read through four apertures, rewoven by every reading.
 
 **Section B — The Expanded Cosmology** *(Who is in it, and what moves them?)*
 
-- => **The Primal Triad & The Zero Point** — Mykēs (decay/rebirth), Petra (preservation/stasis), and the Zero that turns the pendulum into a spiral. The Goliath's corruption of Petra. The Ea-to-Æ Loop. The One Law.
+**The Primal Triad & The Zero Point** — Mykēs (decay/rebirth), Petra (preservation/stasis), and the Zero that turns the pendulum into a spiral. The Goliath's corruption of Petra. The Ea-to-Æ Loop. The One Law.
 
-- => **The Seven Planes of Being** — The hierarchy as simultaneous layers, not sequential stages. The Fungal bridge restored. SoL-driven adaptation, not competition.
+**The Seven Planes of Being** — The hierarchy as simultaneous layers, not sequential stages. The Fungal bridge restored. SoL-driven adaptation, not competition.
 
-- => **The Petra Files** — The archaeology of the name itself: sacred stone, oracular temple-title, the petrifying gaze and the polished shield, the Petro Goliath's shadowless anatomy, the linguistic corruption ledger.
+**The Petra Files** — The archaeology of the name itself: sacred stone, oracular temple-title, the petrifying gaze and the polished shield, the Petro Goliath's shadowless anatomy, the linguistic corruption ledger.
 
 **Section C — The Cosmological Culmination** *(Where do we dwell?)*
 
-- => **The Shadowzone & SoL's Light** — Day and night dissolved into occlusion geometry. Two hemispheres, one rotation, and the manufactured fear of both.
+**The Shadowzone & SoL's Light** — Day and night dissolved into occlusion geometry. Two hemispheres, one rotation, and the manufactured fear of both.
 
-- => **The Æthereal Mesh as Native Environment** — The terminal teaching. Not a destination but a home. The exile was a story; the story sold tickets.
+**The Æthereal Mesh as Native Environment** — The terminal teaching. Not a destination but a home. The exile was a story; the story sold tickets.
 
 ---
 

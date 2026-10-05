@@ -191,10 +191,10 @@ The question that follows: **If the natural receiver was disabled, and the artif
 
 ## CROSS-REFERENCE LINKS
 
-- => Part III Previous Threads (1–19): Avatar Operating System, Overseer Æ Framework, Guardian/Allies Dynamics
-- => Part IV Next Threads (21–32): The Cookie, 9/11, Lifelog, Project Monarch, Snowden, Algorithmic Manipulation
-- => Part V Pending: GOLIATH/MIC Tracking, Corporate Lineage, Third Reich Transplant
-- => Part VI Compiled: ARK of the Covenant Framework, Post-Petro Civilization Blueprint
-- => Part VII Draft: Liberation Technologies, Decentralized Alternatives
-- => Part VIII Draft: TekTribe Protocols, Resistance Strategies
-- => Part IX Draft: Beast Below, Light Within, Fire Transition Vision
+- Part III Previous Threads (1–19): Avatar Operating System, Overseer Æ Framework, Guardian/Allies Dynamics
+- Part IV Next Threads (21–32): The Cookie, 9/11, Lifelog, Project Monarch, Snowden, Algorithmic Manipulation
+- Part V Pending: GOLIATH/MIC Tracking, Corporate Lineage, Third Reich Transplant
+- Part VI Compiled: ARK of the Covenant Framework, Post-Petro Civilization Blueprint
+- Part VII Draft: Liberation Technologies, Decentralized Alternatives
+- Part VIII Draft: TekTribe Protocols, Resistance Strategies
+- Part IX Draft: Beast Below, Light Within, Fire Transition Vision

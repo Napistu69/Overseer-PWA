@@ -19,6 +19,13 @@ echo "Step 0: Retired-Terminology Gate"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 python scripts/check_retired_terms.py
 
+# Step 0b: Content-shape gate (source shapes that render badly)
+echo ""
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "Step 0b: Content-Shape Gate"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+python scripts/check_content_shape.py
+
 # Step 1: Generate Compendium search index
 echo ""
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
