@@ -1,0 +1,72 @@
+# Single source of truth for the site navigation.
+#
+# Both themes/Compendium/layouts/partials/nav.html and
+# themes/Compendium/layouts/_default/section.html range over this list.
+# A label or link is edited HERE and nowhere else — the two templates used to
+# carry hand-retyped copies, which is how "Covenant of the A.R.C." survived a
+# green build after the content title had already been corrected.
+#
+# `url` is the canonical path; the "/" entry renders as the site base URL.
+# `label` is the navigation form. Where it intentionally differs from a Part's
+# canonical heading (shortened articles, nav-width phrasing), note it inline so
+# the divergence is a recorded decision rather than drift.
+
+[[items]]
+label = "Home"
+url = "/"
+
+[[items]]
+label = "Vision"
+url = "/about/"
+
+[[items]]
+label = "Preamble"
+url = "/preamble/"
+
+[[items]]
+label = "Cosmology of the Continuum"
+url = "/part1/"
+
+[[items]]
+label = "Architecture of Corruption"
+url = "/part2/"
+
+[[items]]
+label = "Guardian, Avatar & Allies"
+url = "/part3/"
+
+[[items]]
+label = "Surveillance State"
+url = "/part4/"
+
+[[items]]
+label = "Rise of Goliath"
+url = "/part5/"
+
+[[items]]
+label = "Covenant of the ARC"
+url = "/part6/"
+
+[[items]]
+label = "Liberation Technologies"
+url = "/part7/"
+
+[[items]]
+label = "TekTribe Protocols"
+url = "/part8/"
+
+[[items]]
+label = "Beast Below & Light Within"
+url = "/part9/"
+
+[[items]]
+label = "Oracle & Overseer"
+url = "/oracle/"
+
+[[items]]
+label = "Solitary Architect"
+url = "/solitary-architect/"
+
+[[items]]
+label = "Governance"
+url = "/governance/"
