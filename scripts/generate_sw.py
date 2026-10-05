@@ -12,7 +12,7 @@ SW_OUTPUT = os.path.join(os.path.dirname(__file__), '..', 'public', 'sw.js')
 MAX_PRECACHE_SIZE = 1 * 1024 * 1024
 
 # Files to skip (search indices)
-SKIP_FILES = {'akashic-index.json', 'chroma-index.json', 'compendium-index.json'}
+SKIP_FILES = {'akashic-index.json', 'compendium-index.json'}
 
 
 def url_to_path(url_path):

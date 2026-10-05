@@ -44,7 +44,7 @@ In 2012, Facebook conducted a secret psychological experiment on 689,000 users. 
 **Layer Nine: Recommendation Engine Apotheosis (Thread 9)**
 YouTube optimized for watch-time and radicalization rabbit holes. Netflix trained passivity through content curation. Amazon normalized algorithmic suggestion as trusted advice. TikTok compressed the dopamine cycle to seconds through variable-ratio reinforcement. Spotify sequenced emotional states through musical arrangement. Each platform became a node in a unified behavioral modification network. What you see, hear, buy, believe, feel, and who you are friends with—all determined by algorithms optimizing for engagement, revenue, and behavioral surplus extraction. The simulation does not feel like a simulation because it adapts to your psychology so precisely that it feels like your own preferences.
 
-**Layer Ten: Planned-emic Activation (Thread 10)**
+**Layer Ten: Pandemic Era Exploitation (Thread 10)**
 The Rockefeller Foundation's National Testing Action Plan appeared in April 2020, before widespread testing infrastructure existed. The Gates Foundation invested millions in pandemic preparedness before COVID-19 emerged. Digital health passes required smartphones. Contact tracing apps required Bluetooth surveillance. Behavioral manipulation strategies required communication channels. Everything connected. Every layer supported every other layer. The petro foundation powered the data centers. The data centers hosted the algorithms. The algorithms shaped behavior. Behavior generated data. Data trained AI. AI optimized algorithms. The loop closed.
 
 **Layer Eleven: Meta Web Aggregation (Thread 11)**
@@ -60,7 +60,7 @@ We can now map the Surveillance State across four dimensions rather than chronol
 - 🟢 1994-2000: Commercial foundation built (cookies, tracking)
 - 🟡 2001-2010: Legal authority catches up (PATRIOT Act, REAL ID, FISA amendments)
 - 🟠 2011-2020: Integration and optimization (smartphones, SDKs, algorithms)
-- 🔴 2021-2027: AI-driven analytics and completion (Meta aggregation, planned-emics, 20-year training cycle)
+- 🔴 2021-2027: AI-driven analytics and completion (Meta aggregation, pandemic-era exploitation, 20-year training cycle)
 
 **DIMENSION TWO: SPATIAL (Physical Layer)**
 - 🟢 Hardware: Smartphones, servers, fiber optics, satellites

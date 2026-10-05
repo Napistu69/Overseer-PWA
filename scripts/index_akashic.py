@@ -103,13 +103,30 @@ def generate_index():
     """Generate the full search index."""
     print("Generating Akashic Research search index...")
     
+    # Must mirror rag_engine.py EXCLUDED_DIRS/EXCLUDED_FILES so this index
+    # never publishes draft or retired material into a public surface.
+    EXCLUDED_DIRS = {
+        "__pycache__", "embeddings", "logs", "metadata",
+        "Thread_Metadata_Standards", "deprecated", "Compendium_Drafts", "reviews",
+        "staging", "Module_Drafts",
+    }
+    EXCLUDED_FILES = {
+        "rag_engine.py", "rag_config.yaml", "chunks_index.json",
+        "chunks_metadata.json", ".env", ".env_telegram",
+    }
+    
     all_chunks = []
     file_count = 0
+    skipped = 0
     
     # Walk through all markdown files
     for root, dirs, files in os.walk(AKASHIC_DIR):
+        dirs[:] = [d for d in dirs if d not in EXCLUDED_DIRS]
         for filename in sorted(files):
             if filename.endswith('.md'):
+                if filename in EXCLUDED_FILES:
+                    skipped += 1
+                    continue
                 filepath = os.path.join(root, filename)
                 print(f"  Indexing: {filename}")
                 

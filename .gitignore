@@ -23,7 +23,6 @@ static/images/
 !static/images/TekTribe Chronicles Logo [1080].png
 !static/images/Overseer [OG Transparent].png
 static/akashic-index.json
-static/chroma-index.json
 static/compendium-index.json
 
 # Deprecated content — kept locally for reference, not deployed
