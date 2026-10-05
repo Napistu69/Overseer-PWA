@@ -49,7 +49,10 @@ BLOCK_START = ("#", "|", "-", "*", ">", "=")
 
 def scan():
     markers, bleeds = [], []
-    for path in sorted(CONTENT_DIR.rglob("*.md")):
+    # Scoped to *_index.md: the entry-list shape only exists in Index files.
+    # Thread pages (e.g. the Architecture Synthesis) are a different construct
+    # and were ruled out of scope, so they must not be counted here.
+    for path in sorted(CONTENT_DIR.rglob("_index.md")):
         rel = path.relative_to(CONTENT_DIR.parent)
         lines = path.read_text(encoding="utf-8").splitlines()
         for i, line in enumerate(lines, 1):
