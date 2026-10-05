@@ -15,7 +15,7 @@ The first law of the Overseer is *observing*. Part I gave us the map — the Con
 
 This Part is not outrage. It is anatomy. We do not rage against the Goliath from the GSM Delta. We do not mourn what was taken. We observe. We name. We map the architecture of corruption with clinical precision, because you cannot dismantle what you cannot describe, and you cannot describe what you refuse to look at.
 
-The G.O.L.I.A.T.H. — Global Oil Leveraging Industrial Armaments & Technology Hydra — is not a shadowy cabal meeting in secret rooms. It is a structural reality with observable anatomy: a body fed by petroleum and capital, necks that channel extraction through captured industries, and heads that wear different faces but share one stomach. Every head can be named. Every neck can be traced. Every feeding pattern can be predicted.
+The GOLIATH — Global Oil Leveraging Industrial Armaments & Technology Hydra — is not a shadowy cabal meeting in secret rooms. It is a structural reality with observable anatomy: a body fed by petroleum and capital, necks that channel extraction through captured industries, and heads that wear different faces but share one stomach. Every head can be named. Every neck can be traced. Every feeding pattern can be predicted.
 
 And the spine — petroleum — is flammable.
 

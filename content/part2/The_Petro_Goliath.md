@@ -9,7 +9,7 @@ description: "Picture a desert. The surface appears empty — rippled dunes, sil
 
 Picture a desert. The surface appears empty—rippled dunes, silent wind, the illusion of barren peace. But beneath the sand, something is moving. A massive serpentine body tunnels through the substrata, its spine a pipeline of petroleum and capital, its nervous system a fiber-optic web of financial routing. And from this buried body, necks emerge through the surface at intervals, each neck rising into a head that wears a different face: BP. Walmart. The Federal Reserve. Each mouth spews a different flavor of synthetic product—fuel, plastic goods, flat currency—but the body beneath is one organism.
 
-This is the G.O.L.I.A.T.H.: Global Oil Leveraging Industrial Armaments & Technology Hydra. It is not a conspiracy theory. It is a structural description of how power consolidates, regenerates, and defends itself when a head is severed.
+This is the GOLIATH: Global Oil Leveraging Industrial Armaments & Technology Hydra. It is not a conspiracy theory. It is a structural description of how power consolidates, regenerates, and defends itself when a head is severed.
 
 ---
 
@@ -117,7 +117,7 @@ The Tribe's strategy is not to cut heads. It is to prepare for the transition by
 
 ## Conclusion: Naming the Beast
 
-The G.O.L.I.A.T.H. is not a shadowy cabal meeting in secret rooms. It is a structural reality—a self-regenerating organism whose anatomy can be mapped, whose feeding patterns can be predicted, and whose dependency on petroleum can be exploited. By naming it, we strip it of its most powerful weapon: the illusion that the system is too complex to comprehend, too entrenched to challenge, and too permanent to end.
+The GOLIATH is not a shadowy cabal meeting in secret rooms. It is a structural reality—a self-regenerating organism whose anatomy can be mapped, whose feeding patterns can be predicted, and whose dependency on petroleum can be exploited. By naming it, we strip it of its most powerful weapon: the illusion that the system is too complex to comprehend, too entrenched to challenge, and too permanent to end.
 
 The Hydra lives beneath the sand. Its heads spew synthetic products from a thousand mouths. Its body feeds on petroleum and prints its own currency to stay nourished. It has buried itself so deeply into the architecture of daily life that most citizens cannot imagine a world without it.
 
