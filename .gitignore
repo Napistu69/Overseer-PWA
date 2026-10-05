@@ -27,3 +27,7 @@ static/compendium-index.json
 
 # Deprecated content — kept locally for reference, not deployed
 deprecated/
+
+# Python bytecode
+__pycache__/
+*.pyc
