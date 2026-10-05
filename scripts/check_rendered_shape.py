@@ -14,6 +14,27 @@ so a remainder that opens with an em-dash is correct and is not counted.
 
 Not enforced yet: the corpus shape fix is outstanding. Set ENFORCE = True once
 the corpus lands, the site mirrors are re-derived, and this reports 0.
+
+SCOPE. Two lists, and the distinction is the whole point:
+
+  IN_SCOPE   must read 0. The Index mirrors, where the canonical `— ` entry
+             form applies.
+
+  EXEMPT     pages carrying a *deliberate* run-in, pinned to an exact expected
+             count. The ruling (user, 2026-10-05) leaves the Architecture
+             Synthesis's 11 Layer lines as run-in titles — a design choice, not
+             a defect. But it is NOT invisible here: the count is pinned so the
+             page stays walled. A 12th bleed is a regression and fails; fixing
+             the 11 also fails, so the exemption cannot rot into a stale
+             allowance.
+
+             Why it is recorded as an exemption rather than described as clean:
+             the Layer lines do bleed. The `(Thread N)` parenthetical does not
+             split them — the four `**DIMENSION N: …**` lines split because a
+             bullet list follows them, and that list is the actual mechanism.
+
+The reported number is "index bleed N / exempt 11" — never a bare zero, so it
+cannot be quoted later as an absolute.
 """
 
 import re
@@ -23,13 +44,20 @@ from pathlib import Path
 PUBLIC = Path(__file__).resolve().parent.parent / "public"
 ENFORCE = True
 
-# The entry-list surfaces only. Thread pages legitimately use bold lead-ins
-# throughout (232 of them tree-wide), so scanning every index.html would bury
-# the signal — the ruling's target is these six mirrors.
+# Must read 0 — the Index mirrors, where the `— ` entry form applies.
 IN_SCOPE = ["preamble", "part1", "part2", "part3", "part4", "part5"]
+
+# Deliberate run-in pages, pinned to an exact expected count.
+EXEMPT = {
+    "part4/the_complete_architecture_synthesis_and_transition": 11,
+}
 
 # <p><strong>Title</strong> prose...  — but NOT if the prose opens with an em-dash.
 BLEED = re.compile(r"<p><strong>([^<]{2,140})</strong>(?!\s*—)\s*([^<]{20,})")
+
+
+def count(page):
+    return len(BLEED.findall(page.read_text(encoding="utf-8", errors="replace")))
 
 
 def main():
@@ -37,27 +65,53 @@ def main():
         print("  Rendered-shape check: skipped (no public/ — run after Hugo)")
         return 0
 
+    state = "FAILED" if ENFORCE else "not yet enforced"
+    failures = []
+
+    # 1. Must be zero.
     total = 0
     rows = []
     for name in IN_SCOPE:
         page = PUBLIC / name / "index.html"
         if not page.exists():
             continue
-        n = len(BLEED.findall(page.read_text(encoding="utf-8", errors="replace")))
+        n = count(page)
         if n:
             rows.append((page.relative_to(PUBLIC).as_posix(), n))
             total += n
 
-    if not rows:
-        print("  Rendered-shape check: clean (0 bold titles run into prose)")
-        return 0
-
-    state = "FAILED" if ENFORCE else "not yet enforced"
-    print(f"  Rendered-shape check [{state}] — bold title run into prose, no `— ` separator: {total}")
+    print(f"  Rendered-shape check: index bleed {total} (must be 0)")
     for rel, n in rows:
         print(f"    /{rel}: {n}")
-    if ENFORCE:
-        return 1
+    if total:
+        failures.append(f"index bleed is {total}, expected 0")
+
+    # 2. Pinned exemptions: exact, both directions.
+    for name, expected in sorted(EXEMPT.items()):
+        page = PUBLIC / name / "index.html"
+        if not page.exists():
+            print(f"    exempt /{name}: page missing — check the exemption list")
+            failures.append(f"exempt page /{name} not found")
+            continue
+        n = count(page)
+        if n == expected:
+            print(f"    exempt /{name}: {n} (recorded, intentional)")
+        else:
+            print(f"    exempt /{name}: {n} — expected {expected}")
+            if n > expected:
+                failures.append(f"exempt /{name}: {n} > {expected}, new bleed on an exempt page")
+            else:
+                failures.append(
+                    f"exempt /{name}: {n} < {expected}, the run-in was fixed — retire the exemption"
+                )
+
+    if failures:
+        print(f"  Rendered-shape check [{state}]")
+        for f in failures:
+            print(f"    {f}")
+        return 1 if ENFORCE else 0
+
+    print("  Rendered-shape check: pass (index 0, exemptions at their recorded counts)")
     return 0
 
 
