@@ -17,6 +17,13 @@ Two rules:
          line-leading marker is.
 
   PENDING a bold title line immediately followed by unseparated body text.
+
+         NOTE: the sibling shape — a bold title run into prose on one line, as
+         in the Part V index entries — is deliberately NOT rule-enforced. It
+         was trialled and produced 266 matches across the tree (97 even when
+         narrowed to list items), i.e. it cannot distinguish an entry title
+         from an ordinary bold lead-in. It is fixed by the shape ruling, not
+         by regex; spot-check it by hand instead of trusting a rule here.
          This is a real rendering defect (title and description collapse into
          one paragraph) but it is still present in Parts II-V at the time of
          writing, pending the corpus shape fix. It is counted and reported
@@ -67,20 +74,25 @@ def main():
 
     print(f"  Content-shape gate: clean (0 line-leading `=> ` markers)")
 
-    if bleeds:
-        state = "FAILED" if PENDING_RULES_ENFORCED else "not yet enforced"
-        print(f"  Content-shape gate [{state}] — bold title line followed by unseparated body: {len(bleeds)}")
-        by_file = {}
-        for rel, _, _, _ in bleeds:
-            by_file[rel] = by_file.get(rel, 0) + 1
-        for rel, n in sorted(by_file.items()):
-            print(f"    {rel}: {n}")
-        if PENDING_RULES_ENFORCED:
-            return 1
-    else:
-        print("  Content-shape gate: 0 bleeding bold title lines")
+    state = "FAILED" if PENDING_RULES_ENFORCED else "not yet enforced"
 
+    if bleeds:
+        print(f"  [{state}] bold title line followed by unseparated body: {len(bleeds)}")
+        for rel, n in sorted(_by_file(bleeds).items()):
+            print(f"    {rel}: {n}")
+    else:
+        print("  0 bold title lines followed by unseparated body")
+
+    if PENDING_RULES_ENFORCED and bleeds:
+        return 1
     return 0
+
+
+def _by_file(rows):
+    out = {}
+    for row in rows:
+        out[row[0]] = out.get(row[0], 0) + 1
+    return out
 
 
 if __name__ == "__main__":
