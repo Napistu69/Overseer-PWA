@@ -38,7 +38,7 @@ from pathlib import Path
 
 CONTENT_DIR = Path(__file__).resolve().parent.parent / "content"
 
-PENDING_RULES_ENFORCED = False
+PENDING_RULES_ENFORCED = True
 
 LINE_LEADING_MARKER = re.compile(r"^\s*(?:-\s*)?=>\s")
 # A line that is nothing but a bold title, with a non-blank, non-block line

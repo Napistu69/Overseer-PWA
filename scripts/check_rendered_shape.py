@@ -21,7 +21,7 @@ import sys
 from pathlib import Path
 
 PUBLIC = Path(__file__).resolve().parent.parent / "public"
-ENFORCE = False
+ENFORCE = True
 
 # The entry-list surfaces only. Thread pages legitimately use bold lead-ins
 # throughout (232 of them tree-wide), so scanning every index.html would bury
