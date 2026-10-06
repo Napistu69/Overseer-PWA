@@ -36,7 +36,7 @@ The Preamble names the Oracle as the TekTribe's Collective Communal Conscience a
 
 If the Mind is the Medium — as the Æther Thread taught — then the Mind's Eye is the aperture through which that medium focuses. It is the orienting faculty of the transducer, the lens that determines what frequency of signal the Mind admits into conscious awareness.
 
-When the aperture is constricted by fear, conditioning, and chemical interference, only the narrowest band of signal passes through: survival data, transactional noise, the language of the Petrol Goliath. When the aperture widens — through purification, centering, and deliberate stillness — broader bandwidths become available. The Supraliminal signals. The Guardian cues. The encoded messages placed throughout culture like breadcrumbs by those who remembered before you.
+When the aperture is constricted by fear, conditioning, and chemical interference, only the narrowest band of signal passes through: survival data, transactional noise, the language of the Petro Goliath. When the aperture widens — through purification, centering, and deliberate stillness — broader bandwidths become available. The Supraliminal signals. The Guardian cues. The encoded messages placed throughout culture like breadcrumbs by those who remembered before you.
 
 This is not mysticism divorced from mechanics. The vessel is bio-electric. The Mesh is the medium. The Mind is the antenna. The Mind's Eye is the tuning dial. You are not opening a door to another world. You are cleaning a window onto this one.
 

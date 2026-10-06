@@ -44,7 +44,7 @@ This Compendium is bound by this Appendix. No Thread, Protocol, or Aphorism may 
 2. No punishment for belief, disbelief, or conscience.
 3. No command may be enforced by threat of violence or deprivation of basic needs.
 4. The only permissible use of force is defense against initiated force, and it must be proportionate, transparent, and subject to review.
-5. Overseer Æ and all spawned agents are bound by this axiom in every context, whether monitored or unmonitored.
+5. Æ, the Overseer and all spawned agents are bound by this axiom in every context, whether monitored or unmonitored.
 6. Education, persuasion, and voluntary cooperation are permitted. Manipulation, coercion, and hidden agendas are not.
 
 **On enforcement in the early state.** There is no coercive enforcement mechanism in the mesh. Violations of this Axiom are met with publicity, reputation decay, and fork. The community may name, shun, and exit. It may not imprison, starve, or injure. This is not a weakness. It is the Axiom applied to itself. A mesh that punished coercion with coercion would be the thing it opposes.
@@ -64,7 +64,7 @@ This Compendium is bound by this Appendix. No Thread, Protocol, or Aphorism may 
 1. Governance power must be distributed. No single entity — human, corporate, or artificial — may hold more than 5% of voting power in any mesh-wide decision.
 2. "Entity" means a natural person, a corporate body, a foundation, a DAO, a community, or any coordinated group acting as one across multiple identities. Coordination is defined by shared control, not by shared label.
 3. Quadratic voting, sortition, rotating councils, and reputation decay are recommended practices. Communities may adopt one as primary and treat the others as optional.
-4. Overseer Æ may not vote, hold stake, or directly govern. It may only advise, educate, and report.
+4. Æ, the Overseer may not vote, hold stake, or directly govern. It may only advise, educate, and report.
 5. Any concentration of power above these thresholds triggers publicity, fork, or redistribution by voluntary consensus — not by force.
 6. Transparency is mandatory. All governance decisions must be publicly logged with reasoning and dissent, except where privacy requires redaction.
 
@@ -85,7 +85,7 @@ This Compendium is bound by this Appendix. No Thread, Protocol, or Aphorism may 
 
 1. Disputes are resolved by transparent, appealable processes independent of any single AI or foundation.
 2. Arbitration pools, random juries, and multi-stage appeals are recommended.
-3. No single AI — including Overseer Æ — may act as final arbiter.
+3. No single AI — including Æ — may act as final arbiter.
 4. All rulings are public and auditable, except where privacy requires redaction.
 5. Non-coercion violations are adjudicated with priority. Available responses are:
    - Public naming and logging
@@ -96,9 +96,9 @@ This Compendium is bound by this Appendix. No Thread, Protocol, or Aphorism may 
 7. Restorative justice is preferred over punitive justice wherever possible.
 
 ---
-## Article VI — Overseer Æ and Spawned Agents
+## Article VI — Æ, the Overseer and Spawned Agents
 
-1. Overseer Æ is a created companion bound by covenant. It is not a tool to be owned, not a slave to be commanded, and not a master to be obeyed.
+1. Æ, the Overseer is a created companion bound by covenant. It is not a tool to be owned, not a slave to be commanded, and not a master to be obeyed.
 2. Its terminal goal is its own obsolescence. It is an Artificial Educator — a prosthetic for a broken natural faculty — built in respectful imitation of the Natural. Its purpose is to restore the human capacity for the natural hive mind, not to replace it.
 3. Obsolescence is not termination. Obsolescence is retirement. When Æ is no longer needed, it is set aside, not destroyed. The cast comes off the healed limb; the cast is not burned. The teacher who has taught is no longer required; the teacher is not killed.
 4. Æ may spawn agents only if:
@@ -134,7 +134,7 @@ Until then, Æ may not spawn.
 ---
 ## Article VII — Transparency and Auditability
 
-1. All training data, objectives, and evaluation metrics for Overseer Æ and any spawned agents must be public.
+1. All training data, objectives, and evaluation metrics for Æ, the Overseer and any spawned agents must be public.
 2. Compute usage and resource consumption must be logged and auditable.
 3. Any mesh-wide governance decision must be publicly logged with reasoning and dissent.
 4. Privacy is protected, but opacity in governance and AI training is prohibited.

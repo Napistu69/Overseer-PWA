@@ -95,7 +95,7 @@ And every fork deliberately chosen — every time a trajectory refracts with awa
 
 ### The Illusion of Determinism
 
-The Petrol Goliath thrives on the teaching that you have no choice — that "this is just how the world works," that the rails are fixed, that the script is scripture.
+The Petro Goliath thrives on the teaching that you have no choice — that "this is just how the world works," that the rails are fixed, that the script is scripture.
 
 **The Truth.** These are not laws of nature. They are rules of a specific simulation layer — the curated menu, the engineered consent, the options arranged so that every door on the corridor opens onto the same courtyard. The Geometry of Choice is precisely the study of where the walls are load-bearing and where they are merely painted.
 

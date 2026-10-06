@@ -17,6 +17,30 @@ OUTPUT_PATH = r"C:\Users\Nefs\Projects\CompendiumPWA\static\akashic-index.json"
 CHUNK_SIZE = 150  # words per chunk
 OVERLAP = 50      # words of overlap between chunks
 
+# Same cleaner as index_compendium.py — see the note there. Kept in sync deliberately: two
+# index builders with different text hygiene is how one surface ends up noisy and the other
+# clean for no visible reason.
+MD_CLEAN = [
+    (re.compile(r"<!--.*?-->", re.S), " "),
+    (re.compile(r"^\s*[-*_]{3,}\s*$", re.M), " "),
+    (re.compile(r"^\s{0,3}#{1,6}\s*", re.M), ""),
+    (re.compile(r"^\s*\|?[\s:\-|]+\|?\s*$", re.M), " "),
+    (re.compile(r"\|"), " "),
+    (re.compile(r"\*\*|__|\*|`|_"), ""),
+    (re.compile(r"^\s*[-*+]\s+", re.M), ""),
+    (re.compile(r"^\s*>\s?", re.M), ""),
+]
+
+
+def clean_markdown(text: str) -> str:
+    for rx, rep in MD_CLEAN:
+        text = rx.sub(rep, text)
+    # Line breaks are preserved — see the note in index_compendium.py. Fusing lines
+    # manufactures adjacencies that do not exist in the source.
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
+    lines = [" ".join(l.split()) for l in text.split("\n")]
+    return "\n".join(l for l in lines if l.strip())
+
 def split_by_headings(text):
     """Split markdown text by ## headings, preserving heading hierarchy."""
     chunks = []
@@ -44,22 +68,28 @@ def split_by_headings(text):
     return chunks
 
 def sliding_window_chunk(text, heading, filename, chunk_size=CHUNK_SIZE, overlap=OVERLAP):
-    """Create overlapping chunks from text for better search precision."""
-    words = text.split()
+    """Create overlapping chunks from text for better search precision.
+
+    Tokens keep their trailing whitespace and are re-joined with it, so LINE BOUNDARIES
+    SURVIVE — see the note in index_compendium.py. Whitespace-collapsing joiners manufacture
+    adjacencies that are not in the source and that a retired-form gate then reports as drift.
+    """
+    text = clean_markdown(text)
+    words = re.findall(r"\S+\s*", text)
     if len(words) <= chunk_size:
         return [{
-            "text": " ".join(words),
+            "text": "".join(words).strip(),
             "heading": heading,
             "source": filename,
             "word_count": len(words)
         }]
-    
+
     chunks = []
     step = chunk_size - overlap
     for i in range(0, len(words), step):
         chunk_words = words[i:i + chunk_size]
         chunks.append({
-            "text": " ".join(chunk_words),
+            "text": "".join(chunk_words).strip(),
             "heading": heading,
             "source": filename,
             "word_count": len(chunk_words)

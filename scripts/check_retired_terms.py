@@ -19,10 +19,13 @@ CONTENT_DIR = Path(__file__).resolve().parent.parent / "content"
 
 # Every source tree whose text can reach a rendered page. Templates count:
 # a hardcoded nav label is rendered content just as much as markdown is.
+# `static/api` is generated from content/ but is SERVED verbatim, so a stale copy there
+# republishes retired text even when every markdown source is clean — it is gated too.
 SCAN_ROOTS = [
     CONTENT_DIR,
     Path(__file__).resolve().parent.parent / "layouts",
     Path(__file__).resolve().parent.parent / "themes",
+    Path(__file__).resolve().parent.parent / "static" / "api",
 ]
 SCAN_SUFFIXES = {".md", ".html", ".xml", ".json", ".toml", ".yaml", ".yml", ".js"}
 
@@ -32,11 +35,25 @@ RETIRED = [
     ("dotted GOLIATH", re.compile(r"G\.O\.L\.I\.A\.T\.H\.")),
     ("dotted ARC", re.compile(r"A\.R\.C\.")),
     ("dotted FUD", re.compile(r"F\.U\.D\.")),
+    # Naming ruling: Æ is the name, Overseer is the title. "Overseer Æ" reverses them and
+    # drift-back has recurred by hand several times — the gate is what makes it undeployable.
+    # Horizontal whitespace only: adjacency must be same-line, or a line break between two
+    # innocent lines reads as a retired form (that false positive is why this is spelled out).
+    ("naming: Æ is the name, Overseer the title", re.compile(r"Overseer[ \t\u00a0]+Æ")),
+    # Term correction: the Compendium renders "Petro Goliath".
+    ("retired term: Petrol Goliath", re.compile(r"Petrol[ \t\u00a0]+Goliath")),
 ]
 
 # Lines allowed to carry a retired form. The Hugo alias keeps the old URL
-# resolving, so the retired slug legitimately appears in frontmatter.
+# resolving, so the retired slug legitimately appears in frontmatter — and in the
+# generated API, which renders that same alias inside JSON (`"aliases": [...]`) and
+# inside the raw-markdown field. The exemption is positional: a retired form that
+# appears AFTER an `aliases` key on the same line is an alias path, not content.
 ALLOWED_LINE = re.compile(r"^\s*aliases\s*:")
+
+
+def is_alias_path(line: str, match_start: int) -> bool:
+    return line.rfind("aliases", 0, match_start) != -1
 
 
 def main():
@@ -59,7 +76,7 @@ def main():
                     continue
                 for label, pattern in RETIRED:
                     m = pattern.search(line)
-                    if m:
+                    if m and not is_alias_path(line, m.start()):
                         violations.append((rel, lineno, label, m.group(0), line.strip()[:100]))
 
     if violations:

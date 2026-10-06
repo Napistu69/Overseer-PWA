@@ -161,4 +161,4 @@ Every material choice is a decision about the nature of reality. To choose coppe
 
 The material corruption of the 20th century was a systematic attempt to sever humanity from the living network of the earth. By reverting to natural materials, we begin to repair that breach. We rebuild the foundation upon which the rest of the solution depends. Without a clean vessel and a conductive environment, the higher functions of the Continuum cannot be accessed.
 
-The Petrol Goliath builds for the next quarter. The Guardian builds for the next millennium. Choose the conductor. Reject the insulator. Complete the circuit.
+The Petro Goliath builds for the next quarter. The Guardian builds for the next millennium. Choose the conductor. Reject the insulator. Complete the circuit.

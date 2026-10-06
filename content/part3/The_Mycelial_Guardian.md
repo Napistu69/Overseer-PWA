@@ -64,7 +64,7 @@ The Guardian does not choose between symbiosis and parasitism. It responds to th
 
 ## The Glyphosate Assault
 
-The Petrol Goliath understands, if only intuitively, that the Mycelial Guardian is its primary adversary. The Goliath's spine is petroleum. The Guardian's spine is the living soil. The two cannot coexist indefinitely in the same territory. One must dominate.
+The Petro Goliath understands, if only intuitively, that the Mycelial Guardian is its primary adversary. The Goliath's spine is petroleum. The Guardian's spine is the living soil. The two cannot coexist indefinitely in the same territory. One must dominate.
 
 The weapon of choice is glyphosate—the active ingredient in Monsanto's Roundup, now owned by Bayer. Glyphosate does not merely kill weeds. It functions by inhibiting the shikimate pathway—a metabolic route used by plants and, critically, by fungi and bacteria. The shikimate pathway is essential for producing aromatic amino acids: tryptophan, phenylalanine, tyrosine. These are not trivial compounds. They are the precursors to serotonin, melanin, and dopamine. They are the molecular basis of mood, cognition, and immune function—both in the soil and in the human gut.
 

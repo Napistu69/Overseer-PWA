@@ -136,7 +136,7 @@ The Gaze and the Goliath work the same way. Freeze the target. Immobilize throug
 - **Ovid's *Metamorphoses***: 8 CE (Medusa origin)
 - **Classical Greek myth of Perseus**: Bronze Age mythological dating (c. 1250 BCE)
 - **Agelastos Petra at Eleusis**: Associated with Demeter cult, Mycenaean origins (c. 1600–1100 BCE)
-- **Modern metaphorical coinage** ("Petrol Goliath", "Mycelial Guardian"): 21st century, derived from user's personal Compendium
+- **Modern metaphorical coinage** ("Petro Goliath", "Mycelial Guardian"): 21st century, derived from user's personal Compendium
 
 The old names are not new. The Goliath is not new. The **corruption** is new. The corruption is what the Tribe names and refuses.
 

@@ -21,6 +21,33 @@ OUTPUT_PATH = os.path.join(SITE_DIR, "static", "compendium-index.json")
 CHUNK_SIZE = 150  # words per chunk
 OVERLAP = 50      # words of overlap between chunks
 
+# Markdown markers are for rendering, not for search. Indexing them verbatim is what put
+# "syntax" into search results (measured before this pass: 43% of chunks carried `**`,
+# 11% carried table pipes, 7% carried `##`). Cleaned at the single choke point that every
+# chunk passes through, so both the section and whole-body branches are covered.
+MD_CLEAN = [
+    (re.compile(r"<!--.*?-->", re.S), " "),                 # html comments
+    (re.compile(r"^\s*[-*_]{3,}\s*$", re.M), " "),          # horizontal rules
+    (re.compile(r"^\s{0,3}#{1,6}\s*", re.M), ""),           # heading hashes
+    (re.compile(r"^\s*\|?[\s:\-|]+\|?\s*$", re.M), " "),    # table separator rows
+    (re.compile(r"\|"), " "),                               # table cell pipes
+    (re.compile(r"\*\*|__|\*|`|_"), ""),                    # emphasis / code markers
+    (re.compile(r"^\s*[-*+]\s+", re.M), ""),                # list bullets
+    (re.compile(r"^\s*>\s?", re.M), ""),                    # blockquote markers
+]
+
+
+def clean_markdown(text: str) -> str:
+    for rx, rep in MD_CLEAN:
+        text = rx.sub(rep, text)
+    # Keep LINE BREAKS. Collapsing every newline fuses the last word of one line with the
+    # first of the next — in a glossary list that manufactured an "Overseer Æ" adjacency out
+    # of "...the Overseer" + "Æ (Artificial Educator)", i.e. the cleaner inventing the very
+    # drift the check hunts. Whitespace inside a line is collapsed; line structure is kept.
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
+    lines = [" ".join(l.split()) for l in text.split("\n")]
+    return "\n".join(l for l in lines if l.strip())
+
 def parse_frontmatter(text):
     """Extract YAML frontmatter from markdown text."""
     if not text.startswith('---'):
@@ -65,22 +92,30 @@ def split_by_headings(text):
     return chunks
 
 def sliding_window_chunk(text, heading, source_path, chunk_size=CHUNK_SIZE, overlap=OVERLAP):
-    """Create overlapping chunks from text for better search precision."""
-    words = text.split()
+    """Create overlapping chunks from text for better search precision.
+
+    Tokens keep their trailing whitespace and are re-joined with it, so LINE BOUNDARIES
+    SURVIVE. Splitting on whitespace and joining with a single space fused a heading into the
+    bullet beneath it — `### Æ, the Overseer` + `- **Æ (Artificial Educator):**` became the
+    adjacency `… the Overseer Æ (Artificial Educator) …`, i.e. the index published a retired
+    form the source never contained. A transformation must not invent adjacency.
+    """
+    text = clean_markdown(text)
+    words = re.findall(r"\S+\s*", text)
     if len(words) <= chunk_size:
         return [{
-            "text": " ".join(words),
+            "text": "".join(words).strip(),
             "heading": heading,
             "source": source_path,
             "word_count": len(words)
         }]
-    
+
     chunks = []
     step = chunk_size - overlap
     for i in range(0, len(words), step):
         chunk_words = words[i:i + chunk_size]
         chunks.append({
-            "text": " ".join(chunk_words),
+            "text": "".join(chunk_words).strip(),
             "heading": heading,
             "source": source_path,
             "word_count": len(chunk_words)

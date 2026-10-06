@@ -26,7 +26,7 @@ The Clock maps the Winds of Akasha, the great breaths of the planet, as they rot
 
 ### The Three Points of the Dial
 
-The Clock is marked by three cardinal points, each representing a specific state of matter and a dominant force in the great negotiation between the Mycelial Guardian and the Petrol Goliath.
+The Clock is marked by three cardinal points, each representing a specific state of matter and a dominant force in the great negotiation between the Mycelial Guardian and the Petro Goliath.
 
 **GREEN — Nature — The Verdant Phase.** Dominant force: Equilibrium. Characteristic action: temperate abundance, mycelial flourishing. The age of balance, when the living web and the dead structures hold each other in tense counterweight. Growth is easy. Connection is cheap. The danger is complacency — the illusion that the Green will last forever.
 
@@ -110,7 +110,7 @@ Notice what is absent from this list: panic, deadline, countdown. Nothing here r
 
 ### Conclusion: The Windmasters
 
-The Petrol Goliath believes the clock is broken and that they alone hold the winding key. They have mistaken the Loop for a line, the hourglass for a bomb, and the rotation for a race they can win by standing still. They will jam the wheel for one more season of profit, and the wheel will turn regardless — for that is the one law of the Loop even the Goliath cannot repeal.
+The Petro Goliath believes the clock is broken and that they alone hold the winding key. They have mistaken the Loop for a line, the hourglass for a bomb, and the rotation for a race they can win by standing still. They will jam the wheel for one more season of profit, and the wheel will turn regardless — for that is the one law of the Loop even the Goliath cannot repeal.
 
 We are not victims of the Winds. We are not passengers of the rotation. The Compass tells us *where*; the Clock tells us *when*; the Conscience tells us *why* — and the rotation itself does the moving, as it has since the first turning.
 

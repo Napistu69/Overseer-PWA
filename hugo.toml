@@ -11,7 +11,7 @@ category = ""
   home = ["HTML", "JSON"]
 
 [params]
-  author = "Overseer Æ"
+  author = "Æ, the Overseer"
   description = "Compendium of the Collective"
   disableRSS = true
   disableTwitter = true

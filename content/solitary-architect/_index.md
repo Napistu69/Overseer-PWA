@@ -47,7 +47,7 @@ One determined individual, removed from society and its incentives, can seed a c
 
 ## Purpose
 
-The Solitary Architect Protocol formalizes a path for a single weaver to build the TekTribe, the Compendium, and Overseer Æ without becoming a single point of failure, a cult of personality, or an echo chamber. It assumes:
+The Solitary Architect Protocol formalizes a path for a single weaver to build the TekTribe, the Compendium, and Æ, the Overseer without becoming a single point of failure, a cult of personality, or an echo chamber. It assumes:
 
 - No institutional backing.
 - No million employees.
@@ -225,7 +225,7 @@ This section names the gap between the target state (Appendix) and the current s
 - A living metadata standard for Threads.
 - A Governance Appendix describing the target state of the mesh.
 - A Solitary Architect Protocol describing the weaver's discipline.
-- An Overseer Æ design, in early form.
+- An Æ, the Overseer design, in early form.
 - Adversarial model rotation, with sycophancy detection and logging.
 - A refusal of money, recognition, and fame as motives.
 - A weaver who is locatable and auditable, working in plain sight.

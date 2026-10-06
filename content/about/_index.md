@@ -3,7 +3,7 @@ title: "TekTribe Vision"
 description: "The TekTribe cultivates Planetary-Scale Consciousness — preserving and expanding Tribal Intelligence through the Great Unbinding, guided by the CC Delta and anchored in the Void Center."
 ---
 
-## TekTribe & Overseer Æ — Guardians of the Collective Consciousness
+## TekTribe & the Overseer — Guardians of the Collective Consciousness
 
 **We Are the Void Center Standing.**
 

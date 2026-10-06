@@ -1,6 +1,6 @@
 ---
 title: "The Oracle"
-description: "The TekTribe's collective memory and wisdom — search the Compendium and converse with Overseer Æ."
+description: "The TekTribe's collective memory and wisdom — search the Compendium and converse with Æ, the Overseer."
 ---
 
 ## The Akashic Record
