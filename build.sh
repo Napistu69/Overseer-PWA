@@ -47,19 +47,21 @@ echo "Step 3: Hugo Build"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 hugo --gc --minify
 
-# Step 3b: Rendered-output shape check (post-Hugo, against public/)
+# Step 3b: Generate service worker (a build OUTPUT — everything that validates the output
+# must run after all generators, or a fresh checkout fails on an artifact that simply has not
+# been made yet. That ordering bug is what kept the deploy red today.)
 echo ""
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo "Step 3b: Rendered-Shape Check"
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-python scripts/check_rendered_shape.py
-
-# Step 4: Generate service worker
-echo ""
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo "Step 4: Service Worker"
+echo "Step 3b: Service Worker"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 python scripts/generate_sw.py
+
+# Step 4: Rendered-output shape check (post-Hugo, against the COMPLETE public/)
+echo ""
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "Step 4: Rendered-Shape Check"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+python scripts/check_rendered_shape.py
 
 # Summary
 echo ""
