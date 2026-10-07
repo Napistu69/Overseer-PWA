@@ -70,6 +70,25 @@ def body(text: str) -> str:
     return FM.sub("", text, count=1).strip()
 
 
+# Corpus files open with a part/chapter scaffolding block the site deliberately does not carry
+# (`# TekTribe Chronicles: Part III ~ Guardian, Avatar & Allies` + the chapter title). Copying it
+# verbatim would inject that scaffolding into site bodies AND wreck any similarity measure: on
+# short bodies those two lines alone dragged SequenceMatcher to 0.02–0.12 for six files that are
+# in fact near-identical. Strip it before comparing or writing.
+SCAFFOLD = re.compile(r"\A#\s*TekTribe Chronicles.*?\n+", re.S)
+CHAPTER_TITLE = re.compile(r"\A#{1,2}\s+(?P<t>[^\n]{3,120})\n+")
+
+
+def strip_scaffold(b: str, title: str = "") -> str:
+    b = SCAFFOLD.sub("", b).lstrip()
+    m = CHAPTER_TITLE.match(b)
+    if m:
+        a, c = norm(m.group("t")), norm(title or "")
+        if a and c and (a in c or c in a):
+            b = b[m.end():]
+    return b.strip()
+
+
 def corpus_index(root: Path):
     by_title, by_stem = {}, {}
     for p in sorted(root.rglob("*.md")):
@@ -134,7 +153,7 @@ def main() -> int:
         ct = cp.read_text(encoding="utf-8", errors="replace")
         for rx in RETIRED.values():
             retired_corpus += len(rx.findall(ct))
-        sb, cb = body(site_text), body(ct)
+        sb, cb = body(site_text), strip_scaffold(body(ct), frontmatter(ct).get('title', ''))
         if sb == cb:
             identical.append((rel, how))
             continue

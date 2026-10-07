@@ -143,6 +143,14 @@ def generate_index():
     EXCLUDED_FILES = {
         "rag_engine.py", "rag_config.yaml", "chunks_index.json",
         "chunks_metadata.json", ".env", ".env_telegram",
+        # §10.34 — the Color Doctrine is a Visual Director design asset, not Oracle material.
+        # It stays in TekTribe_Foundations/ (wrong shelf, not wrong book) and never enters a
+        # served index. It must ALSO be excluded from the training pool, mirrored by the weaver.
+        "TekTribe Color Doctrine - Spectral Perception & The Frequency of Spirit.md",
+        # README_KNOWLEDGE_BASE.md is excluded from the training pool under §10.12 and from the
+        # served index on the same rule — the pool and the Oracle should not disagree on what
+        # counts as Record material.
+        "README_KNOWLEDGE_BASE.md",
     }
     
     all_chunks = []
