@@ -61,6 +61,16 @@ def find_cacheable_files():
                 seen.add(url)
                 urls.append(url)
 
+            # Cloudflare Pages serves `name.html` at the extension-less `/name`
+            # (the `.html` form 308-redirects). Precache the canonical URL too so
+            # the offline fallback can hand it to a navigation without tripping
+            # ERR_FAILED on a redirected response.
+            if url.endswith('.html'):
+                canonical = url[:-len('.html')]
+                if canonical not in seen:
+                    seen.add(canonical)
+                    urls.append(canonical)
+
             # Precache BOTH / and /index.html for the root so cold-start
             # navigation works regardless of which the browser resolves.
             if url == '/':
