@@ -3,8 +3,8 @@
 Compendium API Generator
 Generates static API endpoints for bot scraping:
 - /api/compendium/manifest.json — file listing with metadata
-- /api/compendium/files/{path}.json — individual file with content + frontmatter
-- /api/compendium/files/{path}.md — raw markdown (content negotiation)
+- /api/compendium/{path}.json — individual file with content + frontmatter
+- /api/compendium/{path}.md — raw markdown (content negotiation)
 - /api/compendium/index.json — search index (alias to compendium-index.json)
 """
 
@@ -63,8 +63,8 @@ def generate_api():
         "generated_at": datetime.now().isoformat(),
         "total_files": 0,
         "content_negotiation": {
-            "json": "/api/compendium/files/{file_id}.json",
-            "markdown": "/api/compendium/files/{file_id}.md",
+            "json": "/api/compendium/{file_id}.json",
+            "markdown": "/api/compendium/{file_id}.md",
             "note": "Append .md extension for raw markdown, .json for structured data"
         },
         "files": []
@@ -109,8 +109,8 @@ def generate_api():
             "content_hash": hashlib.md5(body.encode()).hexdigest()[:12],
             "size_bytes": len(raw_content.encode('utf-8')),
             "endpoints": {
-                "json": f"/api/compendium/files/{file_id}.json",
-                "markdown": f"/api/compendium/files/{file_id}.md"
+                "json": f"/api/compendium/{file_id}.json",
+                "markdown": f"/api/compendium/{file_id}.md"
             }
         }
         manifest["files"].append(file_meta)
@@ -130,8 +130,8 @@ def generate_api():
                 "size_bytes": file_meta["size_bytes"],
                 "generated_at": datetime.now().isoformat(),
                 "content_negotiation": {
-                    "markdown_url": f"/api/compendium/files/{file_id}.md",
-                    "json_url": f"/api/compendium/files/{file_id}.json"
+                    "markdown_url": f"/api/compendium/{file_id}.md",
+                    "json_url": f"/api/compendium/{file_id}.json"
                 }
             }
         }
@@ -174,12 +174,12 @@ def generate_api():
     print("Endpoints:")
     print(f"  GET /api/compendium/manifest.json — file listing")
     print(f"  GET /api/compendium/index.json — search index")
-    print(f"  GET /api/compendium/files/{{file_id}}.json — structured data + raw markdown")
-    print(f"  GET /api/compendium/files/{{file_id}}.md — raw markdown with frontmatter")
+    print(f"  GET /api/compendium/{{file_id}}.json — structured data + raw markdown")
+    print(f"  GET /api/compendium/{{file_id}}.md — raw markdown with frontmatter")
     print()
     print("Content negotiation:")
-    print("  JSON:    curl https://overseer.ae/api/compendium/files/part1__index.json")
-    print("  Markdown: curl https://overseer.ae/api/compendium/files/part1__index.md")
+    print("  JSON:    curl https://overseer.ae/api/compendium/part1__index.json")
+    print("  Markdown: curl https://overseer.ae/api/compendium/part1__index.md")
 
 if __name__ == "__main__":
     generate_api()
