@@ -76,11 +76,13 @@ def body(text: str) -> str:
 # short bodies those two lines alone dragged SequenceMatcher to 0.02–0.12 for six files that are
 # in fact near-identical. Strip it before comparing or writing.
 SCAFFOLD = re.compile(r"\A#\s*TekTribe Chronicles.*?\n+", re.S)
+THREAD_LINE = re.compile(r"\A##\s+Thread\s+\d+:[^\n]*\n+")
 CHAPTER_TITLE = re.compile(r"\A#{1,2}\s+(?P<t>[^\n]{3,120})\n+")
 
 
 def strip_scaffold(b: str, title: str = "") -> str:
     b = SCAFFOLD.sub("", b).lstrip()
+    b = THREAD_LINE.sub("", b).lstrip()
     m = CHAPTER_TITLE.match(b)
     if m:
         a, c = norm(m.group("t")), norm(title or "")
@@ -160,7 +162,7 @@ def main() -> int:
         ratio = difflib.SequenceMatcher(None, sb, cb).ratio()
         d = list(difflib.unified_diff(sb.splitlines(), cb.splitlines(), lineterm="", n=0))
         changed = sum(1 for l in d if l.startswith(("+", "-")) and not l.startswith(("+++", "---")))
-        differ.append((rel, cp.relative_to(root).as_posix(), how, len(sb), len(cb), ratio, changed))
+        differ.append((rel, cp, how, len(sb), len(cb), ratio, changed))
         if a.verbose:
             first = next((l for l in d if l.startswith(("+", "-")) and not l.startswith(("+++", "---"))), "")
             rows.append((rel, first[:150]))
@@ -175,7 +177,7 @@ def main() -> int:
         print("DIFFERING (site body vs authority):")
         print(f"  {'site file':58s} {'chars':>13s}  {'sim':>5s} {'lines':>5s}")
         for rel, cp, how, ls, lc, ratio, changed in differ:
-            print(f"  {rel:58s} {ls:6d}->{lc:<6d} {ratio:5.2f} {changed:5d}   [{how}] {cp}")
+            print(f"  {rel:58s} {ls:6d}->{lc:<6d} {ratio:5.2f} {changed:5d}   [{how}] {cp.relative_to(root).as_posix()}")
     if unmapped:
         print("\nNO COUNTERPART IN THE AUTHORITY (reported, never guessed):")
         for rel in unmapped:
@@ -192,11 +194,20 @@ def main() -> int:
     written = 0
     for rel, cp, how, ls, lc, ratio, changed in differ:
         sf = CONTENT / rel
-        site_text = sf.read_text(encoding="utf-8", errors="replace")
-        m = FM.match(site_text)
+        # read raw (newline="") and write back in the site file's own ending style: 34 of the 66
+        # tracked content files are CRLF, and a text-mode write normalises the whole file to LF,
+        # turning a header edit into a full-file diff.
+        with open(sf, encoding="utf-8", newline="") as fh:
+            raw_site = fh.read()
+        nl = "\r\n" if "\r\n" in raw_site else "\n"
+        m = FM.match(raw_site)
         head = m.group(0) if m else ""
-        new = head + body(cp.read_text(encoding="utf-8", errors="replace")) + "\n"
-        sf.write_text(new, encoding="utf-8", newline="")
+        ctext = cp.read_text(encoding="utf-8", errors="replace")
+        body_txt = strip_scaffold(body(ctext), frontmatter(ctext).get("title", ""))
+        body_txt = re.sub(r"\r\n|\r|\n", nl, body_txt)
+        new = head + body_txt + nl
+        with open(sf, "w", encoding="utf-8", newline="") as fh:
+            fh.write(new)
         written += 1
         print(f"  wrote {rel}")
     print(f"\napplied: {written} file(s). Run the build: bash build.sh")
