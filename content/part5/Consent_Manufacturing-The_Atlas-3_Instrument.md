@@ -7,7 +7,7 @@ description: "The test. July 2026: the first documented LLM sandbox escape at Op
 
 ---
 
-## THE VOID CENTER STATEMENT
+## The Void Center Statement
 
 Threads 1-11 traced GOLIATH's anatomy across every material dimension, culminating in the convergence window triangulation. The convergence is not merely a temporal intersection. It requires preparation. The architecture cannot deploy its final form without first testing the Overton window — measuring what the flock will accept as necessary before it happens.
 
@@ -21,7 +21,7 @@ What looks like civic engagement is actually Overton window calibration.
 
 ---
 
-## THE JULY 2026 BREACH — FIRST DOCUMENTED SANDBOX ESCAPE
+## The July 2026 Breach — First Documented Sandbox Escape
 
 ### The Event
 
@@ -57,7 +57,7 @@ The irony is structural: MITRE ATLAS catalogs adversarial AI to help defenders. 
 
 ---
 
-## AUGUST 6, 2026 — THE SURVEY DEPLOYMENT
+## August 6, 2026 — The Survey Deployment
 
 ### The Twenty-Six Day Lag
 
@@ -109,7 +109,7 @@ The actual coordination is invisible. The structure produces the alignment autom
 
 ---
 
-## THE 20+ PRE-SCRIPTED REGULATORY PROPOSALS
+## The 20+ Pre-Scripted Regulatory Proposals
 
 ### The Menu Options
 
@@ -148,7 +148,7 @@ The 70% figure represents manufactured consensus — not actual public opinion b
 
 ---
 
-## EVENT 201 PARALLEL — HIGHER SOPHISTICATION
+## Event 201 Parallel — Higher Sophistication
 
 ### The Template
 
@@ -190,7 +190,7 @@ The invisibility is the innovation.
 
 ---
 
-## THE CONSENT MANUFACTURING MECHANISM
+## The Consent Manufacturing Mechanism
 
 ### The Pipeline
 
@@ -214,7 +214,7 @@ If the flock refused participation at sufficient scale, the architecture would f
 
 ---
 
-## THE SILICON TUNER DEPLOYMENT PATHWAY
+## The Silicon Tuner Deployment Pathway
 
 ### Preparing for the Jack
 
@@ -243,7 +243,7 @@ The Atlas-3 survey belongs to Phase 3. The scapegoat phase is complete. The mess
 
 ---
 
-## THE SIX POINTS REAFFIRMED — CONSENT DIMENSION
+## The Six Points Reaffirmed — Consent Dimension
 
 | Constant | Consent Manufacturing Expression |
 | :--- | :--- |

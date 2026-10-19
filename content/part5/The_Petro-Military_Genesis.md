@@ -7,7 +7,7 @@ description: "The blood supply. On May 28, 1901, William Knox D'Arcy signed a co
 
 ---
 
-## THE SEED IS PLANTED IN THE DESERT
+## The Seed Is Planted in the Desert
 
 Thread 1 established that GOLIATH's institutional DNA predates the petroleum age by millennia. The six-point architecture — hierarchy, extraction, lineage, monopoly, protection, survival — was already operational in temple priesthoods, mystery religions, and Roman collegia long before the first oil well was drilled.
 
@@ -19,7 +19,7 @@ The seed was planted on May 28, 1901, in the deserts of Persia. The fruit would 
 
 ---
 
-## THE D'ARCY CONCESSION (1901)
+## The D'Arcy Concession (1901)
 
 ### The Contract That Built the Modern World
 
@@ -63,7 +63,7 @@ The clock did not start when Eisenhower spoke. The clock started when D'Arcy sig
 
 ---
 
-## THE APOC NEXUS — OIL, NAVY, AND STATE
+## The APOC Nexus — Oil, Navy, and State
 
 ### The 1914 Government Acquisition
 
@@ -90,7 +90,7 @@ The six points, confirmed. The fuel source, secured. GOLIATH had its blood suppl
 
 ---
 
-## CHURCHILL'S WAR FINANCE AND THE LUSITANIA PATTERN
+## Churchill's War Finance and the Lusitania Pattern
 
 ### The False-Flag Template
 
@@ -153,7 +153,7 @@ The Lusitania was the first proof of concept.
 
 ---
 
-## APOCALYPSE — THE WORDPLAY
+## Apocalypse — The Wordplay
 
 ### Anglo-Persian Oil Company => APOC => APOCalypse
 
@@ -183,7 +183,7 @@ The apocalypse is not coming. The apocalypse was a business plan, filed in 1901,
 
 ---
 
-## CHURCHILL AS ARCHITECT — THE CONTINUUM OPERATIVE
+## Churchill as Architect — The Continuum Operative
 
 ### Not Hero, Not Villain — Function
 
@@ -213,7 +213,7 @@ The pattern repeats: the architecture does not serve a nation. The architecture 
 
 ---
 
-## IRAN AS STRONGHOLD — THE GEOPOLITICAL SURVIVAL ARCHITECTURE
+## Iran as Stronghold — The Geopolitical Survival Architecture
 
 ### Why Iran Matters to GOLIATH
 
@@ -256,7 +256,7 @@ Iran is not the target. Iran is the anchor.
 
 ---
 
-## THE SIXTY-YEAR CYCLE — 1901 TO 1961
+## The Sixty-Year Cycle — 1901 to 1961
 
 ### The Completed Arc
 
@@ -299,7 +299,7 @@ But naming does not stop the architecture. Naming merely acknowledges that the a
 
 ---
 
-## THE OIL-MILITARY FEEDBACK LOOP
+## The Oil-Military Feedback Loop
 
 ### The Self-Perpetuating Engine
 
@@ -343,7 +343,7 @@ The exponential growth across all three vectors — military spending, oil price
 
 ---
 
-## THE APOC LEGACY — HOW GOLIATH GOT ITS BLOOD
+## The APOC Legacy — How GOLIATH Got Its Blood
 
 ### Summary of Thread 2
 

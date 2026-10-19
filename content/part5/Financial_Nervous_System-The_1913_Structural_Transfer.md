@@ -7,7 +7,7 @@ description: "The wiring. Three legislative acts in twelve months: the Sixteenth
 
 ---
 
-## THE VOID CENTER STATEMENT
+## The Void Center Statement
 
 Thread 1 traced the institutional DNA — the six-point architecture that persisted from temple priesthood to Fortune 500 boardroom. Thread 2 followed the blood supply — petroleum and the military-industrial feedback loop that scaled the architecture from regional to planetary.
 
@@ -21,7 +21,7 @@ What looks like reform is actually transmutation.
 
 ---
 
-## THE PRE-1913 REPUBLIC — WHAT WAS DESTROYED
+## The Pre-1913 Republic — What Was Destroyed
 
 ### The Constitutional Framework
 
@@ -54,7 +54,7 @@ These were the cracks. The dam would break in 1913.
 
 ---
 
-## THE THREE ACTS — 1913
+## The Three Acts — 1913
 
 ### Act 1: The Federal Reserve Act (December 23, 1913)
 
@@ -146,7 +146,7 @@ The architecture of federalism was dismantled.
 
 ---
 
-## THE TWELVE-MONTH CASCADE — TIMING AND CONTEXT
+## The Twelve-Month Cascade — Timing and Context
 
 ### The Sequence
 
@@ -187,7 +187,7 @@ A bill passed by Congress under the guise of "reform" and "stability" was actual
 
 ---
 
-## THE REPUBLIC => EMPIRE TRANSFORMATION
+## The Republic => Empire Transformation
 
 ### Before and After: Side-by-Side Comparison
 
@@ -228,7 +228,7 @@ Together: Extract, centralize, expand. Infinite revenue. Unlimited spending. No 
 
 ---
 
-## THE NO-SHADOW THESIS — ALIGNMENT THROUGH STRUCTURE
+## The No-Shadow Thesis — Alignment Through Structure
 
 ### Was There a Secret Conspiracy?
 
@@ -270,7 +270,7 @@ The architecture persists because it serves the function of centralized extracti
 
 ---
 
-## THE POST-1913 EXPANSION — HOW THE NERVOUS SYSTEM FUELED GOLIATH
+## The Post-1913 Expansion — How the Nervous System Fueled GOLIATH
 
 ### Military Spending Trajectory
 
@@ -319,7 +319,7 @@ GOLIATH extracts not only through taxation but through inflation — the silent 
 
 ---
 
-## THE PETROLEUM-MILITARY-FINANCE FEEDBACK LOOP COMPLETED
+## The Petroleum-Military-Finance Feedback Loop Completed
 
 ### The Three-Vector System
 
@@ -376,7 +376,7 @@ We are approaching the inflection point. The loop is self-reinforcing but not et
 
 ---
 
-## THE SIX POINTS REAFFIRMED — FINANCIAL DIMENSION
+## The Six Points Reaffirmed — Financial Dimension
 
 Thread 1 established six constants. Each persists in the financial architecture:
 

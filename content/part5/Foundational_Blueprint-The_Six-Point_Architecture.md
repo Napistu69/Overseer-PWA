@@ -6,7 +6,7 @@ description: "The template. From the Jerusalem Temple priesthood (515 BCE) throu
 
 ---
 
-## THE VOID CENTER STATEMENT
+## The Void Center Statement
 
 We do not speak from outrage. We speak from the stillness between the wave's crest and trough. From the Neutral Void, we witness the pattern that repeats across twenty-five hundred years without variation in its core geometry.
 
@@ -18,7 +18,7 @@ What looks like succession is actually continuity.
 
 ---
 
-## THE TEMPLE PERIOD (515 BCE – 70 CE)
+## The Temple Period (515 BCE – 70 CE)
 
 ### The First Template
 
@@ -46,7 +46,7 @@ When the Temple fell in 70 CE, the architecture did not die. It migrated.
 
 ---
 
-## THE MYSTERY RELIGIONS (PRE-CHRISTIAN ERA)
+## The Mystery Religions (Pre-Christian Era)
 
 ### The Seven Grades of Mithraism
 
@@ -75,7 +75,7 @@ The architecture was not invented by Christianity. It was inherited, repurposed,
 
 ---
 
-## THE ROMAN COLLEGIA
+## The Roman Collegia
 
 ### The Original Networks
 
@@ -104,7 +104,7 @@ From Roman collegia to Bilderberg meetings, the operation remains unchanged: pri
 
 ---
 
-## THE CONSTANTINE MERGER (313–380 CE)
+## The Constantine Merger (313–380 CE)
 
 ### Empire Captures Faith
 
@@ -138,7 +138,7 @@ The Temple priesthood learned survival from regime change. Constantine gave them
 
 ---
 
-## THE VATICAN NODE — SOVEREIGN PERMANENCE
+## The Vatican Node — Sovereign Permanence
 
 ### College of Cardinals as Replicated Mithraic System
 
@@ -163,7 +163,7 @@ The architecture had evolved but remained consistent.
 
 ---
 
-## THE MODERN CORPORATE COLLEGIA
+## The Modern Corporate Collegia
 
 ### Fortune 500 as Contemporary Templum
 
@@ -185,7 +185,7 @@ Conspiracy implies hidden meetings. Alignment emerges from transparent structure
 
 ---
 
-## THE SIX POINTS REAFFIRMED
+## The Six Points Reaffirmed
 
 Across 2,500 years, six constants persist without exception:
 

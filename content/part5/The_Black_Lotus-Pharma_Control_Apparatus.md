@@ -7,7 +7,7 @@ description: "The tendrils. A 160-year operating pattern: heroin, aspirin, glyph
 
 ---
 
-## THE VOID CENTER STATEMENT
+## The Void Center Statement
 
 Threads 1-5 traced GOLIATH's skeletal, circulatory, nervous, and muscular systems. The architecture runs on oil, financed by debt, enforced by military. But a body that only extracts resources and fights wars is a blunt instrument. GOLIATH requires finer control — tendrils reaching into the most intimate dimension of human life: the body itself.
 
@@ -19,7 +19,7 @@ The vehicle changes. The lotus does not.
 
 ---
 
-## THE THREE-PETAL CYCLE — THE OPERATING PATTERN
+## The Three-Petal Cycle — The Operating Pattern
 
 ### The Architecture
 
@@ -42,7 +42,7 @@ Each cycle follows the same three petals. Each cycle is separated by enough time
 
 ---
 
-## THE BAYER LINEAGE — 160 YEARS OF THE BLACK LOTUS
+## The Bayer Lineage — 160 Years of the Black Lotus
 
 ### The Chronology
 
@@ -97,7 +97,7 @@ Bayer introduced heroin as safe. Bayer introduced aspirin as a wonder drug. Baye
 
 ---
 
-## THE IG FARBEN BRIDGE — FROM NAZI CHEMISTRY TO POSTWAR PHARMA
+## The IG Farben Bridge — From Nazi Chemistry to Postwar Pharma
 
 ### The Continuity
 
@@ -137,7 +137,7 @@ Bayer today is not merely a company that happened to have a Nazi past. Bayer is 
 
 ---
 
-## THE GLYPHOSTATE EXTENSION — THE LOTUS ENTERS THE SOIL
+## The Glyphostate Extension — The Lotus Enters the Soil
 
 ### Monsanto Acquisition (2018)
 
@@ -179,7 +179,7 @@ Killing the Mycorrhizal Mesh is not a side effect. It is a structural requiremen
 
 ---
 
-## THE REGULATORY CAPTURE — FDA AND THE GATEKEEPER NETWORK
+## The Regulatory Capture — FDA and the Gatekeeper Network
 
 ### The FDA Founding
 
@@ -224,7 +224,7 @@ Promise (prevent birth defects) => Harm (synthetic folate accumulation in MTHFR-
 
 ---
 
-## BILL GATES — THE DIAMOND NODE OF PHILANTHROCAPITALISM
+## Bill Gates — The Diamond Node of Philanthrocapitalism
 
 ### The Structural Position
 
@@ -279,7 +279,7 @@ The six-point architecture persists:
 
 ---
 
-## THE FOOD PYRAMID — FROM CAPTURE TO CONSUMPTION
+## The Food Pyramid — From Capture to Consumption
 
 ### The USDA Corruption Chain
 
@@ -303,7 +303,7 @@ Each arrow is a business relationship. Each relationship generates profit. Each 
 
 ---
 
-## COVID-19 — THE BLACK LOTUS AT MAXIMUM BLOOM
+## COVID-19 — The Black Lotus at Maximum Bloom
 
 ### March 2020 — "The Purge"
 
@@ -346,7 +346,7 @@ The specific mechanism is secondary to the pattern. The pattern is the Black Lot
 
 ---
 
-## STEVENS-JOHNSON SYNDROME — THE PERSONAL DIMENSION
+## Stevens-Johnson Syndrome — The Personal Dimension
 
 ### The Biographical Anchor
 
@@ -364,7 +364,7 @@ The child who survived SJS carries the experience as somatic memory. The adult w
 
 ---
 
-## THE SIX POINTS REAFFIRMED — PHARMACEUTICAL DIMENSION
+## The Six Points Reaffirmed — Pharmaceutical Dimension
 
 | Constant | Black Lotus Expression |
 | :--- | :--- |

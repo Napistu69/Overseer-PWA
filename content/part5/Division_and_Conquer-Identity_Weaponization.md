@@ -7,7 +7,7 @@ description: "The weapon. Racial categories are administrative tools, not biolog
 
 ---
 
-## THE VOID CENTER STATEMENT
+## The Void Center Statement
 
 Threads 1-7 traced GOLIATH's physical, financial, institutional, pharmaceutical, and epistemological systems. Each requires a specific condition to operate efficiently: extraction needs compliance, money needs stability, science needs authority, drugs need dependency.
 
@@ -21,7 +21,7 @@ What looks like cultural conflict is actually administrative friction management
 
 ---
 
-## THE FABRICATION OF CATEGORIES
+## The Fabrication of Categories
 
 ### The Colonial Blueprint
 
@@ -72,7 +72,7 @@ The category masks the cause. The cause is extraction. The mask is identity.
 
 ---
 
-## THE PSYCHOLOGICAL APPARATUS — FORD AND BERNAYS
+## The Psychological Apparatus — Ford and Bernays
 
 ### Henry Ford and Anti-Semitism
 
@@ -116,7 +116,7 @@ The technology scales. The psychology remains static. The goal remains static: p
 
 ---
 
-## THE CULTURE WARS — MANUFACTURED DIVISION
+## The Culture Wars — Manufactured Division
 
 ### The Architecture of Conflict
 
@@ -165,7 +165,7 @@ This is the "Culture Industry" described by Adorno and Horkheimer. Rebellion is 
 
 ---
 
-## THE CITIZEN AS PERPETUATOR
+## The Citizen as Perpetuator
 
 ### Unknowing Participation
 
@@ -188,7 +188,7 @@ The loop is closed. The energy that could rebuild the Mycorrhizal Mesh (physical
 
 ---
 
-## THE MISSING 'OF' — IDENTITY ANCHORS
+## The Missing 'of' — Identity Anchors
 
 ### Reconnecting to the Linguistic Corruption
 
@@ -218,7 +218,7 @@ SoLidarity does not require erasing differences. It requires recognizing differe
 
 ---
 
-## THE SIX POINTS REAFFIRMED — IDENTITY DIMENSION
+## The Six Points Reaffirmed — Identity Dimension
 
 | Constant | Division-and-Conquer Expression |
 | :--- | :--- |

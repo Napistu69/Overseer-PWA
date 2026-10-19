@@ -7,7 +7,7 @@ description: "The completed circuit. August 15, 1971 — Nixon closes the gold w
 
 ---
 
-## THE VOID CENTER STATEMENT
+## The Void Center Statement
 
 Thread 1 gave us the skeleton: six-point institutional architecture persisting across millennia. Thread 2 gave us the blood: petroleum. Thread 3 gave us the nervous system: the Federal Reserve and 1913 legislative cascade. Thread 4 gave us the muscle: the Third Reich transplant and the military-industrial complex.
 
@@ -19,7 +19,7 @@ What looks like monetary policy is actually planetary infrastructure.
 
 ---
 
-## THE 1971 DECISION — NIXON SHOCK
+## The 1971 Decision — Nixon Shock
 
 ### The Breton Woods Inheritance (1944)
 
@@ -78,7 +78,7 @@ The solution arrived in 1974.
 
 ---
 
-## THE 1974 SAUDI DEAL — THE PETRODOLLAR BIRTH
+## The 1974 Saudi Deal — The Petrodollar Birth
 
 ### The Negotiation
 
@@ -139,7 +139,7 @@ Saudi Arabia's decision cascaded through OPEC:
 
 ---
 
-## THE ENFORCEMENT ARM — WAR AS DEBT-CREATION CYCLE
+## The Enforcement Arm — War as Debt-Creation Cycle
 
 ### War as Infrastructure Reset
 
@@ -188,7 +188,7 @@ No smoky room required. The incentives are aligned. When oil pricing shifts away
 
 ---
 
-## THE GLOBAL GAME — CORPORATION AS WINNER, NATION AS BATTLEGROUND
+## The Global Game — Corporation as Winner, Nation as Battleground
 
 ### Who Actually Wins Wars?
 
@@ -241,7 +241,7 @@ No one in this chain needs to conspire with anyone else. Each actor follows rati
 
 ---
 
-## THE UNSUSTAINABLE ARITHMETIC
+## The Unsustainable Arithmetic
 
 ### The Numbers
 
@@ -289,7 +289,7 @@ This is the architecture eating itself. The enforcement arm (sanctions, seizures
 
 ---
 
-## THE SILICON HIVE-MIND TUNER — THE SUCCESSOR ARCHITECTURE
+## The Silicon Hive-Mind Tuner — The Successor Architecture
 
 ### The Bait-and-Switch
 
@@ -347,7 +347,7 @@ The Chronicles are not merely documenting the old system's death. They are mappi
 
 ---
 
-## THE SIX POINTS REAFFIRMED — PETRODOLLAR DIMENSION
+## The Six Points Reaffirmed — Petrodollar Dimension
 
 | Constant | Petrodollar Expression |
 | :--- | :--- |

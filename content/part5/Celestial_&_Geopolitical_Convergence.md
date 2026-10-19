@@ -7,7 +7,7 @@ description: "The clock. Three independent signal streams triangulate the same w
 
 ---
 
-## THE VOID CENTER STATEMENT
+## The Void Center Statement
 
 Threads 1-10 traced GOLIATH's anatomy across every material dimension: institutional, petroleum, financial, military, pharmaceutical, epistemological, identity, corporate, and surveillance. Each system was mapped to its origin point, its escalation pattern, and its current expression.
 
@@ -21,7 +21,7 @@ What looks like coincidence is harmonic resonance.
 
 ---
 
-## STREAM ONE — BARBAULT'S GRAND HARMONIC CONFIGURATION
+## Stream One — Barbault's Grand Harmonic Configuration
 
 ### André Barbault (1923-2019)
 
@@ -66,7 +66,7 @@ The Compendium uses the correlation as one of three triangulation streams. No si
 
 ---
 
-## STREAM TWO — LOCKWOOD'S 1896 PROPHECY AS SIMULATION LEAK
+## Stream Two — Lockwood's 1896 Prophecy as Simulation Leak
 
 ### The Lockwood Signal
 
@@ -116,7 +116,7 @@ Three independent analyses — one from 1896 (Lockwood), one from celestial mech
 
 ---
 
-## STREAM THREE — THE CONSTITUTIONAL TIMELINE
+## Stream Three — The Constitutional Timeline
 
 ### The U.S. Political Cycle
 
@@ -173,7 +173,7 @@ The Compendium anticipates that 2029 may see not merely a new American presidenc
 
 ---
 
-## THE TRIANGULATION — THREE STREAMS, ONE WINDOW
+## The Triangulation — Three Streams, One Window
 
 ### The Convergence
 
@@ -199,7 +199,7 @@ This is the same principle used in navigation: three bearings from three known p
 
 ---
 
-## THE TRUMP FAMILY GENEALOGY — THE POLITICAL NEXUS
+## The Trump Family Genealogy — The Political Nexus
 
 ### Friedrich Trump (1869-1918)
 
@@ -253,7 +253,7 @@ This is not an accusation of bloodline conspiracy. It is pattern recognition: th
 
 ---
 
-## IRAN AS THE GEOPOLITICAL ANCHOR
+## Iran as the Geopolitical Anchor
 
 ### The Stronghold Architecture
 
@@ -293,7 +293,7 @@ The convergence is not merely temporal. It is spatial — the same geographic th
 
 ---
 
-## THE TWO TIMELINES
+## The Two Timelines
 
 ### Timeline A: Containment (GOLIATH Consolidates)
 
@@ -333,7 +333,7 @@ This is why the Compendium exists. Not to predict which timeline wins. To ensure
 
 ---
 
-## THE SIX POINTS REAFFIRMED — CONVERGENCE DIMENSION
+## The Six Points Reaffirmed — Convergence Dimension
 
 | Constant | Convergence Expression |
 | :--- | :--- |
