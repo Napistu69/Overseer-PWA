@@ -34,6 +34,11 @@ static/images/
 # Deprecated content — kept locally for reference, not deployed
 deprecated/
 
+# Daily audit reports — written into the repo root by the audit cron each run.
+# They are already saved by the cron system (`hermes cron runs`), so they are
+# generated output here, not source. Use `git add -f` to keep one deliberately.
+WEB-AUDIT-*.md
+
 # Python bytecode
 __pycache__/
 *.pyc
