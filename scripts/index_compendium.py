@@ -146,8 +146,13 @@ def index_file(filepath):
     if not body.strip():
         return None
     
-    # Get relative path from content dir
-    rel_path = os.path.relpath(filepath, CONTENT_DIR)
+    # Get relative path from content dir.
+    # Normalise to forward slashes: os.path.relpath yields backslashes on
+    # Windows, which would put the separator inside every chunk_id and
+    # file_path. The deploy host builds on Linux (forward slashes), so an
+    # un-normalised Windows build silently produces a different index to the
+    # one that ships. Mirrors generate_api.py. No-op on POSIX.
+    rel_path = os.path.relpath(filepath, CONTENT_DIR).replace('\\', '/')
     
     # Determine part/section from path
     part = os.path.dirname(rel_path).replace('\\', '/')
