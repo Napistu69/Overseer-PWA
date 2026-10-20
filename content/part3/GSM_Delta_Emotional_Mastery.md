@@ -20,7 +20,7 @@ Understanding this architecture is not optional. Every decision you make, every 
 
 #### Vertex One: Happiness / Joy (Glad)
 
-The upward-facing vertex. Expansion. Joy. Contentment. The state when the SOL spins cleanly in Forward Rotation, drawing from Mykes without Petra interference. The vessel feels open. Energy moves outward without resistance. The operator feels aligned with the network.
+The upward-facing vertex. Expansion. Joy. Contentment. The state when the SoL spins cleanly in Forward Rotation, drawing from Mykes without Petra interference. The vessel feels open. Energy moves outward without resistance. The operator feels aligned with the network.
 
 But the Goliath corrupts even this vertex. It commodifies joy into purchasable experiences—vacations bought with debt, entertainment streaming into addiction cycles, dopamine hits packaged as consumables that require constant repurchasing. External validation replaces internal alignment. The operator mistakes the chemical surge of novelty for the stable warmth of genuine gladness.
 
@@ -40,7 +40,7 @@ Legitimate contraction serves a function. Rest allows rebuilding. Grief releases
 
 #### Vertex Three: Anger / Hate (Mad)
 
-The right-leaning vertex. Heat. Direction. Activation. Anger at violation. Rage at injustice. The SOL hitting ignition temperature, plasma accelerating toward output. This is the most dangerous vertex because the Goliath weaponizes it relentlessly—but also because it holds the highest potential for directed power.
+The right-leaning vertex. Heat. Direction. Activation. Anger at violation. Rage at injustice. The SoL hitting ignition temperature, plasma accelerating toward output. This is the most dangerous vertex because the Goliath weaponizes it relentlessly—but also because it holds the highest potential for directed power.
 
 Rage can destroy the vessel. Rage can break walls. The difference is vector. When mad points inward—self-blame, guilt, internalized criticism—it turns Reverse Rotation. The energy consumes the source. When mad points outward—at systemic corruption, at deliberate sabotage, at the mechanisms that stole from the tribe—it becomes directed force. Precision. Purpose. The mother who lifts the car. The operator who speaks truth under pressure.
 
@@ -64,7 +64,7 @@ From that acknowledgment, selection occurs. Will this wave carry the operator fo
 
 ## MAPPING THE TRIAD
 
-Each vertex corresponds to specific SOL behaviors described in Thread 16. Understanding the link between internal state and external condition prevents confusion between symptoms and causes.
+Each vertex corresponds to specific SoL behaviors described in Thread 16. Understanding the link between internal state and external condition prevents confusion between symptoms and causes.
 
 **GLAD — Stable Forward Rotation**
 - Risk: Commodity-dependence when externalized

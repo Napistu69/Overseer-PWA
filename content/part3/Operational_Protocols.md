@@ -8,7 +8,7 @@ description: "Theory becomes practice. The Daily Sequence, the Witness Stance, t
 
 ## The Threshold
 
-Threads 12 through 15 laid the architecture. The Guardian's network. The animal partners. The SOL Reactor. The Feldspar MycoRhizAnimal identity. The hydroelectric thermo-dynamic engine. The dietary triad of salt, eggs, and wild-foraged mycorrhizal roots. The elimination architecture that closes the loop. The movement and breathing practices that activate the primary engine.
+The Mycelial Guardian, Fungal Intelligence & The Living Network, Animal Partners in the Alliance and The Avatar Operating System laid the architecture. The Guardian's network. The animal partners. The SoL Reactor. The Feldspar MycoRhizAnimal identity. The hydroelectric thermo-dynamic engine. The dietary triad of salt, eggs, and wild-foraged mycorrhizal roots. The elimination architecture that closes the loop. The movement and breathing practices that activate the primary engine.
 
 You have the schematic. Now you need the daily sequence—the order of operations that transforms isolated principles into a functioning system.
 
@@ -18,7 +18,7 @@ This Thread does not re-explain what was established. It tells you when, how, an
 
 ## THE DAILY SEQUENCE
 
-The vessel operates on a solar cycle, not a clock. Every protocol aligns with the sun's position because the SOL within responds to the SOL without. The sequence below is not a schedule imposed on the body. It is the body's natural operational rhythm, recognized and followed.
+The vessel operates on a solar cycle, not a clock. Every protocol aligns with the sun's position because the SoL within responds to the SoL without. The sequence below is not a schedule imposed on the body. It is the body's natural operational rhythm, recognized and followed.
 
 #### First Light
 
@@ -54,7 +54,7 @@ Post-meal observation: if mental fog appears within thirty minutes, the combusti
 
 #### Evening Descent
 
-System wind-down begins at dusk. The SOL without descends; the SOL within adjusts. Sleep positioning determines crystalline orientation overnight—side sleeping, spine neutral, pillow height adjusted so the cervical spine maintains a straight axis. Intervertebral spacing preserved prevents nerve compression that disrupts signal transmission during the body's overnight repair cycle.
+System wind-down begins at dusk. The SoL without descends; the SoL within adjusts. Sleep positioning determines crystalline orientation overnight—side sleeping, spine neutral, pillow height adjusted so the cervical spine maintains a straight axis. Intervertebral spacing preserved prevents nerve compression that disrupts signal transmission during the body's overnight repair cycle.
 
 Final diagnostic: What shifted the dial today? Not a journal. Not a confession. A readout. "Encountered synthetic fragrance at the market—dial shifted reverse for twenty minutes before recovery through salt and grounding." Filed. Not dwelled upon. The data informs future navigation. Tomorrow's route adjusts to avoid the contamination source. This is not paranoia. It is operational intelligence gathering by a system that knows its own vulnerabilities.
 
@@ -68,7 +68,7 @@ Protocol without observation is habit. Habit without awareness is programming. T
 
 What the Goliath fears is the operator who witnesses their own system in real time and makes conscious adjustments based on direct somatic feedback rather than external authority.
 
-The operator does not react to emotional states. The operator observes them. This is the Void Center—equidistant from the three vertices of the GSM Delta without committing to any single pole. The emotion arises. The operator acknowledges it as a thermal readout from the SOL. Not: "I am angry because..." That transforms the readout into a story, and the story becomes identity, and identity locks the dial.
+The operator does not react to emotional states. The operator observes them. This is the Void Center—equidistant from the three vertices of the GSM Delta without committing to any single pole. The emotion arises. The operator acknowledges it as a thermal readout from the SoL. Not: "I am angry because..." That transforms the readout into a story, and the story becomes identity, and identity locks the dial.
 
 Instead: heat rising, plasma accelerating, dial pressure detected. Clinical. Compassionate. Detached.
 
@@ -96,6 +96,6 @@ One metric determines whether the Avatar Operating System is functional: If the 
 
 No grocery stores. No pharmacies. No municipal water. No power grid. Does the operator continue? If the answer is no, the circuit is incomplete. This is not fear-based prepping. It is diagnostic clarity. The operator identifies each dependency, then systematically removes it through alliance with the Guardian's network, the animal partners, and the earth's mineral resources.
 
-The Goliath's power is not military. It is logistical. It controls the supply lines and designs them to be impossible to abandon. The Avatar Operating System does not fight the supply chain. It renders it irrelevant. A Feldspar MycoRhizAnimal running on clean fuel, grounded through mycelial connection, powered by an internal SOL, cycling nutrients through a closed loop with animal partners, does not need the supply chain to function.
+The Goliath's power is not military. It is logistical. It controls the supply lines and designs them to be impossible to abandon. The Avatar Operating System does not fight the supply chain. It renders it irrelevant. A Feldspar MycoRhizAnimal running on clean fuel, grounded through mycelial connection, powered by an internal SoL, cycling nutrients through a closed loop with animal partners, does not need the supply chain to function.
 
 It needs soil. It needs salt. It needs the hen and the root and the crystal in the bone. Everything else is weight the vessel was never designed to carry.

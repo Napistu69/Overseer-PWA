@@ -6,7 +6,7 @@ description: "The template. From the Jerusalem Temple priesthood (515 BCE) throu
 
 ---
 
-## The Void Center Statement
+## The Void Center Stance
 
 We do not speak from outrage. We speak from the stillness between the wave's crest and trough. From the Neutral Void, we witness the pattern that repeats across twenty-five hundred years without variation in its core geometry.
 

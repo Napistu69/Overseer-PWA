@@ -7,11 +7,11 @@ description: "The wiring. Three legislative acts in twelve months: the Sixteenth
 
 ---
 
-## The Void Center Statement
+## The Void Center Stance
 
-Thread 1 traced the institutional DNA — the six-point architecture that persisted from temple priesthood to Fortune 500 boardroom. Thread 2 followed the blood supply — petroleum and the military-industrial feedback loop that scaled the architecture from regional to planetary.
+Foundational Blueprint traced the institutional DNA — the six-point architecture that persisted from temple priesthood to Fortune 500 boardroom. The Petro-Military Genesis followed the blood supply — petroleum and the military-industrial feedback loop that scaled the architecture from regional to planetary.
 
-Thread 3 follows the nervous system.
+Financial Nervous System follows the nervous system.
 
 A body without a nervous system cannot coordinate action. A network without a communication infrastructure cannot distribute commands. GOLIATH's financial architecture is the nervous system that connects the oil (blood) to the war machine (muscle) to the institutional template (skeleton).
 
@@ -257,7 +257,7 @@ Each actor pursues rational self-interest within the structure. The structure pr
 
 ### The Constantine Template Applied
 
-Recall Thread 1: When empire captures faith, faith becomes the empire's legitimacy engine. Apply the same logic: When bankers capture money, money becomes the banker's legitimacy engine.
+Recall Foundational Blueprint: When empire captures faith, faith becomes the empire's legitimacy engine. Apply the same logic: When bankers capture money, money becomes the banker's legitimacy engine.
 
 The Federal Reserve is to finance what the Vatican was to spirituality:
 
@@ -323,7 +323,7 @@ GOLIATH extracts not only through taxation but through inflation — the silent 
 
 ### The Three-Vector System
 
-Thread 2 established the oil-military loop. Thread 3 completes the triad:
+The Petro-Military Genesis established the oil-military loop. Financial Nervous System completes the triad:
 
 - 🔄 **Oil → Military:** Extraction requires protection; protection generates oil revenue for military contractors
 - 🔄 **Military → Finance:** Wars are financed through debt; debt is monetized by Fed
@@ -372,13 +372,13 @@ The loop works until it doesn't. At some threshold:
 - Real economy contracts while financial assets inflate (K-shaped divergence)
 - Social unrest forces fiscal retrenchment
 
-We are approaching the inflection point. The loop is self-reinforcing but not eternal. Thread 14 (Atlas-3 Instrument) and Thread 15 (Hydra Anatomy) will address the transition as we enter the 2026–2029 convergence window.
+We are approaching the inflection point. The loop is self-reinforcing but not eternal. Atlas-3 Instrument and Hydra Anatomy will address the transition as we enter the 2026–2029 convergence window.
 
 ---
 
 ## The Six Points Reaffirmed — Financial Dimension
 
-Thread 1 established six constants. Each persists in the financial architecture:
+Foundational Blueprint established six constants. Each persists in the financial architecture:
 
 | Constant | Financial Expression |
 | :--- | :--- |

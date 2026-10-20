@@ -7,11 +7,11 @@ description: "The completed circuit. August 15, 1971 — Nixon closes the gold w
 
 ---
 
-## The Void Center Statement
+## The Void Center Stance
 
-Thread 1 gave us the skeleton: six-point institutional architecture persisting across millennia. Thread 2 gave us the blood: petroleum. Thread 3 gave us the nervous system: the Federal Reserve and 1913 legislative cascade. Thread 4 gave us the muscle: the Third Reich transplant and the military-industrial complex.
+Foundational Blueprint gave us the skeleton: six-point institutional architecture persisting across millennia. The Petro-Military Genesis gave us the blood: petroleum. Financial Nervous System gave us the nervous system: the Federal Reserve and 1913 legislative cascade. Military-Industrial Migration gave us the muscle: the Third Reich transplant and the military-industrial complex.
 
-Thread 5 gives us the completed circuit.
+Petrodollar Engine gives us the completed circuit.
 
 The petrodollar is not merely a financial arrangement. It is the junction where blood meets nerve meets muscle — where oil, currency, and military power fuse into a single self-sustaining organism. The arrangement was engineered in 1971-1974, refined through decades of war and coercion, and now approaches its terminal phase as the 2026-2029 convergence window opens.
 
@@ -122,7 +122,7 @@ The petrodollar arrangement created a closed-loop system:
 - Saudi Arabia prices oil in dollars
 - [Loop closes]
 
-This is the same feedback loop identified in Thread 3, now fully operational. The nervous system (Fed) feeds the blood (oil) feeds the muscle (military) feeds the nervous system.
+This is the same feedback loop identified in Financial Nervous System, now fully operational. The nervous system (Fed) feeds the blood (oil) feeds the muscle (military) feeds the nervous system.
 
 ### The OPEC Extension
 
@@ -224,7 +224,7 @@ No conspiracy needed. The incentive structure produces the alignment automatical
 
 ### The No-Shadow Thesis — Expanded
 
-Thread 1 introduced the no-shadow thesis: alignment emerges from structure, not conspiracy. The petrodollar system demonstrates this principle at full scale:
+Foundational Blueprint introduced the no-shadow thesis: alignment emerges from structure, not conspiracy. The petrodollar system demonstrates this principle at full scale:
 
 - 📊 When oil is priced in dollars, every central bank must hold dollar reserves
 - 📊 When banks hold dollars, they purchase Treasuries

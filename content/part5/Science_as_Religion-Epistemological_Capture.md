@@ -7,13 +7,13 @@ description: "The cage. November 24, 1859 — Darwin publishes Origin of Species
 
 ---
 
-## The Void Center Statement
+## The Void Center Stance
 
-Threads 1-6 traced GOLIATH's physical architecture: institutional skeleton, petroleum blood, financial nerves, military muscle, pharmaceutical tendrils. Each operates through structures and incentives — the no-shadow thesis. None required a secret conspiracy. All required compliance.
+Every thread before this one traced GOLIATH's physical architecture: institutional skeleton, petroleum blood, financial nerves, military muscle, pharmaceutical tendrils. Each operates through structures and incentives — the no-shadow thesis. None required a secret conspiracy. All required compliance.
 
 Compliance requires a legitimating framework. People do not submit to extraction, drugging, surveillance, and endless war merely because they are told to. They submit because they believe the submission is rational, necessary, and grounded in objective truth.
 
-Thread 7 follows the epistemological capture — the construction of "Science" as a replacement religion, complete with priests, heretics, dogma, and excommunication. The year 1859 is the pivot point. The phrase "Trust the Science" is the creed.
+Science as Religion follows the epistemological capture — the construction of "Science" as a replacement religion, complete with priests, heretics, dogma, and excommunication. The year 1859 is the pivot point. The phrase "Trust the Science" is the creed.
 
 What looks like enlightenment is actually a new orthodoxy wearing the robes of reason.
 
@@ -77,7 +77,7 @@ The scientific establishment distanced itself from eugenics after Nuremberg. But
 
 ### The Architecture of Authority
 
-The scientific establishment replicates the six-point architecture from Thread 1 with precision:
+The scientific establishment replicates the six-point architecture from Foundational Blueprint with precision:
 
 | Constant | Scientific Institution Expression |
 | :--- | :--- |
@@ -90,7 +90,7 @@ The scientific establishment replicates the six-point architecture from Thread 1
 
 ### The Initiation System
 
-Scientific credentialing replicates the Mithraic seven-grade system documented in Thread 1:
+Scientific credentialing replicates the Mithraic seven-grade system documented in Foundational Blueprint:
 
 | Mithraic Grade | Scientific Equivalent |
 | :--- | :--- |
@@ -199,7 +199,7 @@ The Whittaker reclassification illustrates how scientific taxonomy can both reve
 - 📍 Mycorrhizal Mesh underrecognized = the biological substrate of interconnection remains invisible to mainstream science
 → Symbiotic fungal networks dismissed as "new age" when discussed outside institutional channels
 
-The architecture is the same as "Trust the Science": the institution claims authority over what counts as legitimate knowledge. Knowledge that challenges the pharmaceutical-agricultural model (Thread 6) is marginalized as unscientific, even when the evidence supports it.
+The architecture is the same as "Trust the Science": the institution claims authority over what counts as legitimate knowledge. Knowledge that challenges the pharmaceutical-agricultural model (The Black Lotus) is marginalized as unscientific, even when the evidence supports it.
 
 ---
 

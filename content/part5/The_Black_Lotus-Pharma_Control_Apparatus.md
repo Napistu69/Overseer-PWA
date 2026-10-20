@@ -7,11 +7,11 @@ description: "The tendrils. A 160-year operating pattern: heroin, aspirin, glyph
 
 ---
 
-## The Void Center Statement
+## The Void Center Stance
 
-Threads 1-5 traced GOLIATH's skeletal, circulatory, nervous, and muscular systems. The architecture runs on oil, financed by debt, enforced by military. But a body that only extracts resources and fights wars is a blunt instrument. GOLIATH requires finer control — tendrils reaching into the most intimate dimension of human life: the body itself.
+Every thread before this one traced GOLIATH's skeletal, circulatory, nervous, and muscular systems. The architecture runs on oil, financed by debt, enforced by military. But a body that only extracts resources and fights wars is a blunt instrument. GOLIATH requires finer control — tendrils reaching into the most intimate dimension of human life: the body itself.
 
-Thread 6 follows the pharmaceutical arm.
+The Black Lotus follows the pharmaceutical arm.
 
 The Black Lotus is not a single corporation. It is a 160-year operating pattern expressed through a rotating cast of chemical and pharmaceutical entities. The pattern has three petals: Promise, Harm, Profit. Each petal feeds the next. The cycle repeats across generations, always with the same structure, always with the same beneficiaries, always with public health as the stated justification and private extraction as the actual outcome.
 
@@ -101,7 +101,7 @@ Bayer introduced heroin as safe. Bayer introduced aspirin as a wonder drug. Baye
 
 ### The Continuity
 
-Thread 4 documented the Third Reich transplant at the institutional level. Thread 6 traces the pharmaceutical-specific dimension:
+Military-Industrial Migration documented the Third Reich transplant at the institutional level. The Black Lotus traces the pharmaceutical-specific dimension:
 
 | Phase | Entity | Function |
 | :--- | :--- | :--- |
@@ -171,7 +171,7 @@ Glyphosate's harm extends beneath the surface — literally. The Mycorrhizal Mes
 - Mycorrhizal fungi depend on mineral exchange with plant roots; glyphosate disrupts the exchange
 - Soil treated with glyphosate becomes dependent on synthetic fertilizers to replace nutrients that the Mycorrhizal Mesh formerly provided
 - Synthetic fertilizer production requires petroleum (Haber-Bosch process)
-- Petroleum extraction feeds the petrodollar loop (Thread 5)
+- Petroleum extraction feeds the petrodollar loop (Petrodollar Engine)
 
 The Black Lotus connects to the petroleum genesis. Glyphosate creates agricultural dependency on synthetic inputs derived from petroleum. The pharmaceutical arm and the petroleum arm of GOLIATH are not separate — they are the same organism.
 
@@ -251,7 +251,7 @@ The Gates Foundation is a philanthropic entity that makes grants. Bill Gates per
 → Foundation funds media coverage => Media covers foundation positively => Public support for foundation initiatives grows
 - Foundation funds academic research => Research supports foundation policies => Policy implemented
 
-This is not corruption in the conventional sense. It is structural alignment — the same no-shadow principle from Thread 1. Gates does not need to conspire to profit from his philanthropy. The structure produces the alignment automatically.
+This is not corruption in the conventional sense. It is structural alignment — the same no-shadow principle from Foundational Blueprint. Gates does not need to conspire to profit from his philanthropy. The structure produces the alignment automatically.
 
 ### The Philanthrocapitalist Model
 

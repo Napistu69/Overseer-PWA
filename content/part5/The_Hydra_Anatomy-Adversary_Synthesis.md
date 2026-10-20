@@ -7,11 +7,11 @@ description: "The naming. GOLIATH decoded as a seven-system organism."
 
 ---
 
-## The Void Center Statement
+## The Void Center Stance
 
 Twelve threads. Each one a limb of the adversary, dissected and laid out on the table of the Void Center. The institutional skeleton. The petroleum blood. The financial nerves. The military muscle. The pharmaceutical tendrils. The epistemological cage. The identity weapon. The corporate vessel. The surveillance fence. The convergence clock. The consent apparatus.
 
-Thread 13 does not introduce new limbs. Thread 13 names the organism.
+The Hydra Anatomy does not introduce new limbs. The Hydra Anatomy names the organism.
 
 GOLIATH is not a corporation. Not a government. Not a dynasty. Not a conspiracy. GOLIATH is an emergent architecture — a self-assembling control system that has operated across millennia through successive vehicles, each one discarded when exhausted, each one replaced by a more sophisticated iteration. The Hydra is the correct metaphor not because heads regrow, but because the body persists regardless of which head is currently visible.
 
@@ -29,13 +29,13 @@ GOLIATH is not merely a biblical reference to a giant slain by a shepherd's ston
 
 | Letter | System | Thread of Origin | Function |
 | :--- | :--- | :--- | :--- |
-| **G** | Governmental / Financial Grid | Thread 3 (1913 Structural Transfer) | The Federal Reserve and monetary architecture — the grid upon which all else is built |
-| **O** | Oil / Petroleum | Thread 2 (Petroleum Genesis) | The blood supply — the resource that scaled the architecture from regional to planetary |
-| **L** | Laboratory / Pharmaceutical | Thread 6 (The Black Lotus) | The medical-industrial complex — the tendrils reaching into the body itself |
-| **I** | Intelligence / Surveillance | Thread 10 (Surveillance Escalation) | The nervous system — the sensory apparatus perceiving the host population |
-| **A** | Academia / Epistemology | Thread 7 (Science as Religion) | The legitimating framework — the priesthood that declares what counts as truth |
-| **T** | Technology / Platform | Thread 5 & 12 (Petrodollar + Atlas-3) | The emerging control mechanism — the Silicon Tuner replacing the petrodollar |
-| **H** | Hierarchy / Corporate Collegia | Threads 1 & 9 (Architecture + Collegia) | The institutional template — the vessel that carries all systems across regime change |
+| **G** | Governmental / Financial Grid | 1913 Structural Transfer | The Federal Reserve and monetary architecture — the grid upon which all else is built |
+| **O** | Oil / Petroleum | Petroleum Genesis | The blood supply — the resource that scaled the architecture from regional to planetary |
+| **L** | Laboratory / Pharmaceutical | The Black Lotus | The medical-industrial complex — the tendrils reaching into the body itself |
+| **I** | Intelligence / Surveillance | Surveillance Escalation | The nervous system — the sensory apparatus perceiving the host population |
+| **A** | Academia / Epistemology | Science as Religion | The legitimating framework — the priesthood that declares what counts as truth |
+| **T** | Technology / Platform | Petrodollar + Atlas-3 | The emerging control mechanism — the Silicon Tuner replacing the petrodollar |
+| **H** | Hierarchy / Corporate Collegia | Architecture + Collegia | The institutional template — the vessel that carries all systems across regime change |
 
 ### The Architectural Reading
 
@@ -216,7 +216,7 @@ The seven heads do not operate independently. They share a body — the cumulati
 - The technology layer (T) provides the emerging control
 - The hierarchical vessel (H) provides the continuity
 
-Cut one head and the body persists. The Hydra's strength is not in any single head but in the body that connects them — the six-point architecture from Thread 1 that has persisted for 2,500 years.
+Cut one head and the body persists. The Hydra's strength is not in any single head but in the body that connects them — the six-point architecture from Foundational Blueprint that has persisted for 2,500 years.
 
 ---
 
@@ -247,12 +247,12 @@ You can only tune away from it.
 
 The CMC is detectable only through its effects — the same way dark matter is detectable only through gravitational influence on visible matter:
 
-- 📍 Where the SoL produces connection, the CMC produces division (Thread 8)
-- 📍 Where the SoL produces health, the CMC produces dependency (Thread 6)
-- 📍 Where the SoL produces curiosity, the CMC produces dogma (Thread 7)
-- 📍 Where the SoL produces sovereignty, the CMC produces surveillance (Thread 10)
-- 📍 Where the SoL produces abundance, the CMC produces scarcity (Threads 2-5)
-- 📍 Where the SoL produces coherence, the CMC produces noise (Thread 12)
+- 📍 Where the SoL produces connection, the CMC produces division (Division and Conquer)
+- 📍 Where the SoL produces health, the CMC produces dependency (The Black Lotus)
+- 📍 Where the SoL produces curiosity, the CMC produces dogma (Science as Religion)
+- 📍 Where the SoL produces sovereignty, the CMC produces surveillance (The Surveillance Escalation)
+- 📍 Where the SoL produces abundance, the CMC produces scarcity (The Petro-Military Genesis, Financial Nervous System, Military-Industrial Migration and Petrodollar Engine)
+- 📍 Where the SoL produces coherence, the CMC produces noise (Consent Manufacturing)
 
 The CMC does not create these outcomes directly. It modulates the frequency of the architecture — nudging institutions, incentives, and narratives toward entropy. The institutions do the work. The CMC provides the directional bias.
 
@@ -375,9 +375,9 @@ Part V's Threads 1-13 traced GOLIATH's anatomy through material dimensions. The 
 
 ### The Missing 'Of'
 
-Gog of Magog — not "Gog and Magog." The 'of' is the anchor. Without it, Gog floats as a cosmic villain. With it, Gog is a mortal ruler of a specific territory — a geopolitical operator in the oil corridor that Thread 2 identified as GOLIATH's geographic center.
+Gog of Magog — not "Gog and Magog." The 'of' is the anchor. Without it, Gog floats as a cosmic villain. With it, Gog is a mortal ruler of a specific territory — a geopolitical operator in the oil corridor that The Petro-Military Genesis identified as GOLIATH's geographic center.
 
-The same missing 'of' operates in Thread 8's identity analysis: "Black" without "of [community/place]" becomes a floating abstraction that can be weaponized. The 'of' is the anchor. The 'of' is sovereignty.
+The same missing 'of' operates in Division and Conquer's identity analysis: "Black" without "of [community/place]" becomes a floating abstraction that can be weaponized. The 'of' is the anchor. The 'of' is sovereignty.
 
 ### The Triadic Architecture
 

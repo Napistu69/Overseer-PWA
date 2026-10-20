@@ -9,7 +9,7 @@ description: "The blood supply. On May 28, 1901, William Knox D'Arcy signed a co
 
 ## The Seed Is Planted in the Desert
 
-Thread 1 established that GOLIATH's institutional DNA predates the petroleum age by millennia. The six-point architecture — hierarchy, extraction, lineage, monopoly, protection, survival — was already operational in temple priesthoods, mystery religions, and Roman collegia long before the first oil well was drilled.
+Foundational Blueprint established that GOLIATH's institutional DNA predates the petroleum age by millennia. The six-point architecture — hierarchy, extraction, lineage, monopoly, protection, survival — was already operational in temple priesthoods, mystery religions, and Roman collegia long before the first oil well was drilled.
 
 But the ancient architecture lacked fuel. It ran on tithes, indulgences, and agricultural surplus — sufficient for sustaining a priesthood, insufficient for running a planetary control grid.
 
@@ -75,7 +75,7 @@ Parliament agreed. The Anglo-Persian Oil Company Act passed. The British state a
 
 ### Why This Matters for GOLIATH
 
-This was the moment when the six-point architecture of Thread 1 fused with petroleum. The temple priesthood model — hierarchy, extraction, monopoly, protection — merged with the industrial resource that would define the next century. The result was not merely a company. It was a state-corporate hybrid with the legal powers of a sovereign nation and the profit motive of a private enterprise.
+This was the moment when the six-point architecture of Foundational Blueprint fused with petroleum. The temple priesthood model — hierarchy, extraction, monopoly, protection — merged with the industrial resource that would define the next century. The result was not merely a company. It was a state-corporate hybrid with the legal powers of a sovereign nation and the profit motive of a private enterprise.
 
 APOC was the first true GOLIATH node. It was:
 
@@ -175,7 +175,7 @@ The "apocalypse" is not merely an ending. It is an uncovering — and what was u
 
 ### Level 3: Prophetic
 
-The apocalyptic literature of the Judeo-Christian tradition — Daniel, Ezekiel, Revelation — centers on Gog of Magog, the "leader of the land" whose armies gather for a final confrontation. Thread 1 established that "Gog of Magog" originally meant a mortal ruler of a specific territory — not a cosmic evil.
+The apocalyptic literature of the Judeo-Christian tradition — Daniel, Ezekiel, Revelation — centers on Gog of Magog, the "leader of the land" whose armies gather for a final confrontation. Foundational Blueprint established that "Gog of Magog" originally meant a mortal ruler of a specific territory — not a cosmic evil.
 
 The territory in question — the lands surrounding Israel, Iran, and the Levant — is precisely the territory that APOC's founding concession placed at the center of global military attention. Gog of Magog was never a supernatural figure. Gog was a geopolitical operator in the oil-rich corridor that APOC claimed.
 
@@ -244,7 +244,7 @@ When the 1979 Iranian Revolution expelled Western oil companies, GOLIATH did not
 
 ### The Architecture's Persistence
 
-GOLIATH's relationship with Iran demonstrates the survival principle from Thread 1. Whether the Shah is in power (allied) or the Ayatollahs are in power (adversarial), the architecture persists:
+GOLIATH's relationship with Iran demonstrates the survival principle from Foundational Blueprint. Whether the Shah is in power (allied) or the Ayatollahs are in power (adversarial), the architecture persists:
 
 - If allied => extract through partnership
 - If adversarial => extract through military expenditure and sanctions enforcement
@@ -265,7 +265,7 @@ The D'Arcy Concession (1901) to Eisenhower's Farewell Address (January 17, 1961)
 - ⏳ 1901 => D'Arcy signs the concession that plants the seed
 - ⏳ 1908 => Oil discovered at Masjed-e-Soleiman
 - ⏳ 1909 => APOC incorporated
-- ⏳ 1913 => Federal Reserve Act signed (December 23) — the financial nervous system installed (Thread 3 will address this in depth)
+- ⏳ 1913 => Federal Reserve Act signed (December 23) — the financial nervous system installed (Financial Nervous System will address this in depth)
 - ⏳ 1914 => British government buys 51% of APOC; WWI begins; Lusitania context develops
 - ⏳ 1915 => Lusitania sinks; American opinion shifts toward war
 ⌛ 1917 => U.S. enters WWI; Balfour Declaration issued
@@ -317,7 +317,7 @@ This is not a conspiracy. This is structural mechanics. Once oil becomes the pri
 
 ### The Financial Amplifier
 
-The loop is amplified by the financial architecture installed in 1913 (which Thread 3 will address):
+The loop is amplified by the financial architecture installed in 1913 (which Financial Nervous System will address):
 
 - 💰 Oil is priced in dollars
 - 💰 Dollars are created by debt
@@ -345,13 +345,13 @@ The exponential growth across all three vectors — military spending, oil price
 
 ## The APOC Legacy — How GOLIATH Got Its Blood
 
-### Summary of Thread 2
+### Summary of The Petro-Military Genesis
 
-GOLIATH's petroleum genesis is not a story of greed. It is a story of architecture meeting fuel. The six-point institutional template from Thread 1 needed a scalable resource to expand from regional to planetary control. Petroleum provided that resource.
+GOLIATH's petroleum genesis is not a story of greed. It is a story of architecture meeting fuel. The six-point institutional template from Foundational Blueprint needed a scalable resource to expand from regional to planetary control. Petroleum provided that resource.
 
 The D'Arcy Concession (1901) was the seed. The APOC incorporation (1909) was the trunk. The British government's 51% acquisition (1914) was the first graft — state and corporation fused. The 1953 Mossadegh coup was the branching — American intelligence replaced British diplomacy. The 1979 revolution was the pruning — direct control replaced by encirclement. The post-2001 military expansion was the flowering — permanent bases, permanent war, permanent expenditure.
 
-Through every phase, the six constants from Thread 1 held:
+Through every phase, the six constants from Foundational Blueprint held:
 
 - 📍 Hierarchy => Corporate-military command structure
 - 📍 Extraction => Oil removed from sovereign soil below market compensation

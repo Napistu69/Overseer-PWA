@@ -7,13 +7,13 @@ description: "The weapon. Racial categories are administrative tools, not biolog
 
 ---
 
-## The Void Center Statement
+## The Void Center Stance
 
-Threads 1-7 traced GOLIATH's physical, financial, institutional, pharmaceutical, and epistemological systems. Each requires a specific condition to operate efficiently: extraction needs compliance, money needs stability, science needs authority, drugs need dependency.
+Every thread before this one traced GOLIATH's physical, financial, institutional, pharmaceutical, and epistemological systems. Each requires a specific condition to operate efficiently: extraction needs compliance, money needs stability, science needs authority, drugs need dependency.
 
 But compliance is fragile. Stability is temporary. Authority is contested. Dependency can be cured.
 
-Thread 8 addresses the ultimate safeguard: Division and Conquer.
+Division and Conquer addresses the ultimate safeguard: Division and Conquer.
 
 If the extracted cannot agree on what is being taken, if the compliant cannot agree on why they must comply, if the sick cannot agree on who made them sick — the system survives regardless of local inefficiencies. The weapon is identity. The battlefield is perception. The objective is to ensure citizens fight each other while the architecture looms overhead.
 
@@ -57,7 +57,7 @@ The categories do not reflect biological reality. They reflect administrative ut
 
 ### The Biological Illusion
 
-Thread 7 addressed epistemological capture. Thread 8 addresses its application: biology weaponized.
+Science as Religion addressed epistemological capture. Division and Conquer addresses its application: biology weaponized.
 
 Race is not a biological reality in the genetic sense. Genetic variation within a so-called "racial group" is greater than variation between groups. There are no "pure" races. There are only gradients of migration, adaptation, and ancestry.
 
@@ -192,7 +192,7 @@ The loop is closed. The energy that could rebuild the Mycorrhizal Mesh (physical
 
 ### Reconnecting to the Linguistic Corruption
 
-Thread 7 addressed epistemological capture. The Gog/Magog weave (Batch 5) addressed linguistic corruption: the removal of the 'of' creates floating abstractions.
+Science as Religion addressed epistemological capture. The Gog/Magog weave (Batch 5) addressed linguistic corruption: the removal of the 'of' creates floating abstractions.
 
 Apply this to identity:
 

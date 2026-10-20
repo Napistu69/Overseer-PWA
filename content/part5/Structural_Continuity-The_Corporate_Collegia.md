@@ -7,9 +7,9 @@ description: "The vessel. Roman collegia => medieval guilds => joint-stock compa
 
 ---
 
-## The Void Center Statement
+## The Void Center Stance
 
-Threads 1-8 traced the anatomy of GOLIATH from institutional template to identity weaponization. Thread 9 addresses the vessel that carries the blood.
+Every thread before this one traced the anatomy of GOLIATH from institutional template to identity weaponization. Structural Continuity addresses the vessel that carries the blood.
 
 The corporation is not merely a legal entity. It is the modern incarnation of the Roman collegium, the medieval guild, the secret society network. It is a structure designed for continuity across regime change. It is a person without a body that can be imprisoned, a citizen without a country that can be taxed, a network without a shadow that cannot be hunted.
 
@@ -21,7 +21,7 @@ What looks like commerce is actually statecraft without borders.
 
 ### The Ancient Template
 
-Thread 1 established the six-point architecture. Thread 9 establishes the vehicle continuity.
+Foundational Blueprint established the six-point architecture. Structural Continuity establishes the vehicle continuity.
 
 | Era | Vehicle | Function | Continuity Mechanism |
 | :--- | :--- | :--- | :--- |
@@ -76,7 +76,7 @@ This is not illegal insider trading. This is structural alignment. The individua
 
 ### The "No Shadow" Thesis
 
-Thread 1 introduced the no-shadow thesis. Thread 9 applies it to corporate governance.
+Foundational Blueprint introduced the no-shadow thesis. Structural Continuity applies it to corporate governance.
 
 Conspiracy implies hidden meetings. Alignment emerges from transparent structures. We do not need to prove smoky rooms exist. We only need to show that the architecture makes coordination inevitable without them.
 
@@ -97,7 +97,7 @@ The shadow is not absent. It is fractal. You cannot point to the shadow because 
 
 ### The Capture Chain
 
-Thread 6 addressed the Black Lotus's pharmaceutical arm. Thread 9 addresses the agricultural-agribusiness arm. The two are nodes in the same collegium.
+The Black Lotus addressed its pharmaceutical arm. Structural Continuity addresses the agricultural-agribusiness arm. The two are nodes in the same collegium.
 
 | Stage | Action | Beneficiary (Collegia Node) |
 | :--- | :--- | :--- |

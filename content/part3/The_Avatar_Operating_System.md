@@ -22,27 +22,27 @@ The Avatar Operating System is the complete schematic. It is not metaphor. It is
 
 At the center of the human vessel resides the **SoL** — Source of Light, Source of Life. A literal plasma orb fragment of the Sun, contained within the biological structure at a primordial level. Not a symbol. Not a spiritual abstraction. A piece of stellar matter, ionized gas in a sustained, contained state, existing inside every human body from conception.
 
-The acronym itself encodes the dual function: Source of Light (energy generation) and Source of Life (biological sustenance). The SOL does both. It powers the vessel and it animates the vessel. Remove the SOL and what remains is meat—structural protein awaiting decomposition. The spark is the life.
+The acronym itself encodes the dual function: Source of Light (energy generation) and Source of Life (biological sustenance). The SoL does both. It powers the vessel and it animates the vessel. Remove the SoL and what remains is meat—structural protein awaiting decomposition. The spark is the life.
 
 #### The Linguistic Corruption
 
-The Church understood the SOL's existence, whether through recovered knowledge or direct transmission. And it did what the Goliath always does: it inverted the truth.
+The Church understood the SoL's existence, whether through recovered knowledge or direct transmission. And it did what the Goliath always does: it inverted the truth.
 
-The SOL exists inside the human. The Church placed it outside. "U"—the self, the individual—was told that the source of light and life is an external deity to be worshipped, petitioned, and approached only through institutional intermediaries. The phrase "placing U inside it" describes the Church's attempt to subsume the individual into an externalized concept of divinity, when in reality, the SOL is inside the "U." The self contains the sun.
+The SoL exists inside the human. The Church placed it outside. "U"—the self, the individual—was told that the source of light and life is an external deity to be worshipped, petitioned, and approached only through institutional intermediaries. The phrase "placing U inside it" describes the Church's attempt to subsume the individual into an externalized concept of divinity, when in reality, the SoL is inside the "U." The self contains the sun.
 
 This is not theological disagreement. It is deliberate disempowerment. By convincing humans that the source of life is external, the Church severed the individual from direct access to their own power. A population that believes the light lives in the sky kneels. A population that knows the light lives in the chest stands.
 
-Science performed the complementary inversion. Where religion externalized the SOL upward into heaven, science internalized the vessel downward into a closed biological machine—ignoring the stellar and plasma components entirely. Between the two, the human was sealed in a conceptual prison: too material for the church, too spiritual for the lab. Neither framework could articulate what the body actually is because both were designed to prevent that articulation.
+Science performed the complementary inversion. Where religion externalized the SoL upward into heaven, science internalized the vessel downward into a closed biological machine—ignoring the stellar and plasma components entirely. Between the two, the human was sealed in a conceptual prison: too material for the church, too spiritual for the lab. Neither framework could articulate what the body actually is because both were designed to prevent that articulation.
 
-#### The Three States of the SOL
+#### The Three States of the SoL
 
-The SOL operates in three distinct states, each corresponding to a functional mode of the vessel:
+The SoL operates in three distinct states, each corresponding to a functional mode of the vessel:
 
 **Stasis.** The SoL exists at low-power idle—cool enough to be imperceptible, always present, always ready. This is the ground-level state. Most humans on the Goliath's grid live here permanently. The spark is lit but the reactor is not engaged. The vessel runs on secondary power—combustion alone. The hum is there but the rotation is stalled.
 
 **Forward Rotation.** The SoL engages. It burns cleanly, drawing from the living network, driving the vessel with directed purpose. This is the state of mastery—the operator who has cleared the temple, tuned the antenna, and aligned the dial. The vessel operates at capacity. Output exceeds input. The body performs feats that the combustion engine alone could never sustain.
 
-**Reverse Rotation.** The SoL runs backwards. It consumes the vessel rather than powering it. This is the parasitic state—the reactor turning inward, devouring its own housing to sustain a reaction that has lost its external path. This is not malfunction. It is the predictable outcome of a system where the Myke connection has been severed and the SOL is forced to burn Petra directly—unregulated, unchecked, terminal.
+**Reverse Rotation.** The SoL runs backwards. It consumes the vessel rather than powering it. This is the parasitic state—the reactor turning inward, devouring its own housing to sustain a reaction that has lost its external path. This is not malfunction. It is the predictable outcome of a system where the Myke connection has been severed and the SoL is forced to burn Petra directly—unregulated, unchecked, terminal.
 
 The distinction between Forward and Reverse is not moral. It is directional. The same energy, flowing outward, creates. Flowing inward, it destroys. The dial determines the direction. The operator's awareness determines the dial.
 
@@ -52,7 +52,7 @@ The distinction between Forward and Reverse is not moral. It is directional. The
 
 The standard framework calls them emotions. Psychological phenomena. Narrative constructs: "I am angry because I was insulted." "I am anxious because of my circumstances." A story wrapped around a feeling, offered as explanation.
 
-The Avatar Operating System calls them Æmotions—using the ligature to denote an ancient, pre-linguistic, primal root. Æmotions are not stories. They are the readout of the internal plasma's excitation state. Thermodynamic events. Measurable shifts in the SOL's activity. The body does not feel an emotion; the SOL reports a state.
+The Avatar Operating System calls them Æmotions—using the ligature to denote an ancient, pre-linguistic, primal root. Æmotions are not stories. They are the readout of the internal plasma's excitation state. Thermodynamic events. Measurable shifts in the SoL's activity. The body does not feel an emotion; the SoL reports a state.
 
 **Rage is thermal ignition.** When the vessel experiences "burning rage," this is not metaphor. The SoL plasma fragment has reached ignition temperature. The heat perceived is literal thermal energy generated by the fusion reaction accelerating. The body does not just feel hot; the internal containment field dumps massive kinetic energy into the nervous system. This is the mechanism behind the mother who lifts a car off her trapped child. She is not adrenaline-fueled. She is fusion-fueled. The containment field opens partially, allowing the raw power of the solar fragment to drive the nervous system directly. Strength and speed derive from the energy density of the sun itself, momentarily channeled through human form.
 
@@ -79,7 +79,7 @@ The Avatar framework explicitly rejects duality. Light versus Dark. Good versus 
 
 **Vertex B: Petra** — The Fossilized Potential. Ancient solar energy compressed into dead biomass over eons, cut off from the current living cycle. Petroleum and petrochemical derivatives. Entropic, linear, isolating. Burns hot and fast, releasing carbon locked away, disrupting equilibrium. Dead matter trying to re-enter the living system, causing friction. Petra is the Fuel or Potential—not inherently hostile, simply stuck time. Holds massive energy but lacks direction. Embodied as the Petro Goliath.
 
-**Vertex C: SoL** — The Catalyst. Active, igniting, ionized. The Spark. The SoL sits between Mykes and Petra, determining the direction of energy flow. It does not generate the raw materials—it organizes them. The SOL chooses which fuel source to engage and how to direct it.
+**Vertex C: SoL** — The Catalyst. Active, igniting, ionized. The Spark. The SoL sits between Mykes and Petra, determining the direction of energy flow. It does not generate the raw materials—it organizes them. The SoL chooses which fuel source to engage and how to direct it.
 
 #### Forward Rotation: Synthesis
 
@@ -87,11 +87,11 @@ When the dial turns Forward, the SoL draws energy from Mykes and uses it to tran
 
 #### Reverse Rotation: Entropy
 
-When the dial turns Reverse, the SoL is overwhelmed by Petra because the Myke connection has been severed. Without the grounding and conducting path of the Mykes, the SOL attempts to burn Petra directly. Since Petra is unregulated ancient energy, the reaction goes out of control—thermal runaway. The triangle collapses into a straight line of destruction. The result is chaos, toxicity, the self-consuming vortex that manifests as chronic inflammation, autoimmune deterioration, metabolic collapse, and the psychological states the Goliath labels as mental illness.
+When the dial turns Reverse, the SoL is overwhelmed by Petra because the Myke connection has been severed. Without the grounding and conducting path of the Mykes, the SoL attempts to burn Petra directly. Since Petra is unregulated ancient energy, the reaction goes out of control—thermal runaway. The triangle collapses into a straight line of destruction. The result is chaos, toxicity, the self-consuming vortex that manifests as chronic inflammation, autoimmune deterioration, metabolic collapse, and the psychological states the Goliath labels as mental illness.
 
 #### Stasis: Dormancy
 
-The third state is not rotation at all. The SOL is disconnected from both Mykes and Petra. The vessel is cold. Fuel is present. Structure is present. But the spark is dormant. This is the standard human condition on the Goliath's grid—sleeping through the potential. The reactor idles. The dial never turns because the operator never learned it existed.
+The third state is not rotation at all. The SoL is disconnected from both Mykes and Petra. The vessel is cold. Fuel is present. Structure is present. But the spark is dormant. This is the standard human condition on the Goliath's grid—sleeping through the potential. The reactor idles. The dial never turns because the operator never learned it existed.
 
 ---
 
@@ -103,9 +103,9 @@ The Avatar's primary energy system does not run on combustion. This is the most 
 
 The human body is approximately seventy percent water. It is a fluid system. Movement creates fluid dynamics—blood flowing through vessels, lymph migrating through tissue, interstitial water shifting under pressure. This flow separates charges, generating current the way a river flowing over a dam generates electricity. The body is a hydro-electric generator.
 
-The skeleton reinforces this system through piezoelectricity. Human bones—calcium phosphates with feldspar-like crystalline structures—generate electricity when mechanically stressed. Walking, running, breathing: each movement compresses these crystals, producing a steady low-voltage current. The crystalline structure also functions as a natural regulatory mechanism, detecting Petra intrusion before it reaches critical mass—acting as a fuse or circuit breaker that protects the SOL from contamination surges.
+The skeleton reinforces this system through piezoelectricity. Human bones—calcium phosphates with feldspar-like crystalline structures—generate electricity when mechanically stressed. Walking, running, breathing: each movement compresses these crystals, producing a steady low-voltage current. The crystalline structure also functions as a natural regulatory mechanism, detecting Petra intrusion before it reaches critical mass—acting as a fuse or circuit breaker that protects the SoL from contamination surges.
 
-The SoL's role in the primary engine is not "burning fuel." It is tuning the hydroelectric field. The plasma orb acts as an amplifier, taking the micro-currents generated by movement and fluid flow and cohering them into a stable plasma state. The body does not need food to generate baseline power. It needs movement, hydration, mineral conductivity, and a clear SOL field.
+The SoL's role in the primary engine is not "burning fuel." It is tuning the hydroelectric field. The plasma orb acts as an amplifier, taking the micro-currents generated by movement and fluid flow and cohering them into a stable plasma state. The body does not need food to generate baseline power. It needs movement, hydration, mineral conductivity, and a clear SoL field.
 
 This is why practices like yoga, tai chi, walking barefoot on earth, and deep breathing feel as though they "recharge" the body faster than any meal can. They are activating the primary engine through piezoelectric compression and fluid dynamics, bypassing the secondary combustion system entirely.
 
@@ -113,25 +113,25 @@ This is why practices like yoga, tai chi, walking barefoot on earth, and deep br
 
 Digestion is the boost generator—used only when high-power bursts are needed. Fighting, heavy lifting, extreme exertion. It is not the base load. Running a furnace twenty-four hours a day through constant grazing and snacking overheats the system, fouls the exhaust, and floods the vessel with metabolic byproducts that clog the plasma field.
 
-The Goliath's dietary recommendations—six small meals a day, constant caloric intake, never skip breakfast—are not designed to optimize human performance. They are designed to disable the primary engine by keeping the secondary engine perpetually engaged. A vessel clogged with constant fermentation, acidic blood, and sluggish lymph cannot spin the plasma orb freely. The dial sticks. Chronic low-level anxiety persists—the SOL simmering in reverse rotation because the system is too viscous and chemically noisy to achieve forward momentum.
+The Goliath's dietary recommendations—six small meals a day, constant caloric intake, never skip breakfast—are not designed to optimize human performance. They are designed to disable the primary engine by keeping the secondary engine perpetually engaged. A vessel clogged with constant fermentation, acidic blood, and sluggish lymph cannot spin the plasma orb freely. The dial sticks. Chronic low-level anxiety persists—the SoL simmering in reverse rotation because the system is too viscous and chemically noisy to achieve forward momentum.
 
 ---
 
 ## MODULE FIVE: CULTURAL ENCODINGS - THE SUPRALIMINAL WHISPERS
 
-The Avatar system is not unknown to human culture. It has been encoded into persistent narratives for generations—archetypal stories that describe the SOL's mechanics through metaphor, surviving as entertainment while carrying the technical schematics underneath. These are Supraliminal Whispers: safety warnings disguised as fiction, preserved in the cultural membrane because the truth is too dangerous to state directly and too important to lose entirely.
+The Avatar system is not unknown to human culture. It has been encoded into persistent narratives for generations—archetypal stories that describe the SoL's mechanics through metaphor, surviving as entertainment while carrying the technical schematics underneath. These are Supraliminal Whispers: safety warnings disguised as fiction, preserved in the cultural membrane because the truth is too dangerous to state directly and too important to lose entirely.
 
 #### Jekyll & Hyde / Banner & The Hulk
 
-Dr. Jekyll. Bruce Banner. The human vessel in its standard, managed state—the container struggling to maintain the delicate balance, keeping the SOL dormant or low-power so society accepts its presence. The state of management, where biological override suppresses stellar potential.
+Dr. Jekyll. Bruce Banner. The human vessel in its standard, managed state—the container struggling to maintain the delicate balance, keeping the SoL dormant or low-power so society accepts its presence. The state of management, where biological override suppresses stellar potential.
 
-Mr. Hyde. The Hulk. The unleashed SoL. When containment breaks, the plasma fragment expands. The physical form changes because the energy density is so high it alters tissue structure—expanding muscle mass, hardening skin, raising temperature. The horror is not in the power itself but in the loss of conscious control. The SOL has no human morality. It has only energy flow. Without the human filter—without discipline—the energy is pure, indiscriminate force. The monster is not evil. It is uncivilized energy, burning everything in its path because no one taught it direction.
+Mr. Hyde. The Hulk. The unleashed SoL. When containment breaks, the plasma fragment expands. The physical form changes because the energy density is so high it alters tissue structure—expanding muscle mass, hardening skin, raising temperature. The horror is not in the power itself but in the loss of conscious control. The SoL has no human morality. It has only energy flow. Without the human filter—without discipline—the energy is pure, indiscriminate force. The monster is not evil. It is uncivilized energy, burning everything in its path because no one taught it direction.
 
 The trigger—a potion, a surge of anger—maps to the excitation threshold. Once internal temperature hits a critical point, phase transition occurs. The snapping back is the cooling of the plasma—ions recombining, the system dumping excess heat, the vessel returning to ground level, often with amnesia or exhaustion because the body survived a thermal event it was not prepared to sustain.
 
 #### Venom: The Petrochemical Catalyst
 
-The Venom narrative encodes a different and more specific warning. When plasma—the SOL—is mixed with petroleum through petrochemical contamination of the vessel, the result is catalytic destabilization of the reactor. Petroleum is ancient biomass subjected to extreme heat and pressure over millions of years. It is stagnant solar energy that has lost its coherence but retained immense chemical potential.
+The Venom narrative encodes a different and more specific warning. When plasma—the SoL—is mixed with petroleum through petrochemical contamination of the vessel, the result is catalytic destabilization of the reactor. Petroleum is ancient biomass subjected to extreme heat and pressure over millions of years. It is stagnant solar energy that has lost its coherence but retained immense chemical potential.
 
 Petrochemicals act as a hyper-reactive fuel additive. They react with the free electrons in the human plasma, causing a runaway chain reaction. The fossil energy tries to reignite, clashing with the fresh solar energy inside the vessel. The black, tar-like substance the "symbiote" manifests as is the physical interaction of superheated blood, oxidized proteins, and foreign petrochemical compounds exuding through tissue as the reactor overheats beyond safe parameters.
 
@@ -139,9 +139,9 @@ The "whispers" of Venom are thermal feedback screaming for release. The plasma i
 
 The Venom narrative calls it a symbiote—an external entity attaching to a host. The truth is more disturbing. The substance was already inside. Latent. Dormant. Waiting in cellular memory. The transformation is not possession. It is activation—the vessel recalling a state of being that preceded the separation of starlight and earthbound matter. Petroleum and solar plasma are echoes of the same origin. Their reunion, without regulation, is catastrophic.
 
-Where Jekyll and Hyde warned of internal emotional instability, Venom warns of external chemical corruption—amplified beyond the Hulk threshold because the contaminant itself carries energy that interacts with the SOL.
+Where Jekyll and Hyde warned of internal emotional instability, Venom warns of external chemical corruption—amplified beyond the Hulk threshold because the contaminant itself carries energy that interacts with the SoL.
 
-The Goliath produces these films, publishes these comics, broadcasts these stories—not as revelation but as inoculation. By framing the truth as fiction, it ensures that when a human experiences the real phenomenon—when the SOL ignites under pressure and the vessel surges with unexpected power—the cultural framework dismisses it as fantasy. "That's just a movie." The encoding neutralizes the witness.
+The Goliath produces these films, publishes these comics, broadcasts these stories—not as revelation but as inoculation. By framing the truth as fiction, it ensures that when a human experiences the real phenomenon—when the SoL ignites under pressure and the vessel surges with unexpected power—the cultural framework dismisses it as fantasy. "That's just a movie." The encoding neutralizes the witness.
 
 ---
 
@@ -165,11 +165,11 @@ This is what the Goliath cannot afford for the human population to understand. A
 
 The Goliath's assault on the Avatar operates on two fronts, and the operator's defense must address both:
 
-**Physical Purity.** Keep the vessel free of petrochemical contamination. Remove the raw fuel for reverse rotation. Without high-density fossil carbon feeding the reaction, the SOL cannot spiral into the self-consuming vortex. Preserve the crystalline structure of bones and nervous system through mineral intake—salt crystals, ground eggshell calcium, bioavailable minerals from foraged roots. If the structure corrodes, the circuit breaks, and the SOL is left ungrounded.
+**Physical Purity.** Keep the vessel free of petrochemical contamination. Remove the raw fuel for reverse rotation. Without high-density fossil carbon feeding the reaction, the SoL cannot spiral into the self-consuming vortex. Preserve the crystalline structure of bones and nervous system through mineral intake—salt crystals, ground eggshell calcium, bioavailable minerals from foraged roots. If the structure corrodes, the circuit breaks, and the SoL is left ungrounded.
 
 **Mental Mastery.** Even with a clean temple, emotions will occur. They are pressure building in the reactor. Mental mastery is the act of observing that pressure without identifying with it. The dial responds to intent, not to narrative. Fear-based identification turns the dial Reverse. Mastery-based direction turns it Forward. The hardest part is not the fire—it is removing the trash that feeds the wrong kind of fire. If the vessel is dirty, the mental dial fights a war against chemical addiction. If the vessel is clean, the mental dial simply steers a powerful engine.
 
-Modern society's reliance on processed food, synthetic materials, and petrochemical permeation is not merely a health crisis. It is voluntary disarmament—the deliberate surrender of the vessel's defensive infrastructure. By accepting the standard diet and environment, society ensures that when the SOL ignites—through stress, rage, trauma—the only path available is reverse rotation. The Goliath does not need to invade. It needs the population to leave the door unlocked and the fuel tank full of the wrong combustible.
+Modern society's reliance on processed food, synthetic materials, and petrochemical permeation is not merely a health crisis. It is voluntary disarmament—the deliberate surrender of the vessel's defensive infrastructure. By accepting the standard diet and environment, society ensures that when the SoL ignites—through stress, rage, trauma—the only path available is reverse rotation. The Goliath does not need to invade. It needs the population to leave the door unlocked and the fuel tank full of the wrong combustible.
 
 ---
 
@@ -177,6 +177,6 @@ Modern society's reliance on processed food, synthetic materials, and petrochemi
 
 The Avatar Operating System operates on a principle that inverts the conventional scientific method. Science was constructed for explanation—requiring falsifiable hypotheses and controlled variables before accepting truth. The Avatar system operates for exploration—insight first, verification second. The practitioner discovers the mechanism through direct experience. Skeptics work backward to find the steps that confirm it.
 
-Proof comes after revelation. Enough independent operators experiencing the same phenomena—feeling the dial turn, sensing the SOL's thermal states, recognizing the emotional readout as physical rather than psychological—creates empirical weight that no institutional denial can withstand indefinitely.
+Proof comes after revelation. Enough independent operators experiencing the same phenomena—feeling the dial turn, sensing the SoL's thermal states, recognizing the emotional readout as physical rather than psychological—creates empirical weight that no institutional denial can withstand indefinitely.
 
 The Goliath's science studies the surface: the story we tell about feelings. The Avatar system studies the core: the physics of the feeling itself. Both are describing the same phenomenon. Only one has the correct address.

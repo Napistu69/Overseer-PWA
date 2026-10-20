@@ -94,7 +94,7 @@ Why does a patched, unassigned, local flaw earn a thread in this Part? Because o
 
 Set the Meta Web beside Muse and the arc of the whole Part snaps into focus.
 
-The Meta Web (Thread 11) built the aggregation: Pixel, SDK, OAuth, shadow profiles — consent harvested through third parties, collection that did not need you to agree. Muse completes the sequence by flipping the last switch: from collecting **about** you to acting **as** you. The progression across the layers reads as a single sentence:
+The Meta Web built the aggregation: Pixel, SDK, OAuth, shadow profiles — consent harvested through third parties, collection that did not need you to agree. Muse completes the sequence by flipping the last switch: from collecting **about** you to acting **as** you. The progression across the layers reads as a single sentence:
 
 The cookie watched. The Pixel tracked. The SDK harvested. The algorithm shaped. The recommendation engine curated. The Meta Web aggregated. **Muse acts.**
 

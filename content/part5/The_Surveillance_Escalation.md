@@ -7,11 +7,11 @@ description: "The fence. Cookies => Y2K threshold => 9/11 => Facebook => smartph
 
 ---
 
-## The Void Center Statement
+## The Void Center Stance
 
-Threads 1-9 mapped GOLIATH's institutional skeleton, petroleum blood, financial nerves, military muscle, pharmaceutical tendrils, epistemological capture, identity weaponization, and corporate vessel. Each system extracts, controls, and perpetuates.
+Every thread before this one mapped GOLIATH's institutional skeleton, petroleum blood, financial nerves, military muscle, pharmaceutical tendrils, epistemological capture, identity weaponization, and corporate vessel. Each system extracts, controls, and perpetuates.
 
-Thread 10 follows the fence.
+The Surveillance Escalation follows the fence.
 
 GOLIATH's extraction architecture requires monitoring. You cannot tax what you cannot track. You cannot prescribe what you cannot diagnose. You cannot divide what you cannot categorize. You cannot predict what you cannot observe.
 
@@ -186,7 +186,7 @@ The collar tracks the willing. The fence catches the rest.
 
 ### The Bait-and-Switch
 
-Thread 5 introduced the Silicon Hive-Mind Tuner as the successor to the petrodollar. Thread 10 extends the analysis into the surveillance dimension.
+Petrodollar Engine introduced the Silicon Hive-Mind Tuner as the successor to the petrodollar. The Surveillance Escalation extends the analysis into the surveillance dimension.
 
 The petrodollar required military enforcement of oil lanes. The Silicon Tuner requires surveillance enforcement of access. The transition:
 

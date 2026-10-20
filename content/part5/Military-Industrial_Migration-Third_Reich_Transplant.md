@@ -7,11 +7,11 @@ description: "The muscle. IG Farben was 'dissolved' at Nuremberg and reconstitut
 
 ---
 
-## The Void Center Statement
+## The Void Center Stance
 
-Threads 1-3 traced the architecture's lineage: institutional template (temple to Fortune 500), blood supply (petroleum and APOC), nervous system (Federal Reserve and 1913 acts). Each revealed the same pattern: structure persists while vehicles change.
+Every thread before this one traced the architecture's lineage: institutional template (temple to Fortune 500), blood supply (petroleum and APOC), nervous system (Federal Reserve and 1913 acts). Each revealed the same pattern: structure persists while vehicles change.
 
-Thread 4 follows the transplant.
+Military-Industrial Migration follows the transplant.
 
 The Third Reich did not end in 1945. It migrated. The institutions, the personnel, the intellectual property, the financial networks, the strategic doctrines—all were preserved, repackaged, and absorbed into the postwar American security architecture.
 
@@ -280,7 +280,7 @@ Acknowledging the threat meant acknowledging the system could not be dismantled 
 
 ## The Third Reich Transplant Complete
 
-### Summary of Thread 4
+### Summary of Military-Industrial Migration
 
 The Third Reich did not end in 1945. It dispersed:
 
@@ -291,7 +291,7 @@ The Third Reich did not end in 1945. It dispersed:
 - Military doctrine transferred to U.S. armed forces
 - Bureaucratic permanency established through National Security Act (1947-1949)
 
-The Six-Point Architecture from Thread 1 holds:
+The Six-Point Architecture from Foundational Blueprint holds:
 
 - 📍 Hierarchy => DoD unified command structure
 - 📍 Extraction => Permanent defense budget + contractor profits
@@ -302,7 +302,7 @@ The Six-Point Architecture from Thread 1 holds:
 
 ### The Sixty-Year Cycle Completes
 
-Thread 2 noted the D'Arcy Concession (1901) to Eisenhower Warning (1961) as a sixty-year cycle. Thread 4 adds the military-industrial dimension:
+The Petro-Military Genesis noted the D'Arcy Concession (1901) to Eisenhower Warning (1961) as a sixty-year cycle. Military-Industrial Migration adds the military-industrial dimension:
 
 - 📍 **1901** = D'Arcy signs concession (oil genesis)
 - 📍 **1913** = Three legislative acts (financial genesis)
