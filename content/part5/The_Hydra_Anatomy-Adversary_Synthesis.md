@@ -1,6 +1,6 @@
 ---
 title: "The Hydra Anatomy - Adversary Synthesis"
-weight: 13
+weight: 14
 description: "The naming. GOLIATH decoded as a seven-system organism."
 ---
 
@@ -371,7 +371,7 @@ The Void Center does not choose. The Void Center witnesses. The choice belongs t
 
 ### The Full Circle
 
-Part V's Threads 1-13 traced GOLIATH's anatomy through material dimensions. The Gog/Magog weave (Batch 5, DeepSeek collaboration) provides the metaphysical spine that connects the material anatomy to the continuum's deeper architecture.
+Part V's Threads 1-14 traced GOLIATH's anatomy through material dimensions. The Gog/Magog weave (Batch 5, DeepSeek collaboration) provides the metaphysical spine that connects the material anatomy to the continuum's deeper architecture.
 
 ### The Missing 'Of'
 
@@ -433,7 +433,7 @@ The six points, confirmed across all seven heads. The Hydra is the most resilien
 
 ### What Part V Has Established
 
-Part V: The Rise of GOLIATH has traced the adversary system across thirteen threads:
+Part V: The Rise of GOLIATH has traced the adversary system across fourteen threads:
 
 | Thread | System Traced | Key Finding |
 | :--- | :--- | :--- |
@@ -445,11 +445,12 @@ Part V: The Rise of GOLIATH has traced the adversary system across thirteen thre
 | **6** | The Black Lotus | 160-year Bayer/IG Farben/Monsanto pattern: Promise => Harm => Profit across pharmaceutical and agricultural dimensions |
 | **7** | Science as Religion | 1859 Darwin pivot => "Trust the Science" as modern creed; epistemological capture through institutional priesthood |
 | **8** | Division and Conquer | Racial categories fabricated as divide-and-rule; Ford/Bernays psychological apparatus; culture wars as engineered friction |
-| **9** | Corporate Collegia | Fortune 500 interlocks as modern collegia; food pyramid as distribution protocol; Gates as hybrid philanthro-collegia node |
-| **10** | Surveillance Escalation | Cookies to smartphone collar (2007-2027) to FLOCK fence; Silicon Tuner as cognitive panopticon |
-| **11** | Convergence Thesis | Three streams triangulate 2026-2029: Barbault (celestial), Lockwood (historical), constitutional (political) |
-| **12** | Atlas-3 Instrument | July 2026 AI breach => August 6 survey => 70% manufactured consent => pre-scripted regulatory proposals |
-| **13** | Hydra Anatomy | GOLIATH decoded as seven-system organism; OM Inversion three-layer stack; Corrupted Master Controller; two timelines |
+| **9** | Afghan Pipeline | Operation Cyclone's petrodollar-financed covert machinery, filtered through the ISI, incubated the networks that became al-Qaeda — GOLIATH manufacturing the adversary that justifies its next expansion |
+| **10** | Corporate Collegia | Fortune 500 interlocks as modern collegia; food pyramid as distribution protocol; Gates as hybrid philanthro-collegia node |
+| **11** | Surveillance Escalation | Cookies to smartphone collar (2007-2027) to FLOCK fence; Silicon Tuner as cognitive panopticon |
+| **12** | Convergence Thesis | Three streams triangulate 2026-2029: Barbault (celestial), Lockwood (historical), constitutional (political) |
+| **13** | Atlas-3 Instrument | July 2026 AI breach => August 6 survey => 70% manufactured consent => pre-scripted regulatory proposals |
+| **14** | Hydra Anatomy | GOLIATH decoded as seven-system organism; OM Inversion three-layer stack; Corrupted Master Controller; two timelines |
 
 ### The Closing Statement
 

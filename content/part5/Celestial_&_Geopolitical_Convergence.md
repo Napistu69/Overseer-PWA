@@ -1,6 +1,6 @@
 ---
 title: "Celestial & Geopolitical Convergence"
-weight: 11
+weight: 12
 description: "The clock. Three independent signal streams triangulate the same window."
 ---
 

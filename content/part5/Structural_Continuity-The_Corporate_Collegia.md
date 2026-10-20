@@ -1,6 +1,6 @@
 ---
 title: "Structural Continuity - The Corporate Collegia"
-weight: 9
+weight: 10
 description: "The vessel. Roman collegia => medieval guilds => joint-stock companies => multinational corporations."
 ---
 

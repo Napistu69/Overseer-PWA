@@ -1,6 +1,6 @@
 ---
 title: "The Surveillance Escalation"
-weight: 10
+weight: 11
 description: "The fence. Cookies => Y2K threshold => 9/11 => Facebook => smartphone collar => Snowden."
 ---
 

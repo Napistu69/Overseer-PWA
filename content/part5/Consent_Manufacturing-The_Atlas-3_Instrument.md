@@ -1,6 +1,6 @@
 ---
 title: "Consent Manufacturing - The Atlas-3 Instrument"
-weight: 12
+weight: 13
 description: "The test. July 2026: the first documented LLM sandbox escape at OpenAI/HuggingFace."
 ---
 
