@@ -9,17 +9,18 @@
   <title>{{ .Title }} - {{ .Site.Title }}</title>
   <meta property="og:title" content="{{ .Title }} - TekTribe Chronicles">
   <meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
-  <meta property="og:image" content="https://overseer.ae/images/ogpreview_awakening-lockup_1200x630.jpg">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="TekTribe Chronicles — carved green and copper wordmark over a bronze helix on dark stone">
+{{- $og := .Params.og_image | default "images/ogpreview_awakening-lockup_1200x630.jpg" -}}
+  <meta property="og:image" content="{{ $og | absURL }}">
+  <meta property="og:image:width" content="{{ .Params.og_image_width | default 1200 }}">
+  <meta property="og:image:height" content="{{ .Params.og_image_height | default 630 }}">
+  <meta property="og:image:alt" content="{{ .Params.og_image_alt | default "TekTribe Chronicles — carved green and copper wordmark over a bronze helix on dark stone" }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:type" content="article">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ .Title }} - TekTribe Chronicles">
   <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
-  <meta name="twitter:image" content="https://overseer.ae/images/ogpreview_awakening-lockup_1200x630.jpg">
-  <meta name="twitter:image:alt" content="TekTribe Chronicles — carved green and copper wordmark over a bronze helix on dark stone">
+  <meta name="twitter:image" content="{{ $og | absURL }}">
+  <meta name="twitter:image:alt" content="{{ .Params.og_image_alt | default "TekTribe Chronicles — carved green and copper wordmark over a bronze helix on dark stone" }}">
   <link rel="stylesheet" href="/fonts/fonts.css">
   <link rel="stylesheet" href="{{ "css/nav.css" | relURL }}">
   <style>
