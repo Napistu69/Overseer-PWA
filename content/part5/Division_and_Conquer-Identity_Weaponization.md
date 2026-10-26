@@ -229,4 +229,6 @@ SoLidarity does not require erasing differences. It requires recognizing differe
 | **Protection** | Laws protect categories (civil rights) while ignoring extraction (economic rights) |
 | **Survival** | Category systems survive regime changes (slavery => Jim Crow => prison-industrial complex) |
 
-* The biological droids repair the Mesh. Identity fragmentation tears the Mesh.
+* A category is a cage with your name painted on it. A lineage is a root. GOLIATH sells the first and starves the second.
+
+Which of your identities did you choose, and which one were you sold?
