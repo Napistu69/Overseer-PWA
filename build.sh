@@ -12,6 +12,19 @@ echo "╚═══════════════════════�
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$SCRIPT_DIR"
 
+# Step 0a: Wipe the previous output. Hugo writes into public/ WITHOUT removing what it no
+# longer generates, so a page whose source was renamed or deleted survives every local
+# build. Measured: a dead Part 4 slug (plan-demic_manipulation, renamed to
+# Pandemic_Era_Exploitation) was still sitting in public/ and inflated the page census
+# 70 vs 68 for a whole week of local measurements. A build that does not start from an
+# empty tree is not reproducible, and un-reproducible output makes every census folklore.
+echo ""
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "Step 0a: Clean Output"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+rm -rf public
+echo "  wiped public/"
+
 # Step 0: Retired-terminology gate (fail fast, before anything is generated)
 echo ""
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
